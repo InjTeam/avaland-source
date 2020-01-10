@@ -1,6 +1,6 @@
-# Сурси AvaLanc 
+# Сурси AvaLand
 
-ладно серверсайд тут копия avacity так что сказать нечего!
+ладно, серверсайд тут паста avacity так что сказать нечего!
 но тут всякие файлики swf приколюшки
 
 # Установка и запуск
@@ -26,6 +26,8 @@ $ python3 update.py
 
 # немножко о создателе сервера
 
+надеюсь, сделаете вывод =)
+
 ![Screenshot](https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/1.jpg)
 ![Screenshot](https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/2.jpg)
 ![Screenshot](https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/3.jpg)
@@ -33,7 +35,6 @@ $ python3 update.py
 ![Screenshot](https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/5.jpg)
 ![Screenshot](https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/6.jpg)
 ![Screenshot](https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/7.jpg)
-
 
 https://vk.com/club100629296 ([архив](https://web.archive.org/web/20200110034850/https://vk.com/club100629296))
 https://vk.com/club107640828 ([архив](https://web.archive.org/web/20200110035240/https://vk.com/club107640828))
