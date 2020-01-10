@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="sd19ParticipationDialogTitle">День рождения Аватарии!</message>
+        <message key="sd19ParticipationDialogDescription">Аватарии 8 лет! Время исполнения желаний! Пройди акцию и получи подарки и костюм Жабульки!</message>
+        <message key="sd19ParticipationOkButtonTitle">Начать</message>
+
+        <message key="sd19StickerDialogMessage">Мы дарим тебе костюм Жабульки! Продолжай собирать монеты и исполнять новые желания!</message>
+        <message key="sd19WallGetStickerMessage">Аватарии 8 лет! Мне подарили костюм Жабульки! Заходи в Аватарию за подарками и призами! :link:</message>
+
+        <message key="sd19ProgressDialogTitle">Загадай желание!</message>
+        <message key="sd19ProgressDialogWishesTitle">Выбери предметы</message>
+        <message key="sd19ProgressDialogWishesDescription">Бросай монеты в фонтан. Получай их убираясь у соседей и в профессии дворник и даря VIP за золото (Награда - 150, 225 и 375 монет).</message>
+        <message key="sd19ProgressDialogTrophyDescription">Собирай монеты, и получи костюм Жабульки!</message>
+        <message key="sd19ProgressDialogStartButtonTitle">Начать</message>
+        <message key="sd19ProgressDialogCloseButtonMessage">Ты уверен, что хочешь закрыть это окно?</message>
+
+        <message key="sd19SelectWishDialogTitle">Выбери предмет</message>
+
+        <message key="sd19ConvertCoinsMessage">Поздравляем! Теперь ты можешь потратить :coinsCount: монет на свои желания</message>
+        <message key="sd19WishCompleteMessage">Поздравляем! Твое желание сбылось!</message>
+
+        <message key="sd19FountainHintMessage">Брось монетки в фонтан чтобы твои желания сбылись</message>
+        <message key="sd19FriendHelpMessage">Здесь ты можешь получить счастливые монетки</message>
+
+        <message key="sd19TotalTitle">Всего&#13;:value:</message>
+
+        <message key="sd19NpcMessage1">Привет! Соскучились по мне?</message>
+        <message key="sd19NpcMessage2">Как вам новые желания? Что выбрали?</message>
+        <message key="sd19NpcMessage3">Скорее копи на костюм! Сделаем селфи в одинаковых нарядах!</message>
+        <message key="sd19NpcMessage4">Аватария, с Днем Рождения!</message>
+        <message key="sd19NpcMessage5">Хочу создать клуб. Кто вступит в клуб Жабульки?</message>
+        <message key="sd19NpcMessage6">Иннокентий передает всем привет!</message>
+        <message key="sd19NpcMessage7">Кто хочет сделать селфи?</message>
+        <message key="sd19NpcMessage8">Бросай монетки в фонтан! Тебя ждут новые крутые подарки!</message>
+        <message key="sd19NpcMessage9">Уже празднуешь день рождения Аватарии?</message>
+        <message key="sd19NpcMessage10">Тебе бы подошла прическа Жабульки. Советую зайти в салон красоты!</message>
+
+        <message key="sd19BuyPhotoDescription">Хочешь сделать крутую фотку с Жабулькой?</message>
+        <message key="sd19MakePhotoDialogDescription">Это твое фото с Жабулькой! Здорово, правда? Опубликуй ее на своей страничке или сохрани на компьютер.</message>
+        <message key="sd19PublishPhotoDescription">#аватария #селфи #Жабулька #:nick: Поспеши сделать уникальное фото с Жабулькой! Она ждет тебя на улице у фонтана желаний! :link:</message>
+
+        <message key="sd19NpcName">Жабулька</message>
+    </locale>
+</dictionary>

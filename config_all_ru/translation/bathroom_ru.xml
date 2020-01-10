@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    
+    <locale name="ru">
+        
+        <!-- BATH -->
+        
+        <message key="bath1Title">Эмалевая ванна</message>
+        <message key="bath2Title">Ванна со шторкой</message>
+        <message key="bath3Title">Голубая ванна</message>
+        <message key="bath4Title">Мраморная ванна</message>
+        <message key="bath6Title">Изящная ванна</message>
+        <message key="bath7Title">Розовая ванна</message>
+        <message key="bath8Title">Душевая кабина</message>
+        
+        <message key="jacuzzi1Title">Джакузи</message>
+        <message key="jacuzzi2Title">Джакузи с телевизором</message>
+        <message key="jacuzzi3Title">Мини-джакузи</message>
+        <message key="jacuzzi4Title">Мраморная джакузи</message>
+        <message key="jacuzzi5Title">Большая джакузи</message>
+        <message key="bathMayaLabel">Джакузи "Майя"</message>
+        <message key="jacuzziDescription">Пузырьки и теплая водичка... Приобрети джакузи и устраивай вечеринки в купальниках!</message>
+        
+        <!-- FURNITURE -->
+        
+        <message key="bathroomCase1Title">Тумбочка для полотенец</message>
+        <message key="bathroomCase2Title">Тумбочка для полотенец</message>
+        <message key="bathroomChair1Title">Стул в ванную</message>
+        <message key="bowl1Title">Мраморная раковина</message>
+        <message key="bowl2Title">Мраморная раковина светлая</message>
+        <message key="bowl3Title">Розовая раковина</message>
+        <message key="bowl4Title">Белая раковина</message>
+        <message key="mirror1Title">Зеркало с полкой</message>
+        <message key="mirror2Title">Зеркало из мрамора</message>
+        <message key="bathroomChair2Title">Стул в ванную</message>
+        <message key="toilet1Title">Мраморный унитаз</message>
+        <message key="toilet2Title">Унитаз</message>
+        <message key="toilet3Title">Розовый унитаз</message>
+        <message key="toilet4Title">Унитаз</message>
+        <message key="toilet5Title">Унитаз</message>
+        <message key="mirrorMayaLabel">Зеркало "Майя"</message>
+        <message key="toiletMayaLabel">Унитаз "Майя"</message>
+        
+        <!-- DECOR -->
+        
+        <message key="bathroomDecor1Title">Набор аксессуаров</message>
+        <message key="bathroomDecor2Title">Набор элитных аксессуаров</message>
+        <message key="bathroomDecor3Title">Диспенсер из золота</message>
+        <message key="bathroomDecor4Title">Шампунь</message>
+        <message key="bathroomDecor5Title">Полотенцесушитель</message>
+        <message key="bathroomDecor6Title">Контейнер для мусора</message>
+        <message key="bathroomDecor7Title">Стакан с принадлежностями</message>
+        <message key="bathroomDecor8Title">Флакончик с кремом</message>
+        
+    </locale>
+    
+</dictionary>

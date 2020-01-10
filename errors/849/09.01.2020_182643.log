@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 18:25:01 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:25:01 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {apprnc: {ss: 0, sc: 2, mc: 2, nct: 0, g: 2, brc: 1, pt: 0, rg: 0, mt: 31, brt: 18, rc: 1, et: 34, ec: 1, n: "ДОХЛАЯ", fft: 7, pc: 1, bc: 1, ssc: 1, shc: 1, bt: 0, ht: 129, hc: 7, sh: 0, fat: 0, fac: 1}, uid: "328", clths: {clths: [{tpid: "girlShirt12", clid: null}, {tpid: "girlShoes14", clid: null}, {tpid: "girlPants9", clid: null}]}, ci: {kyktid: null, trid: "freelanceMicrophone", sbid: null, lgt: 0, plcmt: {}, crt: 1134, sbrt: 0, pamns: {amn: []}, shousd: false, gtrfrd: 0, vexp: 1965298000, crst: 0, vsexp: 1965298000, as: null, exp: 85800, vsact: true, lvt: 1578583127, strfrd: 0, vret: 0, lrnt: 0, rtrtm: 0, vfgc: 0, lwts: 0, fexp: 0, ceid: 0, ys: 0, skid: null, actrt: 0, cmid: 0, vip: true, skrt: 0, hrt: 374, dr: true, ysct: 0, bcld: 0, actrp: 0, spp: 0, fak: null, compid: 0, rpt: 0, actrd: 0, tts: null, shcr: true, trcd: 0, gdc: 0, eml: null}, locinfo: {l: "salon_sn1_1", x: 12.73, shlc: true, st: 1, at: "sitItem12", s: "127.0.0.1", pl: "", d: 4, y: 2.31}, mbm: {ac: null, sk: "blackMobileSkin"}, usrinf: {rl: 0}, pf: {pf: {phtghr: {l: 20, tp: "phtghr", pgs: 0}, jntr: {l: 20, tp: "jntr", pgs: 0}, vsgst: {l: 20, tp: "vsgst", pgs: 0}, grdnr: {l: 20, tp: "grdnr", pgs: 0}}}}}]

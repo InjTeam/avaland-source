@@ -1,0 +1,27 @@
+ClientError: Thu Jan 9 21:58:40 GMT+0700 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 21:58:13 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 21:58:13 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 15000, emd: 0, gld: 24921, enrg: 500}}]
+Thu Jan 9 21:58:13 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 21:58:13 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", qnt: 1, pmnt: null}]
+Thu Jan 9 21:58:11 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 21:58:07 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 21:58:07 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 15000, emd: 0, gld: 23421, enrg: 500}}]
+Thu Jan 9 21:58:07 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 21:58:07 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", qnt: 1, pmnt: null}]
+Thu Jan 9 21:58:06 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 21:58:03 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 21:58:03 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 15000, emd: 0, gld: 21921, enrg: 500}}]
+Thu Jan 9 21:58:03 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 21:58:03 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", qnt: 1, pmnt: null}]

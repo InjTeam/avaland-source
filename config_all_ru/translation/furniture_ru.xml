@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    
+    <locale name="ru">
+
+        <!-- TABLE -->
+        <message key="table1Title">Стеклянный столик</message>
+        <message key="table2Title">Деревянный столик</message>
+        <message key="table3Title">Деревянный стол</message>
+        <message key="table4Title">Круглый стеклянный стол</message>
+        <message key="table5Title">Подставка из стекла</message>
+        <message key="table6Title">Тумбочка из дерева</message>
+        <message key="table7Title">Подставка под TV</message>
+        <message key="table8Title">Столик прикроватный</message>
+        <message key="table9Title">Столик для драгоценностей</message>
+        <message key="table10Title">Столик журнальный</message>
+        <message key="table11Title">Подставка "Холостяк"</message>
+        <message key="table12Title">Стол "Холостяк"</message>
+        <message key="table13Title">Столик журнальный "Холостяк"</message>
+        <message key="table14Title">Стол офисный</message>
+        <message key="table15Title">Стол резной</message>
+        <message key="table16Title">Стол офисный</message>
+        <message key="computerTable1Title">Компьютерный стол</message>
+        <message key="computerTable2Title">Столик для ноутбука</message>
+        <message key="computerTable3Title">Компьютерный стол</message>
+        <message key="shelfDVDGray1Title">Подставка для DVD</message>
+        <message key="tableArtdecoSmallTitle">Низкий столик art-deco</message>
+        <message key="tableArtdeco1Title">Cтол art-deco</message>
+        <message key="halloweenTable1Title">Cтол Halloween</message>
+        <message key="weddingTable1Title">Большой стол для гостей</message>
+        <message key="weddingTable2Title">Стол жениха и невесты</message>
+        <message key="weddingTable3Title">Стол жениха и невесты</message>
+        <message key="weddingTable4Title">Стол для свадебного торта</message>
+        <message key="weddingTable5Title">Стол для свадебного торта</message>
+        <message key="weddingTable6Title">Шикарный стол для гостей</message>
+        <message key="manTable1Title">Подставка стеклянная</message>
+        <message key="manTable2Title">Подставка стеклянная низкая</message>
+        <message key="violensTable1Title">Столик с подвесками</message>
+        <message key="awardTable1Title">Столик для наград</message>
+        <message key="awardTable2Title">Мраморный столик для наград</message>
+        <message key="awardTable3Title">Широкий столик для наград</message>
+        <message key="awardTable4Title">VIP-стол для наград</message>
+        <message key="vipTable1Title">Стол для кабинета</message>
+        <message key="schoolTableTitle">Стол учителя</message>
+
+        <!-- BED -->
+        <message key="bed1Title">Кровать односпальная</message>
+        <message key="bed2Title">Кровать позолоченная</message>
+        <message key="bed3Title">Кровать деревянная</message>
+        <message key="bed4Title">Кровать деревянная</message>
+        <message key="bed5Title">Кровать резная</message>
+        <message key="bed6Title">Кровать двуспальная</message>
+        <message key="bed7Title">Кровать "Холостяк"</message>
+        <message key="bedArtdeko1Title">Кровать art-deco</message>
+        <message key="bedVip1Title">Кровать "L.O.V.E."</message>
+        <message key="bedVip2Title">Кровать "Царское ложе"</message>
+        <message key="bedVip3Title">Кровать "Нежная фиалка"</message>
+
+        <!-- CHAIR -->
+        <message key="chair1Title">Стул деревянный</message>
+        <message key="chair2Title">Стул деревянный</message>
+        <message key="chair3Title">Стул деревянный</message>
+        <message key="chair4Title">Стул деревянный</message>
+        <message key="chair5Title">Стул</message>
+        <message key="chair6Title">Кресло "Холостяк"</message>
+        <message key="chair7Title">Стул барный "Холостяк"</message>
+        <message key="chair8Title">Стул с пуфом "Холостяк"</message>
+        <message key="chair9Title">Барный стул</message>
+        <message key="chair10Title">Стул "Нежная фиалка"</message>
+        <message key="chair11Title">Пуфик "Царское ложе"</message>
+        <message key="chair12Title">Пуфик "Нежная фиалка"</message>
+        <message key="chair13Title">Кресло для кабинета</message>
+        <message key="chair14Title">Кресло кожаное</message>
+        <message key="chair15Title">Кресло резное</message>
+        <message key="chair16Title">Кресло кожаное</message>
+        <message key="chair17Title">Кресло резное</message>
+        <message key="computerChair1Title">Стул компьютерный</message>
+        <message key="computerChair2Title">Кресло компьютерное</message>
+        <message key="computerChair3Title">Удобное компьютерное кресло</message>
+        <message key="artDecoChair1Title">Стул art-deco</message>
+        <message key="paddedStool1Title">Пуф art-deco</message>
+        <message key="halloweenChair1Title">Стул Halloween</message>
+        <message key="halloweenChair2Title">Стул Halloween</message>
+        <message key="halloweenChair3Title">Стул Halloween</message>
+        <message key="halloweenChair4Title">Стул Halloween</message>
+        <message key="weddingChairTitle">Свадебный стул</message>
+        <message key="schoolChair1Title">Стул учителя</message>
+        <message key="schoolChair2Title">Школьная парта</message>
+
+        <!--GAMER ROOM-->
+        <message key="gmrRmCollectionLabel">Стример</message>
+        <message key="gamerChairTitle">Кресло "Стример"</message>
+        <message key="gamerNightstandTitle">Комод "Стример"</message>
+        <message key="gamerTableTitle">Стол "Стример"</message>
+
+        <!-- ARMCHAIR -->
+        <message key="armchair1Title">Кресло резное</message>
+        <message key="armchair2Title">Кресло кожаное</message>
+        <message key="armchair3Title">Кресло в стиле hi-tech</message>
+        <message key="armchair4Title">Кресло красное</message>
+        <message key="armchair5Title">Кресло розовое</message>
+        <message key="armchair6Title">Кресло синее</message>
+        <message key="armchair7Title">Кресло кожаное</message>
+        <message key="armchair8Title">Кресло красное</message>
+        <message key="armchair9Title">Кресло оранжевое</message>
+        <message key="armchair10Title">Кресло кожаное</message>
+        <message key="armchair11Title">Кресло кожаное</message>
+        <message key="armchair12Title">Кресло кожаное</message>
+        <message key="armchair13Title">Кресло</message>
+        <message key="armchair14Title">Кресло</message>
+        <message key="armchairArtdeco1Title">Кресло art-deco</message>
+
+        <!-- VIP -->
+        <message key="armchairVip1Title">Кресло-ракушка</message>
+        <message key="armchairVip2Title">Кресло-сердце</message>
+        <message key="armchairVip3Title">Кресло "Царское ложе"</message>
+
+        <!-- SOFA -->
+        <message key="sofa1Title">Белый диван</message>
+        <message key="sofa2Title">Синий диван</message>
+        <message key="sofa3Title">Полосатый диван</message>
+        <message key="sofa4Title">Оранжевый диван</message>
+        <message key="sofa5Title">Диван в стиле hi-tech</message>
+        <message key="sofa6Title">Диван красный</message>
+        <message key="sofa7Title">Диван синий гобеленовый</message>
+        <message key="sofa8Title">Диван золотистый</message>
+        <message key="sofa9Title">Диван кожаный</message>
+        <message key="sofa10Title">Диван розовый</message>
+        <message key="sofa11Title">Диван кожаный</message>
+        <message key="sofa12Title">Диван красный</message>
+        <message key="sofa13Title">Диван оранжевый</message>
+        <message key="sofa14Title">Диван кожаный</message>
+        <message key="sofa15Title">Диван кожаный</message>
+        <message key="sofa16Title">Диван кожаный</message>
+        <message key="sofa17Title">Диван</message>
+        <message key="sofa18Title">Диван</message>
+        <message key="sofa19Title">Пуфик "Холостяк"</message>
+        <message key="sofa20Title">Диван "Холостяк"</message>
+        <message key="sofaArtdeco1Title">Диван art-deco</message>
+        <message key="sofaHalloween1Title">Софа Halloween</message>
+        <message key="sofaHalloween2Title">Софа Halloween</message>
+        <message key="sofaHalloween3Title">Софа Тыква</message>
+        <message key="sofaVip1Title">Софа, Англия, XVIII век</message>
+        <message key="sofaVip2Title">Софа "Highway"</message>
+        <message key="sofaVip3Title">Софа "Нежная фиалка"</message>
+        <message key="sofaVip4Title">Софа "Рождество"</message>
+
+        <!-- WARDROBE -->
+        <message key="furnitureMisc2Title">Вещевой шкаф</message>
+        <message key="wardrobeForgetTitle">Позолоченный вещевой шкаф</message>
+        <message key="wardrobeNarrowTitle">Узкий вещевой шкаф</message>
+        <message key="wardrobeWindowTitle">Просторный шкаф</message>
+
+        <!-- COMODO -->
+		<message key="caseRoseLongTitle">Резной шкаф из дерева</message>
+        <message key="caseForgetLowTitle">Позолоченный комод</message>
+        <message key="caseForgetMirrorTitle">Позолоченное трюмо</message>
+        <message key="caseRoseLowTitle">Резной комод из дерева</message>
+        <message key="caseRoseMirrorTitle">Резное трюмо из дерева</message>
+        <message key="caseArtdecoLongTitle">Витрина art-deco</message>
+        <message key="caseArtdecoNarrowTitle">Витрина узкая art-deco</message>
+        <message key="caseArtdecoMiddleTitle">Комод узкий art-deco</message>
+        <message key="caseArtdecoLowTitle">Комод art-deco</message>
+        <message key="caseBachelorWoodTitle">Витрина "Холостяк"</message>
+        <message key="caseViolent1Title">Комод</message>
+        <message key="caseBachelorTitle">Тумба "Холостяк"</message>
+        <message key="caseHalloween1Title">Шкаф Halloween</message>
+        <message key="caseHalloween2Title">Шкаф Halloween</message>
+
+        <!-- BAR -->
+        <message key="furnitureMisc1Title">Барная стойка</message>
+        <message key="bar1Title">Барная стойка "Холостяк"</message>
+
+        <!-- WATERFALL -->
+        <message key="waterfall1Title">Фонтан "Лагуна"</message>
+        <message key="waterfall2Title">Фонтан с водопадом</message>
+        <message key="waterfall3Title">Фонтан "Воздушный замок"</message>
+        <message key="waterfall4Title">Фонтан "Полная чаша"</message>
+        <message key="waterfall5Title">Фонтан "Дракон"</message>
+
+        <!-- WALL -->
+        <message key="furnitureWall1Title">Шкаф для документов</message>
+        <message key="furnitureWall2Title">Большой книжный шкаф</message>
+        <message key="furnitureWall3Title">Стенка</message>
+        <message key="furnitureWall4Title">Книжный шкаф</message>
+
+        <!--PIANO-->
+        <message key="pianoDescription">За роялем ты сможешь исполнить лучшие классические произведения не только самостоятельно, но и в компании своих друзей!</message>
+
+        <!-- COLLECTIONS -->
+        <message key="furnitureCollectionsLabel">Коллекции</message>
+        <!--<message key="saleCollection1Label">Распродажа</message>-->
+        <message key="vipCollection1Label">VIP</message>
+        <message key="artDecoCollection1Label">Art-deco</message>
+        <message key="halloweenCollection1Label">Halloween</message>
+        <message key="bachelorCollectionLabel">Холостяк</message>
+        <message key="newYearCollection1Label">Новый год</message>
+        <message key="cabinetCollection1Label">Кабинет</message>
+        <message key="schoolCollectionLabel">Школа</message>
+        <message key="newCollectionLabel">Новинки</message>
+        <message key="amusimentCollectionLabel">Удивительное</message>
+
+        <!-- NEW FURNITURE SETS:
+                COUNTRY, BEACH, ALIEN, JAPAN,
+                ARTNOUVEAU, MAYA, PRINCESS -->
+        <message key="tableArtNouveauTitle">Стол "Модерн"</message>
+        <message key="sofaCountryTitle">Софа "Кантри"</message>
+        <message key="sofaBeachTitle">Софа "Из морских глубин"</message>
+		<message key="sofaPrincessLabel">Диван "Принцесса"</message>
+		<message key="loungeMayaLabel">Лежак "Майя"</message>
+        <message key="chairAlien1Title">Стул "Далекие звезды"</message>
+        <message key="chairAlien2Title">Стул "Млечный путь"</message>
+        <message key="chairAlien3Title">Стул "Неосфера"</message>
+        <message key="chairBeachTitle">Стул "Жемчужный"</message>
+        <message key="tableJapanTitle">Столик "Япония"</message>
+        <message key="tableAlienTitle">Стол "Пришельцы"</message>
+        <message key="tableCountryTitle">Столик резной "Кантри"</message>
+        <message key="tableBeachTitle">Столик "Морская звезда"</message>
+        <message key="bedJapanTitle">Кровать "Япония"</message>
+        <message key="bedAlienTitle">Кровать "Пришельцы"</message>
+        <message key="bedBeachTitle">Пляжный лежак</message>
+		<message key="bedPrincessLabel">Кроватка принцессы</message>
+        <message key="caseCountryTitle">Шкаф "Кантри"</message>
+		<message key="casePrincessTitle">Комод "Принцесса"</message>
+        <message key="caseMayaLabel">Комод "Майя"</message>
+		<message key="armchairPrincessBrownLabel">Кресло принцессы</message>
+        <message key="armchairPrincessGreenLabel">Кресло принцессы</message>
+        <message key="artnouveauCollectionLabel">Модерн</message>
+        <message key="japanCollectionLabel">Япония</message>
+        <message key="alienCollectionLabel">Пришельцы</message>
+        <message key="beachCollectionLabel">Пляж</message>
+        <message key="princessCollectionLabel">Принцесса</message>
+        <message key="countryCollectionLabel">Кантри</message>
+        <message key="mayaCollection1Label">Майя</message>
+        <message key="dzo14Collection">Бункер</message>
+        <message key="blackRoseLabel">Чёрная Роза</message>
+
+        <!-- NY 2014 EVENT ITEMS -->
+        <message key="armchairNY14Title">Ледяной трон</message>
+        <message key="chairNY14Title">Ледяной пуфик</message>
+
+        <!-- SV14 -->
+        <message key="lovemeterSV14Title">Остров Ангелов</message>
+        <message key="lovemeterCategory">Остров Ангелов</message>
+        <message key="chairSV14Title">Пуфик "Поднебесье"</message>
+        <message key="tableSV14Title">Столик "Поднебесье"</message>
+
+        <!-- NYROOF -->
+        <message key="nyrfCollection">Небоскреб</message>
+        <message key="chairNYRoofLabel">Кресло "Небоскреб"</message>
+        <message key="loungeNYRoofLabel">Лежак "Небоскреб"</message>
+        <message key="tableNYRoofLabel">Столик "Небоскреб"</message>
+
+        <!-- SV15 -->
+        <message key="sofaSV15Label">Скамейка "Аллея любви"</message>
+        <message key="predictionPavilionSV15Title">Беседка "Аллея любви"</message>
+
+        <!-- CONAN -->
+        <message key="throneConanLabel">Трон короля варваров</message>
+        <message key="conanCollection">Варвар</message>
+
+        <!-- DIROL -->
+        <message key="dirol15WardrobeDirolTitle">Шкаф Dirol</message>
+
+        <!-- GARDENER GIFT -->
+        <message key="chrGrdGft">Стул "Садовник"</message>
+        <message key="sfGrdnrGft">Софа "Садовник"</message>
+        <message key="tblGrdnrGft">Стол "Садовник"</message>
+        <message key="wrdGrdnrGft">Книжный шкаф "Садовник"</message>
+
+        <!-- TROPICAL BEDROOM -->
+        <message key="chrTrBthLabel">Пуфик «Тропики»</message>
+        <message key="tblTrBthLabel">Стол «Тропики»</message>
+        <message key="bdTrBthLabel">Кровать «Тропики»</message>
+        <message key="tropicalBedroom">Тропики</message>
+
+        <!-- HOSPITAL -->
+        <message key="hsptlLbl">Больница</message>
+        <message key="bdHsptl">Больничная койка</message>
+        <message key="nsHsptl">Больничная тумбочка</message>
+
+        <!-- BLACK ROSE -->
+
+        <message key="sfBlkRsLabel">Диван «Чёрная Роза»</message>
+        <message key="armchrBlkRsLabel">Кресло «Чёрная Роза»</message>
+        <message key="tblBlkRsLabel">Стол «Чёрная Роза»</message>
+        <message key="bdBlkRsLabel">Кровать «Чёрная Роза»</message>
+
+        <!--SUPER HERO-->
+        <message key="superHeroCollectionLabel">Супергерои</message>
+        <message key="shWllLabel">Стены "Супергерои"</message>
+        <message key="shDrLabel">Дверь "Супергерои"</message>
+        <message key="shFlrLabel">Пол "Супергерои"</message>
+        <message key="shWdwLabel">Панорамное окно "Супергерои"</message>
+        <message key="shWdmmLabel">Костюм супергероини</message>
+        <message key="shMdmmLabel">Костюм супергероя</message>
+        <message key="shJPckLabel">Реактивный ранец</message>
+        <message key="shWldmLabel">Сварочный аппарат</message>
+        <message key="weldingMachineDescription">После каждой операции необходимо подлатать броню. Для этого используй сварочный аппарат.</message>
+        <message key="shGlbLabel">Глобус "Супергерои"</message>
+        <message key="shWplLabel">Рабочий стол "Супергерои"</message>
+        <message key="shChrLabel">Стул "Супергерои"</message>
+
+        <!-- PIRATE ROOM -->
+        <message key="pirateRoomCollectionLabel">Каюта капитана</message>
+        <message key="prtrWllLabel">Стены "Каюта капитана"</message>
+        <message key="prtrDrLabel">Дверь "Каюта капитана"</message>
+        <message key="prtrWdwLabel">Окно "Каюта капитана"</message>
+        <message key="prtrFlrLabel">Пол "Каюта капитана"</message>
+        <message key="prtrCrptLabel">Ковер "Каюта капитана"</message>
+        <message key="prtrMapLabel">Карта архипелага</message>
+        <message key="prtrLmpLabel">Фонарь "Каюта капитана"</message>
+        <message key="prtrCndlLabel">Светильник "Каюта капитана"</message>
+        <message key="prtrBrlLabel">Бочки с порохом</message>
+        <message key="prtrBrlSbrLabel">Бочка с саблей</message>
+        <message key="prtrMrtLabel">Мортира</message>
+        <message key="prtrChstLabel">Сундук с золотом</message>
+        <message key="prtrCoreLabel">Пушечные ядра</message>
+        <message key="prtrBookLabel">Бортовой журнал</message>
+        <message key="prtrArmchrLabel">Кресло капитана</message>
+        <message key="prtrChrLabel">Стул "Каюта капитана"</message>
+        <message key="prtrTblLabel">Стол "Каюта капитана"</message>
+
+        <!-- GYM -->
+        <message key="gymCollectionLabel">Спортивный зал</message>
+        <message key="gymDrLabel">Дверь "Спортивный зал"</message>
+        <message key="gymWdwLabel">Окно "Спортивный зал"</message>
+        <message key="gymFlrLabel">Пол "Спортивный зал"</message>
+        <message key="gymWllLabel">Стены "Спортивный зал"</message>
+        <message key="gymRbrCrptLabel">Резиновый спортивный коврик</message>
+        <message key="gymYgBlkCrptLabel">Черный коврик для йоги</message>
+        <message key="gymYgGrnCrptLabel">Зеленый коврик для йоги</message>
+        <message key="gymBllChrLabel">Гимнастический мяч</message>
+        <message key="gymMtsBedLabel">Спортивные маты</message>
+        <message key="gymPstrLabel">Постер "Спортивный зал"</message>
+        <message key="gymExitLabel">Табличка "Спортивный зал"</message>
+        <message key="gymJmpRpLabel">Скакалки</message>
+        <message key="gymDmblLabel">Гантель "Спортивный зал"</message>
+        <message key="gymSlfDmblLabel">Стойка для гантелей</message>
+        <message key="gymCpbdLabel">Шкаф для спортивного инвентаря</message>
+        <message key="gymPngBagLabel">Боксерская груша</message>
+        <message key="punchingBagDescription">Покажи мастер - класс по боксированию вместе с нашей яркой грушей последней модели!</message>
+        <message key="gymStrLabel">Спортивная лестница</message>
+        <message key="gymBnchSofaLabel">Скамья "Спортивный зал"</message>
+
+
+        <!-- HALLOWEEN 2017 -->
+        <message key="hlwnBlrmCndlLabel">Подсвечник "Vampire"</message>
+        <message key="hlwnBlrmVsLabel">Клетка с розами "Vampire"</message>
+        <message key="hlwnBlrmPnLabel">Рояль "Vampire"</message>
+        <message key="hlwnBlrmLmpLabel">Светильник "Vampire"</message>
+        <message key="hlwnBlrmSfLabel">Софа "Vampire"</message>
+        <message key="hlwnBlrmChrLabel">Банкетка "Vampire"</message>
+
+        <!-- PIANO ROOM -->
+        <message key="pnRmCollectionLabel">Виртуоз</message>
+        <message key="pnRmWllLabel">Стены "Виртуоз"</message>
+        <message key="pnRmDrLabel">Дверь "Виртуоз"</message>
+        <message key="pnRmWdwLabel">Окно "Виртуоз"</message>
+        <message key="pnRmFlrLabel">Пол "Виртуоз"</message>
+        <message key="pnRmChrLabel">Банкетка "Виртуоз"</message>
+        <message key="pnRmTblLabel">Столик "Виртуоз"</message>
+        <message key="pnRmSfLabel">Софа "Виртуоз"</message>
+        <message key="pnRmPnLabel">Рояль</message>
+        <message key="pnRmCsLabel">Комод "Виртуоз"</message>
+        <message key="pnRmVsLabel">Ваза "Виртуоз"</message>
+        <message key="pnRmLmpLabel">Светильник "Виртуоз"</message>
+        <message key="pnRmMetroLabel">Метроном</message>
+        <message key="pnRmViolinLabel">Скрипка</message>
+
+        <!-- SV18 -->
+        <message key="armchairSV18Title">Кресло "Две половинки"</message>
+
+        <!-- HALLOWEEN 2018 -->
+        <message key="hlwn18WndLabel">Окно "Полнолуние"</message>
+
+        <!-- NEW YEAR 2019 -->
+        <message key="ny19ChairLabel">Табурет "Ледяной дворец"</message>
+
+        <message key="glamourHallDr">Дверь "Комната принцессы"</message>
+
+        <!-- RETRO CAFE 2019 -->
+
+        <message key="rtrCfCollectionLabel">Retro Cafe</message>
+        <message key="rtrCfWllLabel">Стены "Retro Cafe"</message>
+        <message key="rtrCfDrLabel">Дверь "Retro Cafe"</message>
+        <message key="rtrCfWndLabel">Окно "Retro Cafe"</message>
+        <message key="rtrCfFlrLabel">Пол "Retro Cafe"</message>
+        <message key="rtrCfMscRcrdLabel">Пластинки "Retro Cafe"</message>
+        <message key="rtrCfNeonLabel">Неоновая вывеска "Retro Cafe"</message>
+        <message key="rtrCfClmnLabel">Светильник "Retro Cafe"</message>
+        <message key="rtrCfOvrhLabel">Навес "Retro Cafe"</message>
+        <message key="barCounterRtrCfTitle">Барная стойка "Retro Cafe"</message>
+        <message key="rndTblRtrCfTitle">Круглый столик "Retro Cafe"</message>
+        <message key="sqrTblRtrCfTitle">Квадратный столик "Retro Cafe"</message>
+        <message key="rtrCfCctlLabel">Коктейль "Retro Cafe"</message>
+        <message key="rtrCfScLabel">Соусы "Retro Cafe"</message>
+        <message key="rtrCfBarChrTitle">Барный стул "Retro Cafe"</message>
+        <message key="rtrCfGrnChrTitle">Стул "Retro Cafe"</message>
+        <message key="rtrCfRdChrTitle">Стул "Retro Cafe"</message>
+        <message key="rtrCfGrnPfTitle">Пуфик "Retro Cafe"</message>
+        <message key="rtrCfRdPfTitle">Пуфик "Retro Cafe"</message>
+        <message key="rtrCfAnglSfLabel">Угловой диван "Retro Cafe"</message>
+        <message key="rtrCfSfLabel">Диван "Retro Cafe"</message>
+        <message key="rtrCfSgnbrdLabel">Вывеска "Retro Cafe"</message>
+        <message key="rtrCfMscMchnLabel">Музыкальный автомат "Retro Cafe"</message>
+        <message key="rtrCfClckOwlLabel">Часы "Retro Cafe"</message>
+        <message key="rtrCfGumMchnLabel">Автомат с жвачками "Retro Cafe"</message>
+
+        <!-- HALLOWEEN 2019 -->
+        <message key="orclCollectionLabel">Провидец</message>
+        <message key="orclPfLabel">Пуфик "Провидец"</message>
+        <message key="orclGrlndLabel">Гирлянда "Провидец"</message>
+        <message key="orclSfLabel">Диван "Провидец"</message>
+        <message key="orclPctrsLabel">Картины "Провидец"</message>
+        <message key="orclSphrLabel">Сфера "Провидец"</message>
+        <message key="orclWrdLabel">Шкаф "Провидец"</message>
+        <message key="orclTblLabel">Стол "Провидец"</message>
+        <message key="hw2019WllLabel">Стена "Провидец"</message>
+        <message key="hw2019DrLabel">Дверь "Провидец"</message>
+        <message key="hw2019WndLabel">Окно "Провидец"</message>
+        <message key="hw2019FlrLabel">Пол "Провидец"</message>
+
+        <message key="drgCvCollectionLabel">Пещера дракона</message>
+        <message key="drgCvBnsLabel">Кости "Пещера дракона"</message>
+        <message key="drgCvChstLabel">Сокровище "Пещера дракона"</message>
+        <message key="drgCvChrLabel">Трон "Пещера дракона"</message>
+        <message key="drgCvTrchLabel">Факел "Пещера дракона"</message>
+        <message key="drgCvFntnLabel">Фонтан "Пещера дракона"</message>
+        <message key="drgCvDrLabel">Дверь "Пещера дракона"</message>
+        <message key="drgCvFlrLabel">Лава "Пещера дракона"</message>
+        <message key="drgCvWllLabel">Каменные стены "Пещера дракона"</message>
+
+        <!-- CLAN MAGIC -->
+        <message key="chrClnMgkLabel">Кресло "Средневековый замок"</message>
+        <message key="stlClnMgkLabel">Пуфик "Средневековый замок"</message>
+        <message key="lngSofaClnMgkLabel">Скамья "Средневековый замок"</message>
+        <message key="tblClnMgkLabel">Стол "Средневековый замок"</message>
+        <message key="flagClnMgkLabel">Герб "Средневековый замок"</message>
+
+        <message key="torchClnMgkLabel">Факел "Средневековый замок"</message>
+        <message key="torchClnMgkDescription">В просторных залах средневекового замка никак не обойтись без дополнительного освещения.</message>
+
+        <message key="tlscpClnMgkLabel">Телескоп "Средневековый замок"</message>
+        <message key="telescopeMagicClanDescription">Первый средневековый телескоп, в который можно наблюдать за соседними землями.</message>
+
+        <message key="dummyClanGlamourLabel">Манекен "Комната принцессы"</message>
+
+        <!-- NEW YEAR 2020 -->
+        <message key="ny20BlkTblLabel">Фуршетный столик</message>
+        <message key="NY20ChrLabel">Стул "Голубой огонёк"</message>
+        <message key="NY20BlTblLabel">Праздничный стол "Голубой огонёк"</message>
+
+        <message key="pdmNY20CollectionLabel">Показ мод</message>
+        <message key="pdmNY20ChrLabel">Стул "Показ мод"</message>
+        <message key="pdmNY20DrLabel">Дверь "Показ мод"</message>
+        <message key="pdmNY20FlrLabel">Пол "Показ мод"</message>
+        <message key="pdmNY20WllLabel">Стены "Показ мод"</message>
+    </locale>
+</dictionary>

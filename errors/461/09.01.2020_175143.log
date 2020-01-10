@@ -1,0 +1,52 @@
+ClientError: Thu Jan 9 17:51:43 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+	at WaterfallFountain_fla::buble_20/timerComplete()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.utils::Timer/tick()
+Thu Jan 9 17:51:43 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WindowPianoRoom.swf, status: 2) 
+Thu Jan 9 17:51:39 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 2000, enrg: 500, gld: 16176, emd: 0}}]
+Thu Jan 9 17:51:37 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "pnRmVs"}}]
+Thu Jan 9 17:51:34 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "pnRmVs", cnt: 1, pind: 1}]
+Thu Jan 9 17:51:32 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/VasePianoRoom.swf, status: 2) 
+Thu Jan 9 17:51:29 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 2000, enrg: 500, gld: 16195, emd: 0}}]
+Thu Jan 9 17:51:28 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "pnRmViolin"}}]
+Thu Jan 9 17:51:21 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "pnRmViolin", cnt: 1, pind: 1}]
+Thu Jan 9 17:51:20 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/ViolinPianoRoom.swf, status: 2) 
+Thu Jan 9 17:51:20 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 2000, enrg: 500, gld: 16210, emd: 0}}]
+Thu Jan 9 17:51:19 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "pnRmDr"}}]
+Thu Jan 9 17:51:16 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 2000, enrg: 500, gld: 16233, emd: 0}}]
+Thu Jan 9 17:51:16 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "pnRmDr", cnt: 1, pind: 1}]
+Thu Jan 9 17:51:15 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/DoorPianoRoom.swf, status: 2) 
+Thu Jan 9 17:51:13 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "pnRmCs"}}]
+Thu Jan 9 17:51:10 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "pnRmCs", cnt: 1, pind: 1}]
+Thu Jan 9 17:51:09 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/CasePianoRoom.swf, status: 2) 
+Thu Jan 9 17:50:57 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 2000, enrg: 500, gld: 16263, emd: 0}}]
+Thu Jan 9 17:50:57 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "pnRmSf"}}]
+Thu Jan 9 17:50:55 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "pnRmSf", cnt: 1, pind: 1}]
+Thu Jan 9 17:50:49 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/TablePianoRoom.swf, status: 2) 
+Thu Jan 9 17:50:41 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 2000, enrg: 500, gld: 16293, emd: 0}}]
+Thu Jan 9 17:50:41 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "dram1"}}]
+Thu Jan 9 17:50:38 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "dram1", cnt: 1, pind: 1}]
+Thu Jan 9 17:50:37 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/DoorPortalElf.swf, status: 2) 
+Thu Jan 9 17:50:25 GMT+0300 2020 [INFO] Server said: 34: ["h.r.rfr", {rm: {nm: "#livingRoom", lev: 1, f: [{lid: 64630427, x: 0, y: 0, z: 0, tpid: "intFlr1", d: 5}, {lid: 70795690, x: 13, y: 0, z: 0, tpid: "pdmNY20Wll", d: 5}, {lid: 44242409, x: 0, y: 6, z: 0, tpid: "pnRmPn", d: 3}, {lid: 70795689, x: 0, y: 0, z: 0, tpid: "pdmNY20Wll", d: 3}, {lid: 4, x: 3, y: 0, z: 0, tpid: "door4", rid: "outside", d: 3}, {lid: 18646917, x: 11, y: 3, z: 0, tpid: "sofaVip1", d: 5}], l: 13, w: 13}}]
+Thu Jan 9 17:50:22 GMT+0300 2020 [INFO] Client said: 34: ["house_461_livingroom", "h.r.rfr", {}]
+Thu Jan 9 17:50:22 GMT+0300 2020 [INFO] Server said: 34: ["frn.save", {hs: {nm: "house", lev: 1, id: "livingroom", f: [{lid: 64630427, x: 0, y: 0, z: 0, tpid: "intFlr1", d: 5}, {lid: 70795690, x: 13, y: 0, z: 0, tpid: "pdmNY20Wll", d: 5}, {lid: 44242409, x: 0, y: 6, z: 0, tpid: "pnRmPn", d: 3}, {lid: 70795689, x: 0, y: 0, z: 0, tpid: "pdmNY20Wll", d: 3}, {lid: 4, x: 3, y: 0, z: 0, tpid: "door4", rid: "outside", d: 3}, {lid: 18646917, x: 11, y: 3, z: 0, tpid: "sofaVip1", d: 5}], l: 13, w: 13}, ci: {bcld: 0, crst: 0, shousd: false, dr: true, crt: 796, skid: null, skrt: 0, kyktid: null, spp: 0, ys: 0, vret: 0, ysct: 0, as: null, rpt: 0, fak: null, strfrd: 0, actrp: 0, vip: true, eml: null, lwts: 0, sbid: null, vsexp: 1965298000, lvt: 1578580951, vsact: true, gtrfrd: 0, actrd: 0, sbrt: 0, trid: null, vexp: 1965298000, lrnt: 0, ceid: 0, hrt: 3363, actrt: 0, lgt: 0, fexp: 0, pamns: {amn: []}, tts: null, gdc: 0, rtrtm: 0, cmid: 0, compid: 0, exp: 85800, shcr: true, vfgc: 0, plcmt: {}, trcd: 0}, inv: {c: {act: {id: "act", it: []}, frn: {id: "frn", it: [{iid: "", c: 1, tid: "sofaVip1"}, {iid: "", c: 1, tid: "sfPrncss"}, {iid: "", c: 1, tid: "sfCtr"}, {iid: "", c: 1, tid: "tblBch1"}, {iid: "", c: 1, tid: "hlwnBlrmSf"}, {iid: "", c: 1, tid: "tblSV14"}, {iid: "", c: 1, tid: "wtrfll4"}, {iid: "", c: 1, tid: "wtrfll3"}, {iid: "", c: 1, tid: "rtrCfWll"}, {iid: "", c: 1, tid: "prtrFlr"}, {iid: "", c: 1, tid: "wall15"}, {iid: "", c: 1, tid: "floor4"}]}, cls: {id: "cls", it: [{iid: "", c: 1, tid: "girlUnderdress2"}, {iid: "", c: 1, tid: "girlTShrtPnd"}, {iid: "", c: 1, tid: "girlUnderdress1"}, {iid: "", c: 1, tid: "girlNY20VKGiftPllvCnd"}, {iid: "", c: 1, tid: "girlShoes14"}, {iid: "", c: 1, tid: "girlPants9"}, {iid: "", c: 1, tid: "girlShirt12"}]}, lt: {id: "lt", it: []}, gm: {id: "gm", it: [{iid: "", c: 1, tid: "blackMobileSkin"}]}}}}]
+Thu Jan 9 17:49:53 GMT+0300 2020 [INFO] Client said: 34: ["house_461_livingroom", "frn.save", {f: [{tpid: "tblBch1", t: 2, oid: 36871281, tm: 1578581362802}, {tpid: "wtrfll4", t: 2, oid: 12240892, tm: 1578581370897}, {x: 11, y: 3, t: 1, oid: 18646917, tm: 1578581383392, tpid: "sofaVip1", d: 5, z: 0}, {tpid: "sfCtr", t: 2, oid: 3830903, tm: 1578581358929}, {tpid: "pdmNY20Wll", t: 0, oid: 70795689, tm: 1578581344376}, {x: 0, y: 6, t: 1, oid: 44242409, tm: 1578581388501, tpid: "pnRmPn", d: 3, z: 0}, {tpid: "intFlr1", t: 0, oid: 64630427, tm: 1578581343757}, {tpid: "tblSV14", t: 2, oid: 60473788, tm: 1578581356804}]}]
+Thu Jan 9 17:49:04 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPodium2020.swf, status: 2) 
+Thu Jan 9 17:49:04 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPodium2020.swf, status: 2) 
+Thu Jan 9 17:49:02 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorPirateRoom.swf, status: 2) 
+Thu Jan 9 17:49:00 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallRetroCafe2019.swf, status: 2) 
+Thu Jan 9 17:49:00 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallRetroCafe2019.swf, status: 2) 
+Thu Jan 9 17:48:57 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorDance.swf?3, status: 2) 
+Thu Jan 9 17:48:50 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/SofaPianoRoom.swf, status: 2) 
+Thu Jan 9 17:48:43 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 2000, enrg: 500, gld: 17093, emd: 0}}]
+Thu Jan 9 17:48:41 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "intFlr1"}}]

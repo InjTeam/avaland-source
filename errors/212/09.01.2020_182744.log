@@ -1,0 +1,8 @@
+ClientError: Thu Jan 9 18:26:35 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-JE::_-0Wu/get clotheId()
+	at _-273::DirolDressHelper/_-2UP()
+	at _-8l::AvatarSelfMenu()
+	at _-1sv::LocationAvatar/getInteractiveMenu()
+	at _-PQ::BaseRoomScreen/checkSelectedObject()
+	at _-PQ::BaseRoomScreen/onViewMouseUp()
+Thu Jan 9 18:26:35 GMT+0300 2020 [INFO] Client said: 34: ["house_212_livingroom", "h.r.u", {uid: "212", x: 1.2, y: 6.02, at: "", d: 7, st: 23}]

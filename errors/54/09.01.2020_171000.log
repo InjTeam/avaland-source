@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 16:05:40 GMT+0200 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 16:05:40 GMT+0200 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {mbm: {sk: "blackMobileSkin", ac: null}, usrinf: {rl: 0}, ci: {lrnt: 0, shcr: true, vsexp: 1965298000, ys: 0, lvt: 1578578278, fak: null, vexp: 1965298000, crst: 0, as: null, ysct: 0, lwts: 0, pamns: {amn: []}, lgt: 0, plcmt: {}, shousd: false, eml: null, gdc: 0, sbrt: 0, actrd: 0, tts: null, sbid: null, actrp: 0, spp: 0, rpt: 0, compid: 0, dr: true, hrt: 224, trid: null, actrt: 0, vip: true, trcd: 0, bcld: 0, kyktid: null, ceid: 0, fexp: 0, crt: 2871, cmid: 0, rtrtm: 0, exp: 85800, skid: null, strfrd: 0, vret: 0, skrt: 0, vfgc: 0, gtrfrd: 0, vsact: true}, clths: {clths: [{tpid: "boyBtsBnny", clid: "17"}, {tpid: "boyPntsOutsrc2", clid: "4"}, {tpid: "boyJcktSport", clid: "4"}, {tpid: "boyShrtCtr5", clid: "17"}]}, locinfo: {l: "couturier_ctr1_1", x: 4, pl: "", at: "", st: 0, s: "127.0.0.1", shlc: true, d: 4, y: 6.31}, apprnc: {et: 1, pt: 0, mc: 3, ss: 0, rc: 1, g: 1, ssc: 1, shc: 1, hc: 25, brt: 16, sh: 0, ec: 1, brc: 29, mt: 13, fac: 1, bt: 0, rg: 0, fat: 0, ht: 60, nct: 0, bc: 1, n: "Макс", fft: 3, pc: 1, sc: 2}, pf: {pf: {vsgst: {tp: "vsgst", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}}}, uid: "38"}}]

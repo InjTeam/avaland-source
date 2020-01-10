@@ -1,0 +1,22 @@
+ClientError: Thu Jan 9 19:22:29 GMT+0500 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 19:22:29 GMT+0500 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "260", usrinf: {rl: 0}, ci: {sbrt: 0, eml: null, exp: 85800, actrp: 0, vip: true, crt: 615, cmid: 0, vsact: true, dr: true, rtrtm: 0, lgt: 0, tts: null, strfrd: 0, compid: 0, actrd: 0, actrt: 0, vret: 0, rpt: 0, bcld: 0, hrt: 224, skrt: 0, lvt: 1578579093, vexp: 1965298000, shousd: false, plcmt: {}, kyktid: null, skid: null, vsexp: 1965298000, as: null, lrnt: 0, vfgc: 0, trid: "freelanceMicrophone", sbid: null, ys: 0, gdc: 0, pamns: {amn: []}, crst: 0, lwts: 0, gtrfrd: 0, shcr: true, ceid: 0, spp: 0, trcd: 0, fak: null, fexp: 0, ysct: 0}, pf: {pf: {jntr: {pgs: 0, tp: "jntr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}}}, mbm: {sk: "blackMobileSkin", ac: null}, clths: {clths: [{tpid: "girlErrHp", clid: null}, {tpid: "girlJcktWnt19Brg", clid: null}, {tpid: "girlGlssYllw", clid: null}, {tpid: "girlStkNY20Slv", clid: null}, {tpid: "girlTShrtWnt19Pnk", clid: null}, {tpid: "girlShrtsLn", clid: null}, {tpid: "wdn15GWtBts", clid: null}]}, apprnc: {hc: 15, pt: 0, ht: 123, brc: 2, fat: 0, bt: 0, g: 2, sc: 1, rc: 1, brt: 24, ec: 10, ssc: 1, nct: 0, shc: 1, pc: 1, et: 37, ss: 3, n: "комфортная", mc: 9, fft: 7, sh: 20, fac: 1, bc: 1, mt: 31, rg: 0}, locinfo: {x: 14.42, s: "127.0.0.1", y: 12.6, l: "salon_sn1_1", pl: "", shlc: true, st: 0, d: 4, at: ""}}}]
+Thu Jan 9 19:22:28 GMT+0500 2020 [INFO] Server said: 16: ["salon_sn1_1", "39"]
+Thu Jan 9 19:22:28 GMT+0500 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {uid: "39", usrinf: {rl: 0}, ci: {sbrt: 0, eml: null, exp: 85800, actrp: 0, vip: true, crt: 71509, cmid: 0, vsact: true, dr: true, rtrtm: 0, lgt: 0, tts: null, strfrd: 0, compid: 0, actrd: 0, actrt: 0, vret: 0, rpt: 0, bcld: 0, hrt: 600374, skrt: 0, lvt: 1578579626, vexp: 1965298000, shousd: false, plcmt: {}, kyktid: null, skid: null, vsexp: 1965298000, as: null, lrnt: 0, vfgc: 0, trid: null, sbid: null, ys: 0, gdc: 0, pamns: {amn: []}, crst: 0, lwts: 0, gtrfrd: 0, shcr: true, ceid: 0, spp: 0, trcd: 0, fak: null, fexp: 0, ysct: 0}, pf: {pf: {jntr: {pgs: 0, tp: "jntr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}}}, mbm: {sk: "blackMobileSkin", ac: null}, clths: {clths: [{tpid: "grlGlsPrfClr", clid: null}, {tpid: "girlBtsAlice", clid: null}, {tpid: "girlJcktNY20Emr", clid: null}, {tpid: "gPslnTop1", clid: null}, {tpid: "girlNY1", clid: null}, {tpid: "grlAprChrStc", clid: null}, {tpid: "girlSktDmn", clid: null}]}, apprnc: {hc: 7, pt: 0, ht: 106, brc: 5, fat: 0, bt: 0, g: 2, sc: 1, rc: 1, brt: 6, ec: 5, ssc: 1, nct: 0, shc: 1, pc: 1, et: 7, ss: 0, n: "овца", mc: 1, fft: 0, sh: 0, fac: 1, bc: 1, mt: 7, rg: 0}, locinfo: {x: -1, s: "127.0.0.1", y: -1, l: "salon_sn1_1", pl: "", shlc: true, st: 0, d: 4, at: ""}}}]
+Thu Jan 9 19:22:28 GMT+0500 2020 [INFO] Server said: 34: ["o.r.u", {uid: "293", x: 9.92, st: 0, d: 0, y: 1.48}]
+Thu Jan 9 19:22:27 GMT+0500 2020 [INFO] Server said: 34: ["o.r.u", {uid: "237", x: 14.42, st: 0, d: 1, y: 12.6}]
+Thu Jan 9 19:22:26 GMT+0500 2020 [INFO] Server said: 34: ["o.r.m", {uid: "293", sx: 9, dy: 1.48, sy: 2, dx: 9.92}]
+Thu Jan 9 19:22:25 GMT+0500 2020 [INFO] Server said: 34: ["o.r.u", {uid: "293", x: 9, y: 2, st: 23, d: 6, at: ""}]
+Thu Jan 9 19:22:23 GMT+0500 2020 [INFO] Server said: 34: ["o.r.m", {uid: "293", sx: 9.8, dy: 2, sy: 1.48, dx: 9}]

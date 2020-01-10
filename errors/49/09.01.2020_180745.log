@@ -1,0 +1,45 @@
+ClientError: Fri Jan 10 01:07:59 GMT+1000 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Fri Jan 10 01:07:32 GMT+1000 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 496, emd: 0, gld: 50646, enrg: 500}}]
+Fri Jan 10 01:07:32 GMT+1000 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "ktnJpnBl"}}]
+Fri Jan 10 01:07:30 GMT+1000 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "ktnJpnBl", cnt: 1}]
+Fri Jan 10 01:07:29 GMT+1000 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/KatanaJapanBlack.swf, status: 2) 
+Fri Jan 10 01:07:14 GMT+1000 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 496, emd: 0, gld: 50691, enrg: 500}}]
+Fri Jan 10 01:07:14 GMT+1000 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "lampJpn"}}]
+Fri Jan 10 01:07:12 GMT+1000 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "lampJpn", cnt: 1}]
+Fri Jan 10 01:07:09 GMT+1000 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/LampJapan.swf, status: 2) 
+Fri Jan 10 01:07:02 GMT+1000 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 496, emd: 0, gld: 50735, enrg: 500}}]
+Fri Jan 10 01:07:02 GMT+1000 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "pctrJpn2"}}]
+Fri Jan 10 01:07:00 GMT+1000 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "pctrJpn2", cnt: 1}]
+Fri Jan 10 01:06:58 GMT+1000 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/PanelJapan.swf, status: 2) 
+Fri Jan 10 01:06:52 GMT+1000 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 496, emd: 0, gld: 50759, enrg: 500}}]
+Fri Jan 10 01:06:52 GMT+1000 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "cptJpn"}}]
+Fri Jan 10 01:06:50 GMT+1000 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "cptJpn", cnt: 1}]
+Fri Jan 10 01:06:49 GMT+1000 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/CarpetJapan.swf, status: 2) 
+Fri Jan 10 01:06:46 GMT+1000 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 496, emd: 0, gld: 50797, enrg: 500}}]
+Fri Jan 10 01:06:45 GMT+1000 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "pctrJpn1"}}]
+Fri Jan 10 01:06:44 GMT+1000 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "pctrJpn1", cnt: 1}]
+Fri Jan 10 01:06:43 GMT+1000 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/PictureJapan.swf, status: 2) 
+Fri Jan 10 01:06:34 GMT+1000 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 496, emd: 0, gld: 50827, enrg: 500}}]
+Fri Jan 10 01:06:34 GMT+1000 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "drJpn1"}}]
+Fri Jan 10 01:06:32 GMT+1000 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "drJpn1", cnt: 1}]
+Fri Jan 10 01:06:29 GMT+1000 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/DoorJapan.swf, status: 2) 
+Fri Jan 10 01:06:14 GMT+1000 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 496, emd: 0, gld: 50872, enrg: 500}}]
+Fri Jan 10 01:06:14 GMT+1000 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "bdJpn1"}}]
+Fri Jan 10 01:06:12 GMT+1000 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "bdJpn1", cnt: 1}]
+Fri Jan 10 01:06:10 GMT+1000 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/BedJapan.swf, status: 2) 
+Fri Jan 10 01:06:01 GMT+1000 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 496, emd: 0, gld: 50935, enrg: 500}}]
+Fri Jan 10 01:06:00 GMT+1000 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "ktnJpnRd"}}]
+Fri Jan 10 01:05:44 GMT+1000 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "ktnJpnRd", cnt: 1}]
+Fri Jan 10 01:05:42 GMT+1000 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/KatanaJapanRed.swf, status: 2) 

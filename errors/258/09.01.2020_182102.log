@@ -1,0 +1,52 @@
+ClientError: Thu Jan 9 18:20:41 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:20:41 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "1068", usrinf: {rl: 0}, ci: {bcld: 0, eml: null, vip: true, gdc: 0, vret: 0, crt: 10, lwts: 0, rpt: 0, as: null, vsact: true, vfgc: 0, strfrd: 0, actrt: 0, cmid: 0, dr: true, skrt: 0, actrd: 0, sbid: null, gtrfrd: 0, shousd: false, spp: 0, plcmt: {}, sbrt: 0, lgt: 0, tts: null, actrp: 0, lrnt: 0, crst: 0, kyktid: null, shcr: true, rtrtm: 0, vsexp: 1965298000, ceid: 0, fak: null, ysct: 0, skid: null, ys: 0, pamns: {amn: []}, trcd: 0, compid: 0, lvt: 1578583037, fexp: 0, exp: 85800, hrt: 174, vexp: 1965298000, trid: null}, clths: {clths: [{tpid: "girlShirt12", clid: null}, {tpid: "girlShoes14", clid: null}, {tpid: "girlPants9", clid: null}]}, locinfo: {pl: "", x: 12.73, s: "127.0.0.1", shlc: true, y: 2.31, at: "sitItem12", d: 4, l: "salon_sn1_1", st: 1}, apprnc: {rg: 1, nct: 0, brc: 29, rc: 11, bt: 0, g: 2, et: 21, sh: 19, shc: 35, fft: 11, ht: 132, hc: 7, fat: 0, ssc: 1, pt: 0, ss: 0, n: "Vaibornsizl", brt: 33, sc: 3, mc: 29, pc: 1, fac: 1, ec: 5, mt: 23, bc: 1}, pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 18:20:39 GMT+0300 2020 [INFO] Client said: 34: ["salon_sn1_1", "o.r.info", {rid: "sn1"}]
+Thu Jan 9 18:20:39 GMT+0300 2020 [INFO] Server said: 34: ["o.gr", {rid: "salon_sn1_1"}]
+Thu Jan 9 18:20:37 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "328", usrinf: {rl: 0}, ci: {bcld: 0, eml: null, vip: true, gdc: 0, vret: 0, crt: 1134, lwts: 0, rpt: 0, as: null, vsact: true, vfgc: 0, strfrd: 0, actrt: 0, cmid: 0, dr: true, skrt: 0, actrd: 0, sbid: null, gtrfrd: 0, shousd: false, spp: 0, plcmt: {}, sbrt: 0, lgt: 0, tts: null, actrp: 0, lrnt: 0, crst: 0, kyktid: null, shcr: true, rtrtm: 0, vsexp: 1965298000, ceid: 0, fak: null, ysct: 0, skid: null, ys: 0, pamns: {amn: []}, trcd: 0, compid: 0, lvt: 1578583127, fexp: 0, exp: 85800, hrt: 374, vexp: 1965298000, trid: null}, clths: {clths: [{tpid: "girlShirt12", clid: null}, {tpid: "girlShoes14", clid: null}, {tpid: "girlPants9", clid: null}]}, locinfo: {pl: "", x: 10.09, s: "127.0.0.1", shlc: true, y: 3.28, at: "", d: 4, l: "salon_sn1_1", st: 23}, apprnc: {rg: 0, nct: 0, brc: 1, rc: 1, bt: 0, g: 2, et: 34, sh: 0, shc: 1, fft: 7, ht: 129, hc: 7, fat: 0, ssc: 1, pt: 0, ss: 0, n: "ДОХЛАЯ", brt: 18, sc: 2, mc: 2, pc: 1, fac: 1, ec: 1, mt: 31, bc: 1}, pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 18:20:35 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {uid: "700", x: 15.5, d: 4, y: 1.5, st: 0}]
+Thu Jan 9 18:20:23 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "1068", usrinf: {rl: 0}, ci: {bcld: 0, eml: null, vip: true, gdc: 0, vret: 0, crt: 10, lwts: 0, rpt: 0, as: null, vsact: true, vfgc: 0, strfrd: 0, actrt: 0, cmid: 0, dr: true, skrt: 0, actrd: 0, sbid: null, gtrfrd: 0, shousd: false, spp: 0, plcmt: {}, sbrt: 0, lgt: 0, tts: null, actrp: 0, lrnt: 0, crst: 0, kyktid: null, shcr: true, rtrtm: 0, vsexp: 1965298000, ceid: 0, fak: null, ysct: 0, skid: null, ys: 0, pamns: {amn: []}, trcd: 0, compid: 0, lvt: 1578583037, fexp: 0, exp: 85800, hrt: 174, vexp: 1965298000, trid: null}, clths: {clths: [{tpid: "girlShirt12", clid: null}, {tpid: "girlShoes14", clid: null}, {tpid: "girlPants9", clid: null}]}, locinfo: {pl: "", x: 12.73, s: "127.0.0.1", shlc: true, y: 2.31, at: "sitItem12", d: 4, l: "salon_sn1_1", st: 1}, apprnc: {rg: 1, nct: 0, brc: 29, rc: 11, bt: 0, g: 2, et: 21, sh: 19, shc: 35, fft: 11, ht: 132, hc: 7, fat: 0, ssc: 1, pt: 0, ss: 0, n: "Vaibornsizl", brt: 33, sc: 3, mc: 29, pc: 1, fac: 1, ec: 5, mt: 23, bc: 1}, pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 18:20:23 GMT+0300 2020 [INFO] Server said: 16: ["salon_sn1_1", "258"]
+Thu Jan 9 18:20:22 GMT+0300 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {uid: "258", usrinf: {rl: 0}, ci: {bcld: 0, eml: null, vip: true, gdc: 0, vret: 0, crt: 244, lwts: 0, rpt: 0, as: null, vsact: true, vfgc: 0, strfrd: 0, actrt: 0, cmid: 0, dr: true, skrt: 0, actrd: 0, sbid: null, gtrfrd: 0, shousd: false, spp: 0, plcmt: {}, sbrt: 0, lgt: 0, tts: null, actrp: 0, lrnt: 0, crst: 0, kyktid: null, shcr: true, rtrtm: 0, vsexp: 1965298000, ceid: 0, fak: null, ysct: 0, skid: null, ys: 0, pamns: {amn: []}, trcd: 0, compid: 0, lvt: 1578582136, fexp: 0, exp: 85800, hrt: 174, vexp: 1965298000, trid: null}, clths: {clths: [{tpid: "boyHlwn34", clid: null}, {tpid: "boyPntsWnt19Yllw", clid: null}, {tpid: "boyBtsHsk", clid: null}]}, locinfo: {pl: "", x: -1, s: "127.0.0.1", shlc: true, y: -1, at: "", d: 4, l: "salon_sn1_1", st: 0}, apprnc: {rg: 0, nct: 0, brc: 5, rc: 1, bt: 0, g: 1, et: 18, sh: 0, shc: 1, fft: 7, ht: 85, hc: 25, fat: 0, ssc: 1, pt: 0, ss: 0, n: ".ЕНОТ.", brt: 6, sc: 2, mc: 3, pc: 1, fac: 1, ec: 30, mt: 23, bc: 1}, pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 18:20:17 GMT+0300 2020 [INFO] Client said: 34: [null, "o.gr", {lid: "salon", gid: "sn1", rid: "1"}]
+Thu Jan 9 18:20:17 GMT+0300 2020 [INFO] Client said: 17: ["park_p1_1"]
+Thu Jan 9 18:20:17 GMT+0300 2020 [INFO] Server said: 34: ["pl.flw", {scs: "success", locinfo: {pl: "", x: -1, s: "127.0.0.1", shlc: true, y: -1, at: null, d: 0, l: "salon_sn1_1", st: 0}}]
+Thu Jan 9 18:20:16 GMT+0300 2020 [INFO] Client said: 34: [null, "pl.flw", {uid: "40"}]
+Thu Jan 9 18:20:15 GMT+0300 2020 [INFO] Server said: 34: ["pl.gos", {onl: {40: true}, clid: "online"}]
+Thu Jan 9 18:20:14 GMT+0300 2020 [INFO] Client said: 34: [null, "pl.gos", {uids: ["40"], clid: "online"}]
+Thu Jan 9 18:20:13 GMT+0300 2020 [INFO] Server said: 17: ["park_p1_1", "40"]
+Thu Jan 9 18:20:12 GMT+0300 2020 [INFO] Server said: 34: ["o.r.lv", {uid: "40"}]
+Thu Jan 9 18:20:04 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {msg: {tp: "chatTextMessage", cid: null, sid: "258", tag: null, msg: "го", mid: null}, rid: "park_p1_1"}]
+Thu Jan 9 18:20:04 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {msg: {tp: "chatTypingMessage", cid: null, sid: "258"}, rid: "park_p1_1"}]
+Thu Jan 9 18:20:03 GMT+0300 2020 [INFO] Client said: 34: [null, "cp.cht.sm", {msg: {tp: "chatTextMessage", cid: null, sid: "258", tag: null, msg: "го", mid: null}, rid: "park_p1_1"}]
+Thu Jan 9 18:20:03 GMT+0300 2020 [INFO] Client said: 34: [null, "cp.cht.sm", {msg: {tp: "chatTypingMessage", cid: null, sid: "258"}, rid: "park_p1_1"}]
+Thu Jan 9 18:19:48 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTextMessage", cid: null, sid: "40", tag: null, msg: "го сомной?", mid: null}}]
+Thu Jan 9 18:19:46 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTypingMessage", cid: null, sid: "40"}}]
+Thu Jan 9 18:19:43 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTypingMessage", cid: null, sid: "40"}}]
+Thu Jan 9 18:19:42 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTextMessage", cid: null, sid: "40", tag: null, msg: "сейчас пйду", mid: null}}]
+Thu Jan 9 18:19:40 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTypingMessage", cid: null, sid: "40"}}]
+Thu Jan 9 18:19:37 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTypingMessage", cid: null, sid: "40"}}]
+Thu Jan 9 18:19:25 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {msg: {tp: "chatTextMessage", cid: null, sid: "258", tag: null, msg: "как хочешь", mid: null}, rid: "park_p1_1"}]
+Thu Jan 9 18:19:25 GMT+0300 2020 [INFO] Client said: 34: [null, "cp.cht.sm", {msg: {tp: "chatTextMessage", cid: null, sid: "258", tag: null, msg: "как хочешь", mid: null}, rid: "park_p1_1"}]
+Thu Jan 9 18:19:24 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {msg: {tp: "chatTypingMessage", cid: null, sid: "258"}, rid: "park_p1_1"}]
+Thu Jan 9 18:19:24 GMT+0300 2020 [INFO] Client said: 34: [null, "cp.cht.sm", {msg: {tp: "chatTypingMessage", cid: null, sid: "258"}, rid: "park_p1_1"}]
+Thu Jan 9 18:19:21 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {msg: {tp: "chatTextMessage", cid: null, sid: "258", tag: null, msg: "хз", mid: null}, rid: "park_p1_1"}]
+Thu Jan 9 18:19:20 GMT+0300 2020 [INFO] Client said: 34: [null, "cp.cht.sm", {msg: {tp: "chatTextMessage", cid: null, sid: "258", tag: null, msg: "хз", mid: null}, rid: "park_p1_1"}]
+Thu Jan 9 18:19:08 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTextMessage", cid: null, sid: "40", tag: null, msg: "или ейчас?", mid: null}}]
+Thu Jan 9 18:19:07 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTypingMessage", cid: null, sid: "40"}}]
+Thu Jan 9 18:19:04 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTypingMessage", cid: null, sid: "40"}}]
+Thu Jan 9 18:19:02 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTextMessage", cid: null, sid: "40", tag: null, msg: "скоро", mid: null}}]
+Thu Jan 9 18:18:57 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTextMessage", cid: null, sid: "40", tag: null, msg: "я поминяю его ", mid: null}}]
+Thu Jan 9 18:18:55 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "park_p1_1", msg: {tp: "chatTypingMessage", cid: null, sid: "40"}}]

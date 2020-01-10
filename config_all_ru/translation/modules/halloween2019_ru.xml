@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="hw19CandyExchangeDialogTitle">Магазинчик ужасов</message>
+        <message key="hw19ClothesCategory">Одежда</message>
+        <message key="hw19BuyItem">Твоя покупка:</message>
+    </locale>
+</dictionary>

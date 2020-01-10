@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <plural key="hw18Pumpkins">
+            <form>тыкву</form>
+            <form>тыквы</form>
+            <form>тыкв</form>
+        </plural>
+
+        <message key="hw18MainNpcName">Джек</message>
+        <message key="hw18ParticipationDialogTitle">Хэллоуин в Аватарии!</message>
+        <message key="hw18ParticipationDialogDescription">Пройди акцию и получи ужасающие костюмы! Чтобы получить костюмы и другие награды, следуй простым правилам: выращивай тыквы в горшках, зарабатывай в профессиях или убираясь у соседей. Используй тыквы в новой игре “Мемори” в парке и выигрывай конфеты. Обменивай конфеты на леденящие душу призы!</message>
+        <message key="hw18ExchangeDialogTitle">Обмен тыкв на подарки!</message>
+        <message key="hw18ExchangeDialogDescription">Не хочешь тратить время на сбор тыкв в профессиях и у соседей? Купи горшок с тыквами прямо сейчас и гарантированно получай :pumpkins: каждые :hours:!</message>
+        <message key="hw18GetAfterTime">Тыква вырастет через :time:</message>
+        <message key="hw18DoubleAwardButtonTitle">удвоить за :count:</message>
+        <message key="hw18DoubleAwardPanelDescription">Я готов удвоить твою награду, но только за дополнительную плату!</message>
+        <message key="hw18BuyCandiesDialogTitle">Покупка конфет</message>
+        <message key="hw18BuyCandiesDialogDescription">Не хватает конфет? Самое время пополнить запасы. Не упусти возможность воспользоваться выгодными предложениями!</message>
+        <message key="hw18CandyExchangeDialogTitle">Обмен сладостей на подарки!</message>
+        <message key="hw18CandyExchangeDialogDescription">Каждую неделю обменивай сладости на уникальные призы!</message>
+        <message key="hw18StageAwardsTitle">Откроется через :date:</message>
+        <message key="hw18HasItemHint">У тебя уже есть этот предмет</message>
+        <message key="hw18CanBuyLaterHint">Будет доступно позднее</message>
+
+        <message key="hw18InfernalRabbitHint">Адский кролик</message>
+        <message key="hw18EvilFlowerHint">Дьявольский цветок</message>
+        <message key="hw18WitchFireplaceHint">Ведьмин очаг</message>
+        <message key="hw18WindowMoonViewHint">Окно "Полнолуние"</message>
+        <message key="hw18BoyCostumeHalloweenSawHint">Билли</message>
+        <message key="hw18BoyCostumeHalloweenPyramidHint">Пирамидоголовый</message>
+        <message key="hw18BoyCostumeHalloweenPennyHint">Оно</message>
+        <message key="hw18BoyCostumeHalloweenJackHint">Джек</message>
+        <message key="hw18GirlCostumeHalloweenSawHint">Саманта</message>
+        <message key="hw18GirlCostumeHalloweenCallHint">Самара</message>
+        <message key="hw18GirlCostumeHalloweenPennyHint">Оно</message>
+        <message key="hw18GirlCostumeHalloweenJillHint">Джен</message>
+        <message key="hw18TrophyHint">Титул "Хэллоуин"</message>
+        <message key="hw18JackStickerPackHint">Стикеры "Джек"</message>
+        <message key="hw18BatChatDecorHint">Мышонок</message>
+        <message key="hw18GhostMobileDecorHint">Привидение</message>
+
+        <message key="hw18NpcMessage1">Тебя ждет много всего интересного! Не трать время зря, а то твои друзья опередят тебя.</message>
+        <message key="hw18NpcMessage2">Хочешь принять участие в мероприятии? Узнай у меня как!</message>
+
+        <message key="hw18NpcMessage3">Сколько тыкв ты сможешь собрать, вот это уже вопрос...</message>
+        <message key="hw18NpcMessage4">С таким запасом тыкв и голову потерять не страшно! </message>
+        <message key="hw18NpcMessage5">Каждая новая голова для меня это новая жизнь, хочешь тоже попробовать?</message>
+        <message key="hw18NpcMessage6">Что тебе больше нравится, тыквы или конфеты?</message>
+        <message key="hw18NpcMessage7">Советую тебе заняться выращиванием тыкв, крайне интересное хобби.</message>
+        <message key="hw18NpcMessage8">Слабо сыграть в игру со мной?</message>
+        <message key="hw18NpcMessage9">Не смотри на мою голову, на самом деле я чертовски умён и крайне скромен.</message>
+        <message key="hw18NpcMessage10">Чем больше я смотрю на тебя, тем больше сомневаюсь, у кого из нас тыква вместо головы.</message>
+        <message key="hw18NpcMessage11">Эх! Даже жалко тебе отдавать такие подарки...</message>
+        <message key="hw18NpcMessage12">Можно проиграть, но главное не сдаваться!</message>
+        <message key="hw18NpcMessage13">Хм, может на себя тоже новый костюмчик примерить, праздник все - таки.</message>
+        <message key="hw18NpcMessage14">Джек - Король Тыкв, прошу обращаться ко мне именно так!</message>
+        <message key="hw18NpcMessage15">Торопись, часики тикают, скоро твои тыквы превратятся в... Хмм...</message>
+        <message key="hw18NpcMessage16">Тебе пора поторопиться, я тут надолго не задержусь! </message>
+        <message key="hw18NpcMessage17">Не забудь обменять все свои накопления на подарки, а то останешься ни с чем.</message>
+    </locale>
+</dictionary>

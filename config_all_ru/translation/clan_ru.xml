@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+
+    <locale name="ru">
+        <!--OLD-->
+        <message key="clanCreateDialogTitle">Создай свой клуб</message>
+        <message key="clanCreateClanHintMessage">Чтобы создать клуб, необходимо достичь :level: уровня</message>
+
+        <message key="clanDialogTitle">Клубы</message>
+        <message key="clanRequestDialogTitle">Вступление в клуб</message>
+        <message key="clanRequestSentMessage">:name: узнает о запросе вступления в клуб через мгновение.</message>
+        <message key="clanRequestReceivedMessage">:name: предлагает вступить в клуб. Хочешь вступить?</message>
+        <message key="clanRequestApprovedMessage">:name: не против вступить в твой клуб.</message>
+        <message key="clanFailMessage">Запрос на вступление в клуб отклонен.</message>
+
+        <gender key="clanConfirmLeaveClanMessage">
+            <form>Ты уверен, что хочешь покинуть клуб?</form>
+            <form>Ты уверена, что хочешь покинуть клуб?</form>
+        </gender>
+
+        <gender key="clanConfirmDismissClanMessage">
+            <form>Ты уверен, что хочешь распустить клуб?</form>
+            <form>Ты уверена, что хочешь распустить клуб?</form>
+        </gender>
+
+        <gender key="clanConfirmKickMemberMessage">
+            <form>Ты уверен, что хочешь выгнать участника ":name:" из клуба?</form>
+            <form>Ты уверена, что хочешь выгнать участника ":name:" из клуба?</form>
+        </gender>
+
+        <message key="clanEmptyInfoMessage">Игрок не состоит в клубе</message>
+
+        <message key="clanNewsTabTitle">Новости</message>
+        <message key="clanMembersTabTitle">Участники</message>
+        <message key="clanRequestsTabTitle">Запросы</message>
+
+        <message key="clanApproveDialogMessage">Хочешь принять игрока в клуб?</message>
+        <message key="clanApprovedMessage">Тебя приняли в клуб :clanTitle:</message>
+
+        <message key="clanJoinErrorMessage">Сначала выйди из клуба ":clanTitle:", а потом вступай в другие</message>
+
+        <gender key="clanAutoJoinUserNewsMessage">
+            <form>:name: вступил в наш клуб</form>
+            <form>:name: вступила в наш клуб</form>
+        </gender>
+
+        <gender key="clanAutoLeaveUserNewsMessage">
+            <form>:name: покинул наш клуб</form>
+            <form>:name: покинула наш клуб</form>
+        </gender>
+
+        <gender key="clanAutoDonateUserNewsMessage">
+            <form>:name: вложил в наш клуб :clanCoin:</form>
+            <form>:name: вложила в наш клуб :clanCoin:</form>
+        </gender>
+
+        <message key="clanAutoClanNewLevelNewsMessage">Ура! Наш клуб перешел на :level: уровень</message>
+
+        <gender key="clanAutoMakeMasterNewsMessage">
+            <form>:name: назначен помощником</form>
+            <form>:name: назначена помощником</form>
+        </gender>
+
+        <gender key="clanAutoRemoveMasterNewsMessage">
+            <form>:name: разжалован из помощников</form>
+            <form>:name: разжалована из помощников</form>
+        </gender>
+
+        <message key="clanCreateNewsDialogTitle">Создание новости</message>
+        <message key="clanCreateNewsDialogMessage">Текст новости:</message>
+        <message key="clanCreateNewsDialogPinned">Закрепленная новость</message>
+        <message key="clanNewsMessageEmptyText">Пожалуйста, введи текст новости</message>
+
+        <message key="clanDonateButtonHint">Вснести пожертвование</message>
+        <message key="clanDonateDialogTitle">Пожертвование в клуб</message>
+        <message key="clanDonateMessage">Пожертвовать золото в клуб</message>
+        <message key="clanDonateThanks">Спасибо за твой вклад в наш клуб!</message>
+
+        <message key="clanUpgradeDialogTitle">Повышение уровня клуба</message>
+        <message key="clanUpgradeTitle">Новый уровень</message>
+        <message key="clanUpgradeButtonHint">Перейти на новый уровень</message>
+        <message key="clanUpgradeGetClanCoinMessage">Чтобы перейти на новый уровень клубу не хватает :clanCoin:. Хочешь внести свое золото?</message>
+        <message key="clanUpgradeCurrentState">Текущее состояние клуба:&#13;активность :activity:, участники :members:, медные :clanCoin:</message>
+        <message key="clanUpgradeNextConditions">Требования для перехода:&#13;активность :activity:, участники :members:, медные :clanCoin:</message>
+        <message key="clanUpgradeNextAward">На следующем уровне:&#13;новых участников +:members:, новых помощников +:masters:, новый цвет лого</message>
+
+        <gender key="clanDailyGiftMessage">
+            <form>Ты получил клубный подарок</form>
+            <form>Ты получила клубный подарок</form>
+        </gender>
+
+        <gender key="clanCreateEventNotification">
+            <form><![CDATA[<p><span class="bold">:name:</span> создал новое клубное событие :event: и ждет тебя.</p>]]></form>
+            <form><![CDATA[<p><span class="bold">:name:</span> создала новое клубное событие :event: и ждет тебя.</p>]]></form>
+        </gender>
+
+        <message key="clanRatingDialogTitle">Рейтинг клубов</message>
+
+        <!-- clan errors-->
+        <gender key="clanError100">
+            <form>Ты уже подал заявку в этот клуб</form>
+            <form>Ты уже подала заявку в этот клуб</form>
+        </gender>
+        <message key="clanError101">Игрок состоит в другом клубе</message>
+        <message key="clanError102">Ты не можешь выгнать создателя</message>
+        <message key="clanError103">Ты не можешь выгнать помощника</message>
+        <message key="clanError104">Ты не можешь выгнать участника</message>
+        <message key="clanError105">Максимальное количество помощников</message>
+
+        <message key="clanError105">Максимальное количество помощников</message>
+
+        <message key="clanError107">Неверно заполнены одно или несколько полей.</message>
+        <message key="clanError108">Ты уже состоишь в клубе</message>
+        <message key="clanError109">У тебя недостаточный уровень</message>
+        <message key="clanError110">Уже есть клуб с таким названием</message>
+        <message key="clanError300">Произошла ошибка при смене роли участника клуба</message>
+
+        <message key="clanNotificationNewNews">
+            <![CDATA[<p>В клубе <span class="bold"> :clanName:</span> опубликовали новую новость</p>]]></message>
+        <gender key="clanNotificationNewRequest">
+            <form>
+                <![CDATA[<p>:avatarName: подал заявку на вступление в клуб <span class="bold"> :clanName:</span></p>]]></form>
+            <form>
+                <![CDATA[<p>:avatarName: подала заявку на вступление в клуб <span class="bold"> :clanName:</span></p>]]></form>
+        </gender>
+        <message key="clanNotificationRequestAccepted">
+            <![CDATA[<p>Тебя приняли в клуб <span class="bold"> :clanName:</span></p>]]></message>
+        <message key="clanNotificationRequestReject">
+            <![CDATA[<p>Твою заявку на вступление в клуб <span class="bold"> :clanName:</span> отклонили</p>]]></message>
+        <message key="clanNotificationKickedFromClan">
+            <![CDATA[<p>Тебя выгнали из клуба <span class="bold"> :clanName:</span></p>]]></message>
+        <message key="clanNotificationClanDismiss">
+            <![CDATA[<p>Клуб <span class="bold"> :clanName:</span> был распущен</p>]]></message>
+
+        <message key="clanNotificationTitleNewNews">Новая новость</message>
+        <message key="clanNotificationTitleNewRequest">Заявка подана</message>
+        <message key="clanNotificationTitleRequestAccepted">Заявка принята</message>
+        <message key="clanNotificationTitleRequestReject">Заявка отклонена</message>
+        <message key="clanNotificationTitleKickedFromClan">Тебя выгнали</message>
+        <message key="clanNotificationTitleClanDismiss">Клуб распущен</message>
+        <message key="clanNotificationTitleInvite">Приглашение в клуб</message>
+        <message key="clanNotificationTitleInviteAccepted">Приглашение принято</message>
+        <message key="clanNotificationTitleInviteRejected">Приглашение отклонено</message>
+
+        <message key="newMembersAwardDescription">Дополнительные места в клубе</message>
+        <message key="clanEventAwardDescription">Возможность создавать события для членов клуба</message>
+        <message key="clanLocationAwardDescription">Локация клуба</message>
+        <message key="clothesShopAwardDescription">Магазин одежды в клубе</message>
+        <message key="furnitureShopAwardDescription">Магазин мебели в клубе</message>
+        <message key="makeupShopAwardDescription">Визажист в клубе</message>
+        <message key="newClothesAwardDescription">Новая одежда в магазине клуба</message>
+        <message key="newFurnitureAwardDescription">Новая мебель в магазине клуба</message>
+        <message key="newMakeupAwardDescription">Новый макияж у визажиста в клубе</message>
+        <message key="newOfficersAwardDescription">Дополнительные места для помощников</message>
+        <message key="newPetsAwardDescription">Новые питомцы</message>
+        <message key="newRoomAwardDescription">Новая комната</message>
+        <message key="petShopAwardDescription">Магазин питомцев в клубе</message>
+
+        <message key="clanLevelLabel">уровень :level:</message>
+        <message key="clanIconLabel">Эмблема клуба</message>
+        <message key="forNewClanLabel">Для создания клуба небходимо:</message>
+        <message key="nextClanLevelAwardLabel">Доступно на :level: уровне:</message>
+        <message key="clanTitleLabel">Название:</message>
+        <message key="noTitleAlertMessage">Заполни название клуба</message>
+
+        <message key="upgradeClanConditionsDescription">Для повышения уровня клуба необходимо:</message>
+        <message key="maxClanLevelLabel">Максимальный уровень клуба</message>
+
+        <message key="clanInviteNotificationMessage"><![CDATA[<p>Тебя приглашают присоединиться к клубу <span class="bold"> :clanName:</span></p>]]></message>
+        <!--NEW-->
+
+        <plural key="clanCoin">
+            <form>:value: клубкоин</form>
+            <form>:value: клубкоина</form>
+            <form>:value: клубкоинов</form>
+        </plural>
+
+        <plural key="memberCoin">
+            <form>:value: рубин</form>
+            <form>:value: рубина</form>
+            <form>:value: рубинов</form>
+        </plural>
+
+        <plural key="clan">
+            <form>:value: клуб</form>
+            <form>:value: клуба</form>
+            <form>:value: клубов</form>
+        </plural>
+
+        <message key="clanJoinTitle">Вступить</message>
+        <message key="clanCreateTabLabel">Создать</message>
+        <message key="clanInvitationsTabLabel">Приглашения</message>
+        <message key="clanInfoTabLabel">Мой клуб</message>
+        <message key="clanNewsTabLabel">Новости клуба</message>
+        <message key="clanActivityTabLabel">Активность</message>
+        <message key="clanTitle">Клуб</message>
+        <message key="clanListTabLabel">Клубы</message>
+        <message key="clanJoinTabLabel">Заявки</message>
+        <message key="clanJoinLabel">Заявка</message>
+        <message key="clanCompetitionTabLabel">Соревнование</message>
+        <message key="clanMembersTabLabel">Участники</message>
+        <message key="clanItemsTabLabel">Предметы</message>
+        <message key="clanLeaderShopTabLabel">Магазин лидера клуба</message>
+        <message key="clanShopTabLabel">Клубный магазин</message>
+        <message key="newsTabPanel">Новости клуба</message>
+
+        <message key="searchPanelInputText">Введите запрос</message>
+        <message key="otherClubsButtonLabel">другие клубы</message>
+        <message key="allowedToJoinLabel">доступные для вступления</message>
+        <message key="joinRequestButtonTitle">подать&#13;заявку</message>
+        <message key="requestSentDescription">заявка отправлена</message>
+        <message key="clubFullDescription">клуб заполнен</message>
+        <message key="inviteReceivedDescription">тебя пригласили</message>
+        <gender key="clanSuccessAddMemberDescription">
+            <form>Ты вступил в клуб.&#13;Не забудь рассказать о нем.</form>
+            <form>Ты вступила в клуб.&#13;Не забудь рассказать о нем.</form>
+        </gender>
+        <message key="createClanRequestLevelMessage">Требуется :level: уровень</message>
+        <message key="minSearchLengthHintText">Запрос должен состоять минимум из :clanTitleMinLength: символов</message>
+        <message key="noResultsReceivedText">Результатов не найдено</message>
+        <message key="clanNoJoinRequestsText">Сейчас нет заявок на вступление в клуб.</message>
+        <message key="memberNoJoinRequestsText">Сейчас у тебя нет заявок на вступление в клуб.</message>
+        <message key="clanNoInvitesText">Сейчас у тебя нет приглашений в клуб.</message>
+
+        <message key="clanDialogNameLabel">Название</message>
+        <message key="clanNameInputTitle">название клуба</message>
+        <message key="clanDialogTagLabel">Тег</message>
+        <message key="clanTagInputTitle">тег</message>
+        <message key="clanLogoDialogTitle">Логотип клуба</message>
+        <message key="clanDialogLogoLabel">Логотип</message>
+        <message key="clanDialogLocationLabel">Локация</message>
+        <message key="pinCodeDialogTitle">ПИН-код</message>
+        <message key="clanNameErrorDuplicateHintText">Название клуба уже занято.</message>
+        <message key="clanNameErrorFormatHintText">Название клуба должно состоять из :clanTitleMinLength:-:clanTitleMaxLength: символов.</message>
+        <message key="clanNameErrorHintText">Недопустимое название клуба.</message>
+        <message key="clanTagErrorFormatHintText">Тег должен состоять из :clanTagMinLength:-:clanTagMaxLength: символов.</message>
+        <message key="clanTagErrorHintText">Недопустимое название Тега.</message>
+        <message key="clanTagHintText">Аббревиатура клуба из :clanTagMinLength:-:clanTagMaxLength: символов. Указывается перед именем участника клуба.</message>
+        <message key="pinCodeDialogDescription">Для защиты клуба от взлома создай ПИН-код из :pinLength: цифр. Обязательно запиши его.</message>
+        <message key="clanPinCodeErrorDescription">Введен неверный ПИН-код</message>
+
+        <message key="clanLocationSelectTitle">Локация клуба</message>
+        <message key="scifiClanTitle">Космическая станция</message>
+        <message key="scifiClanDescription">Потрясающий вид на звезды, инопланетные растения и удивительный космический интерьер станут отличным местом для твоего клуба!</message>
+        <message key="glamourClanTitle">Комната принцессы</message>
+        <message key="glamourClanDescription">Мечтаешь жить как принцесса и кататься верхом на единороге? Эта локация позволит твоему клубу окунуться в фантастический мир гламура, веселья и волшебства.</message>
+        <message key="magicClanTitle">Средневековый замок</message>
+        <message key="magicClanDescription">В стенах замка всегда светло и просторно, это преимущество отлично подойдет для большого клуба, который хочет править и вершить судьбу мира.</message>
+        <message key="apocalypseClanTitle">Постапокалипсис</message>
+        <message key="apocalypseClanDescription">Хочешь окунуться в постапокалиптическое будущее? Тогда эта локация для тебя! Только берегись радиоактивных крыс и пауков, у них больше лап, чем ты привык видеть.</message>
+        <message key="clanSuccessCreateDescription">Твой клуб успешно создан.&#13;Не забудь рассказать о нем.</message>
+
+        <message key="clanDonateButtonTitle">пожертвовать</message>
+        <message key="clanDonateTip"><![CDATA[<p><span class="bold">Подсказка:</span> выбери, сколько золота ты хочешь пожертвовать в копилку клуба</p>]]></message>
+
+        <message key="orderByClanListDescriptionTitle">сортировать по:</message>
+        <message key="orderByPositionButtonTitle">должности</message>
+        <message key="orderByLevelButtonTitle">уровню</message>
+        <message key="orderByActivityButtonTitle">активности за :activityPeriod:</message>
+        <message key="orderByActivityButtonText">активности за </message>
+        <message key="onlineCheckBoxTitle">онлайн</message>
+
+        <message key="clanRoleLabelText">Должность</message>
+        <message key="clanRoleNovice">новичок</message>
+        <message key="clanRoleMember">участник</message>
+        <message key="clanRoleMaster">помощник</message>
+        <message key="clanRoleCreator">лидер</message>
+
+        <message key="clanRoleNoviceGenitive">новичка</message>
+        <message key="clanRoleMemberGenitive">участника</message>
+        <message key="clanRoleMasterGenitive">помощника</message>
+        <message key="clanRoleCreatorGenitive">лидера</message>
+
+
+        <message key="clanDismissPinCodeTitle">Для роспуска клуба введи ПИН-код.</message>
+        <message key="dismissClanButtonTitle">распустить&#13;клуб</message>
+        <message key="leaveClanButtonTitle">покинуть&#13;клуб</message>
+        <gender key="leaveClanDescription">
+            <form>Ты уверен, что хочешь покинуть клуб?</form>
+            <form>Ты уверена, что хочешь покинуть клуб?</form>
+        </gender>
+        <message key="clanVerifyPinCodeTitle">Для изменения ПИН-кода введи старый ПИН-код.</message>
+        <message key="changePinCodeButtonTitle">сменить&#13;ПИН-код</message>
+        <message key="clanChangePinCodeTitle">Введи новый ПИН-код. Не забудь записать его.</message>
+        <message key="clanChangeCreatorPinCodeTitle">Для передачи лидерства другому участнику клуба введи ПИН-код.</message>
+        <message key="clanLeaderCreatePinCodeText">Тебя назначили новым лидером клуба!&#13;Для защиты клуба от взлома, создай ПИН-код из :pinCodeLength: цифр.</message>
+        <message key="clanPinCodeErrorHintText">ПИН-код должен состоять из :pinCodeLength: цифр.</message>
+        <message key="enterPinCodeButtonTitle">ввести</message>
+        <message key="declinePinCodeButtonTitle">отмена</message>
+
+        <message key="clanSuccessCreatePublishTitle">:clubName:</message>
+        <gender key="clanSuccessCreatePublishDescription">
+            <form>Я только что создал свой клуб! Присоединяйся ко мне! :link:</form>
+            <form>Я только что создала свой клуб! Присоединяйся ко мне! :link:</form>
+        </gender>
+        <gender key="clanSuccessJoinPublishDescription">
+            <form>Я только что вступил в клуб! Присоединяйся ко мне! :link:</form>
+            <form>Я только что вступила в клуб! Присоединяйся ко мне! :link:</form>
+        </gender>
+
+        <message key="inviteClanWaitButtonTitle">ожидание...</message>
+        <message key="inviteClanValidateHintText">Станет доступно c :level: уровня</message>
+        <message key="memberUpPositionLabel">Игрока :memberName: повысили в должности до :roleName:</message>
+        <message key="memberDownPositionLabel">Игрока :memberName: понизили в должности до :roleName:</message>
+
+        <message key="memberDonateLabel">Игрок :memberName: пополнил баланс клуба на :clanCoins:</message>
+        <message key="clanUpgrade">Уровень клуба повышен.</message>
+        <message key="clanRatingPlaceLabel">Клуб занял :place: место в рейтинге.</message>
+        <message key="addMemberLabel">Игрок :memberName: вступил в клуб.</message>
+        <message key="removeMemberLabel">Игрок :memberName: покинул клуб.</message>
+        <message key="clanCompetitionPlaceLabel">Клуб занял :place: место в соревнованиях.</message>
+
+        <message key="clanMemberActivityAwardLabel">Награда за активность в клубе</message>
+        <message key="clanActivityAwardLabel">Награда за очки активности</message>
+        <message key="clanDayActivityLabel">Активность за день</message>
+        <message key="clanDayActivityAwardLabel">Награду получают все участники, кто заработал не менее :points: активности.</message>
+        <message key="clanActivityDescription">Совершая различные действия в игре ты зарабатываешь очки активности, которые требуются для повышения места в топе рейтинга и для открытия лучшей награды в сундуках клуба.</message>
+        <message key="clanBuyItemActivityLabel">За покупку вещей</message>
+        <message key="clanGoldActivityLabel">Каждая потраченная золотая монета добавляет :points: активности.</message>
+        <message key="clanBuyVipActivityLabel">За покупку VIP-статуса</message>
+        <message key="clanDayCountActivityLabel">За :days: - :points: активности.</message>
+        <message key="clanBuyGoldActivityLabel">За покупку золотых монет</message>
+        <message key="clanBuyGoldCountActivityLabel">За каждую купленную золотую монету начисляется :points: активности.</message>
+        <message key="clanInteractionCountActivityLabel">Взаимодействуя с другими аватарами начисляется :points: активности</message>
+        <message key="clanFriendsCountActivityLabel">Убираясь в квартире друзей начисляется :points: активности.</message>
+        <message key="clanWorkActivityLabel">За уборку на улице и в саду</message>
+        <message key="clanWorkCountActivityLabel">Уборка на улице и в саду приносит :points: активности.</message>
+        <message key="clanEnterGameActivityLabel">За ежедневный вход в игру</message>
+        <message key="clanEnterGameCountActivityLabel">Заходи в игру каждый день и получай :points: активности.</message>
+        <message key="clanCompetitionActivityLabel">За участие в соревнованиях</message>
+        <message key="clanCompetitionCountActivityLabel">Участвуй в мини-играх и получай за победу :activityWinCount:, за поражение или ничью :points: активности.</message>
+
+        <message key="noClanTitle">Не состоит в клубе</message>
+        <message key="playerSendRequestLabel">Игрок подал заявку в клуб</message>
+
+        <message key="declineRequestMessage">Твою заявку на вступление в клуб :clubName: отклонили.</message>
+        <message key="dismissClanMessage">Клуб :clubName: был распущен.</message>
+        <message key="kickClanMemberMessage">Тебя выгнали из клуба :clubName:.</message>
+        <message key="clanLocationNotAllowed">Ты не можешь проследовать за другом в его клубную локацию</message>
+        <message key="clanBackButtonTitle">назад</message>
+
+        <message key="openRequestsForClanLabel">открыть&#13;клуб</message>
+        <message key="closeRequestsForClanLabel">закрыть&#13;клуб</message>
+
+        <message key="clubIsRestrictedToJoin">Клуб закрыт</message>
+
+        <message key="advertisementTextLabel">Объявление</message>
+        <message key="editAdvertisementTextLabel">редактировать</message>
+        <message key="noClanNewsTextLabel">Сейчас в клубе нет новостей</message>
+
+        <message key="getClanActivityPointsLabel">Получай баллы активности</message>
+
+        <message key="notInClanHintLabel">Ты не состоишь в клубе</message>
+
+        <message key="defaultAdvertisementText">Объявлений пока нет</message>
+        <message key="buyRecipeNewsDescription">Стала доступна новая клубная одежда: :itemName:</message>
+        <message key="buyCategoryRecipeNewsDescription">Стали доступны новые элементы клубной внешности: :itemName:</message>
+        <message key="approveRecipeDialogTitle">Подтверждение</message>
+        <message key="viewRecipeDialogTitle">Просмотр</message>
+
+        <message key="approveRecipeDialogDescription">Ты разблокируешь:</message>
+        <message key="memberRecipeDialogDescription">Разблокировать предмет может только лидер клуба.</message>
+
+        <message key="approveFurnitureDialogDescription">Твоя покупка:</message>
+        <message key="memberFurnitureDialogDescription">Покупать мебель может только лидер клуба.</message>
+
+        <message key="notEnoughClubCoinTitle">Недостаточно клубкоинов</message>
+        <message key="notEnoughClubCoinDescription">В клубе недостаточно клубкоинов. Хочешь пожертвовать золото и пополнить счет клубкоинов?</message>
+
+        <message key="leaderShopPurchaseAlert">Покупка доступка только лидеру клуба!</message>
+
+        <message key="closeClubLocationLabel">Закрыть локацию на :time:</message>
+        <message key="closedClubLocationLabel">Локация закрыта. Осталось</message>
+        <message key="openClanLocationLabel">открыть локацию</message>
+
+        <message key="clanLocationInfoLeaderLabel">
+            <![CDATA[<p><span class="bold"> Лидер: </span>:name:</p>]]></message>
+        <message key="clanLocationRoomCountLabel">
+            <![CDATA[<p><span class="bold"> Клуб: </span>:rooms:</p>]]></message>
+
+        <message key="clanTotalVisitorsLabel">всех в клубе (:count:)</message>
+        <message key="clanCurrentRoomVisitorsLabel">всех в этой комнате (:count:)</message>
+        <message key="clanKickedMessage">Члены клуба не желают видеть тебя некоторое время.</message>
+
+        <message key="rubyPacksDialogLabel">Нужно больше рубинов?</message>
+        <message key="unlockForLeaderDescription">Не разблокировано лидером</message>
+        <message key="emptyShoppingCartText">корзина пуста</message>
+
+        <!-- CLAN RECIPE -->
+        <message key="ClnMgcGlssLabel">Монокль и Очки "Wizard"</message>
+        <message key="ClnMgcJctLabel">Мантия "Wizard"</message>
+        <message key="ClnMgcTShrtLabel">Джемпер "Wizard"</message>
+        <message key="ClnMgcPntsLabel">Юбка и Брюки "Wizard"</message>
+        <message key="ClnMgcScksLabel">Чулки и Носки "Wizard"</message>
+        <message key="ClnMgcBtsLabel">Туфли "Wizard"</message>
+        <message key="ClnMgcAcsLabel">Волшебная палочка "Wizard"</message>
+        <message key="ClnMgcScrfLabel">Шарф "Wizard"</message>
+
+        <message key="SCiFITShirtsLabel">Броня "Sci-Fi"</message>
+        <message key="SCiFIJcktLabel">Накидка "Sci-Fi"</message>
+        <message key="SCiFIPntsLabel">Штаны "Sci-Fi"</message>
+        <message key="SCiFIBtsLabel">Сапоги "Sci-Fi"</message>
+        <message key="SCiFIGlssLabel">Микрофон "Sci-Fi"</message>
+        <message key="SCiFIAcsLabel">Бластер "Sci-Fi"</message>
+
+        <message key="ClnGlmrTShirtsLabel">Корсет "Glamour" и Рубашка "Esquire"</message>
+        <message key="ClnGlmrJcktLabel">Накидка "Glamour" и Пиджак "Esquire"</message>
+        <message key="ClnGlmrPntsLabel">Юбка "Glamour" и Брюки "Esquire"</message>
+        <message key="ClnGlmrBtsLabel">Туфли "Glamour" и Ботинки "Esquire"</message>
+        <message key="ClnGlmrDcrLabel">Серьга "Glamour" и Серьга "Esquire"</message>
+        <message key="ClnGlmrGErBGlssLabel">Ушки "Glamour" и Очки "Esquire"</message>
+        <message key="ClnGlmrGlvsLabel">Перчатки "Glamour" и Перчатки "Esquire"</message>
+
+        <message key="ClnPstpcTShrtLabel">Топ и Портупея "Рейдеры"</message>
+        <message key="ClnPstpcPntsLabel">Шорты и Джинсы "Рейдеры"</message>
+        <message key="ClnPstpcBtsLabel">Ботинки "Рейдеры"</message>
+        <message key="ClnPstpcGtssLabel">Очки "Рейдеры"</message>
+        <message key="ClnPstpcBatLabel">Бита "Рейдеры"</message>
+        <message key="ClnPstpcMskLabel">Маска "Рейдеры"</message>
+        <message key="ClnPstpcScfLabel">Шарф "Рейдеры"</message>
+
+    </locale>
+</dictionary>

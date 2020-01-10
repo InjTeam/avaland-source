@@ -1,0 +1,52 @@
+ClientError: Thu Jan 9 17:07:36 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:07:36 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {locinfo: {s: "127.0.0.1", x: 7.17, shlc: true, pl: "", y: 11.17, st: 23, l: "salon_sn1_1", at: "", d: 4}, apprnc: {fac: 1, pc: 1, brc: 1, fft: 2, ssc: 1, g: 2, fat: 0, shc: 35, pt: 0, rc: 1, ss: 0, rg: 0, mc: 28, bt: 0, sh: 23, ec: 29, mt: 29, hc: 27, n: "-КАКТУС ЯНА-", brt: 22, sc: 1, bc: 1, nct: 0, ht: 112, et: 38}, ci: {pamns: {amn: []}, lvt: 1578577629, vret: 0, ysct: 0, sbid: null, bcld: 0, vfgc: 0, lrnt: 0, actrt: 0, fak: null, lwts: 0, gdc: 0, ceid: 0, shcr: true, compid: 0, plcmt: {}, actrp: 0, cmid: 0, skid: null, lgt: 0, ys: 0, gtrfrd: 0, skrt: 0, dr: true, strfrd: 0, actrd: 0, crst: 0, shousd: false, spp: 0, fexp: 0, vexp: 1965298000, rtrtm: 0, rpt: 0, trcd: 0, tts: null, kyktid: null, crt: 417, vsexp: 1965298000, exp: 85800, trid: null, hrt: 174, vsact: true, vip: true, as: null, eml: null, sbrt: 0}, usrinf: {rl: 0}, mbm: {sk: "blackMobileSkin", ac: null}, pf: {pf: {vsgst: {pgs: 0, tp: "vsgst", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}}}, clths: {clths: [{clid: null, tpid: "anmGAnmPll"}, {clid: null, tpid: "girlShoes14"}, {clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlShrtsLn"}, {clid: null, tpid: "girlHpnLn"}]}, uid: "50"}}]
+Thu Jan 9 17:07:36 GMT+0300 2020 [INFO] Client said: 34: ["salon_sn1_1", "o.r.info", {rid: "sn1"}]
+Thu Jan 9 17:07:36 GMT+0300 2020 [INFO] Server said: 34: ["o.gr", {rid: "salon_sn1_1"}]
+Thu Jan 9 17:07:36 GMT+0300 2020 [INFO] Server said: 16: ["salon_sn1_1", "37"]
+Thu Jan 9 17:07:36 GMT+0300 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {locinfo: {s: "127.0.0.1", x: -1, shlc: true, pl: "", y: -1, st: 0, l: "salon_sn1_1", at: "", d: 4}, apprnc: {fac: 1, pc: 1, brc: 10, fft: 2, ssc: 1, g: 2, fat: 0, shc: 1, pt: 0, rc: 1, ss: 0, rg: 2, mc: 2, bt: 0, sh: 0, ec: 1, mt: 31, hc: 4, n: "Вупсень", brt: 14, sc: 2, bc: 1, nct: 0, ht: 126, et: 40}, ci: {pamns: {amn: []}, lvt: 1578577911, vret: 0, ysct: 0, sbid: null, bcld: 0, vfgc: 0, lrnt: 0, actrt: 0, fak: null, lwts: 0, gdc: 0, ceid: 0, shcr: true, compid: 0, plcmt: {}, actrp: 0, cmid: 0, skid: null, lgt: 0, ys: 0, gtrfrd: 0, skrt: 0, dr: true, strfrd: 0, actrd: 0, crst: 0, shousd: false, spp: 0, fexp: 0, vexp: 1965298000, rtrtm: 0, rpt: 0, trcd: 0, tts: null, kyktid: null, crt: 10, vsexp: 1965298000, exp: 85800, trid: null, hrt: 174, vsact: true, vip: true, as: null, eml: null, sbrt: 0}, usrinf: {rl: 0}, mbm: {sk: "blackMobileSkin", ac: null}, pf: {pf: {vsgst: {pgs: 0, tp: "vsgst", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}}}, clths: {clths: [{clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlShoes14"}, {clid: null, tpid: "girlPants9"}]}, uid: "37"}}]
+Thu Jan 9 17:07:36 GMT+0300 2020 [INFO] Client said: 34: [null, "o.gr", {lid: "salon", gid: "sn1"}]
+Thu Jan 9 17:07:36 GMT+0300 2020 [INFO] Server said: 1: ["37", true, false, false]
+Thu Jan 9 17:07:36 GMT+0300 2020 [INFO] Client said: 1: ["street", "37", "VCBiIFjWGdTfCeZjkOTb", {clvrn: "84.0.4", v: 2}]
+Thu Jan 9 17:07:33 GMT+0300 2020 [INFO] Client said: 2: []
+Thu Jan 9 17:07:33 GMT+0300 2020 [INFO] Client said: 17: ["house_37_livingroom"]
+Thu Jan 9 17:07:10 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 17:07:10 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, gld: 1510, emd: 0, slvr: 319000}}]
+Thu Jan 9 17:07:10 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:07:05 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 17:07:05 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, gld: 1560, emd: 0, slvr: 314000}}]
+Thu Jan 9 17:07:05 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:07:00 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 17:07:00 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, gld: 1610, emd: 0, slvr: 309000}}]
+Thu Jan 9 17:07:00 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:06:58 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 17:06:58 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, gld: 1660, emd: 0, slvr: 304000}}]
+Thu Jan 9 17:06:58 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:06:55 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 17:06:55 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, gld: 1710, emd: 0, slvr: 299000}}]
+Thu Jan 9 17:06:55 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:06:51 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 17:06:51 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, gld: 1760, emd: 0, slvr: 294000}}]
+Thu Jan 9 17:06:51 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:06:49 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 17:06:49 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, gld: 1810, emd: 0, slvr: 289000}}]
+Thu Jan 9 17:06:49 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:06:47 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 17:06:47 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, gld: 1860, emd: 0, slvr: 284000}}]
+Thu Jan 9 17:06:46 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:06:44 GMT+0300 2020 [INFO] Client said: 34: ["house_37_livingroom", "h.r.u", {x: 2.27, y: 10.39, st: 23, at: "", d: 6, uid: "37"}]
+Thu Jan 9 17:06:44 GMT+0300 2020 [INFO] Client said: 34: ["house_37_livingroom", "h.r.m", {dx: 2.27, sy: 10.47, dy: 10.39, sx: 3.38, uid: "37"}]
+Thu Jan 9 17:06:43 GMT+0300 2020 [INFO] Client said: 34: ["house_37_livingroom", "h.r.m", {dx: 4.72, sy: 10.47, dy: 9.66, sx: 2.38, uid: "37"}]
+Thu Jan 9 17:06:43 GMT+0300 2020 [INFO] Client said: 34: ["house_37_livingroom", "h.r.m", {dx: 5, sy: 11.39, dy: 8.88, sx: 1.45, uid: "37"}]

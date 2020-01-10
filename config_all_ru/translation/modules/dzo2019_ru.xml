@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <gender key="dzo2019ThrowGender">
+            <form>спрятал</form>
+            <form>спрятала</form>
+        </gender>
+
+        <message key="dzo2019WelcomeDialogTitle">С днем защитника Отечества!</message>
+        <message key="dzo2019WelcomeDialogStarsMessage">Получай звезды и погоны, выполняя различные действия в игре. Чем больше играешь, тем больше звезд и погон можешь собрать каждый день!</message>
+        <message key="dzo2019WelcomeDialogEpaulettesMessage">Прячь погоны в квартирах своих соседей и собирай разбросанные друзьями в своем доме, чтобы получить еще больше звезд.</message>
+        <message key="dzo2019WelcomeDialogAwardMessage">Собирая звезды, ты будешь получать призы. Титул, качели "Самолет" и костюм "Адъютант" можно получить только в период проведения акции!</message>
+
+        <message key="dzo2019NotEnoughEpaulettesDialogMessage">Тебе нужны погоны, чтобы подбросить их друзьям. Получить погоны ты можешь на работе, в боях подушками и гонках на сёрфах. Все равно не хватает погон?</message>
+
+        <message key="dzo2019youHaveEpaulettesLabel">у тебя</message>
+        <message key="dzo2019buyEpaulettes">Купить :count: за :golds:</message>
+
+        <message key="dzo2019ProgressDialogTitle">Собирай звезды — получай призы</message>
+        <message key="dzo2019ProgressDialogMessage">Ты можешь получить звезды, работая во дворе и саду, убираясь в квартирах соседей, побеждая в гонках на серфах и подушечных баталиях.</message>
+
+        <message key="dzo2019WallMessage1">Вот такой подарок я получил в акции, посвященной Дню защитника Отечества. Заходи в игру и получишь такой же, и даже лучше!</message>
+        <message key="dzo2019WallMessage2">Друзья-товарищи! Нужна ваша помощь, чтобы заполучить этот крутой приз! Жду вас в Аватарии. Заранее спасибо!</message>
+
+        <message key="dzo2019AwardDialogTitle">Приз твой!</message>
+        <message key="dzo2019AwardDialogMessage">Тебе удалось собрать достаточно звезд, чтобы получить приз! Твои друзья успеют получить такой же, если ты расскажешь им о своих достижениях!</message>
+
+        <message key="dzo2019ThrowEpaulettesNotificationTitle">Погон со звездами</message>
+        <message key="dzo2019ThrowEpaulettesSuccessNotificationMessage">Хитро улыбаясь, ты прячешь погон в квартире своего друга :)</message>
+        <message key="dzo2019ThrowEpaulettesHasEpauletteNotificationMessage">Ой! У твоего друга уже есть погон. Давай позовем его в игру, чтобы он мог собрать еще больше звезд и помочь тебе.</message>
+        <message key="dzo2019ThrowEpaulettesFullHouseNotificationMessage">Ой-ой! Пока твой друг не соберет все погоны, ты не сможешь спрятать новые. Позови его скорее в игру!</message>
+
+        <message key="dzo2019CollectEpaulettesSuccessNotificationMessage">Ты находишь погон, который :throwGender: :name:.</message>
+
+        <message key="dzo2019AskHelpDialogTitle">Мне нужна помощь!</message>
+        <message key="dzo2019AskHelpDialogMessage">Нужны звезды? Много звезд? Без друзей тут вряд ли обойдешься.</message>
+
+        <message key="dzo2019throwEpaulettesButtonHint">Спрятать погоны у соседа</message>
+        <message key="dzo2019throwEpaulettesLockButtonHint">Слишком много погон</message>
+
+        <message key="dzo2019useMagnetButtonHint">Собрать все погоны</message>
+
+        <message key="dzo2019inviteTimeoutDescription">Ты недавно уже приглашал своего друга!</message>
+        <message key="dzo2019noEpaulettesWarning">В твоей квартире нет погон. Зайди к своим соседям чтобы спрятать у них погоны первым!</message>
+
+        <message key="dzo2019magnet">Магнит для поиска погон</message>
+    </locale>
+</dictionary>

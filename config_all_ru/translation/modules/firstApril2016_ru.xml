@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="firstApril2016MenuItemLabel">Спасти</message>
+        <message key="firstApril2016ProgressDialogTitle">Спаси грудничков!</message>
+        <message key="firstApril2016BabySaveText">Спасай грудничков и получай за это подарки!</message>
+        <message key="firstApril2016InfoTitleText">Грудничковая лихорадка!</message>
+        <message key="firstApril2016InfoMessageText">Сегодня все превращаются в грудничков, в том числе и ты. Спасай жителей от этой напасти и пусть спасут тебя!</message>
+        <message key="firstApril2016AcceptText">Желаешь принять участие?</message>
+
+        <message key="firstApril2016SaveNotificationTitle">Тебя спасли!</message>
+        <gender key="firstApril2016SaveNotificationMessage">
+            <form>:userName: спас тебя от грудничковой лихорадки</form>
+            <form>:userName: спасла тебя от грудничковой лихорадки</form>
+        </gender>
+    </locale>
+</dictionary>

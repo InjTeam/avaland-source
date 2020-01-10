@@ -1,0 +1,21 @@
+ClientError: Thu Jan 9 19:57:57 GMT+0500 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 19:57:51 GMT+0500 2020 [INFO] Client said: 34: ["house_412_livingroom", "h.r.u", {x: 0.81, y: 10, st: 23, uid: "412", at: "", d: 5}]
+Thu Jan 9 19:57:49 GMT+0500 2020 [INFO] Client said: 34: ["house_412_livingroom", "h.r.m", {uid: "412", dx: 0.81, dy: 10, sy: 6.67, sx: 4.11}]
+Thu Jan 9 19:57:47 GMT+0500 2020 [INFO] Server said: 34: ["h.r.ra", {plr: {ci: {shousd: false, strfrd: 0, ceid: 0, crt: 1050, dr: true, vsexp: 1965298000, as: null, lgt: 0, fak: null, lrnt: 0, trcd: 0, skid: null, ys: 0, rpt: 0, hrt: 174, plcmt: {}, vret: 0, sbid: null, gdc: 0, ysct: 0, fexp: 0, spp: 0, skrt: 0, crst: 0, vfgc: 0, vexp: 1965298000, actrd: 0, compid: 0, tts: null, lvt: 1578581639, pamns: {amn: []}, vsact: true, actrp: 0, sbrt: 0, bcld: 0, rtrtm: 0, trid: null, actrt: 0, vip: true, shcr: true, cmid: 0, eml: null, exp: 85800, lwts: 0, kyktid: null, gtrfrd: 0}, locinfo: {shlc: true, x: 4.11, s: "127.0.0.1", y: 6.67, d: 4, at: "", st: 23, l: "house_412_livingroom", pl: ""}, apprnc: {brt: 29, fac: 1, ec: 2, brc: 1, hc: 7, g: 2, pc: 1, nct: 0, shc: 1, bc: 1, ss: 0, n: "счастливая", ht: 127, fft: 0, ssc: 1, et: 1, rc: 1, fat: 0, bt: 0, sc: 1, rg: 0, mc: 4, sh: 0, pt: 0, mt: 3}, pf: {pf: {vsgst: {l: 20, pgs: 0, tp: "vsgst"}, grdnr: {l: 20, pgs: 0, tp: "grdnr"}, phtghr: {l: 20, pgs: 0, tp: "phtghr"}, jntr: {l: 20, pgs: 0, tp: "jntr"}}}, uid: "412", usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "grlLcsRcc"}, {clid: null, tpid: "grlDrssRcc"}, {clid: null, tpid: "grlHrRcc"}, {clid: null, tpid: "grlAcsFnRcc"}, {clid: null, tpid: "grlShsRcc"}]}, mbm: {sk: "blackMobileSkin", ac: null}}}]
+Thu Jan 9 19:57:47 GMT+0500 2020 [INFO] Server said: 34: ["h.r.ra", {plr: {ci: {shousd: false, strfrd: 0, ceid: 0, crt: 1050, dr: true, vsexp: 1965298000, as: null, lgt: 0, fak: null, lrnt: 0, trcd: 0, skid: null, ys: 0, rpt: 0, hrt: 174, plcmt: {}, vret: 0, sbid: null, gdc: 0, ysct: 0, fexp: 0, spp: 0, skrt: 0, crst: 0, vfgc: 0, vexp: 1965298000, actrd: 0, compid: 0, tts: null, lvt: 1578581639, pamns: {amn: []}, vsact: true, actrp: 0, sbrt: 0, bcld: 0, rtrtm: 0, trid: null, actrt: 0, vip: true, shcr: true, cmid: 0, eml: null, exp: 85800, lwts: 0, kyktid: null, gtrfrd: 0}, locinfo: {shlc: true, x: 4.11, s: "127.0.0.1", y: 6.67, d: 4, at: "", st: 23, l: "house_412_livingroom", pl: ""}, apprnc: {brt: 29, fac: 1, ec: 2, brc: 1, hc: 7, g: 2, pc: 1, nct: 0, shc: 1, bc: 1, ss: 0, n: "счастливая", ht: 127, fft: 0, ssc: 1, et: 1, rc: 1, fat: 0, bt: 0, sc: 1, rg: 0, mc: 4, sh: 0, pt: 0, mt: 3}, pf: {pf: {vsgst: {l: 20, pgs: 0, tp: "vsgst"}, grdnr: {l: 20, pgs: 0, tp: "grdnr"}, phtghr: {l: 20, pgs: 0, tp: "phtghr"}, jntr: {l: 20, pgs: 0, tp: "jntr"}}}, uid: "412", usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "grlLcsRcc"}, {clid: null, tpid: "grlDrssRcc"}, {clid: null, tpid: "grlHrRcc"}, {clid: null, tpid: "grlAcsFnRcc"}, {clid: null, tpid: "grlShsRcc"}]}, mbm: {sk: "blackMobileSkin", ac: null}}}]
+Thu Jan 9 19:57:47 GMT+0500 2020 [INFO] Client said: 34: ["house_412_livingroom", "h.r.ra", {}]
+Thu Jan 9 19:57:47 GMT+0500 2020 [INFO] Client said: 34: ["house_412_livingroom", "h.r.ra", {}]
+Thu Jan 9 19:57:47 GMT+0500 2020 [INFO] Server said: 34: ["a.apprnc.save", {apprnc: {brt: 29, fac: 1, ec: 2, brc: 1, hc: 7, g: 2, pc: 1, nct: 0, shc: 1, bc: 1, ss: 0, n: "счастливая", ht: 127, fft: 0, ssc: 1, et: 1, rc: 1, fat: 0, bt: 0, sc: 1, rg: 0, mc: 4, sh: 0, pt: 0, mt: 3}}]
+Thu Jan 9 19:57:47 GMT+0500 2020 [INFO] Client said: 34: [null, "a.apprnc.save", {apprnc: {brt: 29, fac: 1, ec: 2, brc: 1, hc: 7, g: 2, pc: 1, nct: 0, ss: 0, bc: 1, shc: 1, n: "счастливая", ht: 127, fft: 0, ssc: 1, et: 1, rc: 1, fat: 0, sh: 0, sc: 1, rg: 0, mc: 4, bt: 0, pt: 0, mt: 3}}]

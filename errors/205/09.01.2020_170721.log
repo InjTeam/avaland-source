@@ -1,0 +1,21 @@
+ClientError: Thu Jan 9 17:06:04 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-4WJ::EditAvatarAppearanceDialog/_-3EJ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-Qp::_-1DK/close()
+	at _-4WJ::_-3BQ/_-1dw()
+Thu Jan 9 17:06:04 GMT+0300 2020 [INFO] Client said: 34: [null, "h.minfo", {onl: false, tm: 1578578765}]
+Thu Jan 9 17:06:04 GMT+0300 2020 [INFO] Server said: 34: ["a.apprnc.save", {apprnc: {rg: 0, ht: 120, brt: 4, mc: 3, fac: 1, g: 2, et: 2, brc: 3, ss: 0, mt: 4, bc: 1, ec: 1, sh: 0, hc: 7, n: "Lemon4ik^^", nct: 0, pt: 0, ssc: 1, rc: 1, pc: 1, bt: 0, fat: 0, fft: 0, shc: 1, sc: 2}}]
+Thu Jan 9 17:05:57 GMT+0300 2020 [INFO] Client said: 34: [null, "a.apprnc.save", {apprnc: {rg: 0, ht: 120, brt: 4, mc: 3, fac: 1, g: 2, et: 2, brc: 3, ss: 0, mt: 4, bc: 1, ec: 1, sh: 0, hc: 7, n: "Lemon4ik^^", nct: 0, pt: 0, ssc: 1, rc: 1, pc: 1, shc: 1, fat: 0, fft: 0, bt: 0, sc: 2}}]
+Thu Jan 9 17:05:53 GMT+0300 2020 [INFO] Client said: 34: [null, "a.apprnc.save", {apprnc: {rg: 0, ht: 120, brt: 4, mc: 3, fac: 1, g: 2, et: 2, brc: 3, ss: 0, mt: 4, bc: 1, ec: 1, sh: 0, hc: 7, n: "Lemon4ik^^", nct: 0, pt: 0, ssc: 1, rc: 1, pc: 1, shc: 1, fat: 0, fft: 0, bt: 0, sc: 2}}]
+Thu Jan 9 16:58:51 GMT+0300 2020 [INFO] Server said: 34: ["h.minfo", {has.avtr: false}]
+Thu Jan 9 16:58:51 GMT+0300 2020 [INFO] Server said: 34: ["ctmr.get", {tu: {snowboardRating: []}}]
+Thu Jan 9 16:58:51 GMT+0300 2020 [INFO] Server said: 34: ["ur.get", {bt: [{cr: 13969, hr: 413116, uid: 14}, {cr: 3420, hr: 251420, uid: 70}, {cr: 1685, hr: 120844, uid: 64}, {cr: 18, hr: 60174, uid: 18}, {cr: 26427, hr: 25373, uid: 22}, {cr: 1304, hr: 25173, uid: 97}, {cr: 8516, hr: 24539, uid: 52}, {cr: 9158, hr: 12979, uid: 32}, {cr: 22815, hr: 11208, uid: 17}, {cr: 433, hr: 6005, uid: 62}]}]
+Thu Jan 9 16:58:46 GMT+0300 2020 [INFO] Server said: 34: ["mail.gc", {out: [], in: []}]
+Thu Jan 9 16:58:46 GMT+0300 2020 [INFO] Server said: 34: ["rl.get", {rlts: {}, uid: "205"}]
+Thu Jan 9 16:58:45 GMT+0300 2020 [INFO] Client said: 34: [null, "h.minfo", {onl: false, tm: 1578578326}]
+Thu Jan 9 16:58:45 GMT+0300 2020 [INFO] Client said: 34: [null, "ctmr.get", {}]
+Thu Jan 9 16:58:45 GMT+0300 2020 [INFO] Client said: 34: [null, "ur.get", {}]
+Thu Jan 9 16:58:45 GMT+0300 2020 [INFO] Client said: 34: [null, "mail.gc", {}]
+Thu Jan 9 16:58:45 GMT+0300 2020 [INFO] Client said: 34: [null, "rl.get", {}]
+Thu Jan 9 16:58:45 GMT+0300 2020 [INFO] Server said: 1: ["205", true, false, false]
+Thu Jan 9 16:58:45 GMT+0300 2020 [INFO] Client said: 1: ["house", "205", "mditpLsgJjnczNCkSebw", {sid: "205", v: 2, ctr: 0, bd: "", rd: 0, lng: "ru", clvrn: "84.0.4", rfid: null, ln: "", gdr: 0, nk: "", pht: "http://vkontakte.ru/images/question_b.gif", cty: 0, fn: "", lcl: "ru", rftp: null}]

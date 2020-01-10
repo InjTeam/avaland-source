@@ -1,0 +1,20 @@
+ClientError: Thu Jan 9 18:29:08 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:29:08 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {ci: {vip: true, lgt: 0, pamns: {amn: []}, trcd: 0, actrd: 0, sbrt: 0, actrp: 0, eml: null, shousd: false, vexp: 1965298000, vsexp: 1965298000, sbid: null, ysct: 0, as: null, vsact: true, fak: null, ys: 0, vret: 0, plcmt: {}, shcr: true, lrnt: 0, vfgc: 0, lvt: 1578583431, gtrfrd: 0, fexp: 0, ceid: 0, crst: 0, strfrd: 0, skid: null, cmid: 0, lwts: 0, rtrtm: 0, hrt: 220, dr: true, crt: 5770, kyktid: null, exp: 85800, spp: 0, skrt: 0, actrt: 0, trid: "freelanceMicrophone", tts: null, rpt: 0, bcld: 0, compid: 0, gdc: 0}, pf: {pf: {jntr: {pgs: 0, tp: "jntr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}}}, uid: "735", usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "girlGlssYllw"}, {clid: null, tpid: "girlSktWnt19Wrm"}, {clid: null, tpid: "girlTShrtPnd"}, {clid: null, tpid: "grlDrlBkrTto"}, {clid: null, tpid: "grlPnkRsShs"}]}, apprnc: {fat: 0, ht: 101, sh: 1, ss: 0, g: 2, rc: 1, hc: 24, pt: 0, mc: 17, mt: 29, ec: 2, sc: 1, fft: 7, nct: 0, rg: 0, pc: 1, brc: 3, n: "КоСмОс", ssc: 1, bt: 0, shc: 34, et: 37, bc: 1, brt: 28, fac: 1}, locinfo: {l: "salon_sn1_1", x: 6.42, pl: "", y: 12.48, shlc: true, s: "127.0.0.1", at: "", st: 23, d: 4}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 18:29:06 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {x: 10.74, uid: "328", y: 2.39, at: "sitItem12", st: 1, d: 6}]
+Thu Jan 9 18:29:05 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {x: 14.56, uid: "475", y: 18.25, at: "", st: 23, d: 3}]
+Thu Jan 9 18:29:04 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {x: 10.74, uid: "328", y: 2.39, at: "", st: 23, d: 6}]
+Thu Jan 9 18:29:04 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {dy: 18.25, uid: "475", sx: 10.73, dx: 14.56, sy: 14.48}]
+Thu Jan 9 18:29:02 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {uid: "328", sx: 12.73, dx: 10.74, dy: 2.39, sy: 2.31}]

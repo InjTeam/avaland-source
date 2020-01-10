@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="stories01Title">Однажды</message>
+        <message key="stories01DialogDescription">Прочитай историю Аватария в приложении Однажды и получи призы в подарок</message>
+
+        <message key="stories01CodeStatus0">Такой промокод не обнаружен</message>
+        <message key="stories01CodeStatus1">Этот промокод уже использован</message>
+        <message key="stories01CodeStatus3">Произошла ошибка. Мы знаем об этом и уже приступили к её исправлению</message>
+        <message key="stories01CodeStatus4">Сервер недоступен, попробуй еще раз чуть позже</message>
+        <message key="stories01CodeStatus5">Наблюдаются временны проблемы. Попробуй чуть позже</message>
+        <message key="stories01CodeStatus6">Этот подарок уже получен</message>
+
+        <message key="stories01AwardTitle">Поздравляем!</message>
+        <message key="stories01AwardDescription">Спасибо за участие в акции! Держи заслуженные подарки!</message>
+    </locale>
+</dictionary>

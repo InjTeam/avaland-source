@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+
+        <message key="dirolNPCActorName">Диролиус</message>
+        <gender key="dirol15NpcGreeting">
+            <form>Приветствую тебя, избранный!</form>
+            <form>Приветствую тебя, избранная!</form>
+        </gender>
+
+        <message key="dirol15StartModuleButtonTitle">начать испытание</message>
+        <message key="dirol15IgnoreModuleButtonTitle">отложить испытание</message>
+
+    	<message key="dirol2015WelcomeDialogTitle">Dirol</message>
+    	<message key="dirol2015WelcomeDialogDescription">Привет, :name:! Спорим, ты не сможешь выполнить мои простые задания?</message>
+
+        <message key="dirol15Garden">Сад Dirol</message>
+        <message key="dirol15GiveDirol">Угостить Dirol</message>
+
+        <message key="dirol15LootLabel">Жвачка</message>
+        <message key="dirol15LootDescription">Подушечка жвачки Dirol</message>
+
+        <message key="drl1Title">Сад Dirol</message>
+
+        <gender key="drl15CorrectChooseGumDescription">
+            <form>Решил выбрать простой путь? Но по эту сторону вкуса все меняется - тебе все равно достался Dirol для нее. Открой его возможности: попробуй раздавить 5 жуков в саду Dirol.</form>
+            <form>Решила выбрать простой путь? Но по эту сторону вкуса все меняется - тебе все равно достался Dirol для него. Открой его возможности: попробуй раздавить 5 жуков в саду Dirol.</form>
+        </gender>
+        <gender key="drl15IncorrectChooseGumDescription">
+            <form>Да ты любишь острые ощущения! Учти, по эту сторону вкуса все меняется… Впрочем, скоро ты все поймешь сам. Открой возможности вкуса: попробуй раздавить 5 жуков в саду Dirol.</form>
+            <form>Да ты любишь острые ощущения! Учти, по эту сторону вкуса все меняется… Впрочем, скоро ты все поймешь сама. Открой возможности вкуса: попробуй раздавить 5 жуков в саду Dirol.</form>
+        </gender>
+
+        <message key="dirol15Quest1Task1Title">Убить 5 жуков</message>
+
+        <message key="drl2Title">Угощение Dirol</message>
+        <gender key="drl2Description">
+            <form>Теперь ты знаешь, что происходит, когда берешь не свой Dirol. Предупреди остальных: помоги 10 приятелям перепутать Dirol. Сам понимаешь, это не сложно – достаточно предложить.</form>
+            <form>Теперь ты знаешь, что происходит, когда берешь не свой Dirol. Предупреди остальных: помоги 10 приятелям перепутать Dirol. Сама понимаешь, это не сложно – достаточно предложить.</form>
+        </gender>
+        <message key="dirol15Quest2Task1Title">Угостить 10 приятелей</message>
+
+        <message key="drl3Title">Угощение Dirol</message>
+        <gender key="drl3Description">
+            <form>Подшутил над друзьями? Теперь помоги им продвинуться на пути познания: иди гулять и собери 10 подушечек Dirol от других аватаров. Награда тебя поистине восхитит!</form>
+            <form>Подшутила над друзьями? Теперь помоги им продвинуться на пути познания: иди гулять и собери 10 подушечек Dirol от других аватаров. Награда тебя поистине восхитит!</form>
+        </gender>
+        <message key="dirol15Quest3Task1Title">Собери 10 подушечек</message>
+
+        <message key="drl4Title">Угощение Dirol</message>
+        <gender key="drl4Description">
+            <form>Чтобы встретиться с Диролиусом и получить достойную награду, угости 10 друзей Dirol.</form>
+            <form>Чтобы встретиться с Диролиусом и получить достойную награду, угости 10 друзей Dirol.</form>
+        </gender>
+        <message key="dirol15Quest4Task1Title">Угостить 10 приятелей</message>
+
+        <message key="dirol15RequestSendedTitle">Угощение Dirol</message>
+        <message key="dirol15RequestSendedMessage">:name: узнает о твоем угощении через мгновение.</message>
+
+        <message key="dirol15ReceivedMessage">Тебе предлагают попробовать новый Dirol. Согласиться чтобы узнать что будет?</message>
+        <message key="dirol15RequestApprovedTitle">Угощение подарено!</message>
+        <message key="dirol15RequestApprovedMessage">:name: принял от тебя Dirol.</message>
+        <message key="dirol15RequestDeclinedTitle">Отказ</message>
+        <message key="dirol15RequestDeclinedMessage">:name: не хочет Dirol.</message>
+
+        <message key="dirol2015ContinueLabelText">согласиться</message>
+        <message key="dirol2015GotoGroupLabelText">в группу</message>
+        <message key="dirol2015GotoAppLabelText">перейти</message>
+
+        <message key="dirol2015WallTitleMessage">Акция Dirol продложается!</message>
+        <message key="dirol2015WallDescriptionMessage">Я участвую в акции Dirol в Аватарии и получаю классные призы. Присоединяйся, пока акция не закончилась!</message>
+
+        <message key="dirol2015CompleteWallTitleMessage">Акция Dirol завершена!</message>
+        <message key="dirol2015CompleteWallDescriptionMessage">Я участвовал в акции Dirol в Аватарии и получил классные призы! Попробуй и ты, пока акция не закончилась!</message>
+
+        <message key="restartDirolModule">Перезапустить акцию</message>
+        <message key="dirolModuleHint">Акция Dirol</message>
+        <message key="dirolProceedLabel">приступить</message>
+
+        <gender key="dirolNPCIdleMessage1">
+            <form>Один мальчик долго не мог сделать выбор, и знаешь, что с ним было? Он стал дедушкой!</form>
+            <form>Один мальчик долго не мог сделать выбор, и знаешь, что с ним было? Он стал дедушкой!</form>
+            <!--<form>Одна девочка долго не могла сделать выбор, и знаешь, что с ней было? Она стала бабушкой!</form>-->
+        </gender>
+        <gender key="dirolNPCIdleMessage2">
+            <form>Хватит гадать, выбери жвачку!</form>
+            <form>Хватит гадать, выбери жвачку!</form>
+        </gender>
+        <gender key="dirolNPCIdleMessage3">
+            <form>Прошу тебя вежливо: Выбери. Жвачку. И всё.</form>
+            <form>Прошу тебя вежливо: Выбери. Жвачку. И всё.</form>
+        </gender>
+
+        <message key="dirol15CorrectGumLabel">Выбрать правильную</message>
+        <message key="dirol15IncorrectGumLabel">Выбрать неправильную</message>
+
+        <message key="dirol2015ContinueDialogTitle">Псссть, слух, э!</message>
+        <message key="dirol2015ContinueDialogMessage">Не хочешь увидеть Диролиуса?</message>
+    </locale>
+</dictionary>

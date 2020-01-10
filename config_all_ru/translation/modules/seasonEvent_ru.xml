@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="seQuest1Title">Золотая осень</message>
+        <message key="seQuest1Description">Выполни задание дня, чтобы получить ключ</message>
+        <message key="seasonEventKeyDescription">Ключ от акции "Золотая осень"</message>
+
+        <message key="seCalendarDialogTitle">Золотая осень</message>
+        <message key="seCalendarDialogDescription">Выполни все ежедневные задания и получи эксклюзивную награду!</message>
+        <message key="seCalendarDaysDescription">Задание на сегодня</message>
+        <message key="seCalendarDayDescription">день</message>
+        <message key="seCalendarKeysDescription">Докупи ключи за невыполненные задания!</message>
+        <message key="seCalendarBuyKeysLabel">купить за </message>
+        <message key="seCalendarAllKeysDescription">У тебя есть все доступные ключи!</message>
+
+        <message key="seCParticipationDialogDescription">Прими участие в осенней акции, за прохождение которой можно получить эксклюзивную награду!</message>
+
+        <message key="seInfoDialogTitle">Подсказка</message>
+        <message key="seInfoDialogDescription">Золотая осень — это месячная акция, за прохождение которой можно получить эксклюзивную награду. Каждый день ты получаешь задание, за выполнение которого выдается ключ. Если в течение дня задание не будет выполнено, на следующий день оно будет недоступно</message>
+        <message key="seInfoDialogInnerTitle">Правила акции</message>
+
+        <message key="seInfoDialogKeyDescription">За выполнение ежедневных заданий выдаются ключи, которые заполняют шкалу прогресса</message>
+        <message key="seInfoDialogTimerDescription">На каждое задание отводится 24 часа</message>
+        <message key="seInfoDialogRestrictDescription">Пропустив задание, вернуться к нему уже нельзя</message>
+        <message key="seInfoDialogShopDescription">Ключи за пропущенные задания можно докупить в специальном магазине</message>
+        <message key="seInfoDialogCalendarDescription">Акция продлится в течение :days: дней</message>
+        <message key="seInfoDialogGoldDescription">После заполнения шкалы прогресса все последующие ключи конвертируются в золото: 1 ключ = :gold: золота</message>
+
+        <message key="seFanViewHint">Вентилятор "Золотая осень"</message>
+        <message key="seTitleViewHint">Титул "Золотая осень"</message>
+        <message key="seCostumeViewHint">Костюм "Starlight"</message>
+
+    </locale>
+</dictionary>

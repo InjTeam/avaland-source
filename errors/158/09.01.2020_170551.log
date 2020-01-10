@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 15:05:02 GMT+0100 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 15:05:02 GMT+0100 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, usrinf: {rl: 0}, uid: "25", mbm: {sk: "blackMobileSkin", ac: null}, apprnc: {et: 7, shc: 1, mt: 7, ht: 55, g: 1, rc: 1, fft: 2, brt: 17, pt: 0, fat: 0, mc: 2, brc: 1, ec: 5, bt: 15, fac: 1, hc: 25, sh: 0, ss: 0, sc: 2, nct: 0, n: "Трусы", pc: 1, rg: 0, ssc: 1, bc: 25}, locinfo: {l: "salon_sn1_1", st: 23, shlc: true, pl: "", y: 12.2, s: "127.0.0.1", x: 10.33, d: 4, at: ""}, ci: {skrt: 0, ceid: 0, kyktid: null, bcld: 0, lwts: 0, cmid: 0, actrt: 0, trid: null, hrt: 916, dr: true, compid: 0, trcd: 0, spp: 0, actrp: 0, sbid: null, rpt: 0, skid: null, tts: null, actrd: 0, sbrt: 0, gdc: 0, ys: 0, shousd: false, plcmt: {}, lgt: 0, pamns: {amn: []}, eml: null, ysct: 0, as: null, crst: 0, vexp: 1965298000, fak: null, lvt: 1578578155, vsexp: 1965298000, shcr: true, lrnt: 0, crt: 4774, vsact: true, exp: 85800, fexp: 0, vret: 0, strfrd: 0, vip: true, gtrfrd: 0, vfgc: 0, rtrtm: 0}, clths: {clths: [{tpid: "boyTShrtSV19", clid: null}, {tpid: "boyBtsSV19", clid: null}, {tpid: "boyPslnGloves1", clid: null}, {tpid: "boyPntsWnt19Yllw", clid: null}, {tpid: "boySMR15Wtch", clid: null}, {tpid: "boyFb23Hat", clid: null}, {tpid: "boyScksWnt19Wht", clid: null}, {tpid: "boyGlsStrpd", clid: null}, {tpid: "boyJcktSV19", clid: null}]}}}]

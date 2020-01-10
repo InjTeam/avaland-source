@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 16:56:15 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 16:56:02 GMT+0300 2020 [INFO] Client said: 17: ["house_26_livingroom"]
+Thu Jan 9 16:55:35 GMT+0300 2020 [INFO] Server said: 34: ["h.r.ra", {plr: {locinfo: {shlc: true, at: "", pl: "", y: 0.5, st: 23, s: "127.0.0.1", x: 11.5, l: "house_26_livingroom", d: 4}, usrinf: {rl: 0}, uid: "26", pf: {pf: {grdnr: {l: 20, pgs: 0, tp: "grdnr"}, jntr: {l: 20, pgs: 0, tp: "jntr"}, vsgst: {l: 20, pgs: 0, tp: "vsgst"}, phtghr: {l: 20, pgs: 0, tp: "phtghr"}}}, apprnc: {ht: 85, brc: 5, g: 1, sc: 1, rc: 1, shc: 1, pt: 0, mt: 21, fft: 0, rg: 0, pc: 1, bt: 0, et: 19, ss: 0, ssc: 1, mc: 4, ec: 5, fat: 0, n: "Ṧªτªη", nct: 0, fac: 1, brt: 3, sh: 0, hc: 1, bc: 1}, mbm: {sk: "blackMobileSkin", ac: null}, clths: {clths: [{clid: null, tpid: "boyBtsPrfClr"}, {clid: null, tpid: "boyKgrmBr"}, {clid: null, tpid: "boyFA18Msk1"}, {clid: null, tpid: "boyTalDvl16"}, {clid: null, tpid: "boyHrnDvl16"}, {clid: null, tpid: "boyGlssSh"}]}, ci: {shousd: false, spp: 0, trcd: 0, skid: null, plcmt: {}, vexp: 1965298000, tts: null, fexp: 0, vsexp: 1965298000, trid: null, rpt: 0, strfrd: 0, eml: null, bcld: 0, rtrtm: 0, vsact: true, hrt: 374, ys: 0, sbid: null, as: null, kyktid: null, lvt: 1578577062, sbrt: 0, vret: 0, actrt: 0, vfgc: 0, ysct: 0, vip: true, fak: null, crst: 0, lrnt: 0, gdc: 0, lwts: 0, pamns: {amn: []}, crt: 36719, ceid: 0, actrp: 0, exp: 85800, shcr: true, compid: 0, lgt: 0, dr: true, gtrfrd: 0, cmid: 0, actrd: 0, skrt: 0}}}]

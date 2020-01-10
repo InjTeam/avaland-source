@@ -1,0 +1,19 @@
+ClientError: Thu Jan 9 16:54:37 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 16:54:31 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 1000, gld: 400}}]
+Thu Jan 9 16:54:31 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "floorCtr1"}}]
+Thu Jan 9 16:54:31 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {cnt: 1, tpid: "floorCtr1", pind: 1}]
+Thu Jan 9 16:54:29 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 1000, gld: 435}}]
+Thu Jan 9 16:54:29 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "wallCtr1"}}]
+Thu Jan 9 16:54:29 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {cnt: 1, tpid: "wallCtr1", pind: 1}]

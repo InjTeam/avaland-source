@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        
+        <!-- SMR DAY -->
+        
+        <message key="sd2015WelcomeDialogTitle">Праздник весны и солнца</message>
+        <message key="sd2015WelcomeDialogMessage1">Получай пустые колбочки у соседей, и выполняй различные действия в игре. Чем больше у тебя соседей и твоя активность в целом — тем больше колбочек можно собрать.</message>
+        <message key="sd2015WelcomeDialogMessage2">Наполняй пустые колбочки солнечным светом. Для этого в локации «Улица» мы расположили настоящий генератор солнечных лучей. Он наполнит твои пустые колбочки солнцем!</message>
+        <message key="sd2015WelcomeDialogMessage3">Получи БЕСПЛАТНО новую комнату «Клетка для птиц» и ухаживай за птицами при помощи заполненных колбочек!</message>
+        
+        <message key="sd15GotoSD15RoomButtonHint">Клетка для птиц</message>
+        <message key="sd15CreateHouseRoomDialogTitle">Новая клетка для птиц</message>
+        <message key="sd15CreateHouseRoomDialogMessage">Хочешь БЕСПЛАТНО получить "Клетку для птиц"? Это возможно только в период проведения акции!</message>
+        <message key="sd15CreateHouseRoomDialogFriendMessage">У твоего друга все еще нет своей клетки для птиц? Давай позовем его в игру и расскажем, как это здорово и весело!</message>
+
+        <message key="sd2015ProgressDialogTitle">Моя клетка для птиц</message>
+        <message key="sd2015ProgressDialogMessage">Собери всех экзотических птиц в свою коллекцию! Чем больше солнечного света ты соберёшь, тем более красивые птицы поселятся в твоей клетке.</message>
+        
+        <message key="youHaveLabel">потрачено</message>
+        <message key="buyItems">Купить :pieces: за :golds:</message>
+        
+        <message key="sd2015AwardDialogTitle">Поздравляем!</message>
+        <message key="sd2015AwardDialogMessage">Твоя клетка продолжает развиваться, вбирая в себя все тепло собранного тобой солнечного света. И теперь она стала еще больше и красивее, продолжай в том же духе и чудесные птицы будут радовать тебя изо дня в день!</message>
+        
+        <message key="sd2015AskEmptyFlacksDialogTitle">Мне нужна помощь!</message>
+        <message key="sd2015AskEmptyFlacksDialogMessage">Не хватает колбочек? Попроси друзей зайти в игру, чтобы собрать еще больше колбочек, а затем наполнить их солнечным светом.</message>
+        
+        <message key="sd2015WallMessage1">Смотрите, друзья, какие чудесные птицы поселились в моей клетке! Хотите таких же, а, может, еще больше? Я с радостью помогу вам в этом! :link:</message>
+        <message key="sd2015WallMessage2">Помогите мне: в моей клетке мало солнца для птиц. Заходите в игру, и будем помогать друг другу! :link:</message>
+        
+        <message key="sd15CantCollectEmptyFlacksLabel">Можно будет собрать через :time:</message>
+        <message key="sd15CollectEmptyFlacksDialogTitle">Получить колбочки</message>
+        <message key="sd15CollectEmptyFlacksDialogDescription">Чем больше у тебя активных соседей, тем больше колбочек ты сможешь получать ежедневно. Также ты сможешь найти колбочки, выполняя различные действия в игре.</message>
+        
+        <message key="sd15CollectRequestNotAllowedLabel">Друг давно не заходил в игру.</message>
+        
+        <message key="sd2015NotEnoughEmptyFlacksDialogMessage">У тебя не хватает пустых колбочек. Получить их можно у своих соседей, либо выполняя различные действия в игре. Все равно не хватает колбочек?</message>
+        <message key="sd2015NotEnoughEmptyFlacksGotoStreetDialogMessage">У тебя не хватает заполненных колбочек. Заполнить их можно на улице. Хочешь перейти туда?</message>
+        
+    </locale>
+</dictionary>

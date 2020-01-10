@@ -1,0 +1,25 @@
+ClientError: Thu Jan 9 23:33:19 GMT+0800 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+Thu Jan 9 23:33:19 GMT+0800 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/TableSnowboundPolar.swf, status: 2) 
+Thu Jan 9 23:32:53 GMT+0800 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 4293, emd: 0, slvr: 50, enrg: 500}}]
+Thu Jan 9 23:32:53 GMT+0800 2020 [INFO] Server said: 34: ["ntf.inv", {it: {tid: "tblArtNv2", c: 2, iid: ""}}]
+Thu Jan 9 23:32:51 GMT+0800 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "tblArtNv2", pind: 1, cnt: 2}]
+Thu Jan 9 23:32:49 GMT+0800 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/TableRoundArtNouveau.swf, status: 2) 
+Thu Jan 9 23:32:23 GMT+0800 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 4391, emd: 0, slvr: 50, enrg: 500}}]
+Thu Jan 9 23:32:23 GMT+0800 2020 [INFO] Server said: 34: ["ntf.inv", {it: {tid: "ny20BlkTbl", c: 1, iid: ""}}]
+Thu Jan 9 23:32:21 GMT+0800 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "ny20BlkTbl", pind: 1, cnt: 1}]
+Thu Jan 9 23:32:20 GMT+0800 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/NY20BlackTable.swf, status: 2) 
+Thu Jan 9 23:31:53 GMT+0800 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 4423, emd: 0, slvr: 50, enrg: 500}}]
+Thu Jan 9 23:31:53 GMT+0800 2020 [INFO] Server said: 34: ["ntf.inv", {it: {tid: "tblCtr1", c: 1, iid: ""}}]
+Thu Jan 9 23:31:52 GMT+0800 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "tblCtr1", pind: 1, cnt: 1}]
+Thu Jan 9 23:31:50 GMT+0800 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/TableCountry.swf, status: 2) 
+Thu Jan 9 23:31:22 GMT+0800 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/ChairSnowboundPolar.swf, status: 2) 

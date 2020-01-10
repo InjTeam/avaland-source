@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 17:11:37 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:11:37 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "25", pf: {pf: {vsgst: {tp: "vsgst", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}}}, locinfo: {st: 23, x: 8.39, s: "127.0.0.1", y: 10.39, shlc: true, at: "", d: 4, l: "salon_sn1_1", pl: ""}, clths: {clths: [{tpid: "boyTShrtSV19", clid: null}, {tpid: "boyBtsSV19", clid: null}, {tpid: "boyPslnGloves1", clid: null}, {tpid: "boyStrtBrcl", clid: null}, {tpid: "boyPntsWnt19Yllw", clid: null}, {tpid: "boyJkrTt", clid: null}, {tpid: "csl15BBrvErr", clid: null}, {tpid: "boyPyrmdKnf", clid: null}, {tpid: "boyFb23Hat", clid: null}, {tpid: "boyFA18Msk2", clid: null}, {tpid: "csl15BBrvPdt", clid: null}, {tpid: "boyGlsStrpd", clid: null}, {tpid: "boyJcktSV19", clid: null}]}, mbm: {sk: "blackMobileSkin", ac: null}, usrinf: {rl: 0}, ci: {ceid: 0, vexp: 1965298000, vsexp: 1965298000, as: null, lrnt: 0, crt: 7014, rtrtm: 0, shcr: true, lvt: 1578578155, gtrfrd: 0, fexp: 0, strfrd: 0, cmid: 0, vret: 0, vip: true, dr: true, hrt: 916, vsact: true, actrd: 0, skrt: 0, trcd: 0, spp: 0, rpt: 0, sbid: null, tts: null, kyktid: null, gdc: 0, lwts: 0, eml: null, actrt: 0, vfgc: 0, actrp: 0, sbrt: 0, lgt: 0, bcld: 0, compid: 0, trid: null, skid: null, crst: 0, ys: 0, plcmt: {}, pamns: {amn: []}, exp: 85800, ysct: 0, shousd: false, fak: null}, apprnc: {ht: 61, pt: 0, rc: 1, fac: 1, sc: 3, mt: 7, bt: 15, fft: 2, nct: 0, pc: 1, shc: 1, ss: 0, g: 1, sh: 0, ec: 5, ssc: 1, hc: 25, brt: 24, n: "Трусы", brc: 1, et: 7, rg: 0, bc: 25, mc: 2, fat: 0}}}]
+Thu Jan 9 17:11:34 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {uid: "230", x: 14.42, y: 5.6, st: 1, at: "salonActiveChairItem22", d: 0}]

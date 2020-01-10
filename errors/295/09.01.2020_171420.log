@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 16:07:49 GMT+0200 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 16:07:49 GMT+0200 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {pf: {pf: {vsgst: {pgs: 0, tp: "vsgst", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}}}, usrinf: {rl: 0}, uid: "175", clths: {clths: [{clid: null, tpid: "girlBtsWnt19Brg"}, {clid: null, tpid: "girlJcktWnt19Brg"}, {clid: null, tpid: "girlGlssWnt19Brg"}, {clid: null, tpid: "girlDrssWnt19Brg"}, {clid: null, tpid: "girlBgWnt19Brg"}]}, locinfo: {l: "salon_sn1_1", at: "", pl: "", y: 2.45, st: 23, s: "127.0.0.1", x: 9.83, shlc: true, d: 4}, ci: {lvt: 1578578607, vfgc: 0, fak: null, crst: 0, gdc: 0, ceid: 0, pamns: {amn: []}, compid: 0, skid: null, shcr: true, lwts: 0, lgt: 0, cmid: 0, gtrfrd: 0, plcmt: {}, dr: true, rpt: 0, actrp: 0, actrd: 0, bcld: 0, strfrd: 0, ys: 0, shousd: false, spp: 0, rtrtm: 0, fexp: 0, vexp: 1965298000, tts: null, skrt: 0, vsexp: 1965298000, trcd: 0, kyktid: null, trid: "avaBirthdayTrophy2016", as: null, eml: null, actrt: 0, crt: 649, hrt: 224, vsact: true, exp: 85800, vret: 0, sbrt: 0, vip: true, sbid: null, lrnt: 0, ysct: 0}, mbm: {ac: null, sk: "blackMobileSkin"}, apprnc: {nct: 0, mc: 12, pc: 1, ss: 4, pt: 0, mt: 26, sc: 1, brt: 13, rc: 1, brc: 11, et: 7, ht: 104, g: 2, fac: 1, bt: 0, ec: 12, hc: 6, shc: 8, n: "Сериалы <3", fft: 0, rg: 0, bc: 1, ssc: 1, fat: 0, sh: 7}}}]
+Thu Jan 9 16:07:47 GMT+0200 2020 [INFO] Server said: 34: ["o.r.u", {x: 15.5, uid: "213", d: 4, y: 1.5, st: 0}]

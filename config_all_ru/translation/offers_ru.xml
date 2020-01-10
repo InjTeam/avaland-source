@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dictionary>
+    
+	<locale name="ru">
+	
+	    <message key="venusQuestComment"><![CDATA[<span class="bold">Подсказка:</span> Нажмите кнопку "Вступить" и вступите в группу Venus]]></message>
+	    <message key="venusAwardTitle">Награда!</message>
+	    <message key="venusAwardDescription">Зарабатывай золото с Venus!</message>
+	    <message key="venusQuestTitle">Золото бесплатно</message>
+	    <message key="venusQuestDescription">Вступи в группу Venus и получи золотые монеты в подарок!</message>
+	    <message key="venusQuestHelpButton">Вступить</message>
+	    
+	    <message key="venusStep1Title">Вступи в группу Venus</message>
+	    <message key="venusStep2Title">Сделай шикарную фотографию в фото студии</message>
+	    
+	    <message key="candcStep1Title"><![CDATA[Пройти тест в прилжение Clean&Clear]]></message>
+	    <message key="candcAwardTitle">Награда!</message>
+        <message key="candcAwardDescription"><![CDATA[Зарабатывай золото с Clean&Clear!]]></message>
+
+        <message key="qiwiStep1Title"><![CDATA[Зарегистрируйся на сайте QIWI]]></message>
+        <message key="qiwiAwardTitle">Награда!</message>
+        <message key="qiwiAwardDescription">Зарабатывай золото с QIWI!</message>
+
+        <message key="okQiwiAwardDescription">Получай уникальные предметы с QIWI!</message>
+
+        <message key="lorealQuestComment"><![CDATA[<span class="bold">Подсказка:</span> Чтобы попасть в фотостудию, нажми кнопку "Фотостудия".]]></message>
+        <message key="lorealAwardTitle">Награда!</message>
+        <message key="lorealAwardDescription">Зарабатывай золото с Мисс Манга!</message>
+        <message key="lorealQuestTitle">Мисс Манга</message>
+        <message key="lorealQuestDescription">Сделай фотоснимок с ресничками от Мисс Манга и получи награду!</message>
+        <message key="lorealQuestHelpButton">Фотостудия</message>
+
+        <message key="lorealStep1Title"><![CDATA[<span class="bold">Создай объемные реснички от Мисс Манга]]></message>
+        <message key="lorealStep2Title"><![CDATA[<span class="bold">Сделай фотографию в фотостудии]]></message>
+
+        <message key="ratsAwardTitle">Награда!</message>
+        <message key="ratsAwardDescription">Поздравляем! Вот твои честно заработанные монеты за успехи в игре "Крысы Online".</message>
+
+        <message key="joinVKGroupAwardTitle">Награда!</message>
+        <message key="joinVKGroupAwardDescription">Поздравляем! Вот твой подарок за вступление в официальную группу Аватарии.</message>
+
+        <message key="joinTopchikGroupTitle">Вступи в группу</message>
+        <message key="repostTopchikTitle">Сделай репост записи</message>
+        <message key="topchikAwardTitle">Награда!</message>
+        <message key="topchikAwardDescription">Поздравляем! Вот твои честно заработанные монеты!</message>
+
+        <message key="repostOmutTitle">Сделай репост записи</message>
+        <message key="omutAwardTitle">Награда!</message>
+        <message key="omutAwardDescription">Поздравляем! Вот твои честно заработанные монеты!</message>
+	</locale>
+	
+</dictionary>

@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 21:25:04 GMT+0700 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 21:25:04 GMT+0700 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {usrinf: {rl: 0}, apprnc: {rc: 1, bt: 0, et: 31, brt: 24, sc: 5, ss: 0, nct: 0, mt: 31, g: 2, ssc: 1, shc: 1, sh: 0, n: "pizdeц", fft: 2, rg: 0, pc: 1, pt: 0, hc: 8, ht: 126, ec: 14, fat: 0, brc: 10, bc: 1, fac: 1, mc: 14}, pf: {pf: {vsgst: {pgs: 0, tp: "vsgst", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}}}, locinfo: {x: 8.5, s: "127.0.0.1", y: 7.5, l: "couturier_ctr1_1", pl: "", at: "", st: 0, shlc: true, d: 4}, clths: {clths: [{tpid: "grlBtsCtr5", clid: "5"}, {tpid: "girlJcktOutsrc2", clid: "5"}, {tpid: "girlErrOutsrc2", clid: "5"}, {tpid: "girlTShrtNYElgnc", clid: "5"}, {tpid: "girlSktOutsrc2", clid: "5"}, {tpid: "girlAcsClnMgc", clid: "5"}]}, mbm: {sk: "blackMobileSkin", ac: null}, uid: "119", ci: {gdc: 0, rtrtm: 0, vexp: 1965298000, lwts: 0, bcld: 0, crt: 15148, as: null, lrnt: 0, plcmt: {}, vsexp: 1965298000, ys: 0, vip: true, vsact: true, cmid: 0, gtrfrd: 0, fak: null, dr: true, sbid: null, sbrt: 0, actrd: 0, hrt: 174, kyktid: null, shcr: true, eml: null, actrp: 0, ysct: 0, skid: null, strfrd: 0, tts: null, lgt: 0, ceid: 0, trcd: 0, lvt: 1578579659, fexp: 0, shousd: false, skrt: 0, vret: 0, crst: 0, pamns: {amn: []}, trid: null, rpt: 0, exp: 85800, spp: 0, compid: 0, actrt: 0, vfgc: 0}}}]

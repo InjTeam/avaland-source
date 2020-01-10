@@ -1,0 +1,51 @@
+ClientError: Thu Jan 9 16:53:40 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 16:52:35 GMT+0300 2020 [INFO] Client said: 34: ["house_30_livingroom", "h.r.u", {at: "", x: 3.69, y: 9.38, uid: "30", st: 23, d: 4}]
+Thu Jan 9 16:52:35 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 16:52:35 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 100596, enrg: 500, emd: 0, slvr: 3050000}}]
+Thu Jan 9 16:52:35 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 16:52:35 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", pmnt: null, qnt: 1}]
+Thu Jan 9 16:52:34 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 16:52:32 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 16:52:32 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 99096, enrg: 500, emd: 0, slvr: 3050000}}]
+Thu Jan 9 16:52:32 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 16:52:32 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", pmnt: null, qnt: 1}]
+Thu Jan 9 16:52:31 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 16:52:31 GMT+0300 2020 [INFO] Client said: 34: ["house_30_livingroom", "h.r.m", {sx: 4.05, dy: 9.38, sy: 0.1, uid: "30", dx: 3.69}]
+Thu Jan 9 16:52:30 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 16:52:30 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 97596, enrg: 500, emd: 0, slvr: 3050000}}]
+Thu Jan 9 16:52:30 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 16:52:30 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", pmnt: null, qnt: 1}]
+Thu Jan 9 16:52:29 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 16:52:25 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 16:52:24 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 96096, enrg: 500, emd: 0, slvr: 3050000}}]
+Thu Jan 9 16:52:24 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 16:52:24 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack9999", pmnt: {ct3: null, ct1: null, srv: 3, ctx: {dialogSource: "furnitureShopDialog"}, ct2: null, tpid: "ny2016Dflr"}, qnt: 1}]
+Thu Jan 9 16:52:24 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 16:52:22 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 16:52:22 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 86097, enrg: 500, emd: 0, slvr: 3050000}}]
+Thu Jan 9 16:52:22 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 16:52:22 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack9999", pmnt: {ct3: null, ct1: null, srv: 3, ctx: {dialogSource: "furnitureShopDialog"}, ct2: null, tpid: "ny2016Dflr"}, qnt: 1}]
+Thu Jan 9 16:52:21 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 16:52:19 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 16:52:19 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 76098, enrg: 500, emd: 0, slvr: 3050000}}]
+Thu Jan 9 16:52:19 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 16:52:19 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack9999", pmnt: {ct3: null, ct1: null, srv: 3, ctx: {dialogSource: "furnitureShopDialog"}, ct2: null, tpid: "ny2016Dflr"}, qnt: 1}]
+Thu Jan 9 16:52:19 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 16:52:18 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 16:52:18 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 66099, enrg: 500, emd: 0, slvr: 3050000}}]
+Thu Jan 9 16:52:18 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 16:52:18 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack9999", pmnt: {ct3: null, ct1: null, srv: 3, ctx: {dialogSource: "furnitureShopDialog"}, ct2: null, tpid: "ny2016Dflr"}, qnt: 1}]
+Thu Jan 9 16:52:17 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 16:52:16 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]

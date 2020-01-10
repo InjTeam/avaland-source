@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        
+        <message key="sv2014HeartsInfoDialogTitle">Соединяй сердца!</message>
+        <message key="sv2014HeartsInfoDialogMessage">Получайте подарки, собирая алые сердца из осколков с другими игроками в локации «Парк». Собрав всю коллекцию подарков — продолжайте собирать сердца и получать еще больше призов!</message>
+        
+        <!-- SMR DAY -->
+        
+        <message key="sd2014WelcomeDialogTitle">Праздник весны и солнца</message>
+        <message key="sd2014WelcomeDialogMessage1">Получай пустые колбочки у соседей, и выполняя различные действия в игре. Чем больше у тебя соседей и твоя активность в целом — тем больше колбочек можно собрать.</message>
+        <message key="sd2014WelcomeDialogMessage2">Наполняй пустые колбочки солнечным светом. Для этого в локации «Улица» мы расположили настоящий генератор солнечных лучей. Он наполнит твои пустые колбочки солнцем!</message>
+        <message key="sd2014WelcomeDialogMessage3">Получи БЕСПЛАТНО новую комнату «Оранжерея», ухаживай за саженцем при помощи заполненных колбочек и получай полезные ресурсы КАЖДЫЙ ДЕНЬ!</message>
+        
+        <message key="sd14GotoSD14RoomButtonHint">В оранжерею</message>
+        <message key="sd14CreateHouseRoomDialogTitle">Новая оранжерея</message>
+        <message key="sd14CreateHouseRoomDialogMessage">Хочешь БЕСПЛАТНО получить новую комнату "Оранжерея"? Это возможно только в период проведения акции!</message>
+        <message key="sd14CreateHouseRoomDialogFriendMessage">У твоего друга все еще нет своей оранжереи? Давай позовем его в игру и расскажем, как это здорово и весело!</message>
+        
+        <message key="sd2014ProgressDialogTitle">Моя оранжерея</message>
+        <message key="sd2014ProgressDialogMessage">Здесь показано, на какой стадии развития находится твое деревце. И чем больше оно вырастает, тем больше ресурсов оно будет приносить. Ухаживай за ним, и оно будет радовать тебя каждый день!</message>
+        
+        <message key="youHaveLabel">потрачено</message>
+        <message key="buyItems">Купить :pieces: за :golds:</message>
+        
+        <message key="sd2014AwardDialogTitle">Поздравляем!</message>
+        <message key="sd2014AwardDialogMessage">Твое дерево продолжает расти, вбирая в себя все тепло собранного тобой солнечного света. И теперь оно стало еще больше и красивее, продолжай в том же духе и оно будет радовать тебя изо дня в день!</message>
+        
+        <message key="sd2014AskEmptyFlacksDialogTitle">Мне нужна помощь!</message>
+        <message key="sd2014AskEmptyFlacksDialogMessage">Не хватает колбочек? Попроси друзей зайти в игру, чтобы собрать еще больше колбочек, а затем наполнить их солнечным светом.</message>
+        
+        <message key="sd2014WallMessage1">Смотрите, друзья, какое деревце растет в моей оранжерее! Хотите вырастить такое же, а, может, еще больше? Я с радостью помогу вам в этом!</message>
+        <message key="sd2014WallMessage2">Помогите мне в оранжерее: моему деревцу нужно много солнца, чтобы оно росло дальше. Заходите в игру, и будем помогать друг другу!</message>
+        
+        <message key="sd14CantCollectEmptyFlacksLabel">Можно будет собрать через :time:</message>
+        <message key="sd14CollectEmptyFlacksDialogTitle">Получить колбочки</message>
+        <message key="sd14CollectEmptyFlacksDialogDescription">Чем больше у тебя активных соседей, тем больше колбочек ты сможешь получать ежедневно. Также ты сможешь найти колбочки, выполняя различные действия в игре.</message>
+        
+        <message key="sd14CollectRequestNotAllowedLabel">Друг давно не заходил в игру.</message>
+        
+        <message key="sd2014NotEnoughEmptyFlacksDialogMessage">У тебя не хватает пустых колбочек. Получить их можно у своих соседей, либо выполняя различные действия в игре. Все равно не хватает колбочек?</message>
+        <message key="sd2014NotEnoughEmptyFlacksGotoStreetDialogMessage">У тебя не хватает заполненных колбочек. Заполнить их можно на улице. Хочешь перейти туда?</message>
+        
+    </locale>
+</dictionary>

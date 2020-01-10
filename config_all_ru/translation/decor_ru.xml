@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+
+    <locale name="ru">
+
+        <!-- CARPET -->
+        <message key="carpet1Title">Ковер арабский</message>
+        <message key="carpet2Title">Коврик светло-серый</message>
+        <message key="carpet3Title">Ковролин бежевый</message>
+        <message key="carpet4Title">Коврик овальный</message>
+        <message key="carpet5Title">Меховой коврик</message>
+        <message key="carpet6Title">Коврик-зебра</message>
+        <message key="carpet7Title">Коврик-пластинка</message>
+        <message key="carpet8Title">Палас узорный</message>
+        <message key="carpet9Title">Коврик "Сакура"</message>
+        <message key="carpet10Title">Малый синий коврик</message>
+        <message key="carpet11Title">Малый серый коврик</message>
+        <message key="carpet12Title">Малый зеленый коврик</message>
+        <message key="carpet13Title">Малый оранжевый коврик</message>
+        <message key="carpet14Title">Малый красный коврик</message>
+        <message key="carpetArtdecoTitle">Ковер art-deco</message>
+        <message key="carpetArtdecoRombTitle">Ковер art-deco</message>
+        <message key="carpetGhostTitle">Ковер "Призрак"</message>
+
+        <!-- FIREPLACE -->
+        <message key="fireplace1Title">Камин металлический</message>
+        <message key="fireplace2Title">Камин мраморный</message>
+        <message key="fireplace3Title">Камин золотой</message>
+        <message key="fireplace4Title">Камин-замок</message>
+        <message key="fireplace5Title">Каменный камин</message>
+        <message key="fireplaceDescription">Вид пламени камина успокоит тебя, позволит расслабиться и погрузиться в собственные мысли.</message>
+
+        <!-- OTHER -->
+        <message key="bigMaskVeniceTitle">Большая венецианская маска</message>
+        <message key="candlestickBookVeniceTitle">Венецианский подсвечник</message>
+        <message key="trayVeniceTitle">Поднос из серебра</message>
+        <message key="bookForgetTitle">Книга и чернильца</message>
+        <message key="screenForgetTitle">Ширма</message>
+        <message key="casketGoldTitle">Шкатулка</message>
+        <message key="headArtTitle">Голова</message>
+        <message key="catArtTitle">Кошка</message>
+        <message key="bookArtTitle">Стопка книг</message>
+        <message key="amuletArt">Амулет</message>
+        <message key="maskArt">Маска божества</message>
+        <message key="screenArtdecoTitle">Ширма art-deco</message>
+        <message key="pokerFireplaceTitle">Набор для камина</message>
+        <message key="fireWoodTitle">Поленница</message>
+        <message key="headArtTitle">Голова</message>
+        <message key="catArtTitle">Кошка</message>
+        <message key="bookArtTitle">Книги</message>
+        <message key="amuletArtTitle">Амулет</message>
+        <message key="maskArtTitle">Маска</message>
+        <message key="decorBachelorTitle">Набор "Холостяк"</message>
+        <message key="decorBachelor2Title">Ваза "Холостяк"</message>
+        <message key="officeBachelorTitle">Офисный набор "Холостяк"</message>
+        <message key="regimentBachelorTitle">Книжная полка "Холостяк"</message>
+        <message key="plateBachelorTitle">Тарелка настенная "Холостяк"</message>
+        <message key="wreathBlackTitle">Венок Halloween</message>
+        <message key="webHalloweenTitle">Паутина</message>
+        <message key="batHalloweenRedTitle">Настенная летучая мышь</message>
+        <message key="batHalloweenTitle">Настенная летучая мышь</message>
+        <message key="broomHalloweenTitle">Метла Halloween</message>
+        <message key="pumpkinSmallTitle">Маленькая тыква</message>
+        <message key="treeHalloweenTitle">Дерево Halloween</message>
+        <message key="weddingArchTitle">Свадебная арка</message>
+        <message key="weddingArchOrangeTitle">Свадебная арка</message>
+        <message key="weddingBookTitle">Пъедестал</message>
+        <message key="candyHeartTitle">Подарочная коробка конфет</message>
+        <message key="weddingCandyPinkTitle">Подарочная коробка конфет</message>
+        <message key="vipWheelTitle">Авто-колесо</message>
+        <message key="guitarTitle">Гитара с подставкой</message>
+        <message key="candleStickCastleTitle">Подсвечник "Царский"</message>
+
+        <!--GAMER ROOM-->
+        <message key="gamerShelfTitle">Полка для книг "Стример"</message>
+        <message key="gamerGuitarTitle">Гитара "Стример"</message>
+        <message key="gamerLampTitle">Светильники "Стример"</message>
+        <message key="gamerLoudspeakerTitle">Колонка "Стример"</message>
+        <message key="gamerPosterTitle">Плакат "Стример"</message>
+        <message key="gamerWatchTitle">Часы "Стример"</message>
+        <message key="gamerHeadphonesTitle">Наушники "Стример"</message>
+        <message key="gamerWheelTitle">Руль "Стример"</message>
+
+        <!-- CRAFTED GIFTS -->
+        <message key="photoFrame">Рамка для фото</message>
+        <message key="lilyFlowersTitle">Букет лилий</message>
+        <message key="loveBalloonTitle">Шар "LOVE"</message>
+        <message key="miniFountainTitle">Фонтанчик</message>
+        <message key="pirateShipTitle">Пиратский корабль</message>
+        <message key="roseBasketTitle">Корзина с розами</message>
+        <message key="candelTitle">Свеча</message>
+        <message key="saberTitle">Сабля</message>
+        <message key="easterEggTitle">Пасхальное яйцо</message>
+
+        <!-- PICTURE -->
+        <message key="pictureBaseTitle">Постер</message>
+        <message key="pictureBubbleTitle">Постер с пузырями</message>
+        <message key="pictureFallTitle">Картина с водопадом</message>
+        <message key="pictureVeniceRoseTitle">Картина венецианского мастера</message>
+        <message key="pictureIrisTitle">Картина с ирисом</message>
+        <message key="pictureHrysanthemumTitle">Картина с хризантемами</message>
+        <message key="pictureBeachTitle">Постер "Пляж"</message>
+        <message key="pictureElfTitle">Картина "Эльф"</message>
+        <message key="pictureGirlTitle">Постер "Girl"</message>
+        <message key="pictureArtDecoTitle">Картина art-deco</message>
+        <message key="pictureBachelorTitle">Картина "Холостяк"</message>
+
+        <!-- VASE -->
+        <message key="vaseBaseTitle">Ваза с цветами</message>
+        <message key="vaseDecorativeFlowerTitle">Декоративная ваза</message>
+        <message key="vaseDracaenaTitle">Драцена в горшке</message>
+        <message key="vaseFlowerTitle">Ваза с цветами</message>
+        <message key="vaseGlamTitle">Роскошная ваза</message>
+        <message key="vaseOpenTitle">Ваза</message>
+        <message key="vaseGoldTitle">Золотая ваза</message>
+        <message key="vaseGoldLightTitle">Ваза с позолотой</message>
+        <message key="vaseRoseTitle">Ваза под розы</message>
+        <message key="vaseRoundTitle">Ваза-кувшин</message>
+        <message key="vaseSmallTitle">Малая ваза</message>
+        <message key="vaseWoodFlowerTitle">Горшок под дерево</message>
+        <message key="vaseForgetTitle">Горшок с цветами</message>
+        <message key="vaseSmallForgetTitle">Малый горшок с цветами</message>
+        <message key="vaseArtdecoTitle">Ваза art-deco</message>
+        <message key="vaseHeadTitle">Ваза art-deco</message>
+        <message key="vaseBachelorTitle">Ваза "Холостяк"</message>
+        <message key="weddingBouquetTitle">Свадебный букет</message>
+        <message key="weddingBouquetOrangeTitle">Свадебный букет</message>
+        <message key="weddingBouquet2Title">Свадебный букет</message>
+        <message key="weddingBouquet2OrangeTitle">Свадебный букет</message>
+        <message key="weddingBouquetPresentTitle">Букет в подарок на свадьбу</message>
+        <message key="blueFlowerTitle">Необыкновенный цветок</message>
+        <message key="redTopiaryTitle">Цветочный куст</message>
+        <message key="torchFlowerTitle">Цветок-фонарь</message>
+
+        <!-- ACTIVE DECOR -->
+        <message key="activeDecor1Title">Музыкальный центр</message>
+        <message key="activeDecor5Title">Бумбокс</message>
+        <message key="activeDecor6Title">Акустическая система</message>
+        <message key="activeDecor7Title">Музыкальный центр</message>
+        <message key="activeDecor8Title">Ноутбук серебристый</message>
+        <message key="activeDecor9Title">Яркий ноутбук</message>
+        <message key="activeDecor10Title">Современный ноутбук</message>
+        <message key="computerDescription">Приобрети модный и стильный ноутбук, чтобы в любое время и в любом месте проверять почту от своих друзей и знакомых.</message>
+        <message key="activeDecor2Title">Старый телевизор</message>
+        <message key="applianceTv2Title">Плазменный телевизор</message>
+        <message key="applianceTv3Title">Плазменный телевизор</message>
+        <message key="applianceTv4Title">Большой плазменный телевизор</message>
+        <message key="tvDescription">Погрузись в атмосферу развлечений с лучшими телеканалами Аватарии. Твои друзья обязательно оценят высокое качество изображения!</message>
+        <message key="acoustic1Title">Настольная колонка</message>
+        <message key="acoustic2Title">Длинная напольная колонка</message>
+        <message key="acoustic3Title">Прямоугольная напольная колонка</message>
+        <message key="acoustic4Title">Напольная колонка</message>
+        <message key="miscAppliance1Title">DVD-проигрыватель</message>
+        <message key="stereoDescription">Ни одна вечеринка не обойдется без хорошей подборки музыки. Приобрети стерео, а мы предложим станции на любой музыкальный вкус!</message>
+        <message key="mailBoxCategory">Почт. ящики</message>
+        <message key="mailBox1Title">Навесной почтовый ящик</message>
+        <message key="mailBox2Title">Напольный ящик для почты</message>
+        <message key="mailBox3Title">Почтовый ящик с голубем</message>
+        <message key="mailBoxDescription">Обзаведись почтовым ящиком, чтобы твои друзья в любой момент могли прислать тебе письмо.</message>
+
+        <!-- LAMPS -->
+        <message key="lamp1Title">Светильник настенный</message>
+        <message key="lamp2Title">Изящный светильник</message>
+        <message key="lamp3Title">Светильник напольный</message>
+        <message key="lamp4Title">Светильник овальный</message>
+        <message key="lamp5Title">Лампа напольная</message>
+        <message key="lamp6Title">Светильник напольный</message>
+        <message key="lamp7Title">Светильник настольный</message>
+        <message key="lamp8Title">Светильник настенный</message>
+        <message key="lamp9Title">Светильник настенный</message>
+        <message key="lamp10Title">Светильник настенный</message>
+        <message key="lamp11Title">Светильник настенный</message>
+        <message key="lampDecoTitle">Светильник настенный</message>
+        <message key="lampArtDecoTitle">Лампа art-deco</message>
+        <message key="lampDecoTitle">Лампа art-deco</message>
+        <message key="scullCandleTitle">Лампа "Череп"</message>
+        <message key="pumpkinSilverTitle">Лампа "Тыква"</message>
+        <message key="pumpkinHalloweenTitle">Лампа "Тыква"</message>
+        <message key="pumpkinBlackTitle">Лампа "Тыква"</message>
+        <message key="ghostBlackTitle">Лампа "Призрак"</message>
+        <message key="candleWallHalloweenTitle">Светильник "Летучая мышь"</message>
+        <message key="candleCobwebTitle">Длинный подсвечник Halloween</message>
+
+        <!-- CRAFT -->
+        <message key="moneyBox">Копилка для мелочи</message>
+        <message key="teddyBear">Плюшевый медведь</message>
+        <message key="gerberaPinkTitle">Ваза настольная с розовым цветком</message>
+        <message key="gerberaOrangeTitle">Ваза настольная с оранжевым цветком</message>
+        <message key="gerberaYellowTitle">Ваза настольная с желтым цветком</message>
+        <message key="vaseFloorBlue">Ваза декоративная голубая</message>
+        <message key="vaseFloorRed">Ваза декоративная красная</message>
+        <message key="christmasToy">Ёлочная игрушка</message>
+        <message key="photoFrameBlue">Голубая фоторамка</message>
+        <message key="photoFrameRed">Красная фоторамка</message>
+        <message key="sable">Сабля</message>
+        <message key="bunchOfLilies">Букет лилий</message>
+        <message key="candle">Свеча</message>
+        <message key="stPatrickTitle">Статуэтка лепрекона</message>
+        <message key="victoryBandTitle">Георгиевская лента</message>
+        <message key="wigwamTitle">Вигвам туземцев</message>
+        <message key="canoeTitle">Каноэ</message>
+        <message key="totemsTitle1">Первая коллекция тотемов</message>
+        <message key="totemsTitle2">Вторая коллекция тотемов</message>
+        <message key="totemsTitle3">Третья коллекция тотемов</message>
+
+        <!-- CHRISTMAS -->
+        <message key="newYearFirTitle">Новогодняя ёлка</message>
+        <message key="nyCandleTitle">Новогодняя свеча</message>
+        <message key="garlandNYSphereTitle">Гирлянда</message>
+        <message key="garlandNYViolettTitle">Гирлянда</message>
+        <message key="presentNYBlueTitle">Коробка с подарком</message>
+        <message key="presentNYBlueBigTitle">Коробка с подарком</message>
+        <message key="presentNYGoldTitle">Коробка с подарком</message>
+        <message key="presentNYRedTitle">Коробка с подарком</message>
+        <message key="snowflakeWallTitle">Снежинка</message>
+        <message key="sockNYBlueTitle">Новогодний носок</message>
+        <message key="sockNYGoldTitle">Новогодний носок</message>
+        <message key="sockNYRedTitle">Новогодний носок</message>
+        <message key="treeNYPresentTitle">Золотое дерево с подарком</message>
+        <message key="treeNYViolettTitle">Украшенное дерево</message>
+        <message key="wreathNYRedTitle">Венок новогодний</message>
+        <message key="wreathNYGoldTitle">Венок золотистый</message>
+        <message key="wreathNYBlueTitle">Венок новогодний</message>
+        <message key="gingerbreadManTitle">Пряничный человечек</message>
+        <message key="snowmanTitle">Снеговик</message>
+        <message key="snowballTitle">Снежный шар</message>
+        <message key="decorNYFir1Title">Декоративная бумажная ель</message>
+        <message key="decorNYFir2Title">Новогодний куст</message>
+        <message key="decorNYFir3Title">Декоративная фигурная ёлка</message>
+
+        <!-- SCHOOL -->
+        <message key="pictureEinsteinTitle">Портрет Эйнштейна</message>
+        <message key="flowerSchool1Title">Цветок в горшке</message>
+        <message key="flowerSchool2Title">Цветок в горшке на стену</message>
+        <message key="schoolBookStand1Title">Полка для документов</message>
+        <message key="schoolBlackboardTitle">Доска школьная</message>
+
+        <!-- AMUSIMENT -->
+        <message key="horseAmusimentWhiteTitle">Качели "Белая лошадь"</message>
+        <message key="horseAmusimentBlackTitle">Качели "Черная лошадь"</message>
+        <message key="horseAmusimentDragonTitle">Качели "Дракон"</message>
+        <message key="horseDescription">Качели помогут развеять неловкую обстановку на вечеринке. Если твои гости заскучали - качайтесь вместе в такт любимой музыке!</message>
+        <message key="wallAquarium1Title">Аквариум настенный</message>
+        <message key="floorAquarium1Title">Аквариум напольный</message>
+        <message key="aquariumDescription">Хочешь поразить своих гостей и друзей? Укрась свою квартиру анимированным аквариумом! В аквариум можно заселять различных рыбок из магазина Подарков и Приколов.</message>
+        <message key="carVip1Title">Аватаромобиль</message>
+
+        <!-- BEACH CRAFT ITEMS -->
+        <message key="surfboardTitle">Доска для серфа</message>
+        <message key="mermaidCastleTitle">Замок русалочки</message>
+
+        <!-- NEW FURNITURE SETS:
+                COUNTRY, BEACH, ALIEN, JAPAN,
+                ARTNOUVEAU, MAYA, PRINCESS -->
+        <message key="picturePrincessTitle">Картина "Принцесса"</message>
+        <message key="pictureJapan1Title">Картина "Япония"</message>
+        <message key="pictureJapan2Title">Картина "Япония"</message>
+        <message key="carpetJapanTitle">Коврик "Япония"</message>
+        <message key="carpetPrincessTitle">Ковер "Принцесса"</message>
+        <message key="carpetAlienTitle">Коврик "Пришельцы"</message>
+        <message key="lampJapanTitle">Лампа "Япония" напольная</message>
+        <message key="lampArtNouveauTitle">Лампа "Модерн"</message>
+        <message key="lampPrincessTitle">Лампа "Принцесса"</message>
+        <message key="fireplaceCountryTitle">Камин "Кантри"</message>
+        <message key="katanaJapanBlackTitle">Катана декоративная</message>
+        <message key="katanaJapanRedTitle">Красная катана</message>
+        <message key="teaServiceJapanTitle">Японский сервиз</message>
+        <message key="fishBeachTitle">Статуя</message>
+        <message key="palmBeachTitle">Пальма</message>
+        <message key="barAlienTitle">Барная стойка</message>
+        <message key="pipeAlienTitle">Колба с пришельцем</message>
+        <message key="poolBeachTitle">Декоративный бассейн</message>
+        <message key="tableCoffeeCountryTitle">Кофейный столик "Кантри"</message>
+        <message key="diaryPrincessTitle">Дневник принцессы</message>
+        <message key="chestPrincessTitle">Сундучок принцессы</message>
+        <message key="tvAlienTitle">Монитор пришельцев</message>
+        <message key="djAlienTitle">DJ-установка</message>
+        <message key="actAlienTitle">Акустика пришельцев</message>
+        <message key="plateCountryTitle">Тарелка "Кантри"</message>
+        <message key="flowerMayaLabel">Цветок "Майя"</message>
+        <message key="treeMayaLabel">Дерево "Майя"</message>
+        <message key="trashMayaLabel">Урна "Майя"</message>
+        <message key="fireplaceMayaLabel">Факел напольный "Майя"</message>
+        <message key="torchMayaLabel">Факел настенный "Майя"</message>
+        <message key="carpetMayaLabel">Коврик "Майя"</message>
+
+        <!-- NY 2014 EVENT ITEMS -->
+        <message key="columnIceNY14Label">Ледяная колонна</message>
+        <message key="tangerineTreeIceNY14Label">Дерево изо льда</message>
+
+        <!-- SV14 -->
+        <message key="lampSV14Label">Лампа "Признание"</message>
+        <message key="castleSV14Label">Воздушный замок</message>
+
+        <!-- DZO14 -->
+        <message key="lampFebruary23Label">Лампа освещения бункера</message>
+        <message key="ventilationFebruary23Label">Вентиляция бункера</message>
+        <message key="clockCategory">Часы</message>
+        <message key="clockFebruary23Label">Электронные часы</message>
+
+        <!-- NYROOF -->
+        <message key="binocularsNYRoofLabel">Бинокль</message>
+        <message key="plantNYRoofLabel">Ящик с зеленью</message>
+        <message key="menuNewspaperNYRoofLabel">Набор "Утренний кофе"</message>
+        <message key="telescopeNYRoofLabel">Телескоп</message>
+        <message key="telescopeDescription">Приобретя этот предмет, ты сможешь увидеть много всего интересного, ты точно готов к этому?</message>
+
+        <!-- 1st MAY 2014 -->
+        <message key="workersPictureTitle">Постер "Мир. Труд. Аватария."</message>
+
+        <!-- SEA KITCHEN -->
+        <message key="carpetSeaLabel">Коврик "Морской бриз"</message>
+        <message key="callasSeaLabel">Декоративная ваза</message>
+
+        <!-- RACE CARS -->
+        <message key="raceCarsCollection">Машины</message>
+        <message key="carBeetleBlueTitle">Жук-мобиль "Лагуна"</message>
+        <message key="carBeetleOrangeTitle">Жук-мобиль "Фиеста"</message>
+        <message key="carJeepMilitaryTitle">Джип-мобиль "Military"</message>
+        <message key="carJeepYellowTitle">Джип-мобиль "Sunny"</message>
+        <message key="carLamboGreenTitle">Спорт-мобиль "Poison"</message>
+        <message key="carLamboWhiteTitle">Спорт-мобиль "Wild"</message>
+        <message key="carLotusRedTitle">Спорт-мобиль "Lotus Red"</message>
+        <message key="carLotusVioletTitle">Спорт-мобиль "Lotus Violet"</message>
+        <message key="carPontiacBlackTitle">Ретро-мобиль "Desert Rose"</message>
+        <message key="carPontiacCherryTitle">Ретро-мобиль "Crazy Cherry"</message>
+        <message key="carDescription">На машине можно посетить Каньон, принять участие в гонках и просто хорошо провести время со своими друзьями!</message>
+
+        <!--SV 19 -->
+        <message key="wddnCarLabel">Жук-мобиль "Купидон"</message>
+
+        <!-- SP14 -->
+        <message key="spLimitGenerator">Генератор энергии</message>
+        <message key="spUnlimGenerator">Вечный двигатель</message>
+        <message key="spRobot">Робот-трудяжка</message>
+        <message key="steampunkUnitCategoryLabel">Стимпанк</message>
+        <message key="steampunkGeneratorCategoryLabel">Стимпанк</message>
+        <message key="sp2014Label">Стимпанк</message>
+
+        <!-- GARAGE ROOM -->
+        <message key="garageRetroDrumkit">Ударная установка "Аватария"</message>
+        <message key="garageRetroFuelCan">Канистра</message>
+        <message key="garageRetroSpareWheel">Подставка под колесо</message>
+        <message key="garageRetroTires">Запаска</message>
+        <message key="garageRetroExtinguisher">Огнетушитель</message>
+        <message key="garageRetroRaceHelmet">Гоночный шлем</message>
+        <message key="garageRetroGasStation">Бензоколонка</message>
+        <message key="garageRetroToolPanel">Набор инструментов</message>
+        <message key="garageRetroTable">Рабочий стол</message>
+        <message key="garageRetroLookPit">Смотровая яма</message>
+        <message key="garageTechnoPodium">Подиум для авто</message>
+
+        <!-- SD14 -->
+        <message key="summerDayFlowerCategoryLabel">Оранжерея</message>
+        <message key="summerDayFlower1Title">Оранжерея</message>
+
+        <!-- HALLOWEEN 2014 -->
+        <message key="mirrorHalloweenTitle">Мистическое зеркало</message>
+
+        <!-- NY2015 -->
+        <message key="magicMachineCategoryLabel">Фабрика Санты</message>
+        <message key="magicMachineLabel">Фабрика подарков</message>
+        <message key="trcSantaHouseLabel">Фонарь "Санта"</message>
+        <message key="frplSantaHouseLabel">Камин "Санта"</message>
+
+        <!-- SV15 -->
+        <message key="vaseSV15Label">Ваза "Аллея любви"</message>
+
+        <!-- MOTO -->
+        <message key="bikesCategory">Мотоциклы</message>
+        <message key="bikeChopperBlueTitle">Чоппер "Night Wolf"</message>
+        <message key="bikeChopperRedTitle">Чоппер "Red Devil"</message>
+        <message key="bikeDucattiOrangeTitle">Спортбайк "Winner"</message>
+        <message key="bikeDucattiYellowTitle">Спортбайк "Champion"</message>
+        <message key="bikeRaiserGreenTitle">Байк "Cruiser"</message>
+        <message key="bikeRaiserWhiteTitle">Байк "Rider"</message>
+        <message key="bikeDescription">На мотоцикле можно посетить Каньон, принять участие в гонках и покрасоваться покупкой перед другими аватарами.</message>
+
+        <!-- EASTER15 -->
+        <message key="easterRabbitTitle">Пасхальный кролик</message>
+
+        <!-- CONAN -->
+        <message key="columnConanTitle">Варварская колонна</message>
+        <message key="firePlateConanTitle">Костер варваров</message>
+
+        <!-- DIROL2015-->
+        <message key="dirol15PictureTitle">Картина Dirol</message>
+
+        <!-- GARDENER FRAMED BUTTERFLY-->
+        <message key="grdFrmBtrfl1">Рамка "Синяя бабочка"</message>
+        <message key="grdFrmBtrfl2">Рамка "Желтая бабочка"</message>
+        <message key="grdFrmBtrfl3">Рамка "Зеленая бабочка"</message>
+
+        <!-- GARDENER VASES -->
+        <message key="grdnDsyBqt">Букет "Дэйзи"</message>
+        <message key="grdnFlwrBskt">Корзинка с цветами</message>
+        <message key="grdnFlwrbd">Клумба "Садовник"</message>
+
+        <!-- GARDENER HERBARIUM-->
+        <message key="grdnrHrbrm">Гербарий</message>
+        <message key="chstGrdnrGft">Сундук "Садовник"</message>
+        <message key="grdnrBtrflCol">Коллекция живых бабочек</message>
+
+        <!-- JANITOR -->
+        <message key="jntrFrplc">Камин "Уборщик"</message>
+        <message key="jntrKnght">Рыцарь</message>
+        <message key="jntrHrgls">Песочные часы</message>
+        <message key="jntrGrmphn">Патефон</message>
+        <message key="jntrTrnsstr">Радио</message>
+        <message key="jntrGrndClck">Напольные часы</message>
+        <message key="jntrCckClck">Часы с кукушкой</message>
+        <message key="jntrRckr">Качели "Уборщик"</message>
+        <message key="jntrRlw">Железная дорога</message>
+        <message key="jntrJkbx">Музыкальный автомат</message>
+        <message key="jntrAuto">Жук-мобиль "Уборщик"</message>
+
+        <!-- TROPICAL BEDROOM -->
+        <message key="vsTrBthLabel">Ваза «Тропики»</message>
+        <message key="pctTrBthLabel">Картина «Тропический коктейль»</message>
+        <message key="clmTrBthLabel">Колонна «Тропики»</message>
+        <message key="bookTrBthLabel">Книга джунглей</message>
+        
+        <!-- KOTEXT -->
+        <message key="vaseKotexLabel">Ваза Kotex</message>
+
+        <!-- HOSPITAL -->
+        <message key="lmpHsptl">Больничный светильник</message>
+        <message key="fldngScrnHsptl">Больничная ширма</message>
+        <message key="drpCuntrHsptl">Капельница</message>
+        <message key="vntltnHsptl">Аппарат вентиляции легких</message>
+        <message key="dfbrlltrHsptl">Дефибриллятор</message>
+
+        <!-- BLACK ROSE -->
+
+        <message key="pctBlkRs1Label">Картина «Роза в детстве»</message>
+        <message key="pctBlkRs2Label">Картина «Родители Розы»</message>
+        <message key="pctBlkRs3Label">Картина «Портрет Розы»</message>
+        <message key="pctBlkRs4Label">Картина «Винсент»</message>
+        <message key="bookBlkRsLabel">Книга «Дневник Розы»</message>
+        <message key="musCentBlkRsLabel">Граммофон «Чёрная Роза»</message>
+
+        <!-- PhOTOGRAPHER -->
+        <message key="proPhtTblLabel">Журнальный столик «Фотограф»</message>
+        <message key="proPhtCffLabel">Кофе</message>
+        <message key="proPhtPctrLabel">Картина «Фотограф»</message>
+        <message key="proPhtVsLabel">Ваза «Фотограф»</message>
+        <message key="proPhtWllLabel">Стена «Фотограф»</message>
+        <message key="proPhtChrLabel">Табурет «Фотограф»</message>
+        <message key="proPhtCmrLabel">Фотокамера</message>
+        <message key="proPhtTriLabel">Штатив-тренога</message>
+        <message key="proPhtCrptLabel">Ковер «Фотограф»</message>
+        <message key="proPhtUmrlLabel">Зонт-софтбокс</message>
+        <message key="proPhtFlrLabel">Пол для фотостудии</message>
+        <message key="proPhtFn1Label">Вентилятор для фотостудии</message>
+        <message key="proPhtScrnLabel">Фото-стена</message>
+        <message key="proPhtLmpLabel">Лампа с софтбоксом</message>
+        <message key="proPhtFn2Label">Вентилятор «Фотограф»</message>
+        <message key="proPhtDrLabel">Дверь «Фотограф»</message>
+        <message key="proPhtSfLabel">Диван «Фотограф»</message>
+
+        <!-- SD16 -->
+        <message key="sd16DrtPndLabel">Грязный пруд</message>
+        <message key="sd16ClnPndLabel">Пруд</message>
+        <message key="sd16FlwPndLabel">Пруд с цветами</message>
+        <message key="sd16FltPndLabel">Пруд с чистой водой</message>
+        <message key="sd16FshPndLabel">Пруд с рыбками</message>
+
+        <!-- GOLDEN TREES -->
+        <message key="gdnTre1Label">Изумрудное дерево</message>
+        <message key="gdnTre2Label">Рубиновое дерево</message>
+
+        <!-- NEW YEAR 2018 -->
+        <message key="ny18SnbrdLabel">Сноуборд</message>
+
+        <!-- DZO 2018 -->
+        <message key="dzo18PstrLabel">Плакат "AVA-23"</message>
+        <message key="dzo18SttLabel">Самолет "AVA-23"</message>
+
+        <!-- AVA BIRTHDAY 2018 -->
+        <message key="ab18BlnLabel">Праздничные шары</message>
+        <message key="ab18CkcLabel">Праздничный торт</message>
+        <message key="ab18GrlndLabel">Праздничные флажки</message>
+
+        <!-- HALLOWEEN 2018 -->
+        <message key="hw18PmpPtLabel">Горшок с тыквой</message>
+        <message key="evilFlowerTitle">Дьявольский цветок</message>
+        <message key="infernalRabbitTitle">Адский кролик</message>
+        <message key="witchFireplaceTitle">Ведьмин очаг</message>
+
+        <!-- VK PAY 2018 -->
+        <message key="notebookVKPayLabel">Ноутбук VK</message>
+
+        <!-- NEW YEAR 2019 -->
+        <message key="ny19TngTrLabel">Мандариновое дерево</message>
+        <message key="ny19BllsLabel">Шарики "Ледяной дворец"</message>
+        <message key="ny19GrlndLabel">Гирлянда "Ледяной дворец"</message>
+        <message key="ny19VsLabel">Ваза с мандаринами</message>
+        <message key="ny19FireplaceLabel">Камин "Ледяной дворец"</message>
+        <message key="ny19PnLabel">Пианино "Ледяной дворец"</message>
+
+        <!-- SV 19 -->
+        <message key="valentineBearPinkLabel">Розовый мишка из роз</message>
+        <message key="valentineBearRedLabel">Красный мишка из роз</message>
+        <message key="valentineBearVioletLabel">Фиолетовый мишка из роз</message>
+        <message key="valentineRosesVaseLabel">Ваза с тремя розами</message>
+        <message key="valentineFountainLabel">Фонтан с ангелочком</message>
+
+        <!-- DZO 19 -->
+        <message key="dzo19PlnTitle">Качели "Самолет"</message>
+        <message key="dzo19PlnDescription">От винта! Хочешь почувствовать себя настоящим летчиком? Спеши сесть за штурвал!</message>
+
+        <!-- ST. PATRICK -->
+        <message key="stPatrickPotTitle">Горшочек с золотом</message>
+
+        <!-- EASTER 2019 -->
+        <message key="easterRabbitsLabel">Плюшевые кролики</message>
+        <message key="easterWreathLabel">Пасхальный венок</message>
+
+        <!-- FIRST MAY -->
+        <message key="m1st19PosterLabel">Плакат "День труда"</message>
+
+        <message key="floorTableLabel">Табличка</message>
+        <message key="floorTableDescription">Подсчет очков, указание цены, угадывание слова по буквам, это и многое другое ты можешь сделать с помощью таблички!</message>
+
+
+        <message key="finishCarpetLabel">Вытянутый финишный коврик</message>
+        <message key="colorBigCarpetTitle">Большой меняющий цвет коврик</message>
+        <message key="colorSmallCarpetTitle">Малый меняющий цвет коврик</message>
+        <message key="colorCarpetDescription">В редакторе комнаты ты можешь менять цвет коврика</message>
+
+        <message key="colorWheelLabel">Радужное колесо</message>
+        <message key="colorWheelDescription">Выбрать случайный цвет ты можешь с помощью радужного колеса</message>
+
+        <!-- RUSSIA DAY 2019 -->
+        <message key="rusDay19BearDrummerLabel">Мишка барабанщик</message>
+
+        <!-- SEASON EVENT -->
+        <message key="seFanLabel">Вентилятор "Золотая Осень"</message>
+
+        <!-- CLAN GLAMOUR -->
+
+        <message key="pnkSofaClnGlmrLabel">Диван "Комната принцессы"</message>
+        <message key="grnSofaClnGlmrLabel">Софа "Комната принцессы"</message>
+
+        <message key="uncrnClnGlmrLabel">Единорожек  "Комната принцессы"</message>
+        <message key="uncrnClnGlmrDescription">Мечтаешь показаться на единороге? Тогда у тебя есть отличный шанс сделать это!</message>
+
+        <message key="tblClnGlmrLabel">Столик "Комната принцессы"</message>
+        <message key="lampClnGlmrLabel">Светильник "Комната принцессы"</message>
+        <message key="uncrnHeadClnGlmrLabel">Единорог  "Комната принцессы"</message>
+        <message key="pnkCrptClnGlmrLabel">Коврик "Комната принцессы"</message>
+        <message key="brwnCrptClnGlmrLabel">Ковер "Комната принцессы"</message>
+        <message key="mrrClnGlmrLabel">Зеркало  "Комната принцессы"</message>
+        <message key="vaseClnGlmrLabel">Вазочка "Комната принцессы"</message>
+        <message key="scrnClnGlmrLabel">Ширма "Комната принцессы"</message>
+        <message key="bxsClnGlmrLabel">Коробочки "Комната принцессы"</message>
+        <message key="bxsClnGlmrLabel">Коробочки "Комната принцессы"</message>
+        <message key="trayClnGlmrLabel">Поднос  "Комната принцессы"</message>
+
+
+        <!-- CLAN MAGIC -->
+        <message key="mgkWndClnMgkLabel">Волшебная палочка "Средневековый замок"</message>
+        <message key="armsphrClnMgkLabel">Глобус "Средневековый замок"</message>
+        <message key="tblBkClnMgkLabel">Книги "Средневековый замок"</message>
+        <message key="carpetClnMgkLabel">Ковер "Средневековый замок"</message>
+
+        <message key="tlscpClnMgkLabel">Телескоп "Средневековый замок"</message>
+        <message key="telescopeMagicClanDescription">Первый средневековый телескоп, в который можно наблюдать за соседними землями.</message>
+
+        <!-- CLAN SCI FI -->
+        <message key="armchrGrnClnSciFiLabel">Зеленое кресло "Космическая станция"</message>
+        <message key="armchrOrngClnSciFiLabel">Оранжевое кресло "Космическая станция"</message>
+        <message key="otmnClnSciFiLabel">Пуфик "Космическая станция"</message>
+        <message key="stlClnSciFiLabel">Стул "Космическая станция"</message>
+        <message key="tblClnSciFiLabel">Стол "Космическая станция"</message>
+        <message key="barClnSciFiLabel">Барная стойка "Космическая станция"</message>
+        <message key="carpetClnSciFiLabel">Ковер "Космическая станция"</message>
+        <message key="plantClnSciFiLabel">Цветок "Космическая станция"</message>
+
+        <message key="holoPlanetsClnSciFiLabel">Глобус "Космическая станция"</message>
+        <message key="holoPlanetsClnSciFiDescription">Новые технологии позволяют сканировать ближайшие планеты и наблюдать за ними."</message>
+
+        <message key="ccmbrClnSciFiLabel">Куст "Космическая станция"</message>
+        <message key="wllPnlClnSciFiLabel">Монитор "Космическая станция"</message>
+
+        <message key="brmnClnSciFiLabel">Бот бармен "Космическая станция"</message>
+        <message key="brmnClnSciFiDescription">Какой космический корабль без робота на борту, а если это бармен, то скучать точно не придется!</message>
+
+        <message key="infPnlClnSciFiLabel">Компьютер "Планеты"</message>
+        <message key="infPnlClnSciFiDescription">Этот компьютер показывает планеты с ближайшей солнечной системы.</message>
+
+        <message key="infShpPnlClnSciFiLabel">Компьютер "Космический корабль"</message>
+        <message key="infShpPnlClnSciFiDescription">Этот компьютер показывает все системы космического корабля.</message>
+
+        <!-- CLAN POST APOCALYPSE -->
+        <message key="trChrClnPstApcLabel">Шины "Постапокалипсис"</message>
+        <message key="carClnPstApcLabel">Машина "Постапокалипсис"</message>
+        <message key="brlTblClnPstApcLabel">Бочка "Постапокалипсис"</message>
+        <message key="tblClnPstApcLabel">Стол "Постапокалипсис"</message>
+
+        <message key="brlClnPstApcLabel">Бочка с огнем "Постапокалипсис"</message>
+        <message key="brlClnPstApcDescription">В этой бочке постоянно поддерживается огонь, чтобы не замерзнуть прохладной ночью.</message>
+
+        <message key="duckClnPstApcLabel">Уточка "Постапокалипсис"</message>
+
+        <message key="bbordClnPstApcLabel">Билборд "Постапокалипсис"</message>
+        <message key="bbordClnPstApcDescription">Билборд продолжает показывать рекламу даже после апокалипсиса.</message>
+
+        <message key="crtClnPstApcLabel">Корзина "Постапокалипсис"</message>
+        <message key="fncClnPstApcLabel">Ограждение "Постапокалипсис"</message>
+        <message key="radioClnPstApcLabel">Рация "Постапокалипсис"</message>
+
+        <!-- NEW YEAR 2020 -->
+        <message key="NY20BllnsLabel">Воздушные шары</message>
+        <message key="NY20WllStrLabel">Звезда на стену</message>
+        <message key="NY20ScnLabel">Подиум "Голубой огонёк"</message>
+        <message key="NY20YllwGrlndLabel">Желтая гирлянда</message>
+        <message key="NY20GrnGrlndLabel">Зеленая гирлянда</message>
+        <message key="NY20BlGrlndLabel">Голубая гирлянда</message>
+        <message key="NY20LghtLabel">Прожектор "Голубой огонёк"</message>
+        <message key="NY20GlssLabel">Бокал "Голубой огонёк"</message>
+        <message key="NY20PltLabel">Тарелка со столовыми приборами</message>
+        <message key="NY20SprklrLabel">Бенгальский огонь</message>
+        <message key="NY20CnpsLabel">Канапе "Голубой огонёк"</message>
+        <message key="NY20LmndLabel">Лимонад "Голубой огонёк"</message>
+
+        <message key="pdmNY20CrptLabel">Подиум "Показ мод"</message>
+        <message key="pdmNY20LampLabel">Лампа "Показ мод"</message>
+        <message key="pdmNY20FlrLampLabel">Напольный прожектор "Показ мод"</message>
+        <message key="pdmNY20SptLghtLabel">Настенный прожектор "Показ мод"</message>
+        <message key="pdmNY20ClmnLabel">Стеклянная панель "Показ мод"</message>
+        <message key="pdmNY20BrrLabel">Ограждение "Показ мод"</message>
+
+        <message key="lightDeerLabel">Олень Рудольф</message>
+    </locale>
+
+</dictionary>

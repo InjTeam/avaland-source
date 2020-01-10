@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 18:24:45 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:24:45 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {mbm: {ac: null, sk: "blackMobileSkin"}, pf: {pf: {vsgst: {pgs: 0, l: 20, tp: "vsgst"}, jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}}}, clths: {clths: [{clid: null, tpid: "grlSD16Dcr"}, {clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "grlSD16Ovrl"}, {clid: null, tpid: "grlSD16Shs"}, {clid: null, tpid: "grlSD16Stk"}, {clid: null, tpid: "grlSD16Brcl"}]}, apprnc: {mc: 15, rg: 1, pt: 0, rc: 11, bt: 0, ss: 0, g: 2, mt: 31, brt: 23, ssc: 1, et: 37, pc: 1, ht: 129, shc: 12, fac: 1, fat: 0, n: "Хейзерша", hc: 20, sc: 1, sh: 1, ec: 5, fft: 7, bc: 1, nct: 0, brc: 1}, locinfo: {at: "", x: 12.25, s: "127.0.0.1", shlc: true, y: 14.63, d: 4, l: "salon_sn1_1", pl: "", st: 23}, ci: {shousd: false, vexp: 1965298000, exp: 85800, ysct: 0, fak: null, sbrt: 0, vip: true, shcr: true, lwts: 0, gtrfrd: 0, pamns: {amn: []}, vsexp: 1965298000, strfrd: 0, skid: null, rtrtm: 0, vsact: true, fexp: 0, skrt: 0, crt: 562, crst: 0, vfgc: 0, compid: 0, actrt: 0, ceid: 0, hrt: 10173, vret: 0, cmid: 0, sbid: null, dr: true, actrd: 0, ys: 0, kyktid: null, gdc: 0, bcld: 0, spp: 0, lgt: 0, tts: null, trid: "freelanceModerator", actrp: 0, plcmt: {}, rpt: 0, eml: null, as: null, lvt: 1578583174, trcd: 0, lrnt: 0}, uid: "350", usrinf: {rl: 0}}}]

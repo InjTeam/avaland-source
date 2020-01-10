@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 19:56:19 GMT+0500 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 19:56:05 GMT+0500 2020 [INFO] Client said: 34: ["house_412_livingroom", "h.r.u", {x: 4.58, y: 3.2, st: 23, uid: "412", at: "", d: 3}]
+Thu Jan 9 19:56:04 GMT+0500 2020 [INFO] Client said: 34: ["house_412_livingroom", "h.r.m", {uid: "412", dx: 4.58, dy: 3.2, sy: 0.1, sx: 4.05}]

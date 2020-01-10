@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 17:56:31 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-4I::NotEnoughGoldProductDialog/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-1Dw::PaymentService/checkGold()
+	at _-1Dw::PaymentService/checkPrice()
+	at _-2dH::BuyClothesDialog/onGoldBuyClick()
+Thu Jan 9 17:56:30 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 17:56:30 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, emd: 0, gld: 81592, enrg: 500}}]
+Thu Jan 9 17:56:30 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 17:56:30 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: {ctx: {dialogSource: "clothesShopDialog"}, ct2: null, ct3: null, tpid: "grlBtsPrfClr", ct1: null, srv: 1}, prid: "pack9999", qnt: 1}]

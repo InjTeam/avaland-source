@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 22:17:12 GMT+0700 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+Thu Jan 9 22:17:12 GMT+0700 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/CaseCountry.swf?2, status: 2) 
+Thu Jan 9 22:17:11 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 1351, slvr: 10000, enrg: 500, emd: 0}}]
+Thu Jan 9 22:17:11 GMT+0700 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, tid: "wrdrbHW2019", iid: ""}}]
+Thu Jan 9 22:17:10 GMT+0700 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, cnt: 1, tpid: "wrdrbHW2019"}]
+Thu Jan 9 22:17:07 GMT+0700 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/WardrobeHW2019.swf, status: 2) 

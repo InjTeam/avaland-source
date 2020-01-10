@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="fd16ModuleName">День семьи и верности</message>
+        <message key="fd16GiveTrophyMessage">Титул отправлен твоей половинке</message>
+        <message key="fd16GiveTrophyMenuTitle">Подарить титул</message>
+        <message key="fd16TrophyExist">У твоей половинки уже есть этот титул</message>
+        <gender key="fd16NotificationMessage">
+            <form>:name: подарил тебе титул ":trophy:"</form>
+            <form>:name: подарила тебе титул ":trophy:"</form>
+        </gender>
+        <message key="fd16FindInfoMessage">Попроси свою половинку подарить тебе титул ":trophy:" и ты будешь получать на 50% больше очков активности, пока этот титул с тобой</message>
+        <message key="fd16ShopInfoNotMarriedMessage">Удивительная скидка на кольца в магазине! Самое время сыграть свадьбу!!!</message>
+        <message key="fd16ShopInfoMarriedMessage">В день семьи мы предлагаем вам отличные скидки на обручальные кольца!</message>
+    </locale>
+</dictionary>

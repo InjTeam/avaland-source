@@ -1,0 +1,21 @@
+ClientError: Thu Jan 9 17:28:34 GMT+0200 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 17:28:20 GMT+0200 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 2560, emd: 0, enrg: 500, gld: 10052}}]
+Thu Jan 9 17:28:19 GMT+0200 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "treeMya"}}]
+Thu Jan 9 17:28:17 GMT+0200 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "treeMya", cnt: 1}]
+Thu Jan 9 17:28:16 GMT+0200 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/TreeMaya.swf, status: 2) 
+Thu Jan 9 17:28:13 GMT+0200 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 2560, emd: 0, enrg: 500, gld: 10089}}]
+Thu Jan 9 17:28:13 GMT+0200 2020 [INFO] Server said: 34: ["ntf.inv", {it: {iid: "", c: 1, tid: "flvrMya"}}]
+Thu Jan 9 17:28:11 GMT+0200 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "flvrMya", cnt: 1}]
+Thu Jan 9 17:28:10 GMT+0200 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/FlowerMaya.swf, status: 2) 

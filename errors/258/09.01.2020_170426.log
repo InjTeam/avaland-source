@@ -1,0 +1,22 @@
+ClientError: Thu Jan 9 17:04:10 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-4WJ::EditAvatarAppearanceDialog/_-3EJ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-Qp::_-1DK/close()
+	at _-4WJ::_-3BQ/_-1dw()
+Thu Jan 9 17:03:57 GMT+0300 2020 [INFO] Server said: 34: ["a.apprnc.save", {apprnc: {rg: 0, nct: 0, brc: 5, rc: 1, bt: 0, g: 1, et: 1, sh: 0, shc: 1, fft: 0, ht: 89, hc: 7, fat: 0, ssc: 1, pt: 0, ss: 0, n: ".ЕНОТ.", brt: 6, sc: 1, mc: 3, pc: 1, fac: 1, ec: 2, mt: 19, bc: 1}}]
+Thu Jan 9 17:03:54 GMT+0300 2020 [INFO] Client said: 34: [null, "h.minfo", {onl: false, tm: 1578578635}]
+Thu Jan 9 17:03:54 GMT+0300 2020 [INFO] Server said: 34: ["a.apprnc.save", {apprnc: {rg: 0, nct: 0, brc: 5, rc: 1, bt: 0, g: 1, et: 1, sh: 0, shc: 1, fft: 0, ht: 89, hc: 7, fat: 0, ssc: 1, pt: 0, ss: 0, n: ".ЕНОТ.", brt: 6, sc: 1, mc: 3, pc: 1, fac: 1, ec: 2, mt: 19, bc: 1}}]
+Thu Jan 9 17:03:37 GMT+0300 2020 [INFO] Client said: 34: [null, "a.apprnc.save", {apprnc: {rg: 0, nct: 0, brc: 5, rc: 1, bt: 0, pt: 0, et: 1, fft: 0, g: 1, ssc: 1, sh: 0, ht: 89, hc: 7, shc: 1, ss: 0, n: ".ЕНОТ.", brt: 6, sc: 1, mc: 3, pc: 1, fat: 0, fac: 1, ec: 2, mt: 19, bc: 1}}]
+Thu Jan 9 17:03:33 GMT+0300 2020 [INFO] Client said: 34: [null, "a.apprnc.save", {apprnc: {rg: 0, nct: 0, brc: 5, rc: 1, bt: 0, pt: 0, et: 1, fft: 0, g: 1, ssc: 1, sh: 0, ht: 89, hc: 7, shc: 1, ss: 0, n: ".ЕНОТ.", brt: 6, sc: 1, mc: 3, pc: 1, fat: 0, fac: 1, ec: 2, mt: 19, bc: 1}}]
+Thu Jan 9 17:00:56 GMT+0300 2020 [INFO] Server said: 34: ["h.minfo", {has.avtr: false}]
+Thu Jan 9 17:00:56 GMT+0300 2020 [INFO] Server said: 34: ["ctmr.get", {tu: {snowboardRating: []}}]
+Thu Jan 9 17:00:55 GMT+0300 2020 [INFO] Server said: 34: ["ur.get", {bt: [{uid: 14, cr: 14409, hr: 413116}, {uid: 70, cr: 6295, hr: 251420}, {uid: 64, cr: 1685, hr: 120844}, {uid: 18, cr: 1066, hr: 60174}, {uid: 22, cr: 39067, hr: 25373}, {uid: 97, cr: 1304, hr: 25173}, {uid: 52, cr: 19554, hr: 24539}, {uid: 32, cr: 9158, hr: 12979}, {uid: 17, cr: 23065, hr: 11208}, {uid: 62, cr: 433, hr: 6005}]}]
+Thu Jan 9 17:00:28 GMT+0300 2020 [INFO] Server said: 34: ["mail.gc", {in: [], out: []}]
+Thu Jan 9 17:00:28 GMT+0300 2020 [INFO] Server said: 34: ["rl.get", {uid: "258", rlts: {}}]
+Thu Jan 9 17:00:28 GMT+0300 2020 [INFO] Client said: 34: [null, "h.minfo", {onl: false, tm: 1578578428}]
+Thu Jan 9 17:00:28 GMT+0300 2020 [INFO] Client said: 34: [null, "ctmr.get", {}]
+Thu Jan 9 17:00:28 GMT+0300 2020 [INFO] Client said: 34: [null, "ur.get", {}]
+Thu Jan 9 17:00:28 GMT+0300 2020 [INFO] Client said: 34: [null, "mail.gc", {}]
+Thu Jan 9 17:00:28 GMT+0300 2020 [INFO] Client said: 34: [null, "rl.get", {}]
+Thu Jan 9 17:00:28 GMT+0300 2020 [INFO] Server said: 1: ["258", true, false, false]
+Thu Jan 9 17:00:27 GMT+0300 2020 [INFO] Client said: 1: ["house", "258", "JAXakRitbvEyBHcOTpob", {nk: "", lng: "ru", lcl: "ru", ctr: 0, pht: "http://vkontakte.ru/images/question_b.gif", rfid: null, gdr: 0, fn: "", clvrn: "84.0.4", cty: 0, bd: "", rd: 0, v: 2, sid: "258", ln: "", rftp: null}]

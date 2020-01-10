@@ -1,0 +1,52 @@
+ClientError: Thu Jan 9 17:52:51 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+	at MethodInfo-3593()
+	at SetIntervalTimer/onTimer()
+	at flash.utils::Timer/tick()
+Thu Jan 9 17:52:51 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/PondDirty.swf, status: 2) 
+Thu Jan 9 17:52:37 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 9985000}]
+Thu Jan 9 17:52:37 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 10000000, emd: 0, gld: 6394}}]
+Thu Jan 9 17:52:36 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 99850}]
+Thu Jan 9 17:52:32 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 17:52:32 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 15000, emd: 0, gld: 106244}}]
+Thu Jan 9 17:52:30 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 17:52:30 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: {ct1: null, ctx: {dialogSource: "buySilverDialog"}, ct3: null, ct2: null, tpid: "silverResource", srv: 7}, qnt: 1, prid: "pack9999"}]
+Thu Jan 9 17:52:29 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 17:52:27 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 17:52:27 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 15000, emd: 0, gld: 96245}}]
+Thu Jan 9 17:52:26 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 17:52:26 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: {ct1: null, ctx: {dialogSource: "buySilverDialog"}, ct3: null, ct2: null, tpid: "silverResource", srv: 7}, qnt: 1, prid: "pack9999"}]
+Thu Jan 9 17:52:24 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 17:52:11 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 17:52:11 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 15000, emd: 0, gld: 86246}}]
+Thu Jan 9 17:52:11 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 17:52:11 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: {ct1: null, ctx: {dialogSource: "buySilverDialog"}, ct3: null, ct2: null, tpid: "silverResource", srv: 7}, qnt: 1, prid: "pack9999"}]
+Thu Jan 9 17:52:09 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 17:52:06 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 17:52:05 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 15000, emd: 0, gld: 76247}}]
+Thu Jan 9 17:52:05 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 17:52:05 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: {ct1: null, ctx: {dialogSource: "buySilverDialog"}, ct3: null, ct2: null, tpid: "silverResource", srv: 7}, qnt: 1, prid: "pack9999"}]
+Thu Jan 9 17:52:03 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 17:51:59 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 17:51:59 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 15000, emd: 0, gld: 66248}}]
+Thu Jan 9 17:51:59 GMT+0300 2020 [INFO] [YandexMetrics.onCounterInit] Yandex metrics counter 31321471 inited
+Thu Jan 9 17:51:59 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 17:51:59 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 17:51:58 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: {ct1: null, ctx: {dialogSource: "buySilverDialog"}, ct3: null, ct2: null, tpid: "silverResource", srv: 7}, qnt: 1, prid: "pack9999"}]
+Thu Jan 9 17:51:57 GMT+0300 2020 [INFO] Server said: 34: ["spt.init", {a: false}]
+Thu Jan 9 17:51:57 GMT+0300 2020 [INFO] [YandexMetrics.initCounter] Try to init Yandex metrics counter 31321471
+Thu Jan 9 17:51:57 GMT+0300 2020 [INFO] Client said: 34: [null, "spt.init", {}]
+Thu Jan 9 17:51:47 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/GoldenTree2.swf, status: 2) 
+Thu Jan 9 17:51:23 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 17:51:22 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 15000, emd: 0, gld: 56249}}]
+Thu Jan 9 17:51:20 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:51:17 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]

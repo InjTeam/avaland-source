@@ -1,0 +1,32 @@
+ClientError: Thu Jan 9 17:31:13 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-19Y::TopPanel/_-3oC()
+Thu Jan 9 17:31:12 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:31:09 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:31:07 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:31:05 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:31:02 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 17:30:56 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 17:30:56 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, gld: 9100, slvr: 10000}}]
+Thu Jan 9 17:30:45 GMT+0300 2020 [INFO] Client said: 34: ["house_403_livingroom", "frn.save", {f: []}]
+Thu Jan 9 17:30:37 GMT+0300 2020 [INFO] Client said: 34: ["house_403_livingroom", "h.r.u", {x: 9.96, st: 23, y: 4.83, d: 1, at: "", uid: "403"}]
+Thu Jan 9 17:30:35 GMT+0300 2020 [INFO] Client said: 34: ["house_403_livingroom", "h.r.m", {sy: 9.58, dx: 9.96, uid: "403", dy: 4.83, sx: 9.37}]
+Thu Jan 9 17:30:34 GMT+0300 2020 [INFO] Client said: 34: ["house_403_livingroom", "h.r.m", {sy: 11.5, dx: 11.5, uid: "403", dy: 3.19, sx: 7.45}]
+Thu Jan 9 17:30:26 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "sofaVip3", cnt: 1, pind: 1}]
+Thu Jan 9 17:30:25 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/SofaViolent.swf, status: 2) 
+Thu Jan 9 17:30:16 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "armchairVip2", cnt: 1, pind: 1}]
+Thu Jan 9 17:30:14 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/ArmchairHeart.swf, status: 2) 
+Thu Jan 9 17:29:55 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 17:29:55 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, gld: 7600, slvr: 10000}}]
+Thu Jan 9 17:29:54 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 17:29:54 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, gld: 6100, slvr: 10000}}]
+Thu Jan 9 17:29:13 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 17:29:13 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, gld: 4600, slvr: 10000}}]
+Thu Jan 9 17:28:49 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 17:28:49 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, gld: 3100, slvr: 10000}}]
+Thu Jan 9 17:28:38 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'close_payment_dialog' for counter 31321471

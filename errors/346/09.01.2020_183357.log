@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 18:32:50 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:32:50 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {apprnc: {hc: 20, mt: 31, brc: 1, rc: 11, shc: 12, fac: 1, bt: 0, ss: 0, fft: 7, g: 2, nct: 0, sh: 1, fat: 0, ht: 129, pc: 1, ec: 5, rg: 1, brt: 23, n: "Хейзерша", mc: 15, pt: 0, ssc: 1, sc: 1, bc: 1, et: 37}, ci: {shcr: true, trcd: 0, exp: 85800, fak: null, trid: "freelanceSupport", hrt: 10173, crt: 562, bcld: 0, ysct: 0, skrt: 0, fexp: 0, ys: 0, vip: true, eml: null, lwts: 0, tts: null, lrnt: 0, rpt: 0, spp: 0, dr: true, lvt: 1578583174, cmid: 0, as: null, skid: null, ceid: 0, shousd: false, vfgc: 0, actrd: 0, vret: 0, actrp: 0, vsact: true, compid: 0, vsexp: 1965298000, crst: 0, vexp: 1965298000, actrt: 0, pamns: {amn: []}, kyktid: null, plcmt: {}, rtrtm: 0, sbrt: 0, lgt: 0, strfrd: 0, sbid: null, gdc: 0, gtrfrd: 0}, clths: {clths: [{clid: null, tpid: "grlSD16Dcr"}, {clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "grlSD16Ovrl"}, {clid: null, tpid: "grlSD16Shs"}, {clid: null, tpid: "grlSD16Stk"}, {clid: null, tpid: "grlSD16Brcl"}]}, pf: {pf: {phtghr: {pgs: 0, l: 20, tp: "phtghr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}, jntr: {pgs: 0, l: 20, tp: "jntr"}}}, locinfo: {x: 12.25, at: "", y: 14.63, l: "salon_sn1_1", st: 23, s: "127.0.0.1", pl: "", d: 4, shlc: true}, uid: "350", mbm: {ac: null, sk: "blackMobileSkin"}, usrinf: {rl: 0}}}]
+Thu Jan 9 18:32:49 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {dy: 11.13, sx: 10.74, dx: 11.19, uid: "328", sy: 2.39}]

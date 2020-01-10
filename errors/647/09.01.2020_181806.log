@@ -1,0 +1,21 @@
+ClientError: Thu Jan 9 18:18:06 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+	at MethodInfo-3593()
+	at SetIntervalTimer/onTimer()
+	at flash.utils::Timer/tick()
+Thu Jan 9 18:18:06 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/MagicMachine.swf, status: 2) 
+Thu Jan 9 18:17:34 GMT+0300 2020 [INFO] Client said: 34: ["house_647_livingroom", "h.r.u", {uid: "647", y: 4.3, at: "", st: 23, x: 3.61, d: 5}]
+Thu Jan 9 18:17:33 GMT+0300 2020 [INFO] Client said: 34: ["house_647_livingroom", "h.r.m", {uid: "647", sx: 4.97, sy: 3.28, dy: 4.3, dx: 3.61}]
+Thu Jan 9 18:17:33 GMT+0300 2020 [INFO] Client said: 34: ["house_647_livingroom", "h.r.u", {uid: "647", y: 3.28, at: "", st: 23, x: 4.97, d: 2}]
+Thu Jan 9 18:17:33 GMT+0300 2020 [INFO] Client said: 34: ["house_647_livingroom", "h.r.m", {uid: "647", sx: 3.91, sy: 3.78, dy: 3.28, dx: 4.97}]
+Thu Jan 9 18:17:28 GMT+0300 2020 [INFO] Client said: 34: [null, "a.clths.buy", {ctp: "casual", tpid: "girlTShrtDmnHnt", pind: 1}]
+Thu Jan 9 18:17:07 GMT+0300 2020 [INFO] Client said: 34: [null, "a.clths.buy", {ctp: "casual", tpid: "girlTShrtDmnHnt", pind: 1}]

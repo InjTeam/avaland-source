@@ -1,0 +1,12 @@
+ClientError: Wed Jan 8 17:10:57 GMT+0400 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-4I::NotEnoughGoldProductDialog/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-1Dw::PaymentService/checkGold()
+	at _-1Dw::PaymentService/checkPrice()
+	at _-06H::BuyFurnitureDialog/onGoldBuyClick()
+Wed Jan 8 17:10:56 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/JanitorGrandfatherClock.swf, status: 2) 

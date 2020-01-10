@@ -1,0 +1,34 @@
+ClientError: Thu Jan 9 18:34:43 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+Thu Jan 9 18:34:43 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WindowGardenerGift.swf, status: 2) 
+Thu Jan 9 18:33:56 GMT+0300 2020 [INFO] Client said: 34: ["house_504_1", "hs.ac.finish", {aid: "504", oid: "7066052", act: "turnOn"}]
+Thu Jan 9 18:33:54 GMT+0300 2020 [INFO] Server said: 34: ["h.r.rfr", {rm: {lev: 2, w: 13, l: 13, nm: "Комната 1", f: [{x: 0, lid: 61100743, y: 0, z: 0, d: 3, tpid: "wallPrns1"}, {x: 12, lid: 49593741, y: 9, z: 0, d: 5, tpid: "tltMya"}, {x: 12.603125, lid: 59254606, y: 10.678125, z: 2.1, d: 5, tpid: "bathroomDecor3"}, {x: 5, lid: 7066052, y: 0, z: 0, d: 5, tpid: "bthMya"}, {x: 0, lid: 98495170, y: 10, z: 0, d: 5, tpid: "bath8"}, {x: 11.5, lid: 58762035, y: 10.5, z: 0, d: 5, tpid: "bowl1"}, {x: 13, lid: 61100744, y: 0, z: 0, d: 5, tpid: "wallPrns1"}, {x: 12.478125, lid: 94777070, y: 12.428125, z: 2.1, d: 5, tpid: "bathroomDecor2"}, {x: 0, lid: 91723764, y: 0, z: 0, d: 5, tpid: "floorBch1"}, {x: 3, lid: 4, y: 0, z: 0, rid: "outside", d: 3, tpid: "door4"}]}}]
+Thu Jan 9 18:33:51 GMT+0300 2020 [INFO] Client said: 34: ["house_504_1", "h.r.rfr", {}]
+Thu Jan 9 18:33:51 GMT+0300 2020 [INFO] Server said: 34: ["frn.save", {ci: {fexp: 0, skrt: 0, crt: 2065, kyktid: null, bcld: 0, rtrtm: 0, hrt: 10030, trid: "familyDay2016", pamns: {amn: []}, spp: 0, compid: 0, trcd: 0, ys: 0, actrt: 0, tts: null, actrp: 0, sbid: null, eml: null, gdc: 0, sbrt: 0, crst: 0, plcmt: {}, lgt: 0, vret: 0, actrd: 0, ysct: 0, vfgc: 0, shousd: false, rpt: 0, vexp: 1965298000, ceid: 0, vip: true, fak: null, vsexp: 1965298000, cmid: 0, as: null, shcr: true, vsact: true, dr: true, lvt: 1578582532, gtrfrd: 0, lwts: 0, exp: 85800, lrnt: 0, strfrd: 0, skid: null}, inv: {c: {lt: {it: [], id: "lt"}, frn: {it: [{c: 2, iid: "", tid: "wall15"}, {c: 2, iid: "", tid: "floor4"}, {c: 8, iid: "", tid: "carpet5"}, {c: 1, iid: "", tid: "door4"}, {c: 1, iid: "", tid: "mirror2"}], id: "frn"}, gm: {it: [{c: 1, iid: "", tid: "blackMobileSkin"}], id: "gm"}, cls: {it: [{c: 1, iid: "", tid: "girlPants9"}, {c: 1, iid: "", tid: "girlShoes14"}, {c: 1, iid: "", tid: "girlUnderdress2"}, {c: 1, iid: "4", tid: "girlPntsNYElgnc"}, {c: 1, iid: "4", tid: "girlBtsCtrOutsrc2"}, {c: 1, iid: "4", tid: "girlGlssNYElgnc"}, {c: 1, iid: "", tid: "girlShirt12"}, {c: 1, iid: "16", tid: "girlAcsClnSciFi"}, {c: 1, iid: "", tid: "girlUnderdress1"}, {c: 1, iid: "5", tid: "girlPlvNYFre"}], id: "cls"}, act: {it: [], id: "act"}}}, hs: {lev: 2, nm: "house", f: [{x: 0, lid: 61100743, y: 0, z: 0, d: 3, tpid: "wallPrns1"}, {x: 12, lid: 49593741, y: 9, z: 0, d: 5, tpid: "tltMya"}, {x: 12.603125, lid: 59254606, y: 10.678125, z: 2.1, d: 5, tpid: "bathroomDecor3"}, {x: 5, lid: 7066052, y: 0, z: 0, d: 5, tpid: "bthMya"}, {x: 0, lid: 98495170, y: 10, z: 0, d: 5, tpid: "bath8"}, {x: 11.5, lid: 58762035, y: 10.5, z: 0, d: 5, tpid: "bowl1"}, {x: 13, lid: 61100744, y: 0, z: 0, d: 5, tpid: "wallPrns1"}, {x: 12.478125, lid: 94777070, y: 12.428125, z: 2.1, d: 5, tpid: "bathroomDecor2"}, {x: 0, lid: 91723764, y: 0, z: 0, d: 5, tpid: "floorBch1"}, {x: 3, lid: 4, y: 0, z: 0, rid: "outside", d: 3, tpid: "door4"}], w: 13, l: 13, id: "1"}}]
+Thu Jan 9 18:33:35 GMT+0300 2020 [INFO] Client said: 34: ["house_504_1", "frn.save", {f: [{x: 0, d: 5, tm: 1578584011265, tpid: "bath8", z: 0, t: 1, y: 10, oid: 98495170}, {x: 11.5, d: 5, tm: 1578583984121, tpid: "bowl1", z: 0, t: 1, y: 10.5, oid: 58762035}, {tm: 1578583943732, t: 0, oid: 91723764, tpid: "floorBch1"}, {x: 12, d: 5, tm: 1578584003607, tpid: "tltMya", z: 0, t: 1, y: 9, oid: 49593741}, {x: 12.478125, d: 5, tm: 1578583998284, tpid: "bathroomDecor2", z: 2.1, t: 1, y: 12.428125, oid: 94777070}, {tm: 1578583950674, t: 0, oid: 61100743, tpid: "wallPrns1"}, {x: 5, d: 5, tm: 1578583956554, tpid: "bthMya", z: 0, t: 1, y: 0, oid: 7066052}, {tm: 1578583989536, t: 2, oid: 33615725, tpid: "mirror2"}, {x: 12.603125, d: 5, tm: 1578583993213, tpid: "bathroomDecor3", z: 2.1, t: 1, y: 10.678125, oid: 59254606}]}]
+Thu Jan 9 18:32:47 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPrincess.swf, status: 2) 
+Thu Jan 9 18:32:41 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPrincess.swf, status: 2) 
+Thu Jan 9 18:32:41 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPrincess.swf, status: 2) 
+Thu Jan 9 18:32:40 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPrincess.swf, status: 2) 
+Thu Jan 9 18:32:34 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPrincess.swf, status: 2) 
+Thu Jan 9 18:32:28 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPrincess.swf, status: 2) 
+Thu Jan 9 18:32:24 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorBeach.swf, status: 2) 
+Thu Jan 9 18:32:24 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorBeach.swf, status: 2) 
+Thu Jan 9 18:32:24 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorBeach.swf, status: 2) 
+Thu Jan 9 18:32:01 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 36279, emd: 0}}]
+Thu Jan 9 18:32:01 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "bathroomDecor2"}}]
+Thu Jan 9 18:32:00 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "bathroomDecor2", pind: 1, cnt: 1}]
+Thu Jan 9 18:31:59 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/bathroom/BrushCreamGold.swf, status: 2) 
+Thu Jan 9 18:31:57 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 36285, emd: 0}}]
+Thu Jan 9 18:31:57 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "bathroomDecor3"}}]
+Thu Jan 9 18:31:56 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "bathroomDecor3", pind: 1, cnt: 1}]
+Thu Jan 9 18:31:53 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/bathroom/DispenserGold.swf, status: 2) 

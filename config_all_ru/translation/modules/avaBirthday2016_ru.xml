@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="ab16RoomName">На праздник</message>
+
+        <message key="ab16GarlandLabel">Гирлянда из флажков</message>
+        <message key="ab16CapLabel">Праздничный колпак</message>
+        <message key="ab16FifeLabel">Дудка</message>
+        <message key="ab16TicketLabel">Входной билет</message>
+
+        <message key="ab16TinselLabel">Блестки</message>
+        <message key="ab16FlagRedLabel">Красный флажок</message>
+        <message key="ab16FlagGrnLabel">Зеленый флажок</message>
+        <message key="ab16FlagBluLabel">Синий флажок</message>
+        <message key="ab16FlagPrlLabel">Фиолетовый флажок</message>
+
+        <message key="ab16CapDescription">Праздничный колпак для праздника можно смастерить в мастерской</message>
+        <message key="ab16GarlandDescription">Гирлянду для праздника можно смастерить в мастерской</message>
+
+        <message key="ab16TinselDescription">Можно получить участвуя в играх</message>
+        <message key="ab16FlagRedDescription">Можно получить, посетив локации кафе, парк, сквер</message>
+        <message key="ab16FlagGrnDescription">Можно получить, посетив локации пляж, кутюрье, улица</message>
+        <message key="ab16FlagBluDescription">Можно получить, посетив локации каньон, сурикаты, бальный зал, каток, клуб</message>
+        <message key="ab16FlagPrlDescription">Можно получить, посетив VIP-локацию</message>
+
+        <message key="avaBirthdayTitle">День рождения Аватарии</message>
+        <message key="avaBirthdayAlertLocationText">Чтобы попасть в локацию, нужно смастерить входной билет. Перейти в мастерскую?</message>
+
+        <message key="avaBirthdayAwardDialogTitle">Аватария,&#13;с Днем рождения!</message>
+        <message key="avaBirthdayAwardDialogMessage">Получи свою награду!</message>
+
+        <message key="avaBirthday2016WelcomeFriendHint">Загляни в мастерскую! Тебя ждут праздничные рецепты!</message>
+        <message key="avaBirthday2016TinselFriendHint">Играй в мини-игры, чтобы получить блестки!</message>
+        <message key="avaBirthday2016AddFlagHint">Молодец, держи ":flag:"!</message>
+        <message key="avaBirthday2016ClickCakeHint">Получи свою награду, кликнув по торту!</message>
+
+        <message key="avaBirthdayMenuItem">Дудеть</message>
+        <message key="avaBirthdayNotFifeMessage">У тебя нет дудки! Хочешь смастерить ее?</message>
+    </locale>
+</dictionary>

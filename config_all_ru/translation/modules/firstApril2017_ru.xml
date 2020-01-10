@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="firstApril2017InfoDialogTitle">Сделай пакость другу!</message>
+        <message key="firstApril2017InfoDialogDescription">Время веселья пришло! За различные шалости в игре ты можешь заработать улыбки и обменять их на уникальные костюмы и подарки. Вот список действий, за которые мы дарим тебе улыбки:</message>
+
+        <message key="firstApril2017InfoDialogBombPlacedTitle">Мелкая пакость</message>
+        <message key="firstApril2017InfoDialogBombPlacedDescription">Подложи своим друзьям и знакомым бомбочку из магазина приколов.</message>
+
+        <message key="firstApril2017InfoDialogWormsTitle">Мутная вода</message>
+        <message key="firstApril2017InfoDialogWormsDescription">Подбрось в джакузи червяков.</message>
+
+        <message key="firstApril2017InfoDialogGraffitiTitle">Юный художник</message>
+        <message key="firstApril2017InfoDialogGraffitiDescription">Нарисуй граффити на стене.</message>
+
+        <message key="firstApril2017InfoDialogBombTriggeredTitle">Попался!</message>
+        <message key="firstApril2017InfoDialogBombTriggeredDescription">Посмотри как на твоей бомбочке кто-нибудь подорвется.</message>
+
+        <message key="firstApril2017InfoDialogKnockTitle">Ну держись!</message>
+        <message key="firstApril2017InfoDialogKnockDescription">Пни другого аватара.</message>
+
+        <message key="firstApril2017InfoDialogBrokeTitle">Я случайно...</message>
+        <message key="firstApril2017InfoDialogBrokeDescription">Сломай какую-нибудь технику в чужом доме.</message>
+
+        <message key="firstApril2017InfoDialogThrowCakeTitle">Сладкая месть</message>
+        <message key="firstApril2017InfoDialogThrowCakeDescription">Брось тортом в другого аватара.</message>
+
+        <message key="firstApril2017MainDialogTitle">Праздник смеха!</message>
+        <message key="firstApril2017MainDialogDescription">Ты можешь обменять заработанные улыбки на уникальные костюмы и веселые подарки</message>
+
+        <message key="firstApril2017MainDialogPurchaseSmilesButtonTitle">докупить за :count:</message>
+
+        <message key="firstApril2017AwardDialogDescription">Шалости удались! Забирай свой подарок в награду за весело проведенное время.</message>
+        <message key="firstApril2017WallGetAwardMessage">Мне подарили замечательный подарок в награду за празднование Дня Смеха. Хочешь получить такой же? Жду тебя в игре! :link:</message>
+    </locale>
+</dictionary>

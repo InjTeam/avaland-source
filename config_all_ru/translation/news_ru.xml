@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<dictionary>
+    <locale name="ru">
+        <message key="1stMayNewsContent">Мы предлагаем вам отметить 1 мая вместе с друзьями - потрудиться в саду или дворе, собрать красивые разноцветные ленточки, после чего повесить их на дерево Мира и получить за это редкие предметы для мастерской! </message>
+        <message key="9thMayNewsTitle">Феи среди нас</message>
+        <message key="9thMayNewsContent">Аватарию навестили сказочные создания - феи. Они подарили всем девочкам возможность примерить чудесные крылья и стать настоящими волшебницами. Спешите посетить магазин!</message>
+        <message key="couturierNewsTitle">Кутюрье</message>
+        <message key="couturierNewsContent">Мы представляем вам новую локацию - Кутюрье. Теперь у вас появится возможность самостоятельно выбирать цвет для некоторых вещей и с помощью этого выделиться из толпы!</message>
+        <message key="ballroomNewsTitle">Бальный зал</message>
+        <message key="ballroomNewsContent">Пригласите свою половинку на танцы в новую локацию - Бальный зал, тут можно нарядиться в шикарные костюмы и разучить пару па!</message>
+        <message key="springSaleNewsTitle">Распродажа весенней одежды</message>
+        <message key="springSaleNewsContent">Есть свободное место в гардеробе? Самое время прикупить обновки! Встречайте распродажу весенней одежды с привлекательными скидками.</message>
+        <message key="conanNewsTitle">Конан-варвар</message>
+        <message key="conanNewsContent">Давайте вместе окунемся в опасный и фантастический мир приключений Конана-варвара, мы приготовили для вас одежду и предметы интерьера в данной стилистике!</message>
+        <message key="carSaleNewsTitle">Распродажа автаромобилей!</message>
+        <message key="carSaleNewsContent">Ваш гараж пустует? Только в течении ближайшей недели вы сможете купить аватаромобили по сниженной цене, спешите!</message>
+        <message key="birthdayNewsTitle">С днем рождения, Аватария!</message>
+        <message key="birthdayNewsContent">Поздравляем Аватарию с Днем Рождения! Только сегодня, в честь этого знаменательного дня, мы дарим нашим любимым игрокам подарки и золотые монеты. Ждем вас в игре!</message>
+        <message key="conanStudioNewsTitle">Уникальный фон фотостудии</message>
+        <message key="conanStudioNewsContent">Успели соскучиться по приключениям? Фантастический мир Конана-варвара уже ждет вас в Фотостудии! Обратите внимание, фон доступен только для VIP-игроков.</message>
+        <message key="newMotoNewsTitle">Новые мотоциклы</message>
+        <message key="newMotoNewsContent">Наскучили старые модели, успели обкатать всевозможные мотоциклы? Механики завезли в мотосалон Аватарии новых железных лошадок, купить мотоциклы вы можете уже сейчас!</message>
+        <message key="quests50NewsTitle">Новые задания - новые уровни!</message>
+        <message key="quests50NewsContent">В игре открылись новые задания для 42+ уровней. Опереди своих друзей, успей получить максимальный уровень первым!</message>
+        <message key="amusimentSaleNewsTitle">Уникальная распродажа</message>
+        <message key="amusimentSaleNewsContent">Отличные новости для тех, кто хочет поднять свой комфорт - мы запускаем распродажу качелей: драконы и лошади!</message>
+        <message key="hearStylesNewsTitle">Модные прически</message>
+        <message key="hearStylesNewsContent">Наскучили старые образы, хотите вдохнуть новую жизнь в свой внешний вид? В салон добавлены по две новых прически для мальчиков и девочек. Заходи, измени свой стиль!</message>
+        <message key="steampunkSaleNewsTitle">Стимпанк-распродажа</message>
+        <message key="steampunkSaleNewsContent">Распродажа! В течении недели комплекты одежды и предметы интерьера коллекции Стимпанк доступны по сниженным ценам.</message>
+        <message key="quests55NewsTitle">Новые задания - новые уровни!</message>
+        <message key="quests55NewsContent">В игре открылись новые задания для 50+ уровней. Опереди своих друзей, успей получить максимальный уровень первым!</message>
+        <message key="motoSaleNewsTitle">Распродажа мотоциклов!</message>
+        <message key="motoSaleNewsContent">В течении недели весь модельный ряд мотоциклов будет доступен для покупки по сниженной цене! Успей собрать всю коллекцию!</message>
+
+        <message key="superHero1NewsTitle">Супергерои в Аватарии</message>
+        <message key="superHero1NewsContent">Новые эксклюзивные костюмы супергероев уже появились во всех магазинах Аватарии. Почувствуй себя воинствующей защитницей грудничков или перевоплотись в брутального мачо, охраняющего мир и спокойствие граждан. Заходи и сделай свой выбор!</message>
+
+        <message key="professions1NewsTitle">Профессии: садовник и дворник</message>
+        <message key="professions1NewsContent">Начни свою трудовую деятельность с чистого листа вместе с профессиями дворника и садовника! Прокачивай свои навыки и поднимай уровень профессии, ведь чем выше уровень, тем ценнее награда.</message>
+
+        <message key="quests60NewsTitle">Новые задания - новые уровни!</message>
+        <message key="quests60NewsContent">В игре открылись новые задания для 55+ уровней. Опереди своих друзей, успей получить максимальный уровень первым!</message>
+
+        <message key="japanSaleNewsTitle">Японские мотивы</message>
+        <message key="japanSaleNewsContent">Мы запускаем распродажу вещей из комплекта "Япония", в течение недели вы сможете приобрести данную коллекцию по привлекательной цене! Спокойные линии и красивая простота помогут вам превратите свою комнату в небольшой кусочек Японии.</message>
+
+        <message key="quests65NewsTitle">Новые задания - новые уровни!</message>
+        <message key="quests65NewsContent">В игре открылись новые задания для 60+ уровней. Опереди своих друзей, успей получить максимальный уровень первым!</message>
+
+        <message key="alientSaleNewsTitle">Инопланетная распродажа</message>
+        <message key="alientSaleNewsContent">Комплект мебели Пришельцы доступен по сниженной цене. Не упусти возможность украсить свою квартиру, предметы из данной коллекции смотрятся так живо и интересно, что на любой вечеринке вам позавидует каждый землянин. Спеши на опознание!</message>
+
+        <message key="superHero2NewsTitle">Супер-герои</message>
+        <message key="superHero2NewsContent">На прилавки модных магазинов Аватарии подоспели новые костюмы супергеройской тематики. Расширь свою коллекцию и примерь на себя новые загадочные образы, друзья обзавидуются!</message>
+
+        <message key="maintainsCompensationTitle">Подарок</message>
+        <message key="maintainsCompensationDescription">Мы приносим извинения за длительную задержку в работе приложения и просим принять эту сумму в качестве компенсации</message>
+
+        <message key="iceRinkTitle">Каток</message>
+        <message key="iceRingMessage">В игре появился каток! Надевайте коньки и отправляйтесь скользить по льду вместе со своими друзьями!</message>
+
+        <message key="wedding2016_1Title">Свадебные костюмы</message>
+        <message key="wedding2016_1Message">В свадебные магазины одежды и аксессуаров завезли модные новинки, проведите свою свадьбу с шиком!</message>
+
+        <message key="professions2Title">Новые профессии!</message>
+        <message key="profession2Message">Время подняться на новый уровень и получить квалификацию в новых профессиях Фотографа и Визажиста!</message>
+    </locale>
+</dictionary>

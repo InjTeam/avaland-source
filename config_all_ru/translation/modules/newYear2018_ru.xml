@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="ny18GoToSkiResortButtonHint">Горнолыжный курорт</message>
+        <message key="ny18LockObjectHint">Откроется через :time:</message>
+        <message key="ny18MittensLabel">Варежка</message>
+        <message key="ny18MittensDescription">Можно получить за победу в мини-играх</message>
+        <message key="ny18UseMittensWearDialogMessage">Чтобы твои руки не замерзли, надень варежки. В них ты можешь кидаться снежками, пока варежки не промокнут.</message>
+        <message key="ny18NotEnoughMittensWearDialogMessage">У тебя нет варежек? Не беда! Участвуй в мини-играх и получай варежки бесплатно!</message>
+        <message key="ny18ThrowSnowballMenuTitle">Снежок</message>
+        <message key="ny18ThrowSnowballNotificationTitle">Осторожно, снежок!</message>
+        <message key="ny18ThrowSnowballNotificationMessage">:userName: :genderDrop: в тебя снежок.</message>
+
+        <message key="NY18ProgressDialogTitle">Личные достижения</message>
+        <message key="ny18InfoDialogTitle">Горнолыжный курорт!</message>
+        <message key="ny18InfoDialogDescription">Начинает свою работу горнолыжный курорт! Уже сейчас ты можешь поиграть в снежки с друзьями. Со временем для тебя откроются новые возможности. За твою активность тебя будут ждать замечательные призы! Вперед, навстречу приключениям! </message>
+        <message key="ny18PutInTitle">надеть</message>
+        <message key="ny18NeedLabel">нужно</message>
+        <message key="ny18CurrentLabel">у тебя</message>
+
+        <message key="ny18SnowboardHint">Декоративный сноуборд</message>
+        <message key="ny18BoyClothesSetHint">Костюм сноубордиста</message>
+        <message key="ny18GirlClothesSetHint">Костюм сноубордистки</message>
+        <message key="ny18AnimationHint">Уникальная анимация радости</message>
+        <message key="ny18TrophyHint">Титул "Царь горы"</message>
+
+        <message key="ny18SnowboardDialogDescription">Сноуборд станет не только отличным украшением твоей квартиры, но и многое скажет о его хозяине!</message>
+        <message key="ny18ClothesSetDialogDescription"> Какой сноубордист без специальной экипировки? Получи не только защитный, но и модный костюм в свою коллекцию!</message>
+        <message key="ny18AnimationDialogDescription">Личная эмоция радости покажет окружающим твое ликование после каждой победы!</message>
+        <message key="ny18TrophyDialogDescription">Уникальный титул "Царь горы" видно издалека, он укажет на твои особые заслуги в прохождении новогодней акции!</message>
+        <gender key="ny18AllDoneDescription">
+            <form>Поздраляем! Ты получил все награды.</form>
+            <form>Поздраляем! Ты получила все награды.</form>
+        </gender>
+
+        <message key="ny18NpcMessage1">Здорово, напоминает чем-то Снежную битву, если ты понимаешь о чем я!</message>
+        <message key="ny18NpcMessage2">Интересно, что там скрывается за горным хребтом?</message>
+        <message key="ny18NpcMessage3">Ух, холодно, пожалуй, пора надеть шапку!</message>
+
+        <message key="ny18NpcMessage4">Мороз и солнце - лучшие стилисты!</message>
+        <message key="ny18NpcMessage5">Ох, где же мое зеркальце, неужели я обронила его в одном из сугробов?</message>
+        <message key="ny18NpcMessage6">Дааа, без варежек сложно кидаться снежками.</message>
+
+        <message key="ny18NpcMessage7">Пора покупать новый сноуборд, мой что-то износился...</message>
+        <message key="ny18NpcMessage8">Ай-да гоняться!</message>
+
+        <message key="ny18NpcMessage9">А что, лыж в прокате не было?</message>
+        <message key="ny18NpcMessage10">Интересно, я успею сделать еще пару заездов до окончания времени проката?</message>
+
+        <message key="ny18NpcMessage11">Надо бы уже начать готовить подарки к Новому Году...</message>
+        <message key="ny18NpcMessage12">Вот бы получить из подарка что-то уникальное!</message>
+
+        <message key="ny18NpcMessage13">Интересно, Саша уже приготовил мне подарок на Новый Год?</message>
+        <message key="ny18NpcMessage14">Круто, мне в подарке попался Шар для гаданий! Сейчас я узнаю всю правду.</message>
+
+        <message key="ny18NpcMessage15">Давай устроим флешмоб, должно быть здорово!</message>
+        <message key="ny18NpcMessage16">Подходим, не стесняемся, мы с Машей не кусаемся :)</message>
+
+        <message key="ny18NpcMessage17">Синхронность движений это так красиво!</message>
+        <message key="ny18NpcMessage18">Надо будет потом заняться танцами...</message>
+
+        <message key="ny18NpcMessage19">Может усложним трассу, а то что-то слишком просто?</message>
+        <message key="ny18NpcMessage20">Тебе лишь бы все усложнить!</message>
+        <message key="ny18NpcMessage21">Интересно, кто станет самым крутым сноубордистом в этом сезоне?</message>
+        <message key="ny18NpcMessage22">Может сноубордистка? :D</message>
+
+        <message key="ny18NpcMessage23">Заглянем в Лавку Подарков?</message>
+        <message key="ny18NpcMessage24">Давай в другой раз, я забыл свой кошелек с золотом дома...</message>
+        <message key="ny18NpcMessage25">И зачем ехать в теплые страны, когда у нас тут так круто?</message>
+        <message key="ny18NpcMessage26">Так, Саша, мы уже запланировали поездку в Тропиканию!</message>
+
+        <message key="ny18NpcMessage27">Как здорово, сделаем общую фотку?</message>
+        <message key="ny18NpcMessage28">Конечно, давай! </message>
+        <message key="ny18NpcMessage29">Флешмоб - отличный способ отдохнуть от гонок!</message>
+        <message key="ny18NpcMessage30">Я тоже так считаю!</message>
+
+        <message key="danceFloorHintTitle">Танцплощадка</message>
+        <message key="danceFloorHintDescription">Собирайтесь с другими сноубордистами и устраивайте грандиозные флешмобы на танцевальной площадке. Сохранить приятные воспоминания поможет общий фотоснимок!</message>
+        <message key="snowboardRaceEntranceHintTitle">Горнолыжный спуск</message>
+        <message key="snowboardRaceEntranceHintDescription">Принимайте участие в гонках на сноубордах, соревнуясь с другими участниками! Для участия вам потребуется смастерить сноуборд, либо взять его в прокат.</message>
+        <message key="snowboardRatingBoardHintTitle">Рейтинг сноубордистов</message>
+        <message key="snowboardRatingBoardHintDescription">Соревнуйтесь с другими участниками, набирайте очки рейтинга и получите возможность побороться за уникальный титул, и признание жителей Аватарии!</message>
+        <message key="giftMarketHintTitle">Лавка с подарками</message>
+        <message key="giftMarketHintDescription">Только тут вы сможете круглый год приобретать подарки для себя и своих близких. У каждого есть шанс найти в подарках уникальные акционные предметы!</message>
+
+        <message key="ny18AwardDialogMessage">Мы дарим тебе этот замечательный подарок в награду за набранные очки. Продолжай в том же духе и обязательно поделись этой новостью с друзьями!</message>
+        <message key="ny18AwardReceivedMessage">Мне подарили замечательный подарок в награду за набранные очки. Хочешь получить такой же? Жду тебя в игре! :link:</message>
+    </locale>
+</dictionary>

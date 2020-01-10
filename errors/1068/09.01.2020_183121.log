@@ -1,0 +1,49 @@
+ClientError: Thu Jan 9 19:31:22 GMT+0400 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+Thu Jan 9 19:31:22 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WindowArt.swf, status: 2) 
+Thu Jan 9 19:31:20 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 3530, gld: 1301}}]
+Thu Jan 9 19:31:20 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 2, iid: "", tid: "window13"}}]
+Thu Jan 9 19:31:19 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "window13", cnt: 2, pind: 1}]
+Thu Jan 9 19:31:16 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WindowArt.swf, status: 2) 
+Thu Jan 9 19:29:59 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 3530, gld: 1339}}]
+Thu Jan 9 19:29:59 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 2, iid: "", tid: "door3"}}]
+Thu Jan 9 19:29:58 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "door3", cnt: 2, pind: 1}]
+Thu Jan 9 19:29:55 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/DoorFlower.swf, status: 2) 
+Thu Jan 9 19:28:53 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 3530, gld: 1389}}]
+Thu Jan 9 19:28:52 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 2, iid: "", tid: "carpet5"}}]
+Thu Jan 9 19:28:51 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "carpet5", cnt: 2, pind: 1}]
+Thu Jan 9 19:28:49 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/CarpetFurWhite.swf, status: 2) 
+Thu Jan 9 19:28:39 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 3530, gld: 1431}}]
+Thu Jan 9 19:28:39 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 2, iid: "", tid: "lampDeco"}}]
+Thu Jan 9 19:28:38 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "lampDeco", cnt: 1, pind: 2}]
+Thu Jan 9 19:28:34 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 4480, gld: 1431}}]
+Thu Jan 9 19:28:34 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "lampDeco"}}]
+Thu Jan 9 19:28:33 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "lampDeco", cnt: 1, pind: 2}]
+Thu Jan 9 19:28:32 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/LampDeco.swf, status: 2) 
+Thu Jan 9 19:28:06 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 5430, gld: 1431}}]
+Thu Jan 9 19:28:06 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 2, iid: "", tid: "treeMya"}}]
+Thu Jan 9 19:28:05 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "treeMya", cnt: 2, pind: 1}]
+Thu Jan 9 19:28:04 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/TreeMaya.swf, status: 2) 
+Thu Jan 9 19:27:36 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 5430, gld: 1505}}]
+Thu Jan 9 19:27:36 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 2, iid: "", tid: "caseRoseLow"}}]
+Thu Jan 9 19:27:35 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "caseRoseLow", cnt: 2, pind: 1}]
+Thu Jan 9 19:27:33 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/CaseRoseLow.swf, status: 2) 
+Thu Jan 9 19:27:30 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 5430, gld: 1523}}]
+Thu Jan 9 19:27:30 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "bed5"}}]
+Thu Jan 9 19:27:29 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 7300, gld: 1523}}]
+Thu Jan 9 19:27:29 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "sofa8"}}]
+Thu Jan 9 19:27:29 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "bed5", cnt: 1, pind: 2}]
+Thu Jan 9 19:27:28 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 7300, gld: 1544}}]
+Thu Jan 9 19:27:28 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "armchair1"}}]
+Thu Jan 9 19:27:28 GMT+0400 2020 [INFO] Server said: 34: ["h.r.rfr", {rm: {lev: 1, nm: "#livingRoom", w: 13, l: 13, f: [{x: 2, y: 0, lid: 40082476, z: 0, tpid: "furnitureMisc2", d: 3}, {x: 0, y: 0, lid: 98628107, z: 0, tpid: "wall13", d: 3}, {x: 12, y: 7, lid: 42208822, z: 0, tpid: "furnitureMisc2", d: 5}, {x: 13, y: 0, lid: 98628108, z: 0, tpid: "wall13", d: 5}, {x: 0, y: 0, lid: 3042493, z: 0, tpid: "prtrFlr", d: 5}, {x: 4, y: 0, lid: 38182794, z: 0, tpid: "furnitureMisc2", d: 3}, {x: 10.9, y: 0, lid: 4, rid: "outside", z: 0, tpid: "door4", d: 3}]}}]
+Thu Jan 9 19:27:27 GMT+0400 2020 [INFO] Server said: 34: ["frn.save", {ci: {trcd: 0, bcld: 0, exp: 85800, spp: 0, sbid: null, ys: 0, skid: null, shousd: false, strfrd: 0, tts: null, sbrt: 0, gdc: 0, eml: null, rpt: 0, lgt: 0, rtrtm: 0, lwts: 0, kyktid: null, plcmt: {}, pamns: {amn: []}, lrnt: 0, as: null, ysct: 0, crst: 0, vexp: 1965298000, vfgc: 0, skrt: 0, fexp: 0, compid: 0, vip: true, fak: null, actrt: 0, vsexp: 1965298000, lvt: 1578583263, shcr: true, vsact: true, ceid: 0, cmid: 0, trid: "halloween2016", hrt: 315, actrd: 0, gtrfrd: 0, actrp: 0, vret: 0, crt: 10, dr: true}, inv: {c: {gm: {id: "gm", it: [{c: 1, iid: "", tid: "blackMobileSkin"}]}, frn: {id: "frn", it: [{c: 1, iid: "", tid: "wall15"}, {c: 1, iid: "", tid: "floor4"}]}, act: {id: "act", it: []}, lt: {id: "lt", it: []}, cls: {id: "cls", it: [{c: 1, iid: "", tid: "girlUnderdress1"}, {c: 1, iid: "", tid: "girlUnderdress2"}]}}}, hs: {nm: "house", l: 13, lev: 1, w: 13, id: "livingroom", f: [{x: 2, y: 0, lid: 40082476, z: 0, tpid: "furnitureMisc2", d: 3}, {x: 0, y: 0, lid: 98628107, z: 0, tpid: "wall13", d: 3}, {x: 12, y: 7, lid: 42208822, z: 0, tpid: "furnitureMisc2", d: 5}, {x: 13, y: 0, lid: 98628108, z: 0, tpid: "wall13", d: 5}, {x: 0, y: 0, lid: 3042493, z: 0, tpid: "prtrFlr", d: 5}, {x: 4, y: 0, lid: 38182794, z: 0, tpid: "furnitureMisc2", d: 3}, {x: 10.9, y: 0, lid: 4, rid: "outside", z: 0, tpid: "door4", d: 3}]}}]
+Thu Jan 9 19:27:26 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/BedEllite.swf, status: 2) 

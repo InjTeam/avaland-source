@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="sd18ParticipationDialogTitle">Праздник весны!</message>
+        <message key="sd18ParticipationDialogDescription">Ты веришь в то, что твои желания могут исполниться, если этого очень захотеть? Мы предлагаем тебе проверить эту теорию!</message>
+        <message key="sd18ParticipationOkButtonTitle">проверить</message>
+
+        <message key="sd18TrophyDialogMessage">Мы дарим тебе титул "Весна 2018" в награду за особые успехи в весенней акции. Спасибо за проявленное трудолюбие!</message>
+        <message key="sd18WallGetTrophyMessage">Ура, мне подарили титул "Весна 2018"! Жду тебя в игре! :link:</message>
+
+        <message key="sd18ProgressDialogTitle">Загадай желание!</message>
+        <message key="sd18ProgressDialogWishesTitle">Выбери предметы</message>
+        <message key="sd18ProgressDialogWishesDescription">Выбери предметы, о которых давно мечтаешь. Копи монеты, бросай их в фонтан и забирай подарки.</message>
+        <message key="sd18ProgressDialogTrophyDescription">Собирай монеты и получи уникальный титул в конце акции</message>
+        <message key="sd18ProgressDialogStartButtonTitle">Начать</message>
+        <message key="sd18ProgressDialogCloseButtonMessage">Вы уверены, что хотите закрыть это окно?</message>
+
+        <message key="sd18SelectWishDialogTitle">Выбери предмет</message>
+
+        <message key="sd18ConvertCoinsMessage">Поздравляем! Теперь ты можешь потратить :coinsCount: монет на свои желания</message>
+        <message key="sd18WishCompleteMessage">Поздравляем! Твое желание сбылось!</message>
+
+        <message key="sd18FountainHintMessage">Брось монетки в фонтан чтобы твои желания сбылись</message>
+        <message key="sd18FriendHelpMessage">Здесь ты можешь получить счастливые монетки</message>
+
+        <message key="sd18CoinTitle">Монетка x50</message>
+        <message key="sd18CoinDescription">Можно получить за работу, победу в мини-играх, а так же можно смастерить</message>
+
+        <message key="sd18TotalTitle">Всего&#13;:value:</message>
+    </locale>
+</dictionary>

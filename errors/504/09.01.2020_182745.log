@@ -1,0 +1,18 @@
+ClientError: Thu Jan 9 18:27:01 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+	at MethodInfo-3593()
+	at SetIntervalTimer/onTimer()
+	at flash.utils::Timer/tick()
+Thu Jan 9 18:27:01 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/AmuletArt.swf, status: 2) 
+Thu Jan 9 18:26:40 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 36809, emd: 0}}]
+Thu Jan 9 18:26:40 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 8, iid: "", tid: "carpet5"}}]
+Thu Jan 9 18:26:39 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "carpet5", pind: 1, cnt: 5}]

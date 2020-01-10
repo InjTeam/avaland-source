@@ -1,0 +1,38 @@
+ClientError: Thu Jan 9 18:35:15 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+	at MethodInfo-517()
+	at SetIntervalTimer/onTimer()
+	at flash.utils::Timer/tick()
+Thu Jan 9 18:35:15 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/ChairAlienSphere.swf, status: 2) 
+Thu Jan 9 18:34:52 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 1479, slvr: 28500, enrg: 500, emd: 0}}]
+Thu Jan 9 18:34:51 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {tid: "tblAln", c: 1, iid: ""}}]
+Thu Jan 9 18:34:49 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {cnt: 1, pind: 1, tpid: "tblAln"}]
+Thu Jan 9 18:34:44 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/TableAlienBlack.swf, status: 2) 
+Thu Jan 9 18:34:02 GMT+0300 2020 [INFO] Client said: 34: ["house_616_livingroom", "h.r.u", {st: 23, x: 11.5, uid: "616", at: "", y: 2.67, d: 1}]
+Thu Jan 9 18:33:58 GMT+0300 2020 [INFO] Client said: 34: ["house_616_livingroom", "h.r.m", {dy: 2.67, sy: 4.59, uid: "616", sx: 3.72, dx: 11.5}]
+Thu Jan 9 18:33:55 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 18:33:55 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 1530, slvr: 28500, enrg: 500, emd: 0}}]
+Thu Jan 9 18:33:53 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 18:33:52 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'close_payment_dialog' for counter 31321471
+Thu Jan 9 18:33:51 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 18:33:46 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 18:33:46 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 1580, slvr: 23500, enrg: 500, emd: 0}}]
+Thu Jan 9 18:33:45 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 18:33:42 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 18:33:42 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 1630, slvr: 18500, enrg: 500, emd: 0}}]
+Thu Jan 9 18:33:41 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 18:33:38 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 18:33:38 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 1680, slvr: 13500, enrg: 500, emd: 0}}]
+Thu Jan 9 18:33:36 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 18:33:34 GMT+0300 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 18:33:34 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 1730, slvr: 8500, enrg: 500, emd: 0}}]
+Thu Jan 9 18:33:31 GMT+0300 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]

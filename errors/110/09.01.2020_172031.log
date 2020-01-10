@@ -1,0 +1,18 @@
+ClientError: Wed Jan 8 17:11:46 GMT+0400 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-19Y::TopPanel/_-3oC()
+Wed Jan 8 17:11:34 GMT+0400 2020 [INFO] Client said: 34: ["house_110_livingroom", "h.r.u", {uid: "110", x: 0.5, at: "", y: 10.86, d: 5, st: 23}]
+Wed Jan 8 17:11:33 GMT+0400 2020 [INFO] Client said: 34: ["house_110_livingroom", "h.r.m", {uid: "110", sx: 1.41, dy: 10.86, dx: 0.5, sy: 8.21}]
+Wed Jan 8 17:11:32 GMT+0400 2020 [INFO] Client said: 34: ["house_110_livingroom", "h.r.m", {uid: "110", sx: 3.05, dy: 8.14, dx: 1.33, sy: 9.73}]
+Wed Jan 8 17:11:30 GMT+0400 2020 [INFO] Client said: 34: ["house_110_livingroom", "h.r.u", {uid: "110", x: 3.05, at: "", y: 9.73, d: 5, st: 23}]
+Wed Jan 8 17:11:29 GMT+0400 2020 [INFO] Client said: 34: ["house_110_livingroom", "h.r.m", {uid: "110", sx: 4.39, dy: 9.73, dx: 3.05, sy: 7.94}]
+Wed Jan 8 17:11:28 GMT+0400 2020 [INFO] Client said: 34: ["house_110_livingroom", "h.r.m", {uid: "110", sx: 4.39, dy: 9.63, dx: 2.94, sy: 7.17}]
+Wed Jan 8 17:11:28 GMT+0400 2020 [INFO] Client said: 34: ["house_110_livingroom", "h.r.m", {uid: "110", sx: 6.06, dy: 6.84, dx: 3.97, sy: 7.69}]
+Wed Jan 8 17:11:27 GMT+0400 2020 [INFO] Client said: 34: ["house_110_livingroom", "h.r.m", {uid: "110", sx: 6.91, dy: 5.89, dx: 4.95, sy: 8.53}]
+Wed Jan 8 17:11:17 GMT+0400 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Wed Jan 8 17:11:17 GMT+0400 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", pmnt: null, qnt: 1}]

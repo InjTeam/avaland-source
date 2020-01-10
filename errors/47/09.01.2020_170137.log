@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 17:01:26 GMT+0300 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:01:26 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {usrinf: {rl: 0}, mbm: {ac: null, sk: "blackMobileSkin"}, clths: {clths: [{tpid: "girlAcsOutsrc2", clid: "10"}, {tpid: "girlPntsNYElgnc", clid: "16"}, {tpid: "grlCtrBrdShs", clid: "13"}, {tpid: "girlTShrtRbbt", clid: "6"}, {tpid: "girlHtHp", clid: null}, {tpid: "girlErrIris", clid: null}, {tpid: "girlGlssHp", clid: null}, {tpid: "grlGlvCtr1", clid: "16"}, {tpid: "girlNcklIris", clid: null}, {tpid: "girlCtHp", clid: null}]}, apprnc: {brc: 3, rc: 1, mc: 2, bt: 0, brt: 31, sc: 4, g: 2, fft: 2, pc: 1, rg: 0, ssc: 1, ec: 20, et: 34, ss: 0, n: "sadsrory", ht: 126, pt: 0, nct: 0, hc: 15, mt: 23, fac: 1, bc: 1, shc: 1, sh: 0, fat: 0}, pf: {pf: {vsgst: {pgs: 0, l: 20, tp: "vsgst"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}, jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}}}, uid: "43", locinfo: {x: 11.55, s: "127.0.0.1", shlc: true, y: 8.92, l: "couturier_ctr1_1", st: 23, d: 4, at: "", pl: ""}, ci: {pamns: {amn: []}, exp: 85800, compid: 0, lwts: 0, rpt: 0, crt: 15799, eml: null, skrt: 0, crst: 0, plcmt: {}, vret: 0, cmid: 0, ys: 0, vip: true, gdc: 0, shcr: true, vexp: 1965298000, actrd: 0, vsexp: 1965298000, rtrtm: 0, gtrfrd: 0, dr: true, spp: 0, fak: null, ceid: 0, fexp: 0, kyktid: null, bcld: 0, lvt: 1578578308, sbrt: 0, trid: "firstApril16Place1", shousd: false, vfgc: 0, hrt: 1044, as: null, actrt: 0, strfrd: 0, sbid: null, actrp: 0, lgt: 0, lrnt: 0, skid: null, ysct: 0, vsact: true, trcd: 0, tts: null}}}]

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="sv18InfoDialogTitle">Кто самый привлекательный?</message>
+        <message key="sv18InfoDialogDescription">А ты чувствуешь, что в воздухе витает романтическое настроение? Выражай симпатию другим игрокам и получай добро, чтобы затем обменять его на подарки! Раз в час, находясь в игре, ты будешь получать 10 бесплатных симпатий. Выполняй ежедневное задание, чтобы получить еще 50 бесплатных симпатий. Пять самых привлекательных аватаров получат уникальную награду - ленточку и корону!</message>
+        <message key="sv18HeartLabel">Симпатия</message>
+        <message key="sv18HeartDescription">Можно получить каждый час, находясь в игре.</message>
+        <message key="sv18ProgressDialogTitle">Награда за выраженную симпатию</message>
+        <message key="sv18ProgressDialogDescription">Выражай другим игрокам симпатию, чтобы получить добро и обменять его на уникальные призы!</message>
+        <message key="sv18LikeMenuTitle">выразить&#13;симпатию</message>
+        <message key="sv18BuyHeartsDialogTitle">Покупка симпатии</message>
+        <message key="sv18BuyHeartsDialogDescription">Не хватает симпатии? Самое время пополнить запасы. Не упусти возможность воспользоваться выгодными предложениями!</message>
+        <message key="sv18LikeReceivedNotificationMessage">:userName: :genderLike:</message>
+        <message key="sv18LikeReceivedNotificationReplyMessage">Хочешь ответить взаимностью?</message>
+        <gender key="sv18GenderLike">
+            <form>выразил тебе симпатию!</form>
+            <form>выразила тебе симпатию!</form>
+        </gender>
+
+        <message key="sv18RoseHint">Роза</message>
+        <message key="sv18DoubleArmchairHint">Кресло "Две половинки"</message>
+        <message key="sv18BoyClothesSetHint">Костюм "Romance"</message>
+        <message key="sv18GirlClothesSetHint">Костюм "Romance"</message>
+        <message key="sv18TrophyHint">Титул "Валентинка"</message>
+
+        <message key="sv18AwardDialogMessage">Мы дарим тебе этот замечательный подарок в награду за прохождение акции! Продолжай в том же духе и обязательно поделись этой новостью с друзьями!</message>
+        <message key="sv18AwardReceivedMessage">Мне подарили замечательный подарок в награду за прохождение акции! Хочешь такой же? Жду тебя в игре! :link:</message>
+
+        <message key="sv18HeartsBonusCountLabel">+ :count:</message>
+        <message key="sv18HeartsBonusLabel">бонус</message>
+
+        <message key="sv18HistoryLikeDialogTitle">Полученные симпатии</message>
+        <message key="sv18HistoryLikeDialogDescription">Здесь отображены последние выраженные тебе симпатии, при желании ты можешь ответить на них взаимностью.</message>
+
+        <message key="sv18RatingDialogTitle">Рейтинг привлекательности</message>
+        <message key="sv18RatingDialogDescription">Получай симпатию от других игроков, чтобы побороться за титул самого привлекательного аватара! Пять первых игроков в рейтинге получат в награду уникальные аксессуары - корону и ленточку.</message>
+
+        <message key="sv18ExchangeDialogTitle">Обмен на ресурсы</message>
+        <message key="sv18ExchangeDialogDescription">Продолжай собирать добро и обменивать его на различные полезные ресурсы!</message>
+
+        <message key="sv18QuestTitle">Нужна симпатия?</message>
+        <message key="sv18QuestDescription">За благие дела положена награда! Выполняй это задание каждый день и зарабатывай заветную симпатию бесплатно!</message>
+
+        <message key="sv18HintLabel">Бесплатные симпатии через :time:</message>
+    </locale>
+</dictionary>

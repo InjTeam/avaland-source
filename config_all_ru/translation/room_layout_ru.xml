@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    
+    <locale name="ru">
+        
+        <!-- WALLS -->
+        
+        <message key="wall1Title">Обои под покраску</message>
+        <message key="wall2Title">Обои текстурные</message>
+        <message key="wall3Title">Обои однотонные</message>
+        <message key="wall4Title">Обои голубые</message>
+        <message key="wall5Title">Обои голубые</message>
+        <message key="wall7Title">Обои однотонные</message>
+        <message key="wall8Title">Обои зеленые</message>
+        <message key="wall9Title">Обои розовые</message>
+        <message key="wall10Title">Обои в полоску</message>
+        <message key="wall11Title">Обои в полоску</message>
+        <message key="wall12Title">Обои в полоску</message>
+        <message key="wall13Title">Обои светлые</message>
+        <message key="wall14Title">Обои пиратские</message>
+        <message key="wall15Title">Обои с маками</message>
+        <message key="wall16Title">Обои шелковые</message>
+        <message key="wall17Title">Обои фиолетовые</message>
+        <message key="wall18Title">Фото-обои</message>
+        <message key="wall19Title">Обои кирпичные</message>
+        <message key="wall20Title">Обои фиолетовые</message>
+        <message key="wall21Title">Обои текстурные</message>
+        <message key="wall22Title">Обои кирпичные</message>
+        <message key="wall23Title">Обои с рисунком</message>
+        
+        <message key="wall24Title">Обои Halloween</message>
+        <message key="wall25Title">Обои Halloween</message>
+        
+        <message key="wallWedding1Title">Свадебные обои</message>
+        
+        <message key="wallNY1Title">Обои "Castle wall"</message>
+        <message key="wallNY2Title">Обои "Зима"</message>
+        
+        <message key="wallSchool1Title">Обои "Школа"</message>
+        
+        <!-- DOORS -->
+        
+        <message key="door1Title">Дверь</message>
+        <message key="door2Title">Дверь</message>
+        <message key="door3Title">Дверь позолоченная</message>
+        <message key="door4Title">Дверь</message>
+        <message key="door5Title">Дверь</message>
+        <message key="door6Title">Дверь межкомнатная</message>
+        <message key="door7Title">Дверь глянцевая</message>
+        
+        <message key="door8Title">Дверь Halloween</message>
+        <message key="door9Title">Дверь Halloween</message>
+        
+        <message key="door10Title">Дверь "Холостяк"</message>
+        
+        <message key="doorWedding1Title">Дверь к свадебному торжеству</message>
+        
+        <message key="doorVip1Title">Дверь с аркой</message>
+        <message key="doorVip2Title">Дверь с колоннами</message>
+        
+        <message key="doorSchoolTitle">Дверь в класс</message>
+        
+        <!-- WINDOWS -->
+        
+        <message key="window1Title">Окно со шторами</message>
+        <message key="window2Title">Окно полукруглое</message>
+        <message key="window3Title">Окно</message>
+        <message key="window4Title">Окно с витражным рисунком</message>
+        <message key="window5Title">Окно с мозайкой</message>
+        <message key="window6Title">Жалюзи белые</message>
+        <message key="window7Title">Окно с портьерой</message>
+        <message key="window8Title">Окно в виде арки</message>
+        <message key="window9Title">Окно в виде арки</message>
+        <message key="window10Title">Окно круглое</message>
+        <message key="window11Title">Окно со шторой</message>
+        <message key="window12Title">Окно со шторками</message>
+        <message key="window13Title">Окно art-deco</message>
+        <message key="window14Title">Окно в классе</message>
+        
+        <!-- FLOORS -->
+        
+        <message key="floor1Title">Линолеум</message>
+        <message key="floor2Title">Ковролин серый</message>
+        <message key="floor3Title">Линолеум джинсовый</message>
+        <message key="floor4Title">Линолеум зеленый</message>
+        <message key="floor5Title">Линолеум темно-серый</message>
+        <message key="floor6Title">Плитка напольная</message>
+        <message key="floor7Title">Ковролин голубой</message>
+        <message key="floor8Title">Ламинат</message>
+        <message key="floor9Title">Ламинат</message>
+        <message key="floor10Title">Паркет</message>
+        <message key="floor11Title">Паркет</message>
+        <message key="floor12Title">Паркет</message>
+        <message key="floor13Title">Паркет</message>
+        <message key="floor14Title">Линолеум фиолетовый</message>
+        <message key="floor15Title">Плитка серая</message>
+        <message key="floor16Title">Плитка мраморная</message>
+        <message key="floor17Title">Плитка голубая</message>
+        <message key="floor18Title">Плитка голубая</message>
+        <message key="floor19Title">Плитка серая</message>
+        
+        <message key="floor20Title">Плитка фиолетовая</message>
+        <message key="floor21Title">Плитка мраморная</message>
+        <message key="floor22Title">Паркет</message>
+        <message key="floor23Title">Паркет</message>
+        
+        <message key="floor24Title">Пол Halloween</message>
+        <message key="floor25Title">Пол Halloween</message>
+        
+        <message key="floorWedding1Title">Свадебное напольное покрытие</message>
+        
+        <message key="floorNY1Title">Пол "Снежный"</message>
+        
+        <!-- ROOMS -->
+        
+        <message key="room1Title">Комната. Большая и светлая.</message>
+        
+        <!-- AMUSIMENT -->
+        
+        <message key="doorPortalElfTitle">Дверь-портал "Эльф"</message>
+        <message key="doorPortalDemonTitle">Дверь-портал "Инферно"</message>
+        <message key="doorAquarium1Title">Дверь-люк</message>
+        
+        <message key="intFlr1Title">Интеллектуальный пол "Диско"</message>
+        <message key="intFlr2Title">Интеллектуальный пол "Поляна"</message>
+        <message key="floorDescription">Устрой настоящую дискотеку в своей квартире, украсив ее анимированным полом. Твои гости будут приятно удивлены, ведь пол реагирует на движения аватаров!</message>
+        
+        <!-- NEW FURNITURE SETS:
+                COUNTRY, BEACH,
+                ALIEN, JAPAN,
+                ARTNOUVEAU, MAYA -->
+        
+        <message key="wallJapan1Title">Обои "Япония"</message>
+        <message key="wallAlien1Title">Обои "Пришельцы"</message>
+        <message key="wallBeach1Title">Обои "Пляж"</message>
+        <message key="wallArtNouveau1Title">Обои "Модерн"</message>
+        <message key="wallPrincess1Title">Обои "Принцесса"</message>
+        <message key="wallCountry1Title">Обои "Кантри"</message>
+        <message key="wallMayaLabel">Обои "Майя"</message>
+        
+        <message key="doorJapanTitle">Дверь "Япония"</message>
+        <message key="doorAlienTitle">Дверь "Пришельцы"</message>
+        <message key="doorArtNouveauTitle">Дверь "Модерн"</message>
+        <message key="doorPrincessTitle">Дверь "Принцесса"</message>
+        <message key="doorCountryTitle">Дверь "Кантри"</message>
+        <message key="doorMayaLabel">Дверь "Майя"</message>
+        
+        <message key="windowAlien1Title">Иллюминатор темный</message>
+        <message key="windowAlien2Title">Иллюминатор светлый</message>
+        <message key="windowArtNouveauTitle">Окно "Модерн"</message>
+        <message key="windowPrincess1Title">Окно "Принцесса"</message>
+        <message key="windowPrincess2Title">Окно "Принцесса"</message>
+        <message key="windowCountryTitle">Окно "Кантри"</message>
+        <message key="windowMayaLabel">Окно "Майя"</message>
+        
+        <message key="floorJapan1Title">Паркет "Япония"</message>
+        <message key="floorAlien1Title">Пол "Пришельцы"</message>
+        <message key="floorArtNouveau1Title">Пол "Модерн"</message>
+        <message key="floorPrincessTitle">Паркет "Принцесса"</message>
+        <message key="floorCountryTitle">Пол "Кантри"</message>
+        <message key="floorBeachTitle">Пол "Барханы"</message>
+        <message key="floorMayaLabel">Пол "Майя"</message>
+        
+        <!-- NY 2014 EVENT ITEMS -->
+        
+        <message key="doorNY14BigTitle">Дверь "Ледяной дворец"</message>
+        <message key="doorNY14SmallTitle">Дверца "Ледяной дворец"</message>
+        <message key="floorNY14Title">Пол "Ледяной дворец"</message>
+        <message key="wallNY14Title">Обои "Ледяной дворец"</message>
+        <message key="windowNY14IceTitle">Окно "Ледяной дворец"</message>
+        
+        <!-- SV14 -->
+        
+        <message key="wallSV14Title">Обои "Поднебесье"</message>
+        <message key="doorSV14SmallTitle">Райские врата</message>
+        <message key="floorSV14Title">Пол "Поднебесье"</message>
+        
+        <!-- DZO14 -->
+        
+        <message key="doorFebruary23Label">Дверь в бункер</message>
+        <message key="windowFebruary23Label">Окно бункера</message>
+        <message key="floorFebruary23Label">Железный пол бункера</message>
+        <message key="wallFebruary23Label">Стена бункера</message>
+        
+        <!-- NYROOF -->
+        
+        <message key="doorNYRoofLabel">Дверь "Небоскреб"</message>
+        <message key="floorNYRoofLabel">Пол "Небоскреб"</message>
+        <message key="wallNYRoofLabel">Обои "Небоскреб"</message>
+        
+        <!-- SEA KITCHEN -->
+        
+        <message key="doorSeaLabel">Дверь "Морской бриз"</message>
+        <message key="floorSeaLabel">Паркет "Морской бриз"</message>
+        <message key="wallSeaLabel">Обои "Морской бриз"</message>
+
+        <!-- SP14 -->
+        <message key="spGeneratorWork">Работа генератора на сутки</message>
+
+        <!-- GARAGE ROOM -->
+        <message key="garageRetroDoor">Гаражные ворота</message>
+        <message key="garageRetroWindow">Гаражное окно</message>
+        <message key="garageRetroFloor">Гаражный пол</message>
+        <message key="garageRetroWall">Гаражные стены</message>
+
+        <message key="garageTechnoWindows">Гаражное окно "Техно"</message>
+        <message key="garageTechnoDoor">Гаражные ворота "Техно"</message>
+        <message key="garageTechnoFloor">Гаражный пол "Техно"</message>
+        <message key="garageTechnoWall">Гаражные стены "Техно"</message>
+
+        <!-- NY2015 -->
+        <message key="wdwSantaLabel">Окно "Санта"</message>
+        <message key="floorSantaHouseLabel">Пол "Санта"</message>
+        <message key="wallSantaHouseLabel">Обои "Санта"</message>
+        <message key="doorSantaHouseLabel">Дверь "Санта"</message>
+
+        <!-- SV15 -->
+        <message key="wallSV15Label">Обои "Аллея любви"</message>
+        <message key="doorSV15Label">Арка "Аллея любви"</message>
+        <message key="floorSV15Label">Аллейная брусчатка</message>
+
+        <!-- CONAN -->
+        <message key="wallConanLabel">Обои "Варвар"</message>
+        <message key="doorConanLabel">Дверь "Варвар"</message>
+        <message key="floorConanLabel">Пол "Варвар"</message>
+
+        <!-- GARDENER GIFT -->
+        <message key="flrGrdGft">Пол "Садовник"</message>
+        <message key="wllGrdGft">Обои "Садовник"</message>
+        <message key="drGrdGft">Дверь "Садовник"</message>
+        <message key="wdwGrdGft">Окно "Садовник"</message>
+
+        <!-- TROPICAL BEDROOM -->
+        <message key="wllTrBthLabel">Стена «Тропики»</message>
+        <message key="drTrBthLabel">Дверь «Тропики»</message>
+        <message key="wdwTrBth">Окно «Тропики»</message>
+        <message key="flrTrBthLabel">Пол «Тропики»</message>
+
+        <!-- BLACK ROSE -->
+
+        <message key="wdwBlkRsLabel">Окно «Чёрная Роза»</message>
+        <message key="wllBlkRsLabel">Обои «Чёрная Роза»</message>
+        <message key="flrBlkRsLabel">Пол «Чёрная Роза»</message>
+        <message key="drBlkRsLabel">Дверь «Чёрная Роза»</message>
+
+        <!-- SD16 -->
+        <message key="sd16WllLabel">Обои «Весенняя акция»</message>
+        <message key="sd16FlrLabel">Пол «Весенняя акция»</message>
+
+        <!-- HALLOWEEN 2019 -->
+        <message key="orclDrLabel">Дверь "Провидец"</message>
+        <message key="orclWllLabel">Обои "Провидец"</message>
+        <message key="orclWdwLabel">Окно "Провидец"</message>
+        <message key="orclFlrLabel">Пол "Провидец"</message>
+
+        <message key="drgCvDrLabel">Дверь "Пещера дракона"</message>
+        <message key="drgCvWllLabel">Каменные стены "Пещера дракона"</message>
+        <message key="drgCvFlrLabel">Лава "Пещера дракона"</message>
+
+        <!-- NEW YEAR 2020 -->
+        <message key="NY20DrLabel">Дверь "Голубой огонёк"</message>
+        <message key="NY20FlrLabel">Пол "Голубой огонёк"</message>
+        <message key="NY20WllpprLabel">Стены "Голубой огонёк"</message>
+    </locale>
+    
+</dictionary>

@@ -1,0 +1,25 @@
+ClientError: Thu Jan 9 20:19:33 GMT-1200 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 20:19:33 GMT-1200 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "208", ci: {lvt: 1578579201, pamns: {amn: []}, trcd: 0, eml: null, dr: true, vret: 0, crt: 717, as: null, ceid: 0, ysct: 0, vip: true, actrd: 0, gtrfrd: 0, fexp: 0, skrt: 0, shcr: true, sbrt: 0, plcmt: {}, compid: 0, rpt: 0, fak: null, cmid: 0, spp: 0, lwts: 0, lrnt: 0, trid: null, bcld: 0, actrp: 0, vfgc: 0, actrt: 0, lgt: 0, strfrd: 0, sbid: null, kyktid: null, vsexp: 1965298000, ys: 0, vsact: true, hrt: 174, vexp: 1965298000, crst: 0, skid: null, exp: 85800, rtrtm: 0, tts: null, shousd: false, gdc: 0}, usrinf: {rl: 0}, apprnc: {et: 23, ssc: 1, pt: 0, sc: 1, rc: 1, bt: 0, brc: 1, nct: 0, fft: 7, rg: 0, g: 1, mc: 2, ht: 74, fat: 0, n: "  ЭТОСАМОЕ", mt: 16, brt: 24, hc: 1, shc: 1, pc: 1, ec: 20, sh: 0, ss: 0, bc: 1, fac: 1}, mbm: {ac: null, sk: "blackMobileSkin"}, pf: {pf: {phtghr: {l: 20, tp: "phtghr", pgs: 0}, grdnr: {l: 20, tp: "grdnr", pgs: 0}, jntr: {l: 20, tp: "jntr", pgs: 0}, vsgst: {l: 20, tp: "vsgst", pgs: 0}}}, clths: {clths: [{tpid: "boyGlssNY20Gld", clid: null}, {tpid: "boyPldJckt", clid: null}, {tpid: "boyPldTShrt", clid: null}, {tpid: "boyPldBts", clid: null}, {tpid: "boyPldPnts", clid: null}]}, locinfo: {st: 23, x: 8.59, s: "127.0.0.1", y: 10.09, l: "salon_sn1_1", shlc: true, d: 4, at: "", pl: ""}}}]
+Thu Jan 9 20:19:32 GMT-1200 2020 [INFO] Server said: 34: ["o.r.u", {st: 23, x: 11.59, y: 15.53, uid: "260", d: 6, at: ""}]
+Thu Jan 9 20:19:32 GMT-1200 2020 [INFO] Server said: 16: ["salon_sn1_1", "130"]
+Thu Jan 9 20:19:32 GMT-1200 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {uid: "130", ci: {lvt: 1578579578, pamns: {amn: []}, trcd: 0, eml: null, dr: true, vret: 0, crt: 568, as: null, ceid: 0, ysct: 0, vip: true, actrd: 0, gtrfrd: 0, fexp: 0, skrt: 0, shcr: true, sbrt: 0, plcmt: {}, compid: 0, rpt: 0, fak: null, cmid: 0, spp: 0, lwts: 0, lrnt: 0, trid: null, bcld: 0, actrp: 0, vfgc: 0, actrt: 0, lgt: 0, strfrd: 0, sbid: null, kyktid: null, vsexp: 1965298000, ys: 0, vsact: true, hrt: 183, vexp: 1965298000, crst: 0, skid: null, exp: 85800, rtrtm: 0, tts: null, shousd: false, gdc: 0}, usrinf: {rl: 0}, apprnc: {et: 6, ssc: 1, pt: 0, sc: 1, rc: 1, bt: 0, brc: 5, nct: 0, fft: 0, rg: 0, g: 2, mc: 4, ht: 127, fat: 0, n: "Секси Бейба", mt: 2, brt: 28, hc: 7, shc: 1, pc: 1, ec: 1, sh: 0, ss: 0, bc: 1, fac: 1}, mbm: {ac: null, sk: "blackMobileSkin"}, pf: {pf: {phtghr: {l: 20, tp: "phtghr", pgs: 0}, grdnr: {l: 20, tp: "grdnr", pgs: 0}, jntr: {l: 20, tp: "jntr", pgs: 0}, vsgst: {l: 20, tp: "vsgst", pgs: 0}}}, clths: {clths: [{tpid: "girlNY20VKGiftPllvDr", clid: null}, {tpid: "girlGlssYllw", clid: null}, {tpid: "girlNY20VKGiftHtPngv", clid: null}, {tpid: "girlBtsJpn2", clid: null}, {tpid: "girlPntsNY20Gld", clid: null}]}, locinfo: {st: 0, x: -1, s: "127.0.0.1", y: -1, l: "salon_sn1_1", shlc: true, d: 4, at: "", pl: ""}}}]
+Thu Jan 9 20:19:31 GMT-1200 2020 [INFO] Server said: 34: ["o.r.m", {uid: "260", dx: 11.59, sx: 13.91, sy: 12.28, dy: 15.53}]
+Thu Jan 9 20:19:31 GMT-1200 2020 [INFO] Server said: 34: ["o.r.u", {st: 23, x: 13.91, y: 12.28, uid: "260", d: 0, at: ""}]
+Thu Jan 9 20:19:30 GMT-1200 2020 [INFO] Server said: 34: ["o.r.m", {uid: "260", dx: 13.91, sx: 12.61, sy: 14.92, dy: 12.28}]
+Thu Jan 9 20:19:30 GMT-1200 2020 [INFO] Server said: 34: ["o.r.u", {st: 0, x: 15.5, uid: "123", y: 1.5, d: 4}]
+Thu Jan 9 20:19:29 GMT-1200 2020 [INFO] Server said: 34: ["o.r.u", {st: 23, x: 12.61, y: 14.92, uid: "260", d: 5, at: ""}]
+Thu Jan 9 20:19:29 GMT-1200 2020 [INFO] Server said: 17: ["salon_sn1_1", "264"]
+Thu Jan 9 20:19:29 GMT-1200 2020 [INFO] Server said: 34: ["o.r.lv", {uid: "264"}]

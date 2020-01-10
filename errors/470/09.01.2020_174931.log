@@ -1,0 +1,52 @@
+ClientError: Thu Jan 9 20:49:09 GMT+0600 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 20:49:09 GMT+0600 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {pf: {pf: {phtghr: {tp: "phtghr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}}}, mbm: {sk: "blackMobileSkin", ac: null}, apprnc: {pt: 0, brc: 11, ec: 30, hc: 1, rc: 1, g: 2, et: 37, shc: 1, ssc: 1, fat: 0, fac: 1, mc: 15, nct: 0, mt: 30, ht: 112, bt: 0, pc: 1, ss: 0, sc: 1, n: "lolkek", fft: 12, bc: 1, sh: 0, brt: 24, rg: 0}, usrinf: {rl: 0}, clths: {clths: [{tpid: "grlRsTSht", clid: null}, {tpid: "grlRsErr", clid: null}, {tpid: "grlRsShs", clid: null}, {tpid: "grlRsBg", clid: null}, {tpid: "grlRsShrt", clid: null}]}, ci: {lgt: 0, vret: 0, ys: 0, actrd: 0, vfgc: 0, shousd: false, fak: null, vexp: 1965298000, ceid: 0, shcr: true, vsexp: 1965298000, cmid: 0, rpt: 0, as: null, vsact: true, dr: true, lvt: 1578580576, gtrfrd: 0, lwts: 0, lrnt: 0, strfrd: 0, skid: null, crst: 0, rtrtm: 0, skrt: 0, spp: 0, pamns: {amn: []}, kyktid: null, vip: true, tts: null, fexp: 0, hrt: 174, trid: "freelanceMicrophone", eml: null, crt: 891, bcld: 0, compid: 0, exp: 85800, plcmt: {}, actrt: 0, actrp: 0, sbid: null, ysct: 0, trcd: 0, gdc: 0, sbrt: 0}, locinfo: {at: "", x: 13.98, shlc: true, pl: "", y: 2.42, st: 23, s: "127.0.0.1", l: "salon_sn1_1", d: 4}, uid: "234"}}]
+Thu Jan 9 20:49:08 GMT+0600 2020 [INFO] Server said: 34: ["o.r.m", {dx: 10.66, sy: 11.52, dy: 13.03, sx: 10.83, uid: "506"}]
+Thu Jan 9 20:49:06 GMT+0600 2020 [INFO] Server said: 34: ["o.r.u", {x: 10.83, y: 11.52, st: 23, at: "", d: 6, uid: "506"}]
+Thu Jan 9 20:49:05 GMT+0600 2020 [INFO] Client said: 34: ["salon_sn1_1", "o.r.info", {rid: "sn1"}]
+Thu Jan 9 20:49:05 GMT+0600 2020 [INFO] Server said: 34: ["o.gr", {rid: "salon_sn1_1"}]
+Thu Jan 9 20:49:05 GMT+0600 2020 [INFO] Server said: 16: ["salon_sn1_1", "470"]
+Thu Jan 9 20:49:05 GMT+0600 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {pf: {pf: {phtghr: {tp: "phtghr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}}}, mbm: {sk: "blackMobileSkin", ac: null}, apprnc: {pt: 0, brc: 5, ec: 2, hc: 7, rc: 1, g: 1, et: 4, shc: 1, ssc: 1, fat: 0, fac: 1, mc: 3, nct: 0, mt: 3, ht: 87, bt: 0, pc: 1, ss: 0, sc: 5, n: "-Fatal-333", fft: 0, bc: 1, sh: 0, brt: 4, rg: 0}, usrinf: {rl: 0}, clths: {clths: [{tpid: "boyShirt14", clid: null}, {tpid: "boyShoes8", clid: null}, {tpid: "boyPants10", clid: null}]}, ci: {lgt: 0, vret: 0, ys: 0, actrd: 0, vfgc: 0, shousd: false, fak: null, vexp: 1965298000, ceid: 0, shcr: true, vsexp: 1965298000, cmid: 0, rpt: 0, as: null, vsact: true, dr: true, lvt: 1578581276, gtrfrd: 0, lwts: 0, lrnt: 0, strfrd: 0, skid: null, crst: 0, rtrtm: 0, skrt: 0, spp: 0, pamns: {amn: []}, kyktid: null, vip: true, tts: null, fexp: 0, hrt: 174, trid: null, eml: null, crt: 18, bcld: 0, compid: 0, exp: 85800, plcmt: {}, actrt: 0, actrp: 0, sbid: null, ysct: 0, trcd: 0, gdc: 0, sbrt: 0}, locinfo: {at: "", x: -1, shlc: true, pl: "", y: -1, st: 0, s: "127.0.0.1", l: "salon_sn1_1", d: 4}, uid: "470"}}]
+Thu Jan 9 20:49:03 GMT+0600 2020 [INFO] Server said: 34: ["o.r.m", {dx: 10.83, sy: 8.38, dy: 11.52, sx: 12.44, uid: "506"}]
+Thu Jan 9 20:49:01 GMT+0600 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {pf: {pf: {phtghr: {tp: "phtghr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}}}, mbm: {sk: "blackMobileSkin", ac: null}, apprnc: {pt: 0, brc: 1, ec: 5, hc: 7, rc: 1, g: 1, et: 7, shc: 1, ssc: 1, fat: 0, fac: 1, mc: 3, nct: 0, mt: 11, ht: 57, bt: 0, pc: 1, ss: 0, sc: 2, n: "die.", fft: 0, bc: 1, sh: 0, brt: 4, rg: 0}, usrinf: {rl: 0}, clths: {clths: [{tpid: "boyShoes8", clid: null}, {tpid: "boyHlwn28", clid: null}, {tpid: "boyShirt14", clid: null}, {tpid: "boyPtsSh", clid: null}, {tpid: "boyJcktSV19", clid: null}]}, ci: {lgt: 0, vret: 0, ys: 0, actrd: 0, vfgc: 0, shousd: false, fak: null, vexp: 1965298000, ceid: 0, shcr: true, vsexp: 1965298000, cmid: 0, rpt: 0, as: null, vsact: true, dr: true, lvt: 1578580930, gtrfrd: 0, lwts: 0, lrnt: 0, strfrd: 0, skid: null, crst: 0, rtrtm: 0, skrt: 0, spp: 0, pamns: {amn: []}, kyktid: null, vip: true, tts: null, fexp: 0, hrt: 174, trid: "firstApril16Place1", eml: null, crt: 370, bcld: 0, compid: 0, exp: 85800, plcmt: {}, actrt: 0, actrp: 0, sbid: null, ysct: 0, trcd: 0, gdc: 0, sbrt: 0}, locinfo: {at: "", x: 9.02, shlc: true, pl: "", y: 13.2, st: 23, s: "127.0.0.1", l: "salon_sn1_1", d: 4}, uid: "389"}}]
+Thu Jan 9 20:48:57 GMT+0600 2020 [INFO] Server said: 34: ["o.r.u", {x: 18.9, y: 17.17, st: 1, at: "sitItem14", d: 4, uid: "212"}]
+Thu Jan 9 20:48:54 GMT+0600 2020 [INFO] Server said: 34: ["o.r.u", {x: 18.9, y: 17.17, st: 23, at: "", d: 4, uid: "212"}]
+Thu Jan 9 20:47:55 GMT+0600 2020 [INFO] Client said: 34: [null, "o.gr", {gid: "sn1", lid: "salon"}]
+Thu Jan 9 20:47:55 GMT+0600 2020 [INFO] Server said: 1: ["470", true, false, false]
+Thu Jan 9 20:47:23 GMT+0600 2020 [INFO] Client said: 1: ["street", "470", "ZYNCtBIMiCuugQAaWSYa", {clvrn: "84.0.4", v: 2}]
+Thu Jan 9 20:47:21 GMT+0600 2020 [INFO] Client said: 2: []
+Thu Jan 9 20:47:21 GMT+0600 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Salon_1fe14ef0cdf189794ef74d591993d3f5.swf, status: 2) 
+Thu Jan 9 20:47:20 GMT+0600 2020 [INFO] Client said: 17: ["house_470_livingroom"]
+Thu Jan 9 20:47:15 GMT+0600 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 20:47:15 GMT+0600 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, gld: 10600, enrg: 500, emd: 0}}]
+Thu Jan 9 20:47:14 GMT+0600 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 20:47:14 GMT+0600 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]
+Thu Jan 9 20:47:13 GMT+0600 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 20:47:13 GMT+0600 2020 [INFO] Client said: 34: ["house_470_livingroom", "h.r.u", {x: 4.47, y: 8.91, st: 23, at: "", d: 4, uid: "470"}]
+Thu Jan 9 20:47:11 GMT+0600 2020 [INFO] Client said: 34: ["house_470_livingroom", "h.r.m", {dx: 4.47, sy: 7.75, sx: 6.81, dy: 8.91, uid: "470"}]
+Thu Jan 9 20:47:08 GMT+0600 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 20:47:08 GMT+0600 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, gld: 9100, enrg: 500, emd: 0}}]
+Thu Jan 9 20:47:06 GMT+0600 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 20:47:06 GMT+0600 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]
+Thu Jan 9 20:47:05 GMT+0600 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 20:47:03 GMT+0600 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 20:47:03 GMT+0600 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, gld: 7600, enrg: 500, emd: 0}}]
+Thu Jan 9 20:47:03 GMT+0600 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 20:47:03 GMT+0600 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]
+Thu Jan 9 20:47:02 GMT+0600 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 20:47:01 GMT+0600 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 20:47:01 GMT+0600 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, gld: 6100, enrg: 500, emd: 0}}]
+Thu Jan 9 20:47:00 GMT+0600 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 20:47:00 GMT+0600 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]

@@ -1,0 +1,43 @@
+ClientError: Thu Jan 9 19:04:33 GMT+0500 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-4WJ::EditAvatarAppearanceDialog/_-3EJ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-Qp::_-1DK/close()
+	at _-4WJ::_-3BQ/_-29H()
+Thu Jan 9 19:04:27 GMT+0500 2020 [INFO] Server said: 34: ["a.apprnc.save", {apprnc: {rg: 0, et: 8, fac: 1, pt: 0, nct: 0, rc: 1, pc: 1, ec: 2, ssc: 1, g: 2, fat: 0, hc: 5, bt: 0, sh: 0, fft: 0, sc: 1, brc: 1, n: "Может чаю?", ss: 0, brt: 28, mt: 7, ht: 119, shc: 1, mc: 2, bc: 1}}]
+Thu Jan 9 19:04:27 GMT+0500 2020 [INFO] Client said: 34: [null, "h.minfo", {onl: false, tm: 1578578667}]
+Thu Jan 9 19:04:27 GMT+0500 2020 [INFO] Server said: 34: ["a.apprnc.save", {apprnc: {rg: 0, et: 8, fac: 1, pt: 0, nct: 0, rc: 1, pc: 1, ec: 2, ssc: 1, g: 2, fat: 0, hc: 5, bt: 0, sh: 0, fft: 0, sc: 1, brc: 1, n: "Может чаю?", ss: 0, brt: 28, mt: 7, ht: 119, shc: 1, mc: 2, bc: 1}}]
+Thu Jan 9 19:04:11 GMT+0500 2020 [INFO] Client said: 34: [null, "a.apprnc.save", {apprnc: {rg: 0, bc: 1, fac: 1, pt: 0, nct: 0, rc: 1, pc: 1, ec: 2, ssc: 1, g: 2, fat: 0, hc: 5, bt: 0, sh: 0, fft: 0, sc: 1, brc: 1, n: "Может чаю?", ss: 0, brt: 28, mt: 7, ht: 119, shc: 1, mc: 2, et: 8}}]
+Thu Jan 9 19:04:07 GMT+0500 2020 [INFO] Client said: 34: [null, "a.apprnc.save", {apprnc: {rg: 0, bc: 1, fac: 1, pt: 0, nct: 0, rc: 1, pc: 1, ec: 2, ssc: 1, g: 2, fat: 0, hc: 5, bt: 0, sh: 0, fft: 0, sc: 1, brc: 1, n: "Может чаю?", ss: 0, brt: 28, mt: 7, ht: 119, shc: 1, mc: 2, et: 8}}]
+Thu Jan 9 19:01:58 GMT+0500 2020 [INFO] Server said: 34: ["h.minfo", {has.avtr: false}]
+Thu Jan 9 19:01:58 GMT+0500 2020 [INFO] Server said: 34: ["ctmr.get", {tu: {snowboardRating: []}}]
+Thu Jan 9 19:01:58 GMT+0500 2020 [INFO] Server said: 34: ["ur.get", {bt: [{uid: 14, hr: 413116, cr: 15361}, {uid: 70, hr: 251420, cr: 6295}, {uid: 64, hr: 120844, cr: 1685}, {uid: 18, hr: 60174, cr: 1066}, {uid: 22, hr: 25373, cr: 47722}, {uid: 97, hr: 25173, cr: 1304}, {uid: 52, hr: 24539, cr: 24929}, {uid: 32, hr: 12979, cr: 9158}, {uid: 17, hr: 11208, cr: 23415}, {uid: 62, hr: 6005, cr: 433}]}]
+Thu Jan 9 19:00:51 GMT+0500 2020 [INFO] Server said: 34: ["mail.gc", {in: [], out: []}]
+Thu Jan 9 19:00:51 GMT+0500 2020 [INFO] Server said: 34: ["rl.get", {uid: "229", rlts: {}}]
+Thu Jan 9 19:00:51 GMT+0500 2020 [INFO] Client said: 34: [null, "h.minfo", {onl: false, tm: 1578578451}]
+Thu Jan 9 19:00:51 GMT+0500 2020 [INFO] Client said: 34: [null, "ctmr.get", {}]
+Thu Jan 9 19:00:51 GMT+0500 2020 [INFO] Client said: 34: [null, "ur.get", {}]
+Thu Jan 9 19:00:51 GMT+0500 2020 [INFO] Client said: 34: [null, "mail.gc", {}]
+Thu Jan 9 19:00:51 GMT+0500 2020 [INFO] Client said: 34: [null, "rl.get", {}]
+Thu Jan 9 19:00:51 GMT+0500 2020 [INFO] Server said: 1: ["229", true, false, false]
+Thu Jan 9 19:00:50 GMT+0500 2020 [INFO] Client said: 1: ["house", "229", "SJdFlGEQMyjBjuChInFy", {nk: "", lcl: "ru", pht: "http://vkontakte.ru/images/question_b.gif", clvrn: "84.0.4", ctr: 0, sid: "229", rftp: null, rfid: null, fn: "", cty: 0, gdr: 0, lng: "ru", bd: "", rd: 0, ln: "", v: 2}]
+Thu Jan 9 19:00:37 GMT+0500 2020 [INFO] /social?user_id=229&uids=229&method=getProfiles&
+Thu Jan 9 19:00:26 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/clothes/BoyAvatarClothes_2943558be07d06336be471aae14182e8.swf, status: 2) 
+Thu Jan 9 19:00:26 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/modules/FirstApril2019_c61d0c4ae4ed7bf2bb6c56a0b0aef0cd.swf, status: 2) 
+Thu Jan 9 19:00:23 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/clothes/GirlAvatarClothes_6277dca58e5d01b69bc6a9cb7a945975.swf, status: 2) 
+Thu Jan 9 19:00:23 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/ClanHall_a2d9c292103810ee5b74bd16c552ca27.swf, status: 2) 
+Thu Jan 9 19:00:14 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/modules/SpringDay2019_8bcd45cef1442eb1a9081d2a886d341b.swf, status: 2) 
+Thu Jan 9 19:00:07 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Ui_f427ccff0ff5b8e9f3b5d7e486debb36.swf, status: 2) 
+Thu Jan 9 18:59:42 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/modules/Dzo2019_b6ab92fc303c4ce26e232acdeb78278a.swf, status: 2) 
+Thu Jan 9 18:59:39 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Decor_72d07277bd6a6eb1f4e69942bd0e3c1b.swf, status: 2) 
+Thu Jan 9 18:59:35 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Sounds_d58645c1a0128c639a46252ff9fb55b3.swf, status: 2) 
+Thu Jan 9 18:59:29 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/modules/Halloween2016_c640de0da6775bf97735171fae379551.swf, status: 2) 
+Thu Jan 9 18:59:28 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Location_51d91d534828afbab0b082420de52f46.swf, status: 2) 
+Thu Jan 9 18:59:24 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/UiLang_ru_9526f7671633843e9362fd91de3bb113.swf, status: 2) 
+Thu Jan 9 18:59:23 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/clothes/BoyUnderClothes_037621da00d14a36aa9631c6e44a167b.swf, status: 2) 
+Thu Jan 9 18:59:22 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/clothes/BoyCoctailClothes_0fe70dcbdc3736e62b1847de158f93ca.swf, status: 2) 
+Thu Jan 9 18:59:21 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/clothes/BoyEventClothes_45f18d6c6cf4ef6460fa8509ee84962c.swf, status: 2) 
+Thu Jan 9 18:59:18 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/clothes/BoySeasonClothes_e62b0ffa4d452c74662a3c126c715704.swf, status: 2) 
+Thu Jan 9 18:59:17 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/clothes/BoyNPCClothes_06c7f00e4b65da11c2093800105a48db.swf, status: 2) 
+Thu Jan 9 18:59:16 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Podium_da6033c5935b4a7185cb6d7101ac5baf.swf, status: 2) 
+Thu Jan 9 18:59:15 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/clothes/BoyPhotosalonClothes_c51bace2287fb59e8442144219c37a1f.swf, status: 2) 
+Thu Jan 9 18:59:14 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Clan_a4fd08822553628011c52e92be3af7b7.swf, status: 2) 

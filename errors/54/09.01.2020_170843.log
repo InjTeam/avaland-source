@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 16:05:41 GMT+0200 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 16:05:41 GMT+0200 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {mbm: {sk: "blackMobileSkin", ac: null}, usrinf: {rl: 0}, ci: {lrnt: 0, shcr: true, vsexp: 1965298000, ys: 0, lvt: 1578578338, fak: null, vexp: 1965298000, crst: 0, as: null, ysct: 0, lwts: 0, pamns: {amn: []}, lgt: 0, plcmt: {}, shousd: false, eml: null, gdc: 0, sbrt: 0, actrd: 0, tts: null, sbid: null, actrp: 0, spp: 0, rpt: 0, compid: 0, dr: true, hrt: 220, trid: "familyDay2016", actrt: 0, vip: true, trcd: 0, bcld: 0, kyktid: null, ceid: 0, fexp: 0, crt: 5621, cmid: 0, rtrtm: 0, exp: 85800, skid: null, strfrd: 0, vret: 0, skrt: 0, vfgc: 0, gtrfrd: 0, vsact: true}, clths: {clths: [{tpid: "girlTShrtSchool", clid: "1"}, {tpid: "gShsPsln7", clid: null}, {tpid: "girlGlssYllw", clid: null}]}, locinfo: {l: "couturier_ctr1_1", x: 13.02, pl: "", at: "", st: 23, s: "127.0.0.1", shlc: true, d: 4, y: 3.7}, apprnc: {et: 33, pt: 0, mc: 29, ss: 0, rc: 1, g: 2, ssc: 1, shc: 1, hc: 8, brt: 24, sh: 0, ec: 3, brc: 1, mt: 11, fac: 1, bt: 0, rg: 3, fat: 0, ht: 110, nct: 0, bc: 1, n: "₭ổ®ổζèβã™", fft: 2, pc: 1, sc: 1}, pf: {pf: {vsgst: {tp: "vsgst", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}}}, uid: "58"}}]
+Thu Jan 9 16:05:41 GMT+0200 2020 [INFO] Server said: 34: ["o.r.m", {sy: 6.31, dy: 5.54, sx: 4, dx: 4.12, uid: "38"}]

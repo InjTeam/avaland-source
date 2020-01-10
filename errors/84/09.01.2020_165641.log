@@ -1,0 +1,22 @@
+ClientError: Thu Jan 9 20:56:48 GMT+0700 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 20:56:47 GMT+0700 2020 [INFO] Client said: 34: ["house_84_livingroom", "h.r.u", {x: 6.36, y: 7.92, at: "", uid: "84", st: 23, d: 6}]
+Thu Jan 9 20:56:45 GMT+0700 2020 [INFO] Client said: 34: ["house_84_livingroom", "h.r.m", {sy: 8.3, uid: "84", sx: 10.35, dx: 6.36, dy: 7.92}]
+Thu Jan 9 20:56:44 GMT+0700 2020 [INFO] Client said: 34: ["house_84_livingroom", "h.r.m", {sy: 8.3, uid: "84", sx: 10.42, dx: 6.36, dy: 7.92}]
+Thu Jan 9 20:56:44 GMT+0700 2020 [INFO] Client said: 34: ["house_84_livingroom", "h.r.m", {sy: 8.3, uid: "84", sx: 11.5, dx: 8.28, dy: 8.22}]
+Thu Jan 9 20:56:43 GMT+0700 2020 [INFO] Server said: 34: ["h.r.rfr", {rm: {lev: 1, w: 13, l: 13, nm: "#livingRoom", f: [{x: 13, y: 0, lid: 4884587, z: 0, d: 5, tpid: "pnRmWll"}, {x: 3, rid: "outside", y: 0, lid: 4, z: 0, d: 3, tpid: "door4"}, {x: 0, y: 0, lid: 4580635, z: 0, d: 5, tpid: "pnRmFlr"}, {x: 0, y: 0, lid: 4884586, z: 0, d: 3, tpid: "pnRmWll"}]}}]
+Thu Jan 9 20:56:43 GMT+0700 2020 [INFO] Client said: 34: ["house_84_livingroom", "h.r.rfr", {}]
+Thu Jan 9 20:56:43 GMT+0700 2020 [INFO] Server said: 34: ["frn.save", {inv: {c: {lt: {id: "lt", it: []}, cls: {id: "cls", it: [{c: 1, iid: "", tid: "girlUnderdress1"}, {c: 1, iid: "", tid: "girlUnderdress2"}, {c: 1, iid: "", tid: "girlShirt12"}, {c: 1, iid: "", tid: "girlPants9"}, {c: 1, iid: "", tid: "girlShoes14"}]}, act: {id: "act", it: []}, gm: {id: "gm", it: [{c: 1, iid: "", tid: "blackMobileSkin"}]}, frn: {id: "frn", it: [{c: 1, iid: "", tid: "wall15"}, {c: 1, iid: "", tid: "floor4"}]}}}, ci: {lgt: 0, trcd: 0, sbrt: 0, ysct: 0, sbid: null, shousd: false, vexp: 1965298000, fak: null, vsexp: 1965298000, shcr: true, plcmt: {}, as: null, vsact: true, gtrfrd: 0, pamns: {amn: []}, lvt: 1578577796, ys: 0, strfrd: 0, crst: 0, lrnt: 0, vfgc: 0, rtrtm: 0, vret: 0, fexp: 0, ceid: 0, kyktid: null, skid: null, vip: true, actrt: 0, lwts: 0, hrt: 333, dr: true, compid: 0, crt: 261, cmid: 0, bcld: 0, exp: 85800, actrp: 0, skrt: 0, rpt: 0, trid: "freelanceMicrophone", tts: null, actrd: 0, spp: 0, gdc: 0, eml: null}, hs: {l: 13, f: [{x: 13, y: 0, lid: 4884587, z: 0, d: 5, tpid: "pnRmWll"}, {x: 3, rid: "outside", y: 0, lid: 4, z: 0, d: 3, tpid: "door4"}, {x: 0, y: 0, lid: 4580635, z: 0, d: 5, tpid: "pnRmFlr"}, {x: 0, y: 0, lid: 4884586, z: 0, d: 3, tpid: "pnRmWll"}], id: "livingroom", w: 13, nm: "house", lev: 1}}]
+Thu Jan 9 20:56:43 GMT+0700 2020 [INFO] Client said: 34: ["house_84_livingroom", "frn.save", {f: [{oid: 4884586, tm: 1578578199796, t: 0, tpid: "pnRmWll"}, {oid: 4580635, tm: 1578578199763, t: 0, tpid: "pnRmFlr"}]}]
+Thu Jan 9 20:56:41 GMT+0700 2020 [INFO] Client said: 34: ["house_84_livingroom", "h.r.u", {x: 11.5, y: 8.3, at: "", uid: "84", st: 23, d: 3}]

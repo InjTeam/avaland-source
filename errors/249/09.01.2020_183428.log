@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 20:33:04 GMT+0500 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 20:33:04 GMT+0500 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {apprnc: {mt: 31, ht: 130, g: 2, rg: 0, rc: 1, fat: 0, nct: 0, fac: 1, ec: 2, et: 34, fft: 7, brc: 2, sc: 2, mc: 2, hc: 15, brt: 22, bt: 0, ssc: 1, n: "-ПРИВИТ-", ss: 0, shc: 3, pt: 0, pc: 1, sh: 1, bc: 1}, uid: "631", clths: {clths: [{tpid: "girlTShrtYllw", clid: null}, {tpid: "girlGlssYllw", clid: null}, {tpid: "girlBtsYllw", clid: null}, {tpid: "girlPntsYllw", clid: null}, {tpid: "girlBgYllw", clid: null}, {tpid: "girlJcktYllw", clid: null}]}, locinfo: {s: "127.0.0.1", x: 12.73, pl: "", y: 2.31, l: "salon_sn1_1", st: 1, at: "sitItem12", shlc: true, d: 4}, ci: {sbid: null, actrp: 0, cmid: 0, dr: true, skid: null, crst: 0, shousd: false, spp: 0, skrt: 0, fexp: 0, vexp: 1965298000, plcmt: {}, pamns: {amn: []}, strfrd: 0, sbrt: 0, tts: null, gtrfrd: 0, bcld: 0, vsexp: 1965298000, eml: null, trid: null, rtrtm: 0, vsact: true, trcd: 0, as: null, kyktid: null, hrt: 174, lvt: 1578583748, vret: 0, ysct: 0, actrt: 0, vfgc: 0, lrnt: 0, compid: 0, rpt: 0, fak: null, crt: 445, lwts: 0, gdc: 0, exp: 85800, shcr: true, lgt: 0, ys: 0, vip: true, ceid: 0, actrd: 0}, pf: {pf: {phtghr: {tp: "phtghr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}}}, usrinf: {rl: 0}, mbm: {sk: "blackMobileSkin", ac: null}}}]

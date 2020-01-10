@@ -1,0 +1,19 @@
+ClientError: Thu Jan 9 20:04:31 GMT+0500 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 20:04:31 GMT+0500 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "328", usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlShoes14"}, {clid: null, tpid: "girlPants9"}]}, ci: {tts: null, vsexp: 1965298000, lvt: 1578581990, kyktid: null, crt: 10, eml: null, strfrd: 0, spp: 0, skid: null, actrd: 0, fak: null, cmid: 0, fexp: 0, shcr: true, plcmt: {}, sbid: null, lrnt: 0, vip: true, skrt: 0, ceid: 0, vexp: 1965298000, lwts: 0, bcld: 0, lgt: 0, vsact: true, as: null, trid: null, actrt: 0, actrp: 0, vret: 0, dr: true, sbrt: 0, hrt: 174, gdc: 0, crst: 0, exp: 85800, pamns: {amn: []}, rtrtm: 0, vfgc: 0, compid: 0, gtrfrd: 0, ysct: 0, rpt: 0, ys: 0, shousd: false, trcd: 0}, locinfo: {st: 23, x: 9.08, s: "127.0.0.1", y: 2.64, at: "", shlc: true, d: 4, pl: "", l: "salon_sn1_1"}, pf: {pf: {grdnr: {pgs: 0, l: 20, tp: "grdnr"}, jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}}}, apprnc: {fft: 7, rg: 0, pt: 0, rc: 1, shc: 1, ht: 129, bt: 0, g: 2, sh: 0, sc: 2, mc: 2, ec: 1, mt: 31, brt: 18, n: "ДОХЛАЯ", ss: 0, ssc: 1, et: 34, fac: 1, pc: 1, fat: 0, hc: 7, bc: 1, nct: 0, brc: 1}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 20:04:29 GMT+0500 2020 [INFO] Server said: 34: ["o.r.m", {dy: 6.55, uid: "140", sx: 15.5, dx: 9.8, sy: 1.5}]
+Thu Jan 9 20:04:28 GMT+0500 2020 [INFO] Server said: 34: ["cp.cht.sm", {msg: {cid: null, sid: "624", tp: "chatTypingMessage"}, rid: "salon_sn1_1"}]
+Thu Jan 9 20:04:28 GMT+0500 2020 [INFO] Server said: 16: ["salon_sn1_1", "194"]
+Thu Jan 9 20:04:28 GMT+0500 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {uid: "194", usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "girlPntsPnd"}, {clid: null, tpid: "girlNY20VKGiftPllvDr"}, {clid: null, tpid: "girlBtsPnd"}, {clid: null, tpid: "girlCrwnNY19"}]}, ci: {tts: null, vsexp: 1965298000, lvt: 1578582253, kyktid: null, crt: 6705, eml: null, strfrd: 0, spp: 0, skid: null, actrd: 0, fak: null, cmid: 0, fexp: 0, shcr: true, plcmt: {}, sbid: null, lrnt: 0, vip: true, skrt: 0, ceid: 0, vexp: 1965298000, lwts: 0, bcld: 0, lgt: 0, vsact: true, as: null, trid: "freelanceModerator", actrt: 0, actrp: 0, vret: 0, dr: true, sbrt: 0, hrt: 1287, gdc: 0, crst: 0, exp: 85800, pamns: {amn: []}, rtrtm: 0, vfgc: 0, compid: 0, gtrfrd: 0, ysct: 0, rpt: 0, ys: 0, shousd: false, trcd: 0}, locinfo: {st: 0, x: -1, s: "127.0.0.1", y: -1, at: "", shlc: true, d: 4, pl: "", l: "salon_sn1_1"}, pf: {pf: {grdnr: {pgs: 0, l: 20, tp: "grdnr"}, jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}}}, apprnc: {fft: 0, rg: 0, pt: 0, rc: 1, shc: 1, ht: 125, bt: 0, g: 2, sh: 0, sc: 3, mc: 4, ec: 1, mt: 4, brt: 29, n: "Julia", ss: 0, ssc: 1, et: 36, fac: 1, pc: 1, fat: 0, hc: 3, bc: 1, nct: 0, brc: 3}, mbm: {ac: null, sk: "blackMobileSkin"}}}]

@@ -1,0 +1,28 @@
+ClientError: Thu Jan 9 18:15:03 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 18:14:55 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:55 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:55 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:55 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:55 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:54 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:54 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:54 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:54 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:54 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:54 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:54 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, lapt: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 18:14:53 GMT+0300 2020 [INFO] Client said: 34: [null, "nws.getglbl", {}]
+Thu Jan 9 18:14:53 GMT+0300 2020 [INFO] Server said: 34: ["nws.hasnews", {gnexst: true, gnunr: true}]
+Thu Jan 9 18:14:53 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.gbl", {blcklst: {uids: []}}]

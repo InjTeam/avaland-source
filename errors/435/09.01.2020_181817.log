@@ -1,0 +1,7 @@
+ClientError: Thu Jan 9 18:18:14 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-JE::AvatarClothes/takeoffAll()
+	at _-42F::EditClothesDialog/removeAllClothes()
+	at _-42F::_-U9/_-3dv()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2zO::_-4WD/removeAllClothes()
+	at _-2zO::_-4WD/_-0oU()

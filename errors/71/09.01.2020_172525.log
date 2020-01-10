@@ -1,0 +1,24 @@
+ClientError: Thu Jan 9 16:25:26 GMT+0200 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-4I::NotEnoughGoldProductDialog/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-1Dw::PaymentService/checkGold()
+	at _-1Dw::PaymentService/checkPrice()
+	at _-4I::BuySilverDialog/onBuySilverClick()
+Thu Jan 9 16:25:18 GMT+0200 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 10000000}]
+Thu Jan 9 16:25:18 GMT+0200 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 20000000, emd: 0, gld: 54653, enrg: 500}}]
+Thu Jan 9 16:25:18 GMT+0200 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 100000}]
+Thu Jan 9 16:25:13 GMT+0200 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 10000000}]
+Thu Jan 9 16:25:13 GMT+0200 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000000, emd: 0, gld: 154653, enrg: 500}}]
+Thu Jan 9 16:25:12 GMT+0200 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 100000}]
+Thu Jan 9 16:24:47 GMT+0200 2020 [INFO] Server said: 34: ["ev.gse", {}]
+Thu Jan 9 16:24:47 GMT+0200 2020 [INFO] Server said: 34: ["ev.get", {c: -1, tg: "", evlst: [{id: 14, ft: 1578585457, r: 8, l: "street_s1e", ci: 0, st: 1578578257, uid: "14", unm: "мастурбация", tp: 1, tt: "Пары :)", c: 0, lg: 30, fo: false, ac: false, ds: "тоже ищу, не важен пол :)", ml: 1}, {id: 102, ft: 1578585845, r: 8, l: "club_cl1e", ci: 0, st: 1578578645, uid: "102", unm: "Никита", tp: 1, tt: "КТО С БЕСЕДЫ СЮАД", c: 0, lg: 30, fo: false, ac: false, ds: "ЫААЫАЫАЫ", ml: 1}, {id: 70, ft: 1578585975, r: 8, l: "park_p1e", ci: 0, st: 1578578775, uid: "70", unm: "я тупая", tp: 1, tt: "ищу др)", c: 0, lg: 30, fo: false, ac: false, ds: ")", ml: 1}, {id: 150, ft: 1578586651, r: 8, l: "livingroom", ci: 0, st: 1578579451, uid: "150", unm: "Смерма течёт", tp: 0, tt: "Спермотозой ищет друга, все ко мне", c: 0, lg: 30, fo: false, ac: false, ds: "ну или же лд лп", ml: 1}]}]
+Thu Jan 9 16:24:46 GMT+0200 2020 [INFO] Client said: 34: [null, "ev.gse", {}]
+Thu Jan 9 16:24:46 GMT+0200 2020 [INFO] Client said: 34: [null, "ev.get", {c: -1, tg: "", fof: false}]
+Thu Jan 9 16:24:39 GMT+0200 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'close_payment_dialog' for counter 31321471
+Thu Jan 9 16:24:37 GMT+0200 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1000}]
+Thu Jan 9 16:24:37 GMT+0200 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 0, emd: 0, gld: 254653, enrg: 500}}]

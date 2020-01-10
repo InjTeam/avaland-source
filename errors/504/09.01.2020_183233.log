@@ -1,0 +1,35 @@
+ClientError: Thu Jan 9 18:31:49 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+	at MethodInfo-3593()
+	at SetIntervalTimer/onTimer()
+	at flash.utils::Timer/tick()
+Thu Jan 9 18:31:49 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/bathroom/CreamForget.swf, status: 2) 
+Thu Jan 9 18:31:28 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 36289, emd: 0}}]
+Thu Jan 9 18:31:28 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "bowl1"}}]
+Thu Jan 9 18:31:26 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "bowl1", pind: 1, cnt: 1}]
+Thu Jan 9 18:31:25 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/bathroom/MarbleBowl.swf, status: 2) 
+Thu Jan 9 18:31:20 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 36309, emd: 0}}]
+Thu Jan 9 18:31:20 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "mirror2"}}]
+Thu Jan 9 18:31:18 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "mirror2", pind: 1, cnt: 1}]
+Thu Jan 9 18:31:14 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/bathroom/MirrorBordo.swf, status: 2) 
+Thu Jan 9 18:30:58 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 36319, emd: 0}}]
+Thu Jan 9 18:30:57 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "tltMya"}}]
+Thu Jan 9 18:30:56 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "tltMya", pind: 1, cnt: 1}]
+Thu Jan 9 18:30:55 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/bathroom/ToiletMaya.swf, status: 2) 
+Thu Jan 9 18:30:44 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 36354, emd: 0}}]
+Thu Jan 9 18:30:44 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "bath8"}}]
+Thu Jan 9 18:30:42 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "bath8", pind: 1, cnt: 1}]
+Thu Jan 9 18:30:41 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/bathroom/BathWhite.swf, status: 2) 
+Thu Jan 9 18:30:30 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 36365, emd: 0}}]
+Thu Jan 9 18:30:30 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "bthMya"}}]
+Thu Jan 9 18:30:28 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "bthMya", pind: 1, cnt: 1}]
+Thu Jan 9 18:30:27 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/bathroom/BathMaya.swf, status: 2) 

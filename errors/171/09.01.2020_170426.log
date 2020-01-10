@@ -1,0 +1,9 @@
+ClientError: Thu Jan 9 17:05:03 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-yo::ChangeItemColorDialog/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-2e::ColorWheelObject/doAction()
+	at _-3A6::RoundMenu/_-0mM()
+Thu Jan 9 17:05:02 GMT+0300 2020 [INFO] Server said: 34: ["frn.save", {ci: {bcld: 0, ys: 0, cmid: 0, actrt: 0, trid: "freelanceMicrophone", rpt: 0, dr: true, compid: 0, trcd: 0, lwts: 0, spp: 0, actrp: 0, sbid: null, tts: null, actrd: 0, sbrt: 0, gdc: 0, eml: null, shousd: false, plcmt: {}, lgt: 0, pamns: {amn: []}, ysct: 0, as: null, crst: 0, vexp: 1965298000, fak: null, lvt: 1578578394, vsexp: 1965298000, shcr: true, lrnt: 0, skrt: 0, vsact: true, gtrfrd: 0, fexp: 0, crt: 10, vret: 0, exp: 85800, skid: null, vip: true, vfgc: 0, rtrtm: 0, hrt: 424, strfrd: 0, ceid: 0, kyktid: null}, hs: {f: [{x: 0, tpid: "wall15", y: 0, lid: 1, z: 0, d: 3}, {x: 13, tpid: "wall15", y: 0, lid: 2, z: 0, d: 5}, {x: 11, tpid: "colorWheel", y: 0.140625, lid: 72743813, z: 0, d: 5}, {x: 3, rid: "outside", tpid: "door4", y: 0, lid: 4, z: 0, d: 3}, {x: 0, tpid: "floor4", y: 0, lid: 3, z: 0, d: 5}], l: 13, nm: "house", id: "livingroom", w: 13, lev: 1}, inv: {c: {frn: {id: "frn", it: []}, lt: {id: "lt", it: []}, cls: {id: "cls", it: [{c: 1, tid: "girlUnderdress1", iid: ""}, {c: 1, tid: "girlUnderdress2", iid: ""}]}, gm: {id: "gm", it: [{c: 1, tid: "blackMobileSkin", iid: ""}]}, act: {id: "act", it: []}}}}]

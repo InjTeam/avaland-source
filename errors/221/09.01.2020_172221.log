@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 17:14:24 GMT+0300 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:14:24 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {mbm: {sk: "blackMobileSkin", ac: null}, locinfo: {pl: "", x: 4.07, s: "127.0.0.1", y: 4.33, l: "couturier_ctr1_1", at: "sitItem6", d: 4, st: 1, shlc: true}, uid: "61", pf: {pf: {vsgst: {tp: "vsgst", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}}}, apprnc: {rg: 0, mc: 29, brt: 24, ss: 0, sc: 1, pc: 1, shc: 35, ec: 2, ssc: 1, bc: 1, g: 2, nct: 0, n: "@zeenpu", brc: 1, pt: 0, ht: 111, rc: 1, et: 37, hc: 7, fat: 0, fac: 1, bt: 0, mt: 30, sh: 20, fft: 7}, usrinf: {rl: 0}, clths: {clths: [{clid: "16", tpid: "girlPlvNYGrc"}, {clid: "4", tpid: "girlJcktNYElgnc"}, {clid: "4", tpid: "girlBatClnPstpc"}, {clid: "4", tpid: "girlBtsCtrOutsrc2"}, {clid: "4", tpid: "girlPntsNYElgnc"}, {clid: "4", tpid: "girlErrNYFr"}]}, ci: {vip: true, ceid: 0, vret: 0, crt: 2967, hrt: 174, actrd: 0, cmid: 0, compid: 0, shousd: false, actrp: 0, ys: 0, actrt: 0, crst: 0, dr: true, sbid: null, spp: 0, sbrt: 0, tts: null, bcld: 0, as: null, eml: null, trid: null, pamns: {amn: []}, skrt: 0, gdc: 0, lvt: 1578578082, ysct: 0, rpt: 0, lgt: 0, shcr: true, lrnt: 0, gtrfrd: 0, trcd: 0, strfrd: 0, vexp: 1965298000, rtrtm: 0, vsexp: 1965298000, plcmt: {}, kyktid: null, vsact: true, lwts: 0, exp: 85800, fak: null, fexp: 0, skid: null, vfgc: 0}}}]

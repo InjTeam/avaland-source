@@ -1,0 +1,17 @@
+ClientError: Thu Jan 9 18:24:48 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:24:48 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {usrinf: {rl: 0}, clths: {clths: [{tpid: "grlSD16Dcr", clid: null}, {tpid: "girlShirt12", clid: null}, {tpid: "girlPants9", clid: null}, {tpid: "grlSD16Ovrl", clid: null}, {tpid: "grlSD16Shs", clid: null}, {tpid: "grlSD16Stk", clid: null}, {tpid: "grlSD16Brcl", clid: null}]}, locinfo: {x: 12.25, s: "127.0.0.1", y: 14.63, st: 23, shlc: true, at: "", pl: "", d: 4, l: "salon_sn1_1"}, apprnc: {ssc: 1, rc: 11, shc: 12, ec: 5, g: 2, rg: 1, pc: 1, mc: 15, fat: 0, bt: 0, ht: 129, brc: 1, n: "Хейзерша", ss: 0, pt: 0, nct: 0, hc: 20, mt: 31, fac: 1, sh: 1, bc: 1, et: 37, brt: 23, fft: 7, sc: 1}, ci: {lvt: 1578583174, exp: 85800, skrt: 0, trcd: 0, crt: 562, vexp: 1965298000, sbrt: 0, vsexp: 1965298000, ys: 0, vip: true, rpt: 0, fexp: 0, vsact: true, kyktid: null, actrd: 0, sbid: null, bcld: 0, tts: null, lwts: 0, lrnt: 0, crst: 0, eml: null, vret: 0, hrt: 10173, pamns: {amn: []}, compid: 0, ysct: 0, vfgc: 0, as: null, ceid: 0, plcmt: {}, fak: null, cmid: 0, shcr: true, dr: true, trid: "freelanceModerator", gtrfrd: 0, spp: 0, strfrd: 0, rtrtm: 0, actrp: 0, lgt: 0, skid: null, gdc: 0, actrt: 0, shousd: false}, mbm: {ac: null, sk: "blackMobileSkin"}, uid: "350", pf: {pf: {phtghr: {pgs: 0, l: 20, tp: "phtghr"}, jntr: {pgs: 0, l: 20, tp: "jntr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}}}}}]
+Thu Jan 9 18:24:45 GMT+0300 2020 [INFO] Server said: 17: ["salon_sn1_1", "382"]
+Thu Jan 9 18:24:45 GMT+0300 2020 [INFO] Server said: 34: ["o.r.lv", {uid: "382"}]

@@ -1,0 +1,18 @@
+ClientError: Thu Jan 9 20:04:56 GMT+0600 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 20:04:56 GMT+0600 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {locinfo: {x: 12.44, st: 23, y: 9.06, l: "couturier_ctr1_1", shlc: true, s: "127.0.0.1", pl: "", d: 4, at: ""}, apprnc: {rg: 0, ss: 0, bt: 0, sc: 4, mt: 23, g: 2, pc: 1, rc: 1, brt: 31, nct: 0, fac: 1, n: "sadsrory", fat: 0, pt: 0, hc: 15, mc: 2, et: 34, brc: 3, ht: 126, fft: 2, bc: 1, ssc: 1, shc: 1, sh: 0, ec: 20}, pf: {pf: {vsgst: {tp: "vsgst", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}}}, usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "girlBtsFrog"}, {clid: null, tpid: "girlPntsFrog"}, {clid: null, tpid: "girlNY20VKGiftPllvCnd"}]}, mbm: {ac: null, sk: "blackMobileSkin"}, uid: "43", ci: {vret: 0, trcd: 0, sbrt: 0, plcmt: {}, crt: 16615, bcld: 0, actrd: 0, ceid: 0, fexp: 0, ys: 0, gtrfrd: 0, sbid: null, lwts: 0, actrp: 0, compid: 0, as: null, hrt: 1044, crst: 0, tts: null, vsexp: 1965298000, lvt: 1578578308, vfgc: 0, vip: true, ysct: 0, gdc: 0, actrt: 0, shcr: true, pamns: {amn: []}, fak: null, strfrd: 0, cmid: 0, vexp: 1965298000, spp: 0, rpt: 0, skrt: 0, skid: null, eml: null, vsact: true, rtrtm: 0, dr: true, lgt: 0, exp: 85800, trid: "freelanceSupport", lrnt: 0, kyktid: null, shousd: false}}}]
+Thu Jan 9 20:04:55 GMT+0600 2020 [INFO] Server said: 34: ["o.r.m", {dx: 18.25, sy: 10.39, dy: 6.69, uid: "50", sx: 7.14}]
+Thu Jan 9 20:04:54 GMT+0600 2020 [INFO] Server said: 34: ["o.r.u", {x: 12.47, st: 23, y: 2.53, d: 0, uid: "58", at: ""}]
+Thu Jan 9 20:04:52 GMT+0600 2020 [INFO] Server said: 34: ["o.r.m", {dx: 12.47, sy: 3.4, dy: 2.53, uid: "58", sx: 13.77}]

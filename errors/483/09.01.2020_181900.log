@@ -1,0 +1,25 @@
+ClientError: Thu Jan 9 18:18:57 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 18:18:31 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 9900, gld: 8527, enrg: 500, emd: 0}}]
+Thu Jan 9 18:18:30 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 6, iid: "", tid: "sfCtr"}}]
+Thu Jan 9 18:18:27 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, cnt: 6, tpid: "sfCtr"}]
+Thu Jan 9 18:18:23 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/SofaCountry.swf, status: 2) 
+Thu Jan 9 18:18:19 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 9900, gld: 8797, enrg: 500, emd: 0}}]
+Thu Jan 9 18:18:18 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "proPhtSf"}}]
+Thu Jan 9 18:18:15 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, cnt: 1, tpid: "proPhtSf"}]
+Thu Jan 9 18:18:12 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/SofaPhotostudio.swf, status: 2) 
+Thu Jan 9 18:17:57 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 9900, gld: 8947, enrg: 500, emd: 0}}]
+Thu Jan 9 18:17:56 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "lvprpvnSV15"}}]
+Thu Jan 9 18:17:54 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, cnt: 1, tpid: "lvprpvnSV15"}]
+Thu Jan 9 18:17:51 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/PavillionSV15.swf, status: 2) 

@@ -1,0 +1,25 @@
+ClientError: Thu Jan 9 18:01:23 GMT+0400 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:01:23 GMT+0400 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "17", clths: {clths: [{tpid: "boySV14Neck", clid: null}, {tpid: "boyJcktNYRckr", clid: "16"}, {tpid: "boyPntsSport", clid: "4"}, {tpid: "boyShrtNY20Slv", clid: null}, {tpid: "boyBtsBnny", clid: "4"}, {tpid: "boyCmrPrfPhr", clid: null}, {tpid: "boyMskNY20Emr", clid: null}]}, ci: {as: null, fexp: 0, crt: 23415, eml: null, hrt: 11208, bcld: 0, lvt: 1578578399, lrnt: 0, vip: true, vexp: 1965298000, skrt: 0, fak: null, vsexp: 1965298000, lwts: 0, vsact: true, ysct: 0, shcr: true, gdc: 0, gtrfrd: 0, vret: 0, lgt: 0, strfrd: 0, vfgc: 0, skid: null, rtrtm: 0, ceid: 0, kyktid: null, dr: true, sbid: null, actrt: 0, cmid: 0, ys: 0, compid: 0, pamns: {amn: []}, actrp: 0, rpt: 0, sbrt: 0, spp: 0, trid: "freelanceMicrophone", crst: 0, trcd: 0, actrd: 0, tts: null, exp: 85800, shousd: false, plcmt: {}}, pf: {pf: {phtghr: {tp: "phtghr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}}}, usrinf: {rl: 0}, apprnc: {hc: 1, pt: 0, mc: 1, ec: 24, ht: 75, bt: 0, sc: 1, brc: 3, rc: 1, g: 1, rg: 0, sh: 0, n: "Куколка", et: 23, shc: 1, mt: 25, ssc: 1, ss: 0, fac: 1, pc: 1, nct: 0, fat: 0, bc: 1, fft: 7, brt: 3}, locinfo: {x: 8.5, s: "127.0.0.1", st: 0, l: "couturier_ctr1_1", at: "", shlc: true, y: 1.5, d: 4, pl: ""}, mbm: {sk: "blackMobileSkin", ac: null}}}]
+Thu Jan 9 18:01:20 GMT+0400 2020 [INFO] Client said: 34: ["couturier_ctr1_1", "o.r.info", {rid: "ctr1"}]
+Thu Jan 9 18:01:20 GMT+0400 2020 [INFO] Server said: 34: ["o.gr", {rid: "couturier_ctr1_1"}]
+Thu Jan 9 18:01:20 GMT+0400 2020 [INFO] Server said: 16: ["couturier_ctr1_1", "64"]
+Thu Jan 9 18:01:20 GMT+0400 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {uid: "64", clths: {clths: [{tpid: "grlGlvCtr1", clid: "2"}, {tpid: "grlDrsCtr5", clid: "2"}, {tpid: "grlBtsCtr5", clid: "2"}]}, ci: {as: null, fexp: 0, crt: 1685, eml: null, hrt: 120844, bcld: 0, lvt: 1578578475, lrnt: 0, vip: true, vexp: 1965298000, skrt: 0, fak: null, vsexp: 1965298000, lwts: 0, vsact: true, ysct: 0, shcr: true, gdc: 0, gtrfrd: 0, vret: 0, lgt: 0, strfrd: 0, vfgc: 0, skid: null, rtrtm: 0, ceid: 0, kyktid: null, dr: true, sbid: null, actrt: 0, cmid: 0, ys: 0, compid: 0, pamns: {amn: []}, actrp: 0, rpt: 0, sbrt: 0, spp: 0, trid: "freelanceModerator", crst: 0, trcd: 0, actrd: 0, tts: null, exp: 85800, shousd: false, plcmt: {}}, pf: {pf: {phtghr: {tp: "phtghr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}}}, usrinf: {rl: 0}, apprnc: {hc: 5, pt: 0, mc: 29, ec: 5, ht: 132, bt: 0, sc: 4, brc: 3, rc: 1, g: 2, rg: 0, sh: 0, n: "Goner 88", et: 17, shc: 1, mt: 14, ssc: 1, ss: 0, fac: 1, pc: 1, nct: 0, fat: 0, bc: 1, fft: 7, brt: 29}, locinfo: {x: -1, s: "127.0.0.1", st: 0, l: "couturier_ctr1_1", at: "", shlc: true, y: -1, d: 4, pl: ""}, mbm: {sk: "blackMobileSkin", ac: null}}}]
+Thu Jan 9 18:01:16 GMT+0400 2020 [INFO] Client said: 34: [null, "o.gr", {gid: "ctr1", lid: "couturier"}]
+Thu Jan 9 18:01:16 GMT+0400 2020 [INFO] Server said: 1: ["64", true, false, false]
+Thu Jan 9 18:01:15 GMT+0400 2020 [INFO] Client said: 1: ["street", "64", "scweANDROjLlmzqbAvRu", {clvrn: "84.0.4", v: 2}]
+Thu Jan 9 18:01:14 GMT+0400 2020 [INFO] Client said: 2: []
+Thu Jan 9 18:01:14 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Couturier_4e20b623ef65e53df4c6aebd774be260.swf, status: 2) 
+Thu Jan 9 18:01:13 GMT+0400 2020 [INFO] Client said: 17: ["house_64_livingroom"]

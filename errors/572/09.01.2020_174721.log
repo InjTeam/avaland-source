@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 19:45:57 GMT+0500 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 19:45:57 GMT+0500 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "299", mbm: {ac: null, sk: "blackMobileSkin"}, ci: {trid: "freelanceVideo", dr: true, pamns: {amn: []}, spp: 0, crt: 720, tts: null, sbid: null, eml: null, gdc: 0, as: null, sbrt: 0, lgt: 0, lvt: 1578580719, ysct: 0, vip: true, lrnt: 0, fak: null, lwts: 0, shcr: true, fexp: 0, gtrfrd: 0, skrt: 0, vexp: 1965298000, bcld: 0, strfrd: 0, skid: null, rtrtm: 0, kyktid: null, vsact: true, actrt: 0, trcd: 0, ys: 0, plcmt: {}, vret: 0, vsexp: 1965298000, rpt: 0, compid: 0, actrp: 0, crst: 0, actrd: 0, vfgc: 0, hrt: 174, exp: 85800, ceid: 0, shousd: false, cmid: 0}, locinfo: {x: 14.42, s: "127.0.0.1", shlc: true, y: 5.6, st: 0, d: 4, l: "salon_sn1_1", at: "", pl: ""}, pf: {pf: {jntr: {tp: "jntr", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}}}, clths: {clths: [{tpid: "girlNY20VKGiftPllvDr", clid: null}, {tpid: "girlShoes14", clid: null}, {tpid: "girlPants9", clid: null}]}, usrinf: {rl: 0}, apprnc: {hc: 10, ssc: 1, sc: 1, pt: 0, et: 33, shc: 1, rc: 1, sh: 0, bt: 0, g: 2, fft: 2, ec: 17, ht: 100, brt: 14, ss: 0, rg: 0, pc: 1, fac: 1, n: "Фиаско", nct: 0, fat: 0, brc: 9, mt: 28, mc: 15, bc: 1}}}]

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <plural key="snowflakes">
+            <form>снежинка</form>
+            <form>снежинки</form>
+            <form>снежинок</form>
+        </plural>
+
+        <plural key="nyFriends">
+            <form>друг</form>
+            <form>друга</form>
+            <form>друзей</form>
+        </plural>
+
+        <!-- Context: новогоднее событие -->
+        <message key="ny16EventFilterLabel">новогоднее</message>
+
+        <message key="ny16StageInfo">задача</message>
+        <message key="ny16Exchange">обмен метеоритов</message>
+
+        <message key="npcNY16ActorBoyName">Полярный исследователь</message>
+        <message key="npcNY16ActorGirlName">Полярный исследователь</message>
+
+        <message key="ny16NpcStage1Message1">Почини дверь, дует ведь!</message>
+        <message key="ny16NpcStage1Message2">Ух и дует! Не вентиляция, а дыра!</message>
+        <message key="ny16NpcStage1Message3">Нужно было на юге приземляться...</message>
+
+        <message key="ny16NpcStage2Message1">Ну и грязь. Прибраться бы, а?</message>
+        <message key="ny16NpcStage2Message2">У тебя друзья есть? Может позвать их?</message>
+        <message key="ny16NpcStage2Message3">Ступить некуда, так и глядишь в лужу вляпаешься.</message>
+
+        <message key="ny16NpcStage3Message1">Как же холодно! А когда начало отопительного сезона?</message>
+        <message key="ny16NpcStage3Message2">Генератор выглядит рабочим, может заправить его?</message>
+        <message key="ny16NpcStage3Message3">А давай сожгем тебя в печке? Может потеплее станет.</message>
+
+        <message key="ny16NpcStage4Message1">Кажется, чтобы открыть окно, нам нужна помощь.</message>
+        <message key="ny16NpcStage4Message2">Нет, вдвоем мы с тобой окно не откроем. Зови людей!</message>
+        <message key="ny16NpcStage4Message3">Ты позови людей, а они помогут нам открыть окно.</message>
+
+        <message key="ny16ToolBox">Набор инструментов</message>
+        <message key="ny16Meteorites">Метеориты</message>
+        <message key="ny16MeteoriteLootDescription">можно получить в рамках новогодней акции</message>
+
+        <message key="newYear2016ExchangeMeteoriteDialogTitle">Обмен на подарки!</message>
+        <message key="newYear2016ExchangeMeteoriteDialogMessage">Обменивай оставшиеся метеориты на новогодние подарки!</message>
+
+        <message key="ny16ProgressDialogTitle">Новогодние приготовления</message>
+
+        <message key="giftExchange">Обмен метеоритов на подарки</message>
+        <message key="ny16gnr">Генератор энергии</message>
+        <message key="ny16stage">:stage: этап</message>
+
+        <message key="goToCraftDialog">в мастерскую</message>
+        <message key="makeToolBox">создать</message>
+        <message key="askHelp">попросить помощь</message>
+        <message key="stageComplete">завершить</message>
+
+        <message key="ny16meteoriteExchangeTitle">Новогодние подарки!</message>
+        <message key="ny16meteoriteExchangeMessage">Оставшиеся у тебя метеориты были сконвертированы в подарки.</message>
+        <message key="ny16UseWindowWarning">Нельзя открыть окно</message>
+        <message key="ny16UseWindowNotEnoughPeoplesToOpenWarning">Недостаточно людей для открытия окна. Позови друзей на помощь!</message>
+        <message key="ny16UseWindowNotEnoughMeteoritesWarning">Недостаточно метеоритов для открытия окна.</message>
+
+        <message key="ny16st1sb1Description">Собирай осколки метеоритов, чтобы смастерить ящик с инструментами</message>
+        <message key="ny16st1sb2Description">Чтобы починить дверь и вентиляцию собери недостающие элементы для ящика с инструментами</message>
+        <message key="ny16st1sb3Description">Почини дверь с помощью новых инструментов</message>
+        <message key="ny16st1sb4Description">В ожидании нового этапа продолжай собирать метеориты и меняй их на подарки.</message>
+        <message key="ny16st2sb1Description">Попроси друзей помочь убраться тебе на станции</message>
+        <message key="ny16st3sb1Description">Чтобы запустить генератор собирай осколки метеоритов</message>
+        <message key="ny16st4sb1Description">Чтобы открыть окно собирай осколки метеоритов</message>
+        <message key="ny16st4sb2Description">Чтобы открыть окно позови друзей и попроси их встать на маркеры возле стены</message>
+        <message key="ny16st4sb3Description">До окончания новогодней акции ты можешь продолжать собирать метеориты и менять их на подарки.</message>
+
+        <message key="newyear2016CreateRoomTitle">Создать комнату?</message>
+        <message key="newyear2016CreateRoomMessage">Раскрой загадочную историю заброшенной полярной станции и получи приятные бонусы!</message>
+        <message key="newyear2016CreateButton">создать</message>
+        <message key="newyear2016LaterButton">позже</message>
+
+        <message key="newyear2016OpenButton">открыть</message>
+        <message key="newyear2016OpenWindowMessage">Твои друзья заняли нужные места. Открыть окно?</message>
+        <message key="newyear2016FriendGetMode">Создай событие или пригласи друзей для уборки полярной станции.</message>
+
+        <message key="newYear2016WelcomeDialogTitle">Праздник к нам приходит!</message>
+        <message key="newYear2016WelcomeDialogMessageTopRestoration">Взаимодействуй с другими игроками на локациях, накопи достаточное количество метеоритов и смастери из них инструменты.</message>
+        <message key="newYear2016WelcomeDialogMessageTopClean">Позови друзей к себе в гости.</message>
+        <message key="newYear2016WelcomeDialogMessageTopFuel">Взаимодействуй с другими игроками на локациях, накопи достаточное количество метеоритов для заправки генератора.</message>
+        <message key="newYear2016WelcomeDialogMessageTopRepair">Взаимодействуй с другими игроками на локациях, накопи достаточное количество метеоритов для ремонта окна.</message>
+        <message key="newYear2016WelcomeDialogMessageMiddleRestoration">Убери сквозняк, починив дверь и вентиляционную решетку.</message>
+        <message key="newYear2016WelcomeDialogMessageMiddleClean">Уберитесь все вместе, чтобы помещение стало чистым.</message>
+        <message key="newYear2016WelcomeDialogMessageMiddleFuel">Почини генератор, чтобы приборы заработали.</message>
+        <message key="newYear2016WelcomeDialogMessageMiddleRepair">Найди верных товарищей и вместе откройте заветное окошко.</message>
+        <message key="newYear2016WelcomeDialogMessageBottomCommon">Получи ценный приз и сделай еще один шаг к решению головоломки. В ожидании новых задач можешь обменивать метеориты на подарки.</message>
+        <message key="newYear2016WelcomeDialogMessageBottomResult">Получи очень ценный приз и заверши акцию.</message>
+
+        <message key="newYear2016AwardDialogMessage">Мы дарим тебе этот замечательный подарок в награду за пройденный этап. Продолжай в том же духе и обязательно поделись этой новостью с друзьями!</message>
+        <message key="newYear2016AskDialogTitle">Помощь друзей!</message>
+        <message key="newYear2016AskDialogMessage">Попроси друзей убраться на твоей полярной станции</message>
+        <message key="newYear2016WallMessage1">Мне подарили замечательный подарок в награду за пройденный этап. Хочешь получить такой же? Жду тебя в игре! :link:</message>
+        <message key="newYear2016WallMessage2">Друзья, я хочу получить уникальный предмет в игре Аватария, и мне нужна ваша помощь. Без вас мне не справиться! :link:</message>
+        <message key="newYear2016WallMessage3">Друзья, мне не справиться без вас с подготовкой полярной станции в игре Аватария. Жду в игре! :link:</message>
+
+        <message key="newYear2016LeftTime">до :stage: этапа&#13;:time:</message>
+    </locale>
+</dictionary>

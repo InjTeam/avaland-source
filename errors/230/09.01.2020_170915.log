@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 16:05:26 GMT+0200 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 16:05:26 GMT+0200 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "25", ci: {skid: null, tts: null, skrt: 0, eml: null, crt: 4886, bcld: 0, fexp: 0, trid: null, ysct: 0, trcd: 0, fak: null, lvt: 1578578155, shcr: true, gtrfrd: 0, hrt: 916, sbid: null, strfrd: 0, vip: true, ceid: 0, crst: 0, rtrtm: 0, gdc: 0, kyktid: null, lgt: 0, rpt: 0, actrt: 0, compid: 0, lrnt: 0, actrp: 0, vexp: 1965298000, ys: 0, actrd: 0, pamns: {amn: []}, shousd: false, vsexp: 1965298000, vsact: true, sbrt: 0, as: null, vret: 0, cmid: 0, dr: true, exp: 85800, vfgc: 0, plcmt: {}, lwts: 0, spp: 0}, usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "boyTShrtSV19"}, {clid: null, tpid: "boyBtsSV19"}, {clid: null, tpid: "boyPslnGloves1"}, {clid: null, tpid: "boyStrtBrcl"}, {clid: null, tpid: "boyPntsWnt19Yllw"}, {clid: null, tpid: "boyFb23Hat"}, {clid: null, tpid: "boyScksWnt19Wht"}, {clid: null, tpid: "boyGlsStrpd"}, {clid: null, tpid: "boyJcktSV19"}]}, apprnc: {pt: 0, brc: 1, rc: 1, ec: 5, shc: 1, bt: 15, g: 1, et: 7, mc: 2, ht: 55, pc: 1, sh: 0, ssc: 1, mt: 7, rg: 0, nct: 0, fac: 1, fft: 2, n: "Трусы", sc: 2, hc: 25, fat: 0, bc: 25, brt: 17, ss: 0}, mbm: {sk: "blackMobileSkin", ac: null}, locinfo: {x: 10.33, s: "127.0.0.1", y: 12.2, at: "", shlc: true, d: 4, st: 23, l: "salon_sn1_1", pl: ""}, pf: {pf: {grdnr: {pgs: 0, l: 20, tp: "grdnr"}, jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}}}}}]
+Thu Jan 9 16:05:22 GMT+0200 2020 [INFO] Server said: 34: ["o.r.u", {uid: "175", x: 9.83, y: 2.45, at: "", d: 5, st: 23}]

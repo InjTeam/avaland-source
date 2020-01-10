@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="halfheartLootLabel">Осколок сердца</message>
+        <message key="halfheartLootDescrioption">можно получить в клубе и кафе, работая фотографом, убираясь у соседей, даря подарки в игре “Голодный сурикат”.</message>
+
+        <message key="sv2019WelcomeDialogTitle">День всех влюбленных!</message>
+        <message key="sv2019WelcomeDialogMessage1">Получай осколки сердец в клубе и кафе, работая фотографом, убираясь у соседей, даря подарки в игре “Голодный сурикат”.</message>
+        <message key="sv2019WelcomeDialogMessage2">Соединяй осколки с игроками или используй их в мастерской для новых подарков! Соединить сердца можно в парке.</message>
+        <message key="sv2019WelcomeDialogMessage3">Обменивай целые сердца на призы: романтические костюмы, кабриолет, титул и крылья ангела!</message>
+
+        <message key="sv2019NotEnoughHeartpiecesDialogMessage">У тебя кончились осколки! Ты можешь купить осколки за золото.</message>
+
+        <message key="youHaveHeartsLabel">у тебя</message>
+        <message key="buyHeartpieces">Купить :pieces: за :golds:</message>
+        <message key="sv2019ConcatMessageLabel">соединить</message>
+
+        <message key="sv2019ProgressDialogTitle">Награды за объединение сердец!</message>
+        <message key="sv2019ProgressDialogMessage">Соединяй половинки сердец с другими игроками! Ты получишь целые сердца! Обменяй их на подарки акции! </message>
+        <message key="sv2019OverloadProgressDialogMessage">Тебе удалось получить главные призы, но это не повод останавливаться!
+            Продолжай собирать сердца, и твоя активность будет щедро вознаграждена ;)</message>
+
+        <message key="sv2019WallMessage1">Смотри, какой замечательный подарок я получил в игре! Хочешь такой же? Торопись, пока акция не закончилась ;)</message>
+
+        <message key="sv2019AwardDialogTitle">Поздравляем!</message>
+        <message key="sv2019AwardDialogMessage">У тебя здорово получается соединять осколки, и за это мы дарим тебе уникальный подарок! Собирай еще больше алых сердец и расскажи о своем успехе друзьям ;)</message>
+        <message key="sv2019AwardNotificationText">Ты получил ":award:"</message>
+
+        <message key="stVal19ParticipantRequestSendedTitle">Соединить осколки</message>
+        <message key="stVal19ParticipantRequestSendedMessage">Твое предложение отправлено, осталось лишь дождаться, когда игрок примет его.</message>
+        <message key="stVal19ParticipantReceivedMessage">:name: предлагает соединить осколки и получить целое сердце. Согласиться?</message>
+        <message key="stVal19ParticipantRequestApprovedTitle">Запрос принят</message>
+        <message key="stVal19ParticipantRequestApprovedMessage">Ура! :name: принимает твое предложение!</message>
+        <message key="stVal19ParticipantRequestDeclinedTitle">Отказ</message>
+        <message key="stVal19ParticipantRequestDeclinedMessage">:name: отказывается от твоего предложения.</message>
+    </locale>
+</dictionary>

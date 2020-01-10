@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 18:03:50 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:03:50 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {locinfo: {x: 15.5, s: "127.0.0.1", st: 0, l: "salon_sn1_1", shlc: true, y: 1.5, d: 4, at: "", pl: ""}, apprnc: {brt: 16, rg: 0, brc: 10, ss: 0, fat: 0, g: 1, fac: 1, nct: 0, bc: 4, n: "χøӎƳǻҹøk", bt: 20, ssc: 1, shc: 1, pt: 0, rc: 1, ec: 3, mt: 22, pc: 1, ht: 60, sh: 0, et: 15, fft: 0, hc: 4, sc: 1, mc: 2}, mbm: {sk: "blackMobileSkin", ac: null}, ci: {shcr: true, bcld: 0, gdc: 0, ysct: 0, strfrd: 0, as: null, sbid: null, actrd: 0, crt: 18, hrt: 174, trid: null, lvt: 1578581968, sbrt: 0, spp: 0, compid: 0, skid: null, ys: 0, crst: 0, lgt: 0, gtrfrd: 0, rpt: 0, cmid: 0, vexp: 1965298000, shousd: false, kyktid: null, actrt: 0, trcd: 0, tts: null, skrt: 0, rtrtm: 0, fak: null, pamns: {amn: []}, actrp: 0, plcmt: {}, lwts: 0, vsact: true, fexp: 0, vret: 0, vip: true, vsexp: 1965298000, ceid: 0, vfgc: 0, dr: true, exp: 85800, lrnt: 0, eml: null}, pf: {pf: {phtghr: {tp: "phtghr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}}}, clths: {clths: [{tpid: "boyShirt14", clid: null}, {tpid: "boyShoes8", clid: null}, {tpid: "boyPants10", clid: null}]}, usrinf: {rl: 0}, uid: "849"}}]
