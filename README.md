@@ -26,7 +26,7 @@ $ python3 update.py
 
 # немножко о создателе сервера
 
-![скриншот][think_about_it/1.jpg]
+![скриншот][/think_about_it/1.jpg]
 ![скриншот][think_about_it/2.jpg]
 ![скриншот][think_about_it/3.jpg]
 ![скриншот][think_about_it/4.jpg]
