@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 17:03:28 GMT+0200 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-06j::_-0RX/_-1Uw()
+	at _-06j::_-0RX/_-1Cn()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-4Lx::_-b7/_-1Hg()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:03:28 GMT+0200 2020 [INFO] Server said: 34: ["frn.save", {ci: {bcld: 0, vip: true, cmid: 0, exp: 85800, trid: "freelanceExchange", crt: 1037, rpt: 0, dr: true, compid: 0, trcd: 0, actrt: 0, spp: 0, actrp: 0, sbid: null, tts: null, actrd: 0, sbrt: 0, crst: 0, gdc: 0, eml: null, shousd: false, plcmt: {}, lgt: 0, pamns: {amn: []}, ysct: 0, ys: 0, lwts: 0, vexp: 1965298000, fak: null, lvt: 1578581925, vsexp: 1965298000, shcr: true, lrnt: 0, skrt: 0, vsact: true, gtrfrd: 0, fexp: 0, as: null, vret: 0, strfrd: 0, skid: null, vfgc: 0, rtrtm: 0, hrt: 374, ceid: 0, kyktid: null}, hs: {lev: 2, l: 13, nm: "house", id: "5", w: 13, f: [{x: 0, lid: 3, tpid: "floor4", y: 0, z: 0, d: 5}, {x: 13, lid: 2, tpid: "wall15", y: 0, z: 0, d: 5}, {x: 11, lid: 595463, tpid: "csCtr", y: 6, z: 0, d: 5}, {x: 0, lid: 1, tpid: "wall15", y: 0, z: 0, d: 3}, {x: 3, lid: 4, rid: "outside", tpid: "door4", y: 0, z: 0, d: 3}]}, inv: {c: {gm: {it: [{c: 1, tid: "blackMobileSkin", iid: ""}], id: "gm"}, cls: {it: [{c: 1, tid: "girlUnderdress1", iid: ""}, {c: 1, tid: "girlUnderdress2", iid: ""}, {c: 1, tid: "girlShirt12", iid: ""}, {c: 1, tid: "girlPants9", iid: ""}, {c: 1, tid: "girlNY20VKGiftPllvDr", iid: ""}, {c: 1, tid: "grlBrvrPnts", iid: ""}, {c: 1, tid: "girlShoes14", iid: ""}], id: "cls"}, frn: {it: [], id: "frn"}, act: {it: [], id: "act"}, lt: {it: [], id: "lt"}}}}]
+Thu Jan 9 17:03:26 GMT+0200 2020 [INFO] Client said: 34: ["house_59_5", "h.r.m", {dy: 7, uid: "59", sx: 4.05, sy: 0.1, dx: 10}]

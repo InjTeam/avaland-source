@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 18:25:48 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:25:48 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "350", mbm: {sk: "blackMobileSkin", ac: null}, locinfo: {shlc: true, x: 12.25, s: "127.0.0.1", st: 23, l: "salon_sn1_1", d: 4, y: 14.63, at: "", pl: ""}, apprnc: {fat: 0, fac: 1, rg: 1, et: 37, brt: 23, pt: 0, rc: 11, mc: 15, mt: 31, g: 2, nct: 0, bt: 0, sc: 1, ht: 129, ec: 5, ss: 0, n: "Хейзерша", brc: 1, pc: 1, shc: 12, hc: 20, fft: 7, sh: 1, bc: 1, ssc: 1}, usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "grlSD16Dcr"}, {clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "grlSD16Ovrl"}, {clid: null, tpid: "grlSD16Shs"}, {clid: null, tpid: "grlSD16Stk"}, {clid: null, tpid: "grlSD16Brcl"}]}, ci: {vexp: 1965298000, lrnt: 0, as: null, crt: 562, ysct: 0, strfrd: 0, shcr: true, tts: null, ceid: 0, gtrfrd: 0, vsact: true, shousd: false, actrt: 0, trcd: 0, vfgc: 0, skrt: 0, vip: true, trid: "freelanceModerator", lwts: 0, crst: 0, actrd: 0, sbrt: 0, lvt: 1578583174, fak: null, lgt: 0, cmid: 0, bcld: 0, vret: 0, dr: true, skid: null, fexp: 0, spp: 0, kyktid: null, ys: 0, vsexp: 1965298000, gdc: 0, actrp: 0, rtrtm: 0, compid: 0, pamns: {amn: []}, hrt: 10173, rpt: 0, sbid: null, eml: null, plcmt: {}, exp: 85800}, pf: {pf: {vsgst: {pgs: 0, tp: "vsgst", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}}}}}]
+Thu Jan 9 18:25:48 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {uid: "803", dy: 6.94, dx: 11, sx: 14, sy: 6}]

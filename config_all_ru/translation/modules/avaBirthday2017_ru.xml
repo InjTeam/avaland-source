@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="avaBirthday2017ProgressDialogTitle">Собери карту</message>
+        <message key="avaBirthday2017ProgressDialogDescription">Посети Парк, Сквер или Пляж, используй компас и копай в отмеченных местах, чтобы найти части карты сокровищ или ценные ресурсы!</message>
+        <message key="avaBirthday2017ProgressDialogCompleteDescription">Карта полностью собрана! Отдай ее пирату и получи заслуженную награду!</message>
+        <message key="avaBirthday2017ReturnToPirateLabel">отдать пирату</message>
+        <message key="avaBirthday2017InfoDialogDialogTitle">Добро пожаловать!</message>
+        <message key="avaBirthday2017InfoDialogTopMessage">Загляни на Пляж, в Аватарию прибыли пираты, они нуждаются в твоей помощи!</message>
+        <message key="avaBirthday2017InfoDialogMiddleMessage">Используй компас, чтобы отыскать части карты сокровищ на отмеченных локациях.</message>
+        <message key="avaBirthday2017InfoDialogBottomMessage">Отдай карту пирату и получи одну из наград на выбор!</message>
+
+        <message key="avaBirthday2017GoToPirateHint">Перейти к пирату</message>
+        <message key="avaBirthday2017CooldownHint">Компас временно неактивен</message>
+        <message key="avaBirthday2017NotCompleteSessionHint">Используй все подсказки</message>
+        <message key="avaBirthday2017CreateExcavationHint">Использовать компас</message>
+        <message key="avaBirthday2017NoExcavationsHint">Тут ничего нет</message>
+        <message key="avaBirthday2017HelpHint"><![CDATA[<p><font size="13">Нажми, чтобы начать поиски</font></p>]]></message>
+
+        <gender key="avaBirthday2017PirateHint">
+            <form>Джон Крюк</form>
+            <form>Мэри Рид</form>
+        </gender>
+
+        <message key="avaBirthday2017PirateTargetMessage1">Эй, ты, сухопутная крыска, подойди, у меня есть для тебя важное задание!</message>
+        <message key="avaBirthday2017PirateMessage1">Кто бы мне помог с одним делом...</message>
+
+        <gender key="avaBirthday2017PirateMessage2">
+            <form>Тысяча горбатых моллюсков! Ты еще не нашел карту? Но она мне очень нужна...</form>
+            <form>Тысяча горбатых моллюсков! Ты еще не нашла карту? Но она мне очень нужна...</form>
+        </gender>
+        <message key="avaBirthday2017PirateMessage3">Нужна только лопата и немного Фортуны, смекаешь?</message>
+        <message key="avaBirthday2017PirateTargetMessage2">Эй, мне уже надоело просаливать кости, где карта?</message>
+
+        <gender key="avaBirthday2017PirateMessage4">
+            <form>Наконец-то! Ты нашел карту! Давай её сюда скорее!</form>
+            <form>Наконец-то! Ты нашла карту! Давай её сюда скорее!</form>
+        </gender>
+
+        <message key="avaBirthday2017PirateTargetMessage3">Скоро я вернусь в Тропиканию и разбогатею! И все благодаря тебе!</message>
+        <message key="avaBirthday2017PirateMessage5">Как думаешь, ты сделал правильный выбор? А, ладно, все равно уже ничего не изменить.</message>
+
+        <message key="avaBirthday2017PirateCommonMessage1">Хорошо, что только у меня есть лодка!</message>
+        <message key="avaBirthday2017PirateCommonMessage2">А островок, что мог бы быть курортом, Объектом станет дьявольских страстей!</message>
+        <message key="avaBirthday2017PirateCommonMessage3">Начнётся все со старой карты...</message>
+        <message key="avaBirthday2017PirateCommonMessage4">Гром и молния!</message>
+
+        <message key="avaBirthday2017ParticipationDialogTitle">Компас</message>
+        <message key="avaBirthday2017ParticipationDialogButtonLabel">на поиски!</message>
+        <message key="avaBirthday2017ParticipationDialogDescription">У меня есть сведения, что в Аватарии спрятаны части карты, которая приведет к кладу на острове Тропикании. Помоги мне собрать эту карту, возьми этот компас, он укажет где копать.
+        </message>
+
+        <gender key="avaBirthday2017SelectAwardDialogDescription">
+            <form>Ты помог мне с поиском карты! За это ты можешь выбрать награду по своему желанию! Обрати внимание! Сделав выбор, ты уже не сможешь изменить его.</form>
+            <form>Ты помогла мне с поиском карты! За это ты можешь выбрать награду по своему желанию! Обрати внимание! Сделав выбор, ты уже не сможешь изменить его.</form>
+        </gender>
+        <message key="avaBirthday2017SelectAwardLabel">Выбери награду:</message>
+
+        <message key="avaBirthday2017AwardDialogDescription">Мы дарим тебе титул "Фанат" за многолетнюю преданность проекту! Продолжай в том же духе и обязательно поделись этой новостью с друзьями!</message>
+        <message key="avaBirthday2017WallGetTrophyMessage">Ура, мне подарили титул "Фанат"! Жду тебя в игре! :link:</message>
+        <message key="avaBirthday2017WallGetTrophyTitle">День рождения Аватарии</message>
+        <message key="avaBirthday2017FullMapNotificationButtonLabel">отдать</message>
+        <message key="avaBirthday2017FullMapNotificationTitle">Карта собрана!</message>
+        <message key="avaBirthday2017FullMapNotificationDescription">Отдай ее пирату и получи заслуженную награду!</message>
+        <gender key="avaBirthday2017AwardNotificationDescription">
+            <form>Ты получил свою награду за успешное прохождение акции!</form>
+            <form>Ты получила свою награду за успешное прохождение акции!</form>
+        </gender>
+    </locale>
+</dictionary>

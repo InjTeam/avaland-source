@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 22:11:42 GMT+0800 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 22:11:42 GMT+0800 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {locinfo: {x: 16.49, s: "127.0.0.1", at: "", y: 10.76, shlc: true, pl: "", st: 23, d: 4, l: "couturier_ctr1_1"}, mbm: {ac: null, sk: "blackMobileSkin"}, usrinf: {rl: 0}, pf: {pf: {phtghr: {tp: "phtghr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}}}, ci: {lvt: 1578578552, bcld: 0, skrt: 0, eml: null, hrt: 5142, shousd: false, trcd: 0, skid: null, sbid: null, trid: null, ysct: 0, vip: true, fak: null, tts: null, shcr: true, gdc: 0, sbrt: 0, spp: 0, lgt: 0, plcmt: {}, actrp: 0, pamns: {amn: []}, gtrfrd: 0, vexp: 1965298000, strfrd: 0, vsexp: 1965298000, vsact: true, crst: 0, actrd: 0, compid: 0, rpt: 0, vret: 0, ys: 0, vfgc: 0, crt: 76927, rtrtm: 0, ceid: 0, exp: 85800, lwts: 0, actrt: 0, cmid: 0, lrnt: 0, dr: true, kyktid: null, as: null, fexp: 0}, uid: "56", clths: {clths: [{tpid: "girlBtsStPtr19", clid: null}, {tpid: "girlRstrpGlss", clid: null}, {tpid: "girlNY15Ovrll", clid: null}]}, apprnc: {hc: 1, pc: 1, fft: 0, brc: 2, rg: 0, pt: 0, nct: 0, fac: 1, ec: 1, g: 2, mc: 3, shc: 1, ssc: 1, n: "Писька", bc: 1, sh: 0, sc: 1, ht: 131, brt: 29, fat: 0, rc: 1, mt: 2, ss: 0, et: 36, bt: 0}}}]

@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 17:07:58 GMT+0300 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:07:58 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "61", pf: {pf: {vsgst: {pgs: 0, tp: "vsgst", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}}}, usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "girlPntsNY20Nght"}, {clid: "4", tpid: "girlJcktOutsrc2"}, {clid: "17", tpid: "girlBtsSport"}, {clid: null, tpid: "girlNY20VKGiftPllvCnd"}]}, locinfo: {x: 4.07, s: "127.0.0.1", at: "", y: 4.33, st: 0, shlc: true, d: 4, l: "couturier_ctr1_1", pl: ""}, mbm: {ac: null, sk: "blackMobileSkin"}, ci: {lwts: 0, spp: 0, lvt: 1578578082, actrd: 0, tts: null, crt: 1255, eml: null, vip: true, skid: null, skrt: 0, ysct: 0, bcld: 0, fak: null, fexp: 0, trid: null, vsact: true, sbrt: 0, shcr: true, gtrfrd: 0, hrt: 174, vret: 0, strfrd: 0, rtrtm: 0, trcd: 0, kyktid: null, gdc: 0, plcmt: {}, actrt: 0, sbid: null, rpt: 0, compid: 0, lgt: 0, ys: 0, pamns: {amn: []}, vexp: 1965298000, crst: 0, shousd: false, vfgc: 0, actrp: 0, vsexp: 1965298000, as: null, ceid: 0, exp: 85800, cmid: 0, lrnt: 0, dr: true}, apprnc: {ec: 2, pt: 0, rc: 1, mc: 29, bt: 0, g: 2, hc: 7, rg: 0, sh: 20, ht: 111, fac: 1, nct: 0, brt: 24, shc: 35, fat: 0, n: "@zeenpu", pc: 1, fft: 7, ssc: 1, brc: 1, sc: 1, mt: 30, et: 37, bc: 1, ss: 0}}}]
+Thu Jan 9 17:07:58 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {uid: "29", x: 12.02, at: "sitItem7", y: 2.13, st: 1, d: 0}]

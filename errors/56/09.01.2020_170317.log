@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 17:02:44 GMT+0300 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:02:44 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "17", usrinf: {rl: 0}, clths: {clths: [{tpid: "boyJcktNYRckr", clid: "16"}, {tpid: "boyTShtPrfGdn", clid: null}, {tpid: "boyPntsSport", clid: "4"}, {tpid: "boyBtsBnny", clid: "4"}, {tpid: "boyNY20VKGiftScrfSnw", clid: null}, {tpid: "boyMskNY20Emr", clid: null}]}, ci: {rtrtm: 0, vsact: true, vip: true, hrt: 11208, crt: 23415, vret: 0, trid: "freelanceMicrophone", gdc: 0, vfgc: 0, exp: 85800, actrt: 0, ceid: 0, kyktid: null, sbrt: 0, cmid: 0, plcmt: {}, dr: true, lgt: 0, compid: 0, spp: 0, crst: 0, tts: null, skrt: 0, actrp: 0, sbid: null, bcld: 0, fexp: 0, shousd: false, trcd: 0, pamns: {amn: []}, vexp: 1965298000, as: null, eml: null, lvt: 1578578399, vsexp: 1965298000, lrnt: 0, ysct: 0, actrd: 0, ys: 0, fak: null, lwts: 0, shcr: true, gtrfrd: 0, skid: null, strfrd: 0, rpt: 0}, locinfo: {x: 8.5, s: "127.0.0.1", y: 1.5, l: "couturier_ctr1_1", st: 0, at: "", shlc: true, d: 4, pl: ""}, pf: {pf: {phtghr: {pgs: 0, tp: "phtghr", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}}}, apprnc: {sc: 1, pt: 0, hc: 1, rc: 1, ht: 75, bt: 0, g: 1, mt: 25, fft: 7, ssc: 1, ss: 0, shc: 1, fac: 1, mc: 1, ec: 24, nct: 0, n: "Куколка", brt: 3, pc: 1, et: 23, fat: 0, bc: 1, rg: 0, brc: 3, sh: 0}, mbm: {sk: "blackMobileSkin", ac: null}}}]

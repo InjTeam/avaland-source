@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="ab18ParticipationDialogTitle">День Рождения Аватарии!</message>
+        <message key="ab18ParticipationDialogDescription">Собирай улыбки, участвуя в мини-играх, убираясь у друзей, угощая других игроков в клубе и кафе. Обменивай улыбки на уникальные призы! Спеши, акция продлится две недели.</message>
+        <message key="ab18ProgressDialogTitle">День Рождения!</message>
+        <message key="ab18OpenForPriceButtonLabel">открыть за :price:</message>
+        <message key="ab18ProgressDialogDescription">Собирай улыбки, участвуя в мини-играх, убираясь у друзей, угощая других игроков в клубе и кафе!</message>
+        <message key="ab18FurnitureHint">Набор мебели "День Рождения"</message>
+        <message key="ab18StickerHint">Стикеры "Иннокентий"</message>
+
+        <gender key="ab18AwardDialogDescription">
+            <form>Ты получил этот замечательный подарок в награду за участие в событии. Поделись этим со своими друзьями!</form>
+            <form>Ты получила этот замечательный подарок в награду за участие в событии. Поделись этим со своими друзьями!</form>
+        </gender>
+
+        <gender key="ab18WallGetAwardMessage">
+            <form>Я получил этот замечательный подарок, приняв участие в событии, посвященном Дню Рождения Аватарии. Хочешь такой же? Жду тебя в игре!</form>
+            <form>Я получила этот замечательный подарок, приняв участие в событии, посвященном Дню Рождения Аватарии. Хочешь такой же? Жду тебя в игре!</form>
+        </gender>
+    </locale>
+</dictionary>

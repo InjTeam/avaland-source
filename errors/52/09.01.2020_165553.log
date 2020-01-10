@@ -1,0 +1,20 @@
+ClientError: Thu Jan 9 16:55:53 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 16:55:53 GMT+0300 2020 [INFO] Server said: 34: ["h.r.rfr", {rm: {nm: "Комната 1", w: 13, l: 13, lev: 2, f: [{x: 0, tpid: "intFlr2", y: 0, lid: 13404215, z: 0, d: 5}, {x: 0, tpid: "wall15", y: 0, lid: 1, z: 0, d: 3}, {x: 9, tpid: "csCtr", y: 6, lid: 83041247, z: 0, d: 5}, {x: 13, tpid: "wall15", y: 0, lid: 2, z: 0, d: 5}, {x: 3, tpid: "door4", y: 0, lid: 4, z: 0, d: 3, rid: "outside"}]}}]
+Thu Jan 9 16:55:53 GMT+0300 2020 [INFO] Client said: 34: ["house_52_1", "h.r.rfr", {}]
+Thu Jan 9 16:55:53 GMT+0300 2020 [INFO] Server said: 34: ["frn.save", {ci: {pamns: {amn: []}, vret: 0, strfrd: 0, ys: 0, crst: 0, vfgc: 0, rtrtm: 0, fexp: 0, ceid: 0, kyktid: null, sbid: null, skid: null, cmid: 0, actrt: 0, lwts: 0, hrt: 24539, dr: true, compid: 0, bcld: 0, spp: 0, actrp: 0, skrt: 0, rpt: 0, trid: null, tts: null, actrd: 0, gdc: 0, eml: null, shousd: false, lgt: 0, vip: true, trcd: 0, sbrt: 0, ysct: 0, as: null, crt: 648, vexp: 1965298000, exp: 85800, lvt: 1578577967, vsexp: 1965298000, shcr: true, lrnt: 0, plcmt: {}, fak: null, vsact: true, gtrfrd: 0}, hs: {nm: "house", l: 13, f: [{x: 0, tpid: "intFlr2", y: 0, lid: 13404215, z: 0, d: 5}, {x: 0, tpid: "wall15", y: 0, lid: 1, z: 0, d: 3}, {x: 9, tpid: "csCtr", y: 6, lid: 83041247, z: 0, d: 5}, {x: 13, tpid: "wall15", y: 0, lid: 2, z: 0, d: 5}, {x: 3, tpid: "door4", y: 0, lid: 4, z: 0, d: 3, rid: "outside"}], id: "1", w: 13, lev: 2}, inv: {c: {frn: {id: "frn", it: [{c: 1, tid: "door4", iid: ""}, {c: 2, tid: "floor4", iid: ""}, {c: 1, tid: "wall15", iid: ""}]}, lt: {id: "lt", it: []}, act: {id: "act", it: []}, cls: {id: "cls", it: [{c: 1, tid: "girlUnderdress1", iid: ""}, {c: 1, tid: "girlUnderdress2", iid: ""}, {c: 1, tid: "girlShirt12", iid: ""}, {c: 1, tid: "girlPants9", iid: ""}, {c: 1, tid: "girlTShrtInnknt", iid: ""}]}, gm: {id: "gm", it: [{c: 1, tid: "blackMobileSkin", iid: ""}, {c: 32, tid: "vsgstBrush", iid: ""}]}}}}]
+Thu Jan 9 16:55:53 GMT+0300 2020 [INFO] Client said: 34: ["house_52_1", "frn.save", {f: [{tm: 1578578145355, tpid: "intFlr2", t: 0, oid: 13404215}, {tm: 1578578143448, tpid: "csCtr", d: 5, y: 6, oid: 83041247, x: 9, z: 0, t: 1}]}]
+Thu Jan 9 16:55:39 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 10000, gld: 44494}}]
+Thu Jan 9 16:55:39 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, tid: "csCtr", iid: ""}}]
+Thu Jan 9 16:55:39 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "csCtr", cnt: 1}]

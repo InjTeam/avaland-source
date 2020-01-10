@@ -1,0 +1,49 @@
+ClientError: Thu Jan 9 20:18:14 GMT+0500 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+Thu Jan 9 20:18:14 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/PodiumCarpet2020.swf, status: 2) 
+Thu Jan 9 20:18:12 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/PodiumChair2020.swf, status: 2) 
+Thu Jan 9 20:18:07 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.u", {uid: "889", x: 1.45, y: 11.5, st: 23, d: 0, at: ""}]
+Thu Jan 9 20:18:06 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.m", {uid: "889", sx: 3.81, dy: 11.5, sy: 9.19, dx: 1.45}]
+Thu Jan 9 20:18:05 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.m", {uid: "889", sx: 1.5, dy: 2.97, sy: 11.5, dx: 11.5}]
+Thu Jan 9 20:17:56 GMT+0500 2020 [INFO] Server said: 34: ["h.r.ra", {plr: {uid: "889", clths: {clths: [{tpid: "girlKgrmUncrn", clid: null}, {tpid: "girlGlssHp", clid: null}, {tpid: "girlCtHp", clid: null}, {tpid: "girlBtsHp", clid: null}, {tpid: "girlTShrtHp", clid: null}, {tpid: "girlErrHp", clid: null}, {tpid: "girlHdbndUncrn", clid: null}, {tpid: "girlPntsHp", clid: null}]}, apprnc: {ht: 106, sh: 0, mt: 7, hc: 5, sc: 1, nct: 0, mc: 2, g: 2, ssc: 1, rc: 1, bt: 0, ss: 0, ec: 5, brt: 29, fat: 0, n: "носок", fac: 1, brc: 1, pc: 1, et: 7, shc: 1, rg: 0, fft: 0, pt: 0, bc: 1}, ci: {actrp: 0, shcr: true, gtrfrd: 0, crt: 702, strfrd: 0, bcld: 0, skid: null, vexp: 1965298000, vsexp: 1965298000, vip: true, actrd: 0, vret: 0, shousd: false, rtrtm: 0, vfgc: 0, vsact: true, rpt: 0, kyktid: null, ceid: 0, fexp: 0, cmid: 0, trid: null, dr: true, as: null, hrt: 174, spp: 0, lvt: 1578582158, actrt: 0, tts: null, ys: 0, eml: null, pamns: {amn: []}, gdc: 0, trcd: 0, lgt: 0, sbid: null, lrnt: 0, crst: 0, sbrt: 0, lwts: 0, plcmt: {}, compid: 0, exp: 85800, ysct: 0, skrt: 0, fak: null}, pf: {pf: {jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}}}, usrinf: {rl: 0}, locinfo: {x: 1.5, s: "127.0.0.1", y: 11.5, l: "house_889_livingroom", pl: "", st: 23, d: 4, at: "", shlc: true}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 20:17:54 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.ra", {}]
+Thu Jan 9 20:17:54 GMT+0500 2020 [INFO] Server said: 34: ["a.clths.buy", {crt: 702, clths: {clths: [{tpid: "girlKgrmUncrn", clid: null}, {tpid: "girlGlssHp", clid: null}, {tpid: "girlCtHp", clid: null}, {tpid: "girlBtsHp", clid: null}, {tpid: "girlTShrtHp", clid: null}, {tpid: "girlErrHp", clid: null}, {tpid: "girlHdbndUncrn", clid: null}, {tpid: "girlPntsHp", clid: null}]}, ccltn: {cn: "", ctp: "casual", cct: ["girlKgrmUncrn", "girlGlssHp", "girlCtHp", "girlBtsHp", "girlTShrtHp", "girlErrHp", "girlHdbndUncrn", "girlPntsHp"]}, res: {gld: 10298, enrg: 500, slvr: 9100, emd: 0}, inv: {c: {act: {id: "act", it: []}, frn: {id: "frn", it: []}, gm: {id: "gm", it: [{c: 1, iid: "", tid: "blackMobileSkin"}]}, cls: {id: "cls", it: [{c: 1, iid: "", tid: "girlUnderdress1"}, {c: 1, iid: "", tid: "girlUnderdress2"}, {c: 1, iid: "", tid: "girlShirt12"}, {c: 1, iid: "", tid: "girlPants9"}, {c: 1, iid: "", tid: "girlShoes14"}, {c: 1, iid: "", tid: "girlHtHp"}]}, lt: {id: "lt", it: []}}}}]
+Thu Jan 9 20:17:52 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.u", {uid: "889", x: 1.5, y: 11.5, st: 23, d: 6, at: ""}]
+Thu Jan 9 20:17:50 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.m", {uid: "889", sx: 3.97, dy: 11.5, sy: 9.19, dx: 1.5}]
+Thu Jan 9 20:17:49 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.m", {uid: "889", sx: 3.97, dy: 5.67, sy: 11.5, dx: 3.55}]
+Thu Jan 9 20:17:47 GMT+0500 2020 [INFO] Server said: 34: ["h.r.ra", {plr: {uid: "889", clths: {clths: [{tpid: "girlGlssHp", clid: null}, {tpid: "girlCtHp", clid: null}, {tpid: "girlBtsHp", clid: null}, {tpid: "girlTShrtHp", clid: null}, {tpid: "girlErrHp", clid: null}, {tpid: "girlHtHp", clid: null}, {tpid: "girlPntsHp", clid: null}]}, apprnc: {ht: 106, sh: 0, mt: 7, hc: 5, sc: 1, nct: 0, mc: 2, g: 2, ssc: 1, rc: 1, bt: 0, ss: 0, ec: 5, brt: 29, fat: 0, n: "носок", fac: 1, brc: 1, pc: 1, et: 7, shc: 1, rg: 0, fft: 0, pt: 0, bc: 1}, ci: {actrp: 0, shcr: true, gtrfrd: 0, crt: 319, strfrd: 0, bcld: 0, skid: null, vexp: 1965298000, vsexp: 1965298000, vip: true, actrd: 0, vret: 0, shousd: false, rtrtm: 0, vfgc: 0, vsact: true, rpt: 0, kyktid: null, ceid: 0, fexp: 0, cmid: 0, trid: null, dr: true, as: null, hrt: 174, spp: 0, lvt: 1578582158, actrt: 0, tts: null, ys: 0, eml: null, pamns: {amn: []}, gdc: 0, trcd: 0, lgt: 0, sbid: null, lrnt: 0, crst: 0, sbrt: 0, lwts: 0, plcmt: {}, compid: 0, exp: 85800, ysct: 0, skrt: 0, fak: null}, pf: {pf: {jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}}}, usrinf: {rl: 0}, locinfo: {x: 3.97, s: "127.0.0.1", y: 11.5, l: "house_889_livingroom", pl: "", st: 23, d: 4, at: "", shlc: true}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 20:17:45 GMT+0500 2020 [INFO] Client said: 34: [null, "a.clths.bst", {pind: 1, ctp: "casual", tpid: "girlKgrmUncrnSet"}]
+Thu Jan 9 20:17:45 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.ra", {}]
+Thu Jan 9 20:17:45 GMT+0500 2020 [INFO] Server said: 34: ["a.clths.buy", {crt: 319, clths: {clths: [{tpid: "girlGlssHp", clid: null}, {tpid: "girlCtHp", clid: null}, {tpid: "girlBtsHp", clid: null}, {tpid: "girlTShrtHp", clid: null}, {tpid: "girlErrHp", clid: null}, {tpid: "girlHtHp", clid: null}, {tpid: "girlPntsHp", clid: null}]}, ccltn: {cn: "", ctp: "casual", cct: ["girlGlssHp", "girlCtHp", "girlBtsHp", "girlTShrtHp", "girlErrHp", "girlHtHp", "girlPntsHp"]}, res: {gld: 10451, enrg: 500, slvr: 9100, emd: 0}, inv: {c: {act: {id: "act", it: []}, frn: {id: "frn", it: []}, gm: {id: "gm", it: [{c: 1, iid: "", tid: "blackMobileSkin"}]}, cls: {id: "cls", it: [{c: 1, iid: "", tid: "girlUnderdress1"}, {c: 1, iid: "", tid: "girlUnderdress2"}, {c: 1, iid: "", tid: "girlShirt12"}, {c: 1, iid: "", tid: "girlPants9"}, {c: 1, iid: "", tid: "girlShoes14"}]}, lt: {id: "lt", it: []}}}}]
+Thu Jan 9 20:17:34 GMT+0500 2020 [INFO] Client said: 34: [null, "a.clths.bst", {pind: 1, ctp: "casual", tpid: "girlHypeSet"}]
+Thu Jan 9 20:16:35 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.u", {uid: "889", x: 3.97, y: 11.5, st: 23, d: 6, at: ""}]
+Thu Jan 9 20:16:34 GMT+0500 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 20:16:34 GMT+0500 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 10550, enrg: 500, slvr: 15000, emd: 0}}]
+Thu Jan 9 20:16:33 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.m", {uid: "889", sx: 7.16, dy: 11.5, sy: 11.5, dx: 3.97}]
+Thu Jan 9 20:16:33 GMT+0500 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 20:16:25 GMT+0500 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 20:16:25 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.u", {uid: "889", x: 7.16, y: 11.5, st: 23, d: 6, at: ""}]
+Thu Jan 9 20:16:25 GMT+0500 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 10600, enrg: 500, slvr: 10000, emd: 0}}]
+Thu Jan 9 20:16:24 GMT+0500 2020 [INFO] Client said: 34: ["house_889_livingroom", "h.r.m", {uid: "889", sx: 7.92, dy: 11.5, sy: 11.5, dx: 7.16}]
+Thu Jan 9 20:16:24 GMT+0500 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 20:16:24 GMT+0500 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]
+Thu Jan 9 20:16:23 GMT+0500 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 20:16:21 GMT+0500 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 20:16:21 GMT+0500 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 9100, enrg: 500, slvr: 10000, emd: 0}}]
+Thu Jan 9 20:16:20 GMT+0500 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 20:16:20 GMT+0500 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]
+Thu Jan 9 20:16:19 GMT+0500 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 20:16:17 GMT+0500 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 20:16:17 GMT+0500 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 7600, enrg: 500, slvr: 10000, emd: 0}}]
+Thu Jan 9 20:16:17 GMT+0500 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 20:16:16 GMT+0500 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]
+Thu Jan 9 20:16:15 GMT+0500 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471

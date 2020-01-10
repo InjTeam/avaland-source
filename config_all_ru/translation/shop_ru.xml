@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    
+    <locale name="ru">
+        
+        <message key="rootFurnitureCategory">Мебель</message>
+        <message key="avatarClothesCategory">Одежда</message>
+        <message key="rootGameCategory">Игры</message>
+        <message key="activeCategory">Предметы</message>
+        
+        <!-- Clothing categories -->
+        
+        <message key="avatarCollectionsCategoryLabel">Популярное</message>
+        <message key="vipClothesLabel">VIP</message>
+        <message key="newClothesLabel">Новинки</message>
+        <message key="saleCollection1Label">Распродажа</message>
+        <message key="avatarSuitsCategoryLabel">Коллекции</message>
+        <message key="costumesCollections">Костюмы</message>
+        <message key="costumesLabel">Костюмы</message>
+        <message key="halloweenLabel">Halloween</message>
+        <message key="designerCollections">Дизайнерская одежда</message>
+        <message key="clothesCategoryTops">Верх</message>
+        <message key="clothesCategoryShirts">Рубашки</message>
+        <message key="clothesCategoryJackets">Куртки</message>
+        <message key="clothesCategoryBottoms">Низ</message>
+        <message key="clothesCategoryPants">Штаны</message>
+        <message key="clothesCategoryShorts">Шорты</message>
+        <message key="clothesCategorySkirts">Юбки</message>
+        <message key="clothesCategoryStockings">Колготки</message>
+        <message key="clothesCategoryDresses">Платья</message>
+        <message key="clothesCategorySleepwear">Пижамы</message>
+        <message key="sleepwearLabel">Пижамы</message>
+        <message key="clothesCategoryNightgowns">Ночнушки</message>
+        <message key="clothesCategoryPajamas">Пижамы</message>
+        <message key="clothesCategoryShoes">Обувь</message>
+        <message key="clothesCategoryAcs">Аксессуары</message>
+        <message key="clothesCategoryGlasses">Очки</message>
+        <message key="clothesCategoryHats">Шляпы</message>
+        <message key="clothesCategoryGloves">Перчатки</message>
+        <message key="clothesCategoryOther">Прочее</message>
+        <message key="clothesCategoryBijouterie">Бижутерия</message>
+        <message key="clothesCategorySwimsuits">Купальники</message>
+        <message key="clothesCategoryBoySwimsuits">Плавки</message>
+        <message key="clothesCategoryUndergarments">Нижнее белье</message>
+        <message key="clothesCategoryUndergarmentsBasics">Обычное</message>
+        <message key="clothesCategoryUndergarmentsLingerie">Кружевное</message>
+        <message key="clothesCategorySuits">Комбинезоны</message>
+        
+        <message key="livingRoomCategory">Гостиная</message>
+        <message key="bedroomCategory">Спальня</message>
+        
+        <message key="chairCategory">Стулья</message>
+        <message key="sofaCategory">Диваны</message>
+        <message key="armchairCategory">Кресла</message>
+        <message key="decorCategory">Декор</message>
+        <message key="bedCategory">Кровати</message>
+        <message key="bathroomCategory">Ванная</message>
+        <message key="bathCategory">Ванны</message>
+        <message key="jacuzziCategory">Джакузи</message>
+        <message key="bathroomFurnitureCategory">Мебель</message>
+        <message key="bathroomDecorCategory">Декор</message>
+        <message key="bowlCategory">Раковины</message>
+        <message key="toiletCategory">Туалеты</message>
+        <message key="wallCategory">Стены</message>
+        <message key="doorCategory">Двери</message>
+        <message key="floorCategory">Полы</message>
+        <message key="windowCategory">Окна</message>
+        <message key="tableCategory">Столы</message>
+        <message key="awardTablesCategory">Столы для наград</message>
+        <message key="wardrobeCategory">Шкафы</message>
+        <message key="comodoCategory">Комоды</message>
+        <message key="interiorCategory">Интерьер</message>
+        <message key="furnitureCategory">Мебель</message>
+        <message key="carpetCategory">Ковры</message>
+        <message key="pictureCategory">Картины</message>
+        <message key="vaseCategory">Вазы, цветы</message>
+        <message key="lampsCategory">Светильники</message>
+        <message key="otherCategory">Другое</message>
+        <message key="waterfallCategory">Водопады</message>
+        <message key="furnitureWallCategory">Стенки</message>
+        <message key="amusimentCategory">Развлечения</message>
+        <message key="horseAmusementCategory">Качели</message>
+        <message key="aquariumAmusiment">Аквариумы</message>
+        <message key="intFloorCategory">Танцпол</message>
+        <message key="snowballCategoryTitle">Снежный шар</message>
+        <message key="carAmusiment">Машины</message>
+
+        <message key="refrigeratorsCategory">Холодильники</message>
+        <message key="kitchenCategory">Кухня</message>
+        <message key="kitchenDecorCategory">Декор</message>
+        <message key="kitchenUnitsCategoryLabel">Элементы</message>
+        <message key="kitchenTablesCategoryLabel">Столы</message>
+        <message key="kitchenFurnitureCategory">Мебель</message>
+        <message key="kitchenChairCategory">Стулья</message>
+        
+        <message key="fireplaceCategory">Камины</message>
+        <message key="techCategory">Техника</message>
+        <message key="tvApplianceCategory">Телевизоры</message>
+        <message key="musicCenterApplianceCategory">Стерео</message>
+        <message key="acousticsCategory">Акустика</message>
+        <message key="miscApplianceCategory">Другое</message>
+        <message key="computerApplianceCategory">Компьютеры</message>
+        
+        <message key="modifierCategory">Модификаторы</message>
+        <message key="influenceCategory">Воздействующие</message>
+        <message key="artifactCategory">Артефакты</message>
+        <message key="toolCategory">Инструменты</message>
+        <message key="ringsCategory">Кольца</message>
+        <message key="giftsCategory">Подарки</message>
+        <message key="newYearFirToysCategoryLabel">Игрушки</message>
+        <message key="newYearFirGiftsCategoryLabel">Подарки</message>
+        <message key="newYearCategoryLabel">Новый год</message>
+        <message key="jokeShopLabel">Приколы</message>
+        <message key="miscShopLabel">Разное</message>
+        <message key="graffitiCategoryLabel">Граффити</message>
+        
+        <message key="craftedActiveCategory">Энергетики</message>
+        <message key="giftsCategoryLabel">Подарки</message>
+
+        <!-- Garage collections -->
+        <message key="garageRetroCollection">Ретро-гараж</message>
+        <message key="garageTechnoCollection">Техно-гараж</message>
+
+        <message key="bikeAmusiment">Мотоциклы</message>
+
+        <!-- JANITOR -->
+        <message key="jntrRlwCtg">Железная дорога</message>
+
+        <!-- SEASON EVENT -->
+        <message key="seasonEventCategoryLabel">Золотая осень</message>
+    </locale>
+    
+</dictionary>

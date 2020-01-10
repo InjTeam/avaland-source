@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dictionary>
+
+    <locale name="ru">
+    
+        <!-- YANDEX -->
+    
+        <message key="dontShowToday">не показывать сегодня</message>
+        <message key="continue">продолжить</message>
+
+        <message key="mainOfferText">VIP-cтатус за знания!</message>
+        <message key="mainOfferDescription">Получи VIP-статус бесплатно, выполнив пять заданий! Яндекс поможет.</message>
+        
+        <message key="mainFirstOfferText">VIP-cтатус – отличникам!</message>
+        <message key="mainFirstOfferDescription">Выполни пять заданий из семи и получишь заслуженную награду – VIP-статус на один день. А чтобы его продлить, возвращайся в школу – заодно узнаешь много интересного.</message>
+
+        <message key="mainOfferAwardText">Получилось!</message>
+        <message key="mainOfferAwardText2">!</message>
+        <message key="mainOfferAwardDescription">Задания успешно выполнены. Яндекс дарит тебе VIP-статус на один день. Одного дня мало? Приходи в школу завтра – и подтверждай свой статус!</message>
+        
+        <message key="mainOfferEndVipText">Уроки закончены</message>
+        <message key="mainOfferEndVipDescription">Все задания в Школе Яндекса у тебя выполнены. Наслаждайся VIP-статусом и приходи завтра за новыми заданиями.</message>
+
+        <message key="mainOfferContinueVipText">VIP-статус ждет!</message>
+        <message key="mainOfferContinueVipDescription">В Школе Яндекса у тебя остались незавершенные задания. Если найдёшь силы решить пять заданий - VIP-статус твой на целый день!</message>
+
+        <message key="mainOfferContinueNotVipText">Завтра все получится!</message>
+        <!-- <message key="mainOfferContinueNotVipDescription">На сегодня в Школе Яндекса у тебя не осталось заданий. Приходи в школу завтра – и попробуй свои силы еще раз!</message> -->
+        <message key="mainOfferContinueNotVipDescription">Сегодня ты сделал три ошибки в заданиях. Возвращайся в школу завтра, чтобы получить VIP-статус!</message>
+
+        <message key="yandexBarLabel">Воспользуйся помощью Яндекса:</message>
+        <message key="yandexSearch">Найти</message>
+        
+        <message key="negativeAnswerTitle1">Ошибочка вышла!</message>
+        <message key="negativeAnswerDescription1">
+Ничего страшного – попробуй ответить еще раз.</message>
+        <message key="yandexHelpMessage">Яндекс поможет найти правильный ответ.</message>
+        
+        <!-- AVATARIA SCHOOL -->
+
+        <message key="schoolOtherQuestionButtonLabel">другой вопрос</message>
+        
+        <message key="schoolBuyQuestionConfirmTitle">Покупка вопроса</message>
+        <message key="schoolBuyQuestionConfirmDescription">Ты точно хочешь пропустить этот вопрос за :gold:?</message>
+        
+        <message key="mainSchoolOfferAwardText">Прекрасный результат!</message>
+        <message key="mainSchoolOfferAwardDescription">За отличную учебу ты получаешь:</message>
+
+        <message key="mainSchoolFirstOfferText">Призы за оценки!</message>
+        <message key="mainSchoolFirstOfferDescription">Отвечай на вопросы и зарабатывай баллы. Чем больше баллов — тем ценнее призы!
+Возвращайся в школу каждый день — заодно узнаешь много интересного.</message>
+
+        <message key="mainSchoolOfferContinueVipText">Это еще не все!</message>
+        <message key="mainSchoolOfferContinueVipDescription">У тебя остались неотвеченные вопросы.
+Ответь на них и получи 3 бонусных балла!</message>
+
+        <message key="mainSchoolOfferContinueNotVipText">Завтра все получится!</message>
+        <message key="mainSchoolOfferContinueNotVipDescription">Ура, все задания на сегодня выполнены.
+Обязательно возвращайся в школу завтра!</message>
+
+        <message key="mainSchoolAllLevelsCompletedTitle">У тебя получилось!</message>
+        <message key="mainSchoolAllLevelsCompletedDescription">Отличный результат! Все условия для получения главного приза выполнены!
+Но на этом учеба не заканчивается, тебя ждут другие вопросы и новые призы. Дерзай!</message>
+
+        <message key="schoolPointsButtonLabel">мои баллы</message>
+        <message key="schoolAwardDialogTitle">Награда</message>
+        <message key="schoolWorkPrizesLabel">Призы:</message>
+        <message key="schoolWorkPrizesRequrementsLabel">набери :points: и получишь:</message>
+        <message key="schoolWorkNewLevelTitle">Поздравляем!</message>
+        <message key="schoolWorkNewLevelMessage">Ты набрал количество баллов, необходимое для получения приза!</message>
+
+        <message key="schoolAnswerForGold">ответить за :gold:</message>
+        
+        <message key="schoolBonusDescription">Только в сентябре с каждым призом ты получаешь золото в подарок!</message>
+        <!-- COMMON -->
+
+        <message key="selectCategoryText">Выбери категорию вопроса</message>
+        <plural key="questionsText">
+            <form>вопрос</form>
+            <form>вопроса</form>
+            <form>вопросов</form>
+        </plural>
+        <message key="answerButton">ответить</message>
+        <message key="otherQuestionButton">другой вопрос по :name:</message>
+        <message key="otherCategoryButton">другая категория</message>
+        <message key="yandexHelpButton">поможет.</message>
+        <message key="questionLabel">Вопрос.</message>
+        <message key="answerLabel">Ответ:</message>
+        <message key="positiveAnswerTitle">Верно!</message>        
+        <message key="positiveAnswerDescription">Ты выполнил задание.</message>
+        <message key="positiveAnswerSchoolDescription">За правильный ответ ты получаешь :points:.</message>
+        <message key="positiveAnswerAction">продолжить</message>
+        <message key="negativeAnswerAction1">попробовать снова</message>
+        <message key="negativeAnswerTitle2">Опять ошибочка!</message>
+        <message key="negativeAnswerAction2">выбрать другой вопрос</message>        
+        <message key="negativeAnswerDescription2">Бывает :) Попробуй ответить на другой вопрос.
+У тебя обязательно все получится!</message>
+        <message key="answersCountTitle">Твои ответы:</message>
+        <message key="answersPositiveCountTitle">верных</message>
+        <message key="answersNegativeCountTitle">ошибки</message>
+        <message key="answersLeftCountTitle">осталось</message>
+    
+        <!-- ERROR_MESSAGES -->
+        <message key="schoolAlreadyHaveVipTodayErrorMessage">Сегодня ты уже получил VIP</message>
+        <message key="schoolHaveTwoStrikesErrorMessage">Сегодня ты совершил три ошибки. Приходи завтра чтобы получить VIP!</message>
+        
+        <message key="schoolDaiLyQuestionsLimitExeededErrorMessage">Сегодня ты уже ответил на максимальное количество вопросов.</message>
+        <message key="schoolNoMoreCategoryQuestionsErrorMessage">В данной категории больше нет доступных вопросов</message>
+        <message key="schoolNoMoreCategoryDailyQuestionsErrorMessage">Сегодня в данной категории больше нет доступных вопросов.
+Тебе нужно ответить на оставшиеся вопросы из категории «:category:».</message>
+        <message key="schoolNoSuchCategoryErrorMessage">Ты выбрал не существующую категорию</message>
+        <message key="schoolNoSuchQuestionErrorMessage">Ты выбрал не существующий вопрос</message>
+        <message key="schoolQuestionAlreadyAnsweredErrorMessage">Ты уже отвечал на этот вопрос</message>
+        <message key="schoolQuestionWrongAnsweredErrorMessage">Ты не правильно ответил на этот вопрос</message>
+    
+    </locale>
+    
+</dictionary>

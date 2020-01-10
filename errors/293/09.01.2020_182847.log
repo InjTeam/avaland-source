@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 18:24:06 GMT+0400 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:24:06 GMT+0400 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {apprnc: {nct: 0, pt: 0, rc: 11, brt: 31, ssc: 1, bt: 0, g: 2, hc: 7, ss: 0, mt: 31, et: 19, sc: 1, n: "ВАГИНА РЫСЯ", ht: 124, ec: 20, fft: 9, brc: 2, shc: 1, pc: 1, rg: 1, mc: 9, fat: 0, fac: 1, bc: 1, sh: 0}, uid: "647", pf: {pf: {phtghr: {pgs: 0, tp: "phtghr", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}}}, clths: {clths: [{clid: "17", tpid: "girlTShrtSchool"}, {clid: "17", tpid: "girlScksSport"}, {clid: "16", tpid: "girlBtsSchool"}, {clid: "17", tpid: "girlSktSchool"}, {clid: "17", tpid: "girlBgRbbt"}, {clid: "11", tpid: "grlGlvCtr1"}, {clid: "17", tpid: "girlJcktSchool"}]}, mbm: {ac: null, sk: "blackMobileSkin"}, ci: {kyktid: null, strfrd: 0, pamns: {amn: []}, lgt: 0, fak: null, shcr: true, bcld: 0, actrt: 0, eml: null, crt: 2232, spp: 0, vip: true, dr: true, rpt: 0, lwts: 0, compid: 0, vfgc: 0, ysct: 0, trid: "freelanceMicrophone", tts: null, vsact: true, shousd: false, rtrtm: 0, ceid: 0, lrnt: 0, vexp: 1965298000, as: null, plcmt: {}, vsexp: 1965298000, hrt: 174, vret: 0, ys: 0, fexp: 0, trcd: 0, actrp: 0, cmid: 0, gdc: 0, crst: 0, skid: null, gtrfrd: 0, sbid: null, lvt: 1578583398, exp: 85800, skrt: 0, actrd: 0, sbrt: 0}, locinfo: {at: "", x: 15.14, s: "127.0.0.1", y: 8.7, l: "couturier_ctr1_1", st: 23, d: 4, shlc: true, pl: ""}, usrinf: {rl: 0}}}]

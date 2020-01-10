@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 19:32:38 GMT+0500 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 19:32:38 GMT+0500 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {clths: {clths: [{tpid: "gstrGGngBts", clid: null}, {tpid: "gstrGGngErr", clid: null}, {tpid: "gstrGGngFr", clid: null}, {tpid: "gstrGGngFn", clid: null}, {tpid: "gstrGGngDss", clid: null}, {tpid: "gstrGGngRm", clid: null}, {tpid: "gstrGGngPdt", clid: null}]}, mbm: {sk: "blackMobileSkin", ac: null}, apprnc: {brt: 22, brc: 1, fft: 7, g: 2, pt: 0, ht: 122, sc: 2, bc: 1, rg: 0, ssc: 1, ec: 9, ss: 0, hc: 25, bt: 0, fac: 1, mt: 31, rc: 1, n: "Многочлены", sh: 23, et: 37, nct: 0, fat: 0, mc: 29, shc: 35, pc: 1}, locinfo: {l: "salon_sn1_1", x: 8.22, shlc: true, pl: "", at: "", y: 11.47, s: "127.0.0.1", d: 4, st: 23}, usrinf: {rl: 0}, ci: {trid: "autumnEvent2019", shcr: true, sbid: null, bcld: 0, spp: 0, vsexp: 1965298000, lgt: 0, as: null, kyktid: null, vret: 0, vsact: true, gdc: 0, vfgc: 0, dr: true, tts: null, skid: null, sbrt: 0, pamns: {amn: []}, actrp: 0, shousd: false, rpt: 0, ys: 0, ysct: 0, cmid: 0, hrt: 174, crst: 0, actrd: 0, trcd: 0, eml: null, fak: null, compid: 0, rtrtm: 0, plcmt: {}, strfrd: 0, gtrfrd: 0, skrt: 0, crt: 1660, lvt: 1578579715, exp: 85800, actrt: 0, lrnt: 0, lwts: 0, vexp: 1965298000, vip: true, ceid: 0, fexp: 0}, pf: {pf: {phtghr: {tp: "phtghr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}}}, uid: "215"}}]

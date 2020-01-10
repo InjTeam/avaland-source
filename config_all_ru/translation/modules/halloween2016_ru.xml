@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+
+        <message key="hw16PotionLabel">Зелье</message>
+
+        <message key="hw16BelladonnaLabel">Белладонна</message>
+        <message key="hw16BelladonnaDescription">можно получить, одержав победу в мини-играх</message>
+
+        <message key="hw16GiftLabel">хэллоуинский подарок</message>
+
+        <message key="hw16ExchangeDialogTitle">Обмен конфет на подарки!</message>
+        <message key="hw16ExchangeDialogMessage">Обменивай конфеты на подарки!</message>
+
+        <message key="hw16GiftNotificationTitle">подарок:</message>
+        <gender key="hw16VipMessage">
+            <form>Ты получил VIP-статус в подарок!</form>
+            <form>Ты получила VIP-статус в подарок!</form>
+        </gender>
+
+        <message key="hw16ConjureMenuTitle">заколдовать</message>
+        <message key="hw16RemoveMonsterSuitMenuTitle">снять костюм</message>
+
+        <message key="hw16ConjureDialogUsePotionMessage">Используй зелье, чтобы превратить игрока в монстра</message>
+        <message key="hw16ConjureDialogEmptyPotionMessage">У тебя нет зелья, смастери его в мастерской</message>
+
+        <message key="hw16ConjureNotificationTitle">Хэллоуин</message>
+        <gender key="hw16ConjureNotificationMessage">
+            <form>:userName: заколдовал тебя! Хочешь отомстить?</form>
+            <form>:userName: заколдовала тебя! Хочешь отомстить?</form>
+        </gender>
+        <message key="hw16RevengeTitle">отомстить</message>
+    </locale>
+</dictionary>

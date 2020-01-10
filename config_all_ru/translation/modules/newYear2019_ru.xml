@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <plural key="ny19Tangerine">
+            <form>мандарин</form>
+            <form>мандарина</form>
+            <form>мандаринов</form>
+        </plural>
+
+        <plural key="ny19Snowflake">
+            <form>снежинку</form>
+            <form>снежинки</form>
+            <form>снежинок</form>
+        </plural>
+
+        <message key="ny19InfoDialogTitle">Холодные игры!</message>
+        <message key="ny19InfoDialogTangerineDescription">Собирай мандарины по всей Аватарии, чтобы обменять их на подарки с уникальными призами!</message>
+        <message key="ny19InfoDialogSnowflakeDescription">Принимай участие в конкурсах красоты, выигрывай снежинки и обменивай их на новые раскрашиваемые вещи!</message>
+        <message key="ny19InfoDialogCrownDescription">Получай Снежные Короны за каждую покупку золота и зарабатывай еще больше снежинок в конкурсах красоты!</message>
+
+        <message key="ny19AwardDialogMessage">Забирай этот подарок в награду за победу в конкурсах красоты. Не забудь поделиться этой новостью с друзьями!</message>
+        <gender key="ny19AwardReceivedMessage">
+            <form>Я получил этот замечательный подарок в награду за победу в конкурсах красоты! Хочешь такой же? Жду тебя в игре!</form>
+            <form>Я получила этот замечательный подарок в награду за победу в конкурсах красоты! Хочешь такой же? Жду тебя в игре!</form>
+        </gender>
+
+        <message key="ny19AwardReceivedMessage">Мне подарили замечательный подарок в награду за набранные очки. Хочешь получить такой же? Жду тебя в игре! :link:</message>
+        <message key="ny19GetAfterTime">Собери :tangerine: через :time:</message>
+        <message key="ny19ExchangeDialogTitle">Обмен мандаринов на подарки!</message>
+        <message key="ny19ExchangeDialogDescription">Дерево: Не хочешь тратить время на сбор мандаринов? Купи мандариновое дерево прямо сейчас и получай :tangerine: каждые :hours:!</message>
+        <message key="ny19BuySnowflakeDialogTitle">Покупка снежинок</message>
+        <message key="ny19BuySnowflakeDialogDescription">Не хватает снежинок? Воспользуйся выгодными предложениями и пополни запасы!</message>
+        <message key="ny19SnowflakeExchangeDialogTitle">Обмен снежинок на подарки!</message>
+        <message key="ny19SnowflakeExchangeDialogDescription">Выигрывай снежинки в конкурсах красоты и обменивай на новую уникальную одежду каждую неделю!</message>
+        <message key="ny19StageAwardsTitle">Откроется через :date:</message>
+        <message key="ny19NoItemHint">Не выбран предмет</message>
+        <message key="ny19HasItemHint">У тебя уже есть этот предмет</message>
+        <message key="ny19CanBuyLaterHint">Будет доступно позднее</message>
+
+        <message key="ny19TangerineInfoDialogTitle">Как получить мандарины?</message>
+        <message key="ny19TangerineInfoDialogDescription">Ознакомься со всеми способами получения мандаринов! Обменивай мандарины на новогодние подарки, чтобы собрать все уникальные предметы декора.</message>
+        <message key="ny19TangerineInfoDialogPurchasesDescription">Получай :tangerineShop: за покупку одежды в магазинах и :tangerineCouturier: за покупки в Кутюрье</message>
+        <message key="ny19TangerineInfoDialogVisagistDescription">Получай :tangerine: за использование кистей в профессии Визажист</message>
+        <message key="ny19TangerineInfoDialogPhotographerDescription">Получай :tangerine: за использование фотопленок в профессии Фотограф</message>
+        <message key="ny19TangerineInfoDialogGardenerDescription">Получай :tangerine: за каждое действие во время работы Садовником</message>
+        <message key="ny19TangerineInfoDialogJanitorDescription">Получай :tangerine: за каждое действие во время работы Дворником</message>
+        <message key="ny19TangerineInfoDialogSnowboardDescription">Получай :tangerineRace: за участие в гонках и :tangerineCraft: за покупку или крафт коньков и сноуборда</message>
+        <message key="ny19TangerineInfoDialogBroomDescription">Получай :tangerine: за уборку мусора у своих соседей</message>
+
+        <message key="ny19BillingCrownHintTitle">Снежная корона</message>
+        <message key="ny19BillingCrownHintDescription">дает бонус +:snowflake:</message>
+        <message key="ny19ProgressPanelWinsLabel">у тебя побед: :value:</message>
+        <message key="ny19CrownHintDescription">дает бонус снежинок в конкурсе красоты</message>
+    </locale>
+</dictionary>

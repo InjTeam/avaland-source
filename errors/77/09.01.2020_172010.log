@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 17:16:42 GMT+0300 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:16:42 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {mbm: {ac: null, sk: "blackMobileSkin"}, ci: {trcd: 0, compid: 0, lwts: 0, vexp: 1965298000, pamns: {amn: []}, eml: null, ys: 0, crt: 33947, gdc: 0, lgt: 0, shousd: false, rtrtm: 0, trid: "yearAvatar", vip: true, lvt: 1578578396, ceid: 0, shcr: true, plcmt: {}, as: null, vsexp: 1965298000, rpt: 0, skrt: 0, vret: 0, vfgc: 0, fak: null, skid: null, actrt: 0, actrd: 0, tts: null, sbrt: 0, actrp: 0, dr: true, bcld: 0, ysct: 0, cmid: 0, vsact: true, crst: 0, spp: 0, fexp: 0, strfrd: 0, gtrfrd: 0, exp: 85800, lrnt: 0, sbid: null, kyktid: null, hrt: 261}, usrinf: {rl: 0}, locinfo: {x: 11.18, s: "127.0.0.1", y: 8.25, l: "couturier_ctr1_1", st: 0, at: "", shlc: true, pl: "", d: 4}, clths: {clths: [{tpid: "girlGlssYllw", clid: null}, {tpid: "girlPlvNYGrc", clid: "16"}, {tpid: "girlBtsSchool", clid: "16"}, {tpid: "girlSktRbbt", clid: "11"}, {tpid: "girlNY20VKGiftHtPngv", clid: null}, {tpid: "girlBgRbbt", clid: "11"}, {tpid: "girlTghtAlice", clid: null}]}, uid: "8", pf: {pf: {vsgst: {tp: "vsgst", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}}}, apprnc: {sc: 2, et: 31, sh: 16, bt: 0, hc: 7, fac: 1, nct: 0, pc: 1, fft: 9, g: 2, rc: 1, rg: 0, mt: 2, ssc: 1, shc: 33, ss: 0, brc: 1, n: "ПиЗдЮчКа", pt: 9, ec: 17, ht: 130, bc: 1, brt: 25, mc: 2, fat: 0}}}]

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="ru">
+        <message key="yearAvatarTitle">Аватар года</message>
+        <message key="yearAvatarDescription">Победитель премии "Аватар года"</message>
+
+        <message key="activityPlace1Title">Топ активных</message>
+        <message key="activityPlace1Description">Первое место топа активных</message>
+
+        <message key="activityPlace2Title">Топ активных</message>
+        <message key="activityPlace2Description">Второе место топа активных</message>
+
+        <message key="activityPlace3Title">Топ активных</message>
+        <message key="activityPlace3Description">Третье место топа активных</message>
+
+        <message key="firstApril16Place1Title">Победитель эпидемии</message>
+        <message key="firstApril16Place1Description">Первое место в грудничковой эпидемии</message>
+
+        <message key="firstApril16Place2Title">Победитель эпидемии</message>
+        <message key="firstApril16Place2Description">Второе место в грудничковой эпидемии</message>
+
+        <message key="firstApril16Place3Title">Победитель эпидемии</message>
+        <message key="firstApril16Place3Description">Третье место в грудничковой эпидемии</message>
+
+        <message key="firstApril16Place4Title">Победитель эпидемии</message>
+        <message key="firstApril16Place4Description">Четвертое место в грудничковой эпидемии</message>
+
+        <message key="firstApril16Place5Title">Победитель эпидемии</message>
+        <message key="firstApril16Place5Description">Пятое место в грудничковой эпидемии</message>
+
+        <message key="avaBirthdayTrophy2016Title">Фанат</message>
+        <message key="avaBirthdayTrophy2016Description">Всю жизнь играет в "Аватарию"</message>
+
+        <message key="familyDay2016Title">День семьи</message>
+        <message key="familyDay2016Description">Хранит семью, любовь и верность</message>
+
+        <message key="halloween2016Title">Великий колдун</message>
+        <message key="halloween2016Description">Заколдовал больше всех игроков</message>
+
+        <message key="newYear2017Title">Герой 2017 года</message>
+        <message key="newYear2017Description">Внес неоценимый вклад в спасение новогодней Елочки</message>
+
+        <message key="freelanceCupTitle">Здесь говорят о тебе</message>
+        <message key="freelanceCupDescription">Редакторы ламповой группы ЗГОТ</message>
+
+        <message key="freelanceExchangeTitle">Лига Справедливости</message>
+        <message key="freelanceExchangeDescription">Член лиги справедливости, смотрители за честным обменом</message>
+
+        <message key="freelanceJournalTitle">Журнал</message>
+        <message key="freelanceJournalDescription">Сотрудник официального журнала</message>
+
+        <message key="freelanceMicrophoneTitle">Радио</message>
+        <message key="freelanceMicrophoneDescription">Ведущий официального радио</message>
+
+        <message key="freelanceModeratorTitle">Модератор/Смотритель</message>
+        <message key="freelanceModeratorDescription">Представитель закона игрового мира</message>
+
+        <message key="freelanceSupportTitle">Поддержка</message>
+        <message key="freelanceSupportDescription">Сотрудник поддержки пользователей</message>
+
+        <message key="freelanceTwitterInstagramTitle">Инстаграм/Твиттер</message>
+        <message key="freelanceTwitterInstagramDescription">Редактор страницы в Твиттер или Инстаграм</message>
+
+        <message key="freelanceVideoTitle">Youtube</message>
+        <message key="freelanceVideoDescription">Видеомейкер или аваблогер на канале Youtube</message>
+
+        <message key="shrovetide2017Title">Масленица</message>
+        <message key="shrovetide2017Description">Мастерски готовил блины во время Масленицы</message>
+
+        <message key="springDay2017Title">Весна 2017</message>
+        <message key="springDay2017Description">Особые успехи в весенней акции</message>
+
+        <message key="halloween2017Title">Охотник на оборотней</message>
+        <message key="halloween2017Description">Особые успехи в охоте на оборотней</message>
+
+        <message key="newYear2018Title">Царь горы</message>
+        <message key="newYear2018Description">Особые успехи в новогодней акции</message>
+
+        <message key="snowboardPlace1Title">Снежный топ</message>
+        <message key="snowboardPlace1Description">Первое место снежного топа</message>
+
+        <message key="snowboardPlace2Title">Снежный топ</message>
+        <message key="snowboardPlace2Description">Второе место снежного топа</message>
+
+        <message key="snowboardPlace3Title">Снежный топ</message>
+        <message key="snowboardPlace3Description">Третье место снежного топа</message>
+
+        <message key="stVal2018Title">Валентин</message>
+        <message key="stVal2018Description">Особые успехи в акции на день всех влюбленных</message>
+
+        <message key="springDay2018Title">Весна 2018</message>
+
+        <message key="firstApril2018Title">Шутник</message>
+        <message key="firstApril2018Description">Особые успехи в апрельской акции</message>
+
+        <message key="avatarBirthdayTitle">Именинник</message>
+        <message key="avatarBirthdayDescription">Сегодня день рождения аватара!</message>
+
+        <message key="weddingDayTitle">День свадьбы</message>
+        <message key="weddingDayDescription">Сегодня день вступления в брак!</message>
+
+        <message key="halloween2018Title">Хэллоуин</message>
+        <message key="halloween2018Description">Особые успехи в хэллоуинской акции!</message>
+
+        <message key="newYear2019Title">Король "Холодных Игр"</message>
+        <message key="newYear2019Description">Особые успехи в конкурсах красоты</message>
+
+        <message key="dzo2019Title">Защитник Отечества</message>
+        <message key="dzo2019Description">Особые успехи в акции на день Защитника Отечества в 2019 году</message>
+
+        <message key="firstApril2019Title">Шутник</message>
+        <message key="firstApril2019Description">Особые успехи в апрельской акции</message>
+
+        <message key="autumnEvent2019Title">Золотая осень</message>
+        <message key="autumnEvent2019Description">За особые успехи в акции Золотая осень</message>
+
+        <message key="newYear2020heroTitle">Герой 2020 года</message>
+
+        <message key="mittens2020Title">Герой снежной битвы</message>
+        <message key="mittens2020Description">Кинул больше всех снежков</message>
+    </locale>
+</dictionary>

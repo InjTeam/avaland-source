@@ -1,0 +1,28 @@
+ClientError: Thu Jan 9 22:03:02 GMT+0700 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 22:02:38 GMT+0700 2020 [INFO] Client said: 34: ["house_342_livingroom", "h.r.u", {uid: "342", x: 8.14, y: 8.39, st: 23, d: 3, at: ""}]
+Thu Jan 9 22:02:37 GMT+0700 2020 [INFO] Client said: 34: ["house_342_livingroom", "h.r.m", {uid: "342", dy: 8.39, sx: 7.48, sy: 7.36, dx: 8.14}]
+Thu Jan 9 22:02:35 GMT+0700 2020 [INFO] Client said: 34: ["house_342_livingroom", "h.r.u", {uid: "342", x: 7.48, y: 7.36, st: 3, d: 5, at: "danceGirl1"}]
+Thu Jan 9 22:02:30 GMT+0700 2020 [INFO] Client said: 34: ["house_342_livingroom", "h.r.u", {uid: "342", x: 7.48, y: 7.36, st: 23, d: 5, at: ""}]
+Thu Jan 9 22:02:29 GMT+0700 2020 [INFO] Client said: 34: ["house_342_livingroom", "h.r.m", {uid: "342", dy: 7.36, sx: 8.03, sy: 5.66, dx: 7.48}]
+Thu Jan 9 22:02:29 GMT+0700 2020 [INFO] Client said: 34: ["house_342_livingroom", "h.r.m", {uid: "342", dy: 1.98, sx: 6.88, sy: 6.81, dx: 11.5}]
+Thu Jan 9 22:02:27 GMT+0700 2020 [INFO] Server said: 34: ["h.r.rfr", {rm: {lev: 1, f: [{x: 0, y: 0, z: 0, lid: 3, tpid: "floor4", d: 5}, {x: 13, y: 0, z: 0, lid: 2, tpid: "wall15", d: 5}, {x: 11.546875, y: 3.859375, z: 0, lid: 45140084, tpid: "gasStnGRtr", d: 5}, {x: 0, y: 0, z: 0, lid: 1, tpid: "wall15", d: 3}, {x: 3, y: 0, z: 0, lid: 4, tpid: "door4", rid: "outside", d: 3}], l: 13, w: 13, nm: "#livingRoom"}}]
+Thu Jan 9 22:02:26 GMT+0700 2020 [INFO] Client said: 34: ["house_342_livingroom", "h.r.rfr", {}]
+Thu Jan 9 22:02:26 GMT+0700 2020 [INFO] Server said: 34: ["frn.save", {ci: {vret: 0, lrnt: 0, spp: 0, actrp: 0, compid: 0, crt: 730, lvt: 1578581638, hrt: 674, tts: null, bcld: 0, sbid: null, skid: null, vip: true, fexp: 0, shousd: false, kyktid: null, as: null, pamns: {amn: []}, dr: true, lwts: 0, plcmt: {}, fak: null, gtrfrd: 0, vsexp: 1965298000, vsact: true, strfrd: 0, vfgc: 0, eml: null, trid: null, lgt: 0, crst: 0, ceid: 0, rpt: 0, gdc: 0, ys: 0, shcr: true, vexp: 1965298000, ysct: 0, rtrtm: 0, actrd: 0, exp: 85800, cmid: 0, skrt: 0, sbrt: 0, trcd: 0, actrt: 0}, hs: {lev: 1, nm: "house", id: "livingroom", f: [{x: 0, y: 0, z: 0, lid: 3, tpid: "floor4", d: 5}, {x: 13, y: 0, z: 0, lid: 2, tpid: "wall15", d: 5}, {x: 11.546875, y: 3.859375, z: 0, lid: 45140084, tpid: "gasStnGRtr", d: 5}, {x: 0, y: 0, z: 0, lid: 1, tpid: "wall15", d: 3}, {x: 3, y: 0, z: 0, lid: 4, tpid: "door4", rid: "outside", d: 3}], l: 13, w: 13}, inv: {c: {frn: {id: "frn", it: []}, gm: {id: "gm", it: [{tid: "blackMobileSkin", c: 1, iid: ""}]}, cls: {id: "cls", it: [{tid: "girlUnderdress1", c: 1, iid: ""}, {tid: "girlUnderdress2", c: 1, iid: ""}, {tid: "girlShirt12", c: 1, iid: ""}, {tid: "girlNY20VKGiftPllvDr", c: 1, iid: ""}, {tid: "girlNY20VKGiftPllvChrst", c: 1, iid: ""}]}, act: {id: "act", it: []}, lt: {id: "lt", it: []}}}}]
+Thu Jan 9 22:02:23 GMT+0700 2020 [INFO] Client said: 34: ["house_342_livingroom", "frn.save", {f: [{oid: 45140084, y: 3.859375, t: 1, z: 0, x: 11.546875, tpid: "gasStnGRtr", tm: 1578582142544, d: 5}]}]
+Thu Jan 9 22:02:21 GMT+0700 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/RetroGasStation.swf, status: 2) 
+Thu Jan 9 22:02:17 GMT+0700 2020 [INFO] Server said: 34: ["crt.prd", {crIt: {tid: "gasStnGRtr", c: 1, lid: ""}, inv: {c: {frn: {id: "frn", it: [{tid: "gasStnGRtr", c: 1, iid: ""}]}, gm: {id: "gm", it: [{tid: "blackMobileSkin", c: 1, iid: ""}]}, cls: {id: "cls", it: [{tid: "girlUnderdress1", c: 1, iid: ""}, {tid: "girlUnderdress2", c: 1, iid: ""}, {tid: "girlShirt12", c: 1, iid: ""}, {tid: "girlNY20VKGiftPllvDr", c: 1, iid: ""}, {tid: "girlNY20VKGiftPllvChrst", c: 1, iid: ""}]}, act: {id: "act", it: []}, lt: {id: "lt", it: []}}}}]
+Thu Jan 9 22:02:15 GMT+0700 2020 [INFO] Client said: 34: [null, "crt.prd", {itId: "gasStnGRtr"}]
+Thu Jan 9 22:02:13 GMT+0700 2020 [INFO] Server said: 34: ["crt.bc", {compIts: [{tid: "screw", c: 80, iid: ""}, {tid: "wrench", c: 25, iid: ""}, {tid: "grindstone", c: 30, iid: ""}, {tid: "peaceOfIron", c: 150, iid: ""}], itId: "gasStnGRtr", res: {gld: 12955, slvr: 15000, emd: 0, enrg: 500}}]
+Thu Jan 9 22:02:12 GMT+0700 2020 [INFO] Client said: 34: [null, "crt.bc", {cmIds: ["screw", "wrench", "grindstone", "peaceOfIron"], itId: "gasStnGRtr"}]

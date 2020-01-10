@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 22:05:53 GMT+0700 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 22:05:53 GMT+0700 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "506", ci: {shousd: false, skrt: 0, exp: 85800, spp: 0, bcld: 0, crt: 319, tts: null, gdc: 0, sbrt: 0, eml: null, actrd: 0, as: null, ysct: 0, trid: "freelanceMicrophone", lvt: 1578581969, fak: null, lgt: 0, crst: 0, sbid: null, lrnt: 0, shcr: true, gtrfrd: 0, vexp: 1965298000, strfrd: 0, lwts: 0, vsexp: 1965298000, vip: true, vsact: true, fexp: 0, vret: 0, ys: 0, vfgc: 0, kyktid: null, hrt: 174, ceid: 0, skid: null, plcmt: {}, rpt: 0, actrt: 0, compid: 0, cmid: 0, trcd: 0, actrp: 0, rtrtm: 0, pamns: {amn: []}, dr: true}, apprnc: {sc: 2, shc: 15, pt: 0, ss: 0, brc: 10, rc: 1, bt: 0, g: 2, nct: 0, rg: 0, fft: 16, sh: 19, ec: 5, n: "min yoongi", hc: 4, brt: 14, fat: 0, mc: 29, ht: 131, mt: 29, bc: 1, fac: 1, pc: 1, et: 34, ssc: 1}, locinfo: {x: 9.64, s: "127.0.0.1", shlc: true, y: 10.64, st: 23, at: "", d: 4, l: "salon_sn1_1", pl: ""}, usrinf: {rl: 0}, pf: {pf: {vsgst: {tp: "vsgst", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}}}, clths: {clths: [{clid: null, tpid: "girlGlssHp"}, {clid: null, tpid: "girlCtHp"}, {clid: null, tpid: "girlBtsHp"}, {clid: null, tpid: "girlTShrtHp"}, {clid: null, tpid: "girlErrHp"}, {clid: null, tpid: "girlHtHp"}, {clid: null, tpid: "girlPntsHp"}]}, mbm: {ac: null, sk: "blackMobileSkin"}}}]

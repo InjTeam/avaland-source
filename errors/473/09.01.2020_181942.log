@@ -1,0 +1,30 @@
+ClientError: Thu Jan 9 22:19:26 GMT+0700 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 22:19:25 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 22:19:25 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 12100, enrg: 500, slvr: 10000}}]
+Thu Jan 9 22:19:23 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 22:19:23 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 10600, enrg: 500, slvr: 10000}}]
+Thu Jan 9 22:19:21 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 22:19:21 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 9100, enrg: 500, slvr: 10000}}]
+Thu Jan 9 22:19:20 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 22:19:20 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 7600, enrg: 500, slvr: 10000}}]
+Thu Jan 9 22:19:10 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 22:19:10 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 6100, enrg: 500, slvr: 10000}}]
+Thu Jan 9 22:19:09 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 22:19:08 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 4600, enrg: 500, slvr: 10000}}]
+Thu Jan 9 22:19:02 GMT+0700 2020 [INFO] Client said: 17: ["house_473_livingroom"]
+Thu Jan 9 22:19:01 GMT+0700 2020 [INFO] Client said: 34: ["house_473_livingroom", "h.r.u", {x: 8.86, at: "", y: 2.36, st: 23, d: 0, uid: "473"}]
+Thu Jan 9 22:18:58 GMT+0700 2020 [INFO] Client said: 34: ["house_473_livingroom", "h.r.m", {dy: 2.36, dx: 8.86, sx: 8.95, uid: "473", sy: 6.77}]
+Thu Jan 9 22:18:57 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 22:18:57 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]

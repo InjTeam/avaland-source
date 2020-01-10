@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="ru">
+        
+        
+        <!-- PETS -->
+        
+        <message key="followFriendPetsTitle">Поиск приятеля</message>
+        <message key="followFriendPetsMessage">Твой приятель сейчас играет с питомцем. Хочешь присоединиться?</message>
+        
+        <!-- ISLAND -->
+        <message key="islandGameTitle">Тропикания</message>
+        <message key="islandLevel">У тебя :level: уровень в Тропикании</message>
+        <message key="islandTransferPlayerLevel">Нужен :level: уровень</message>
+        <message key="transferAllItemsButton">забрать всё</message>
+        <message key="noItemsForTransfer">Нечего передавать :(</message>
+
+        <message key="islandTransferResourcesText"><![CDATA[Все то, чего тебе так не хватало в Аватарии: забавные питомцы, невероятные приключения и даже встреча с туземцами — все это ждет тебя под тенью пальм твоего собственного острова и неисследованных пещер с древними сокровищами.]]></message>
+        
+        
+    </locale>
+</dictionary>

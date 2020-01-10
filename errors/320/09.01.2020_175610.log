@@ -1,0 +1,26 @@
+ClientError: Thu Jan 9 17:56:09 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-4I::NotEnoughGoldProductDialog/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-1Dw::PaymentService/checkGold()
+	at _-1Dw::PaymentService/checkPrice()
+	at _-06H::BuyFurnitureDialog/onGoldBuyClick()
+Thu Jan 9 17:55:48 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/SD14Flower.swf?3, status: 2) 
+Thu Jan 9 17:55:39 GMT+0300 2020 [INFO] Client said: 34: ["house_320_livingroom", "h.r.u", {x: 3.05, y: 4.11, st: 23, uid: "320", at: "", d: 5}]
+Thu Jan 9 17:55:36 GMT+0300 2020 [INFO] Client said: 34: ["house_320_livingroom", "h.r.m", {uid: "320", sx: 4.05, dy: 4.11, sy: 0.1, dx: 3.05}]
+Thu Jan 9 17:55:34 GMT+0300 2020 [INFO] Client said: 34: ["house_320_livingroom", "h.r.u", {uid: "320", x: 4.05, y: 0.1, d: 4, st: 0}]
+Thu Jan 9 17:55:34 GMT+0300 2020 [INFO] Server said: 34: ["lg.lst", {glst: []}]
+Thu Jan 9 17:55:34 GMT+0300 2020 [INFO] Client said: 34: ["house_320_livingroom", "lg.lst", {}]
+Thu Jan 9 17:55:33 GMT+0300 2020 [INFO] Server said: 34: ["h.r.info", {rm: {nm: "#livingRoom", f: [{x: 0, y: 0, z: 0, lid: 1, tpid: "wall15", d: 3}, {x: 3, y: 0, z: 0, rid: "outside", lid: 4, tpid: "door4", d: 3}, {x: 13, y: 0, z: 0, lid: 2, tpid: "wall15", d: 5}, {x: 0, y: 0, z: 0, lid: 3, tpid: "floor4", d: 5}], lev: 1, id: "livingroom", l: 13, w: 13}, rmmb: [{mbm: {sk: "blackMobileSkin", ac: null}, pf: {pf: {jntr: {tp: "jntr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}}}, locinfo: {x: -1, s: "127.0.0.1", y: -1, l: "house_320_livingroom", st: 0, pl: "", at: "", d: 4, shlc: true}, clths: {clths: [{clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlShoes14"}, {clid: null, tpid: "girlPants9"}]}, uid: "320", usrinf: {rl: 0}, apprnc: {ht: 126, ec: 2, brt: 4, sc: 2, g: 2, ssc: 1, mc: 2, pc: 1, shc: 1, et: 7, nct: 0, n: "GoSammer", pt: 0, ss: 0, sh: 0, fac: 1, rc: 1, hc: 7, bc: 1, brc: 3, bt: 0, rg: 0, fat: 0, fft: 0, mt: 4}, ci: {vret: 0, cmid: 0, rpt: 0, sbid: null, kyktid: null, skrt: 0, actrd: 0, skid: null, actrt: 0, plcmt: {}, dr: true, ysct: 0, vfgc: 0, lwts: 0, spp: 0, vexp: 1965298000, fexp: 0, sbrt: 0, shcr: true, compid: 0, as: null, crst: 0, shousd: false, hrt: 174, lvt: 1578581697, vip: true, exp: 85800, strfrd: 0, vsexp: 1965298000, gtrfrd: 0, tts: null, trcd: 0, vsact: true, rtrtm: 0, crt: 10, gdc: 0, bcld: 0, fak: null, trid: null, lrnt: 0, ys: 0, lgt: 0, eml: null, ceid: 0, actrp: 0, pamns: {amn: []}}}], evn: null}]
+Thu Jan 9 17:55:33 GMT+0300 2020 [INFO] Client said: 34: ["house_320_livingroom", "h.r.info", {uid: "320", rid: "livingroom"}]
+Thu Jan 9 17:55:33 GMT+0300 2020 [INFO] Server said: 34: ["h.gr", {rid: "house_320_livingroom"}]
+Thu Jan 9 17:55:33 GMT+0300 2020 [INFO] Server said: 16: ["house_320_livingroom", "320"]
+Thu Jan 9 17:55:33 GMT+0300 2020 [INFO] Server said: 34: ["h.r.jn", {plr: {mbm: {sk: "blackMobileSkin", ac: null}, pf: {pf: {jntr: {tp: "jntr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}}}, locinfo: {x: -1, s: "127.0.0.1", y: -1, l: "house_320_livingroom", st: 0, pl: "", at: "", d: 4, shlc: true}, clths: {clths: [{clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlShoes14"}, {clid: null, tpid: "girlPants9"}]}, uid: "320", usrinf: {rl: 0}, apprnc: {ht: 126, ec: 2, brt: 4, sc: 2, g: 2, ssc: 1, mc: 2, pc: 1, shc: 1, et: 7, nct: 0, n: "GoSammer", pt: 0, ss: 0, sh: 0, fac: 1, rc: 1, hc: 7, bc: 1, brc: 3, bt: 0, rg: 0, fat: 0, fft: 0, mt: 4}, ci: {vret: 0, cmid: 0, rpt: 0, sbid: null, kyktid: null, skrt: 0, actrd: 0, skid: null, actrt: 0, plcmt: {}, dr: true, ysct: 0, vfgc: 0, lwts: 0, spp: 0, vexp: 1965298000, fexp: 0, sbrt: 0, shcr: true, compid: 0, as: null, crst: 0, shousd: false, hrt: 174, lvt: 1578581697, vip: true, exp: 85800, strfrd: 0, vsexp: 1965298000, gtrfrd: 0, tts: null, trcd: 0, vsact: true, rtrtm: 0, crt: 10, gdc: 0, bcld: 0, fak: null, trid: null, lrnt: 0, ys: 0, lgt: 0, eml: null, ceid: 0, actrp: 0, pamns: {amn: []}}}}]
+Thu Jan 9 17:55:33 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {lapt: {}, rlst: {}, rsprlst: {}, shwdt: 0}}]
+Thu Jan 9 17:55:33 GMT+0300 2020 [INFO] Client said: 34: [null, "nws.getglbl", {}]
+Thu Jan 9 17:55:33 GMT+0300 2020 [INFO] Server said: 34: ["nws.hasnews", {gnunr: true, gnexst: true}]
+Thu Jan 9 17:55:33 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.gbl", {blcklst: {uids: []}}]

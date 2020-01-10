@@ -1,0 +1,21 @@
+ClientError: Thu Jan 9 17:07:43 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:07:43 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {ci: {vsexp: 1965298000, ysct: 0, sbid: null, vsact: true, fak: null, sbrt: 0, shousd: false, vret: 0, shcr: true, plcmt: {}, as: null, vfgc: 0, gtrfrd: 0, pamns: {amn: []}, fexp: 0, ceid: 0, strfrd: 0, crst: 0, lrnt: 0, rtrtm: 0, lvt: 1578578607, hrt: 224, cmid: 0, kyktid: null, ys: 0, skid: null, dr: true, actrt: 0, lwts: 0, rpt: 0, skrt: 0, compid: 0, gdc: 0, spp: 0, actrp: 0, crt: 649, lgt: 0, exp: 85800, actrd: 0, bcld: 0, trcd: 0, eml: null, vip: true, trid: "freelanceModerator", tts: null, vexp: 1965298000}, pf: {pf: {phtghr: {tp: "phtghr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}}}, clths: {clths: [{clid: null, tpid: "girlBtsWnt19Brg"}, {clid: null, tpid: "girlJcktWnt19Brg"}, {clid: null, tpid: "girlGlssWnt19Brg"}, {clid: null, tpid: "girlDrssWnt19Brg"}, {clid: null, tpid: "girlBgWnt19Brg"}]}, locinfo: {at: "", x: 9.83, shlc: true, st: 23, y: 2.45, s: "127.0.0.1", l: "salon_sn1_1", d: 4, pl: ""}, mbm: {sk: "blackMobileSkin", ac: null}, apprnc: {brc: 11, pc: 1, hc: 6, ht: 104, g: 2, fat: 0, rc: 1, et: 7, rg: 0, sh: 7, sc: 1, shc: 8, ss: 4, nct: 0, ssc: 1, ec: 12, fft: 0, bt: 0, mt: 26, n: "Сериалы <3", brt: 13, mc: 12, pt: 0, fac: 1, bc: 1}, usrinf: {rl: 0}, uid: "175"}}]
+Thu Jan 9 17:07:42 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {x: 8.55, st: 23, y: 7.55, at: "", d: 6, uid: "158"}]
+Thu Jan 9 17:07:41 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {dx: 8.55, sy: 7.28, dy: 7.55, sx: 9.41, uid: "158"}]
+Thu Jan 9 17:07:39 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {x: 9.41, st: 23, y: 7.28, at: "", d: 5, uid: "158"}]
+Thu Jan 9 17:07:37 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {dx: 9.41, sy: 6.69, dy: 7.28, sx: 10, uid: "158"}]
+Thu Jan 9 17:07:37 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {x: 10, st: 23, y: 6.69, at: "", d: 4, uid: "158"}]
+Thu Jan 9 17:07:35 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {dx: 10, sy: 5.95, dy: 6.69, sx: 10.02, uid: "158"}]

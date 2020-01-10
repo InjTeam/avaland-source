@@ -1,0 +1,25 @@
+ClientError: Thu Jan 9 19:14:04 GMT+0400 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 19:13:51 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorSD15.swf, status: 2) 
+Thu Jan 9 19:13:39 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 4026, slvr: 10000, enrg: 500}}]
+Thu Jan 9 19:13:38 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {tid: "flrSD15", iid: "", c: 1}}]
+Thu Jan 9 19:13:36 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {cnt: 1, tpid: "flrSD15", pind: 1}]
+Thu Jan 9 19:13:34 GMT+0400 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 9999}]
+Thu Jan 9 19:13:34 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 14025, slvr: 10000, enrg: 500}}]
+Thu Jan 9 19:13:33 GMT+0400 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 19:13:33 GMT+0400 2020 [INFO] Client said: 34: [null, "b.chkprchs", {qnt: 1, pmnt: {srv: 3, ct3: null, ct2: null, ct1: null, tpid: "flrSD15", ctx: {dialogSource: "furnitureShopDialog"}}, prid: "pack9999"}]
+Thu Jan 9 19:13:32 GMT+0400 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 19:13:30 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 4026, slvr: 10000, enrg: 500}}]
+Thu Jan 9 19:13:30 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {tid: "intFlr2", iid: "", c: 1}}]
+Thu Jan 9 19:13:28 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {cnt: 1, tpid: "intFlr2", pind: 1}]

@@ -1,0 +1,5 @@
+ClientError: Thu Jan 9 19:58:38 GMT+0500 2020 [CRITICAL] [local] Type: networkError Code: 0. Message: ioError
+Thu Jan 9 19:58:27 GMT+0500 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {shwdt: 0, rlst: {}, rsprlst: {}, lapt: {}}}]
+Thu Jan 9 19:58:27 GMT+0500 2020 [INFO] Client said: 34: [null, "nws.getglbl", {}]
+Thu Jan 9 19:58:27 GMT+0500 2020 [INFO] Server said: 34: ["nws.hasnews", {gnexst: true, gnunr: true}]
+Thu Jan 9 19:58:27 GMT+0500 2020 [INFO] Server said: 34: ["cp.cht.gbl", {blcklst: {uids: []}}]

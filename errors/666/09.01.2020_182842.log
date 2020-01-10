@@ -1,0 +1,55 @@
+ClientError: Thu Jan 9 18:26:10 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 2025 ErrorName: ArgumentError ErrorMessage:Error #2025 ErrorStackTrace:ArgumentError: Error #2025
+	at _-0rR::_-43s/removeTopPanel()
+	at _-02D::MobileContactsTabPanel/removeTopPanel()
+	at _-0rR::_-43s/draw()
+	at _-02D::MobileContactsTabPanel/_-4LT()
+	at _-02D::MobileContactsTabPanel/_-3PS()
+	at _-1El::PlayersManager/_-TY()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-37q::_-G5/_-2WM()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:26:10 GMT+0300 2020 [INFO] Server said: 34: ["pl.gos", {onl: {}, clid: "online"}]
+Thu Jan 9 18:26:10 GMT+0300 2020 [INFO] Client said: 34: [null, "pl.gid", {uids: ["39", "14", "70", "71", "68", "64", "97", "80", "18", "55"], clid: "userTop"}]
+Thu Jan 9 18:25:37 GMT+0300 2020 [INFO] Client said: 34: [null, "ev.get", {tg: "", c: 3, fof: false}]
+Thu Jan 9 18:25:37 GMT+0300 2020 [INFO] Client said: 34: [null, "ev.get", {tg: "", c: 2, fof: false}]
+Thu Jan 9 18:25:28 GMT+0300 2020 [INFO] Client said: 34: [null, "ev.get", {tg: "", c: 1, fof: false}]
+Thu Jan 9 18:25:28 GMT+0300 2020 [INFO] Client said: 34: [null, "ev.get", {tg: "", c: 0, fof: false}]
+Thu Jan 9 18:25:26 GMT+0300 2020 [INFO] Client said: 34: [null, "ev.gse", {}]
+Thu Jan 9 18:25:26 GMT+0300 2020 [INFO] Client said: 34: [null, "ev.get", {tg: "", c: -1, fof: false}]
+Thu Jan 9 18:25:13 GMT+0300 2020 [INFO] Client said: 34: ["house_666_livingroom", "h.r.u", {uid: "666", x: 3.84, st: 23, y: 3.16, d: 4, at: ""}]
+Thu Jan 9 18:25:09 GMT+0300 2020 [INFO] Client said: 34: [null, "pl.gos", {uids: [], clid: "online"}]
+Thu Jan 9 18:25:08 GMT+0300 2020 [INFO] Client said: 34: [null, "mb.sma", {mb: {nmc: 0, ac: "steampunkMobileAccessory", sk: "blueMobileSkin", rt: null}}]
+Thu Jan 9 18:25:03 GMT+0300 2020 [INFO] Client said: 34: [null, "mb.sma", {mb: {nmc: 0, ac: null, sk: "blueMobileSkin", rt: null}}]
+Thu Jan 9 18:25:01 GMT+0300 2020 [INFO] Client said: 34: [null, "mb.sma", {mb: {nmc: 0, ac: null, sk: "blueMobileSkin", rt: null}}]
+Thu Jan 9 18:25:01 GMT+0300 2020 [INFO] Client said: 34: [null, "mb.sma", {mb: {nmc: 0, ac: null, sk: "blueMobileSkin", rt: null}}]
+Thu Jan 9 18:24:57 GMT+0300 2020 [INFO] Client said: 34: [null, "mb.sma", {mb: {nmc: 0, ac: null, sk: "blueMobileSkin", rt: null}}]
+Thu Jan 9 18:24:52 GMT+0300 2020 [INFO] Server said: 34: ["pl.gos", {onl: {}, clid: "online"}]
+Thu Jan 9 18:24:51 GMT+0300 2020 [INFO] Client said: 34: ["house_666_livingroom", "h.r.u", {uid: "666", x: 3.84, st: 24, y: 3.16, d: 4, at: "blackMobileSkin"}]
+Thu Jan 9 18:24:51 GMT+0300 2020 [INFO] Client said: 34: [null, "pl.gos", {uids: [], clid: "online"}]
+Thu Jan 9 18:24:00 GMT+0300 2020 [INFO] Client said: 34: ["house_666_livingroom", "h.r.u", {uid: "666", x: 3.84, st: 23, y: 3.16, d: 4, at: ""}]
+Thu Jan 9 18:23:59 GMT+0300 2020 [INFO] Client said: 34: ["house_666_livingroom", "h.r.m", {uid: "666", dx: 3.84, sx: 4.05, sy: 0.1, dy: 3.16}]
+Thu Jan 9 18:23:38 GMT+0300 2020 [INFO] Server said: 34: ["lg.lst", {glst: []}]
+Thu Jan 9 18:23:37 GMT+0300 2020 [INFO] Client said: 34: ["house_666_livingroom", "h.r.u", {uid: "666", x: 4.05, d: 4, st: 0, y: 0.1}]
+Thu Jan 9 18:23:37 GMT+0300 2020 [INFO] Client said: 34: ["house_666_livingroom", "lg.lst", {}]
+Thu Jan 9 18:23:37 GMT+0300 2020 [INFO] Server said: 34: ["h.r.info", {evn: null, rmmb: [{uid: "666", apprnc: {brc: 2, ec: 3, pt: 0, shc: 1, rc: 1, mt: 1, g: 1, ss: 0, fac: 1, bt: 0, hc: 5, rg: 0, sh: 0, sc: 2, brt: 1, fat: 0, n: "я не гей", et: 19, ssc: 1, nct: 0, pc: 1, ht: 87, fft: 0, bc: 1, mc: 1}, clths: {clths: [{clid: null, tpid: "boyShirt14"}, {clid: null, tpid: "boyShoes8"}, {clid: null, tpid: "boyPants10"}]}, ci: {strfrd: 0, shcr: true, rtrtm: 0, vsact: true, skrt: 0, crt: 18, hrt: 174, kyktid: null, vret: 0, rpt: 0, gdc: 0, vfgc: 0, trcd: 0, actrt: 0, ceid: 0, vip: true, trid: null, sbrt: 0, cmid: 0, plcmt: {}, dr: true, lgt: 0, compid: 0, spp: 0, crst: 0, tts: null, actrp: 0, sbid: null, bcld: 0, fexp: 0, shousd: false, ys: 0, vexp: 1965298000, as: null, eml: null, lvt: 1578582951, vsexp: 1965298000, lrnt: 0, ysct: 0, actrd: 0, pamns: {amn: []}, fak: null, lwts: 0, exp: 85800, gtrfrd: 0, skid: null}, usrinf: {rl: 0}, mbm: {sk: "blackMobileSkin", ac: null}, pf: {pf: {jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}}}, locinfo: {x: -1, s: "127.0.0.1", y: -1, l: "house_666_livingroom", st: 0, d: 4, shlc: true, at: "", pl: ""}}], rm: {f: [{x: 0, y: 0, z: 0, lid: 1, d: 3, tpid: "wall15"}, {x: 3, rid: "outside", y: 0, z: 0, lid: 4, d: 3, tpid: "door4"}, {x: 13, y: 0, z: 0, lid: 2, d: 5, tpid: "wall15"}, {x: 0, y: 0, z: 0, lid: 3, d: 5, tpid: "floor4"}], lev: 1, id: "livingroom", nm: "#livingRoom", l: 13, w: 13}}]
+Thu Jan 9 18:23:13 GMT+0300 2020 [INFO] Client said: 34: ["house_666_livingroom", "h.r.info", {uid: "666", rid: "livingroom"}]
+Thu Jan 9 18:23:13 GMT+0300 2020 [INFO] Server said: 34: ["h.gr", {rid: "house_666_livingroom"}]
+Thu Jan 9 18:23:13 GMT+0300 2020 [INFO] Server said: 16: ["house_666_livingroom", "666"]
+Thu Jan 9 18:23:13 GMT+0300 2020 [INFO] Server said: 34: ["h.r.jn", {plr: {uid: "666", apprnc: {brc: 2, ec: 3, pt: 0, shc: 1, rc: 1, mt: 1, g: 1, ss: 0, fac: 1, bt: 0, hc: 5, rg: 0, sh: 0, sc: 2, brt: 1, fat: 0, n: "я не гей", et: 19, ssc: 1, nct: 0, pc: 1, ht: 87, fft: 0, bc: 1, mc: 1}, clths: {clths: [{clid: null, tpid: "boyShirt14"}, {clid: null, tpid: "boyShoes8"}, {clid: null, tpid: "boyPants10"}]}, ci: {strfrd: 0, shcr: true, rtrtm: 0, vsact: true, skrt: 0, crt: 18, hrt: 174, kyktid: null, vret: 0, rpt: 0, gdc: 0, vfgc: 0, trcd: 0, actrt: 0, ceid: 0, vip: true, trid: null, sbrt: 0, cmid: 0, plcmt: {}, dr: true, lgt: 0, compid: 0, spp: 0, crst: 0, tts: null, actrp: 0, sbid: null, bcld: 0, fexp: 0, shousd: false, ys: 0, vexp: 1965298000, as: null, eml: null, lvt: 1578582951, vsexp: 1965298000, lrnt: 0, ysct: 0, actrd: 0, pamns: {amn: []}, fak: null, lwts: 0, exp: 85800, gtrfrd: 0, skid: null}, usrinf: {rl: 0}, mbm: {sk: "blackMobileSkin", ac: null}, pf: {pf: {jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}}}, locinfo: {x: -1, s: "127.0.0.1", y: -1, l: "house_666_livingroom", st: 0, d: 4, shlc: true, at: "", pl: ""}}}]
+Thu Jan 9 18:23:11 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {shwdt: 0, rsprlst: {}, rlst: {}, lapt: {}}}]
+Thu Jan 9 18:23:11 GMT+0300 2020 [INFO] Client said: 34: [null, "nws.getglbl", {}]
+Thu Jan 9 18:23:11 GMT+0300 2020 [INFO] Server said: 34: ["nws.hasnews", {gnunr: true, gnexst: true}]
+Thu Jan 9 18:23:11 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.gbl", {blcklst: {uids: []}}]
+Thu Jan 9 18:23:11 GMT+0300 2020 [INFO] Client said: 34: [null, "crq.lrui", {uid: 666}]
+Thu Jan 9 18:23:11 GMT+0300 2020 [INFO] Server said: 34: ["cm.new", {campaigns: [{cil: [{tid: "clans", gl: 0, cid: 643, id: 8151, si: 0, sc: 0}, {tid: "clanRating_off", gl: 0, cid: 643, id: 8152, si: 0, sc: 0}], id: 643, iu: "", ed: 2442905160000, st: 1, v: 1, tp: 9}, {cil: [{tid: "mobile", gl: 0, cid: 316, id: 2514, si: 0, sc: 0}], id: 316, iu: "", ed: 1659222000000, st: 1, v: 1, tp: 9}, {cil: [{tid: "fortune2", gl: 0, cid: 299, id: 2434, si: 0, sc: 0}], id: 299, iu: "", ed: 1919631600000, st: 2, v: 1, tp: 9}, {cil: [{tid: "professions", gl: 0, cid: 114, id: 1110, si: 0, sc: 0}, {tid: "grdnr", gl: 0, cid: 114, id: 1111, si: 0, sc: 0}, {tid: "jntr", gl: 0, cid: 114, id: 1112, si: 0, sc: 0}, {tid: "vsgst", gl: 0, cid: 114, id: 1577, si: 0, sc: 0}, {tid: "phtghr", gl: 0, cid: 114, id: 1578, si: 0, sc: 0}], id: 114, iu: "", ed: 1440630000000, st: 1, v: 1, tp: 9}]}]
+Thu Jan 9 18:23:10 GMT+0300 2020 [INFO] Client said: 34: [null, "h.gr", {lid: "house", gid: "666", rid: "livingroom"}]
+Thu Jan 9 18:23:10 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/DoorWood.swf, status: 2) 
+Thu Jan 9 18:23:10 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorCarpetGrass.swf, status: 2) 
+Thu Jan 9 18:23:10 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPoppy.swf, status: 2) 

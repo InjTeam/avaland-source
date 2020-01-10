@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <plural key="gear">
+            <form>шестеренка</form>
+            <form>шестеренки</form>
+            <form>шестеренок</form>
+        </plural>
+        <plural key="fuel">
+            <form>колбочка</form>
+            <form>колбочки</form>
+            <form>колбочек</form>
+        </plural>
+        <plural key="myFriends">
+            <form>друг</form>
+            <form>друга</form>
+            <form>друзей</form>
+        </plural>
+        <gender key="genderShot">
+            <form>выстрелил</form>
+            <form>выстрелила</form>
+        </gender>
+
+        <message key="steampunk2014WelcomeDialogTitle">Стимпанк. Иная цивилизация.</message>
+        <message key="steampunk2014WelcomeDialogMessage1">Собирай колбочки с топливом у друзей и на работе. Чем больше у тебя друзей, тем больше топлива ты будешь получать каждый день.</message>
+        <message key="steampunk2014WelcomeDialogMessage2">Наполни топливом генератор в своей квартире, чтобы получить шестеренки. Заряжай свой плазменный пистолет и участвуй в баталиях с другими игроками, чтобы заработать еще больше шестеренок.</message>
+        <message key="steampunk2014WelcomeDialogMessage3">Получай уникальные призы, накопив достаточное количество шестеренок. Данные предметы ты можешь получить только в период проведения акции!</message>
+
+        <message key="steampunk2014CreateRoomTitle">Новая механическая комната</message>
+        <message key="steampunk2014CreateRoomMessage">В этой комнате много движущихся предметов и для их работы нужно топливо. Много топлива!</message>
+
+        <message key="steampunk2014ProgressDialogTitle">Собрал шестеренки? Получи приз!</message>
+        <message key="steampunk2014YouHaveGearsLabel">у тебя</message>
+
+        <message key="steampunk2014AskDialogTitle">Хочу больше шестеренок!</message>
+        <message key="steampunk2014AskDialogMessage">Не хватает шестеренок? Попроси помощи у своих друзей! Уж они-то точно помогут! Больше друзей — больше шестеренок, больше радости и подарков!</message>
+        <message key="steampunk2014AwardDialogTitle">Поздравляем!</message>
+        <message key="steampunk2014AwardDialogMessage">Мы дарим тебе этот замечательный подарок в награду за собранные шестеренки. Продолжай в том же духе и обязательно поделись этой новостью с друзьями!</message>
+        <message key="steampunk2014Congratulation">Тебе удалось собрать необходимое количество шестеренок и получить все призы. Отличная работа!</message>
+
+        <message key="steampunk2014WallMessage1">Мне подарили замечательный подарок в награду за собранные шестеренки. Хочешь получить такой же? Жду тебя в игре! :link:</message>
+        <message key="steampunk2014WallMessage2">Друзья, я хочу получить уникальный предмет в игре Аватария, и мне нужна ваша помощь. Без вас мне не справиться! :link:</message>
+
+        <message key="steampunk2014FuelDialogTitle">Дружеская дозаправка</message>
+        <message key="steampunk2014FuelDialogMessage">Чем больше твоих друзей играет в Аватарию, тем больше колбочек ты сможешь получать каждый день БЕСПЛАТНО!</message>
+
+        <message key="steampunk2014RoomButtonHint">Механическая комната</message>
+
+        <message key="steampunk2014DontFuelMessage">Чтобы запустить генератор нужно не менее 10 колбочек с топливом.
+Пригласи своих друзей в игру или купи 10 топлива за монеты.</message>
+        <message key="steampunk2014DontFuelToShootMessage">У тебя кончилось топливо.
+Пригласи своих друзей в игру и получай колбочки бесплатно, или купи :count: колбочек за монеты.</message>
+
+        <message key="steampunk2014ShootTitle">Пиф-паф!</message>
+        <message key="steampunk2014ShootMenuHint">Выстрелить плазмой из пистолета</message>
+
+        <message key="currentFuelLabel">у тебя</message>
+
+        <message key="gearLootLabel">шестеренка</message>
+        <message key="fuelLootLabel">топливо</message>
+
+        <message key="gearLootDescription">собирай шестеренки и получай призы</message>
+        <message key="fuelLootDescription">заряжай свой плазменный пистолет топливом или заправляй генератор в механической комнате</message>
+
+        <message key="gunDescription">Плазменный пистолет, работает на топливе. Заряжай его и участвуй в баталиях с другими игроками, чтобы получать больше шестеренок.</message>
+        <message key="robotDescription">Робот-трудяжка начистит пол в твоей квартире до блеска. Осторожно, смотри не подскользнись!</message>
+        <message key="clothGDescription">Уникальный комплект одежды в стиле "Стимпанк". Такого не купишь в магазине!</message>
+        <message key="clothBDescription">Уникальный комплект одежды в стиле "Стимпанк". Такого не купишь в магазине!</message>
+        <message key="generatorDescription">Генератор с вечным двигателем. Механическая комната с таким генератором будет работать вечно, без необходимости дозаправки топливом!</message>
+
+        <message key="steampunk2014WarningPlasmaTitle">Плазменный привет!</message>
+        <message key="steampunk2014WarningPlasmaMessage">:userName: :genderShot: в тебя плазмой.</message>
+        <message key="steampunk2014SendBackPlasmaButtonTitle">ответить</message>
+
+        <message key="steampunk2014DontHaveGun">У тебя в руке должен быть плазменный пистолет.</message>
+        <message key="steampunk2014DontHaveGunAward">Ты не можешь стрелять, пока у тебя нет плазменного пистолета. Собирай шестеренки, чтобы заполучить его.</message>
+
+        <message key="steampunk2014FillMessage">Чтобы механическая комната заработала нужно заправить генератор топливом.
+Давай сделаем это прямо сейчас!</message>
+        <message key="steampunk2014FillBtnTitle">Заправить</message>
+
+        <message key="steampunk2014TakeGun">Ура, теперь у тебя есть настоящий плазменный пистолет!
+Осталось только взять его в руки и... пиф-паф!</message>
+        <message key="steampunk2014TakeBtnTitle">Взять пистолет</message>
+    </locale>
+</dictionary>

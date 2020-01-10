@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="hw17ParticipationDialogTitle">Бал темных сил!</message>
+        <message key="hw17ParticipationDialogButtonLabel">участвовать</message>
+        <message key="hw17ArrowLabel">Стрела с серебряным наконечником</message>
+        <message key="hw17ArrowDescription">Пригодится в борьбе с оборотнями</message>
+        <message key="nw17ToothNecklaceLabel">Ожерелье из клыков оборотня</message>
+        <message key="nw17ToothNecklaceDescription">Пропуск на бал темных сил</message>
+        <message key="hw17SilverDustLabel">Серебряная пыль</message>
+        <message key="hw17SilverDustDescription">Можно получить за победу в мини-играх</message>
+        <message key="hw17ToothLabel">Клык оборотня</message>
+        <message key="hw17ToothDescription">Можно получить за победу над оборотнем</message>
+        <message key="hw17MaleNPCTitle">Граф Деймон</message>
+        <message key="hw17FemaleNPCTitle">Графиня Элизабет</message>
+        <message key="halloween2017SelectAwardLabel">Выбери награду:</message>
+        <message key="hw17ToothExchangeDialogTitle">Обмен на подарки!</message>
+        <message key="hw17ToothExchangeDialogDescription">Продолжай собирать клыки до конца акции и обменивай их у графа на подарки, которые могут содержать уникальные предметы!</message>
+        <message key="hw17InfoDialogDialogTitle">Добро пожаловать на бал!</message>
+        <message key="hw17InfoDialogTopMessage">Для борьбы с оборотнями тебе понадобятся арбалет и специальные серебряные стрелы. Подготовься к бою!</message>
+        <message key="hw17InfoDialogMiddleMessage">Отправляйся на охоту за оборотнями. За победу над ними ты получишь клыки.</message>
+        <message key="hw17InfoDialogBottomMessage">Собирай клыки оборотней и обменивай их на подарки.</message>
+        <gender key="hw17ParticipationDialogDescription">
+            <form>К тебе за помощью обратилась графиня Элизабет! Она и ее супруг, граф Деймон, очень любят устраивать пышные приемы для темных существ, но проведению мероприятия мешают оборотни. Давай им поможем?</form>
+            <form>К тебе за помощью обратился граф Деймон! Он и его супруга, графиня Элизабет, очень любят устраивать пышные приемы для темных существ, но проведению мероприятия мешают оборотни. Давай им поможем?</form>
+        </gender>
+
+        <gender key="halloween2017SelectAwardDialogDescription">
+            <form>Ты помог мне с этими вредными оборотнями! Мы приглашаем тебя на наш бал, а также ты можешь выбрать награду по своему желанию! Обрати внимание! Сделав выбор, ты уже не сможешь изменить его.</form>
+            <form>Ты помогла мне с этими вредными оборотнями! Мы приглашаем тебя на наш бал, а также ты можешь выбрать награду по своему желанию! Обрати внимание! Сделав выбор, ты уже не сможешь изменить его.</form>
+        </gender>
+
+        <gender key="hw17MainNpcName">
+            <form>Граф Деймон</form>
+            <form>Графиня Элизабет</form>
+        </gender>
+
+        <message key="hw17InfoDialogTopMessage2">В качестве пропуска на бал темных сил тебе потребуется специальное ожерелье из клыков, добытых у оборотней.</message>
+        <message key="hw17InfoDialogTopMessage3">Дело сделано! Тебя пригласили на бал, там тебя ждет заслуженная награда!</message>
+
+        <message key="hw17Werewolf">Оборотень</message>
+        <message key="hw17WerewolfMessage1">Ааааагрх!</message>
+        <message key="hw17WerewolfMessage2">Р-р-р-разорву!</message>
+        <message key="hw17WerewolfMessage3">Ууууууу!</message>
+        <message key="hw17NoArrow">Тебе нечем стрелять, смастери стрелы.</message>
+
+        <message key="hw17CraftCrossbowStageMessage1">Вам надо бы поторопиться, мои гости ждать не будут!</message>
+        <message key="hw17CraftCrossbowStageMessage2">Я и моя драгоценная вторая половина устраиваем самые шикарные балы во всем темном царстве!</message>
+        <message key="hw17CraftCrossbowStageMessage3">Ну и кто во всем свете может быть прекраснее меня? Жаль зеркало этого не отражает...</message>
+        <message key="hw17CraftCrossbowStageMessage4">И почему у вас так солнечно? Где мой крем для кожи...</message>
+        <message key="hw17CraftCrossbowStageMessage5">Золото лучше серебра, не так ли?</message>
+
+        <message key="hw17CraftNecklaceStageMessage1">Оборотни такие мерзкие, вы не находите? Чего только стоит их неухоженная шерсть!</message>
+        <message key="hw17CraftNecklaceStageMessage2">Хммм... Если вы окажете мне помощь, так и быть, и для такого гостя найдется местечко на балу.</message>
+        <message key="hw17CraftNecklaceStageMessage3">Раз клык, два клык, три клык... Маловато будет!</message>
+        <message key="hw17CraftNecklaceStageMessage4">Интересно, мистер Скелетон выучил мое любимое произведение...</message>
+        <message key="hw17CraftNecklaceStageMessage5">Оборотни пугают не только моих гостей, но и ваших жителей, так что сделка выгодна всем.</message>
+
+        <message key="hw17BallroomMessageGirl1">Нормальность - это всегда иллюзия.</message>
+        <message key="hw17BallroomMessageGirl2">Мой муж великолепен, не правда ли?</message>
+        <message key="hw17BallroomMessageGirl3">Чувствуйте себя как... хм, как на балу!</message>
+        <message key="hw17BallroomMessageGirl4">Интересно, о нашем балу напишут в Вестнике...</message>
+        <message key="hw17BallroomMessageGirl5">Мы с графом прекрасная пара, видите как нам завидуют все гости!</message>
+
+        <message key="hw17BallroomMessageBoy1">Где лучшие балы? Конечно у графа Деймона!</message>
+        <message key="hw17BallroomMessageBoy2">Я отдаю, но сам ничего не теряю.</message>
+        <message key="hw17BallroomMessageBoy3">Я себе не нравлюсь. Я люблю себя.</message>
+        <message key="hw17BallroomMessageBoy4">Танцуйте, танцуйте, танцуйте!</message>
+        <message key="hw17BallroomMessageBoy5">Стать вампиром не так сложно, наши ряды легко восполнимые, а вот Смотрители - вид, занесенный в Красную книгу.</message>
+
+        <message key="hw17NecklaceCraftedHomeMessage">Дело сделано, теперь пора повеселиться, скорее отправляйся на бал!</message>
+        <gender key="hw17AwardDialogDescription">
+            <form>Ты получил свою награду за успешное прохождение акции!</form>
+            <form>Ты получила свою награду за успешное прохождение акции!</form>
+        </gender>
+        <message key="hw17WallGetAwardMessage">Мне подарили замечательный подарок за помощь в организации бала. Хочешь получить такой же? Жду тебя в игре! :link:</message>
+
+        <message key="hw17ProfessionHintMessage">Оборотни реагируют на движение, начни работать, чтобы их выманить!</message>
+
+        <message key="hw17GoToBallButtonNoNeckHintMessage">Требуется ожерелье</message>
+        <message key="hw17GoToBallButtonHintMessage">Отправиться на бал</message>
+        <message key="hw17NoCrossbowMessage">Для борьбы с оборотнями тебе понадобится арбалет!</message>
+    </locale>
+</dictionary>

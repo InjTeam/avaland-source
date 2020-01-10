@@ -1,0 +1,13 @@
+ClientError: Thu Jan 9 19:02:44 GMT+0400 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-JE::AvatarClothes/takeoffAll()
+	at _-2dH::ClothesShopDialog/removeAllClothes()
+	at _-42F::_-U9/_-3dv()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2zO::_-4WD/removeAllClothes()
+	at _-2zO::_-4WD/_-0oU()
+Thu Jan 9 19:02:33 GMT+0400 2020 [INFO] Client said: 34: [null, "a.clths.wear", {ctp: "club", clths: [{clid: "", tpid: "grlAprChrHat"}, {clid: "", tpid: "grlAprChrMst"}, {clid: "", tpid: "grlAprChrOvr"}, {clid: "", tpid: "grlAprChrShs"}, {clid: "", tpid: "grlAprChrStc"}]}]
+Thu Jan 9 19:02:33 GMT+0400 2020 [INFO] Client said: 34: [null, "a.clths.wear", {ctp: "club", clths: [{clid: "", tpid: "grlAprChrHat"}, {clid: "", tpid: "grlAprChrMst"}, {clid: "", tpid: "grlAprChrOvr"}, {clid: "", tpid: "grlAprChrShs"}, {clid: "", tpid: "grlAprChrStc"}]}]
+Thu Jan 9 19:02:33 GMT+0400 2020 [INFO] Client said: 34: [null, "a.clths.wear", {ctp: "club", clths: [{clid: "", tpid: "grlAprChrHat"}, {clid: "", tpid: "grlAprChrMst"}, {clid: "", tpid: "grlAprChrOvr"}, {clid: "", tpid: "grlAprChrShs"}, {clid: "", tpid: "grlAprChrStc"}]}]
+Thu Jan 9 19:02:32 GMT+0400 2020 [INFO] Client said: 34: [null, "a.clths.wear", {ctp: "club", clths: [{clid: "", tpid: "grlAprChrHat"}, {clid: "", tpid: "grlAprChrMst"}, {clid: "", tpid: "grlAprChrOvr"}, {clid: "", tpid: "grlAprChrShs"}, {clid: "", tpid: "grlAprChrStc"}]}]
+Thu Jan 9 19:02:30 GMT+0400 2020 [INFO] Client said: 34: [null, "a.clths.wear", {ctp: "club", clths: [{clid: "", tpid: "grlAprChrHat"}, {clid: "", tpid: "grlAprChrMst"}, {clid: "", tpid: "grlAprChrOvr"}, {clid: "", tpid: "grlAprChrShs"}, {clid: "", tpid: "grlAprChrStc"}]}]
+Thu Jan 9 19:02:27 GMT+0400 2020 [INFO] Client said: 34: [null, "a.clths.wear", {ctp: "club", clths: [{clid: "", tpid: "grlAprChrHat"}, {clid: "", tpid: "grlAprChrMst"}, {clid: "", tpid: "grlAprChrOvr"}, {clid: "", tpid: "grlAprChrShs"}, {clid: "", tpid: "grlAprChrStc"}]}]

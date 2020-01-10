@@ -1,0 +1,52 @@
+ClientError: Thu Jan 9 17:09:35 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:09:35 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "25", usrinf: {rl: 0}, ci: {bcld: 0, eml: null, vip: true, gdc: 0, vret: 0, crt: 7014, lwts: 0, rpt: 0, as: null, vsact: true, vfgc: 0, strfrd: 0, actrt: 0, cmid: 0, dr: true, skrt: 0, actrd: 0, sbid: null, gtrfrd: 0, shousd: false, spp: 0, plcmt: {}, sbrt: 0, lgt: 0, tts: null, actrp: 0, lrnt: 0, crst: 0, kyktid: null, shcr: true, rtrtm: 0, vsexp: 1965298000, ceid: 0, fak: null, ysct: 0, skid: null, ys: 0, pamns: {amn: []}, trcd: 0, compid: 0, lvt: 1578578155, fexp: 0, exp: 85800, hrt: 916, vexp: 1965298000, trid: null}, clths: {clths: [{tpid: "boyTShrtSV19", clid: null}, {tpid: "boyBtsSV19", clid: null}, {tpid: "boyPslnGloves1", clid: null}, {tpid: "boyStrtBrcl", clid: null}, {tpid: "boyPntsWnt19Yllw", clid: null}, {tpid: "boyJkrTt", clid: null}, {tpid: "csl15BBrvErr", clid: null}, {tpid: "boyPyrmdKnf", clid: null}, {tpid: "boyFb23Hat", clid: null}, {tpid: "boyFA18Msk2", clid: null}, {tpid: "csl15BBrvPdt", clid: null}, {tpid: "boyGlsStrpd", clid: null}, {tpid: "boyJcktSV19", clid: null}]}, locinfo: {pl: "", x: 10.33, s: "127.0.0.1", shlc: true, y: 12.2, at: "", d: 4, l: "salon_sn1_1", st: 23}, apprnc: {rg: 0, nct: 0, brc: 1, rc: 1, bt: 15, g: 1, et: 7, sh: 0, shc: 1, fft: 2, ht: 55, hc: 25, fat: 0, ssc: 1, pt: 0, ss: 0, n: "Трусы", brt: 17, sc: 2, mc: 2, pc: 1, fac: 1, ec: 5, mt: 7, bc: 25}, pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 17:09:35 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {uid: "285", sy: 1.5, dx: 11.59, sx: 15.42, dy: 3.53}]
+Thu Jan 9 17:09:35 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {uid: "230", x: 13.23, y: 3.92, at: "", d: 5, st: 23}]
+Thu Jan 9 17:09:34 GMT+0300 2020 [INFO] Client said: 34: ["salon_sn1_1", "o.r.info", {rid: "sn1"}]
+Thu Jan 9 17:09:34 GMT+0300 2020 [INFO] Server said: 34: ["o.gr", {rid: "salon_sn1_1"}]
+Thu Jan 9 17:09:33 GMT+0300 2020 [INFO] Server said: 16: ["salon_sn1_1", "258"]
+Thu Jan 9 17:09:33 GMT+0300 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {uid: "258", usrinf: {rl: 0}, ci: {bcld: 0, eml: null, vip: true, gdc: 0, vret: 0, crt: 18, lwts: 0, rpt: 0, as: null, vsact: true, vfgc: 0, strfrd: 0, actrt: 0, cmid: 0, dr: true, skrt: 0, actrd: 0, sbid: null, gtrfrd: 0, shousd: false, spp: 0, plcmt: {}, sbrt: 0, lgt: 0, tts: null, actrp: 0, lrnt: 0, crst: 0, kyktid: null, shcr: true, rtrtm: 0, vsexp: 1965298000, ceid: 0, fak: null, ysct: 0, skid: null, ys: 0, pamns: {amn: []}, trcd: 0, compid: 0, lvt: 1578578832, fexp: 0, exp: 85800, hrt: 174, vexp: 1965298000, trid: null}, clths: {clths: [{tpid: "boyShirt14", clid: null}, {tpid: "boyShoes8", clid: null}, {tpid: "boyPants10", clid: null}]}, locinfo: {pl: "", x: -1, s: "127.0.0.1", shlc: true, y: -1, at: "", d: 4, l: "salon_sn1_1", st: 0}, apprnc: {rg: 0, nct: 0, brc: 5, rc: 1, bt: 0, g: 1, et: 1, sh: 0, shc: 1, fft: 0, ht: 89, hc: 7, fat: 0, ssc: 1, pt: 0, ss: 0, n: ".ЕНОТ.", brt: 6, sc: 1, mc: 3, pc: 1, fac: 1, ec: 2, mt: 19, bc: 1}, pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 17:09:33 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {uid: "230", sy: 1.65, dx: 13.23, sx: 15.42, dy: 3.92}]
+Thu Jan 9 17:09:32 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {uid: "285", sy: 1.5, dx: 10.88, sx: 15.5, dy: 3.69}]
+Thu Jan 9 17:09:31 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {uid: "230", sy: 1.58, dx: 14.42, sx: 15.42, dy: 5.6}]
+Thu Jan 9 17:09:31 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {uid: "285", x: 15.5, d: 4, y: 1.5, st: 0}]
+Thu Jan 9 17:09:31 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {uid: "85", dx: 12.17, sy: 1.5, sx: 15.5, dy: 14.42}]
+Thu Jan 9 17:09:31 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {uid: "230", sy: 1.5, dx: 14.42, sx: 15.5, dy: 5.6}]
+Thu Jan 9 17:09:28 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {uid: "230", x: 15.5, d: 4, y: 1.5, st: 0}]
+Thu Jan 9 17:07:12 GMT+0300 2020 [INFO] Client said: 34: [null, "o.gr", {lid: "salon", gid: "sn1"}]
+Thu Jan 9 17:07:12 GMT+0300 2020 [INFO] Server said: 1: ["258", true, false, false]
+Thu Jan 9 17:06:20 GMT+0300 2020 [INFO] Client said: 1: ["street", "258", "JAXakRitbvEyBHcOTpob", {clvrn: "84.0.4", v: 2}]
+Thu Jan 9 17:06:19 GMT+0300 2020 [INFO] Client said: 2: []
+Thu Jan 9 17:06:19 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Salon_1fe14ef0cdf189794ef74d591993d3f5.swf, status: 2) 
+Thu Jan 9 17:06:18 GMT+0300 2020 [INFO] Client said: 17: ["house_258_livingroom"]
+Thu Jan 9 17:05:56 GMT+0300 2020 [INFO] Client said: 34: ["house_258_livingroom", "h.r.u", {uid: "258", x: 1.94, y: 5.63, st: 23, d: 5, at: ""}]
+Thu Jan 9 17:05:53 GMT+0300 2020 [INFO] Client said: 34: ["house_258_livingroom", "h.r.m", {uid: "258", sy: 0.1, dx: 1.94, sx: 4.05, dy: 5.63}]
+Thu Jan 9 17:05:48 GMT+0300 2020 [INFO] Client said: 34: ["house_258_livingroom", "h.r.u", {uid: "258", x: 4.05, d: 4, y: 0.1, st: 0}]
+Thu Jan 9 17:05:48 GMT+0300 2020 [INFO] Server said: 34: ["lg.lst", {glst: []}]
+Thu Jan 9 17:05:48 GMT+0300 2020 [INFO] Client said: 34: ["house_258_livingroom", "lg.lst", {}]
+Thu Jan 9 17:05:44 GMT+0300 2020 [INFO] Server said: 34: ["h.r.info", {evn: null, rmmb: [{uid: "258", usrinf: {rl: 0}, ci: {bcld: 0, eml: null, vip: true, gdc: 0, vret: 0, crt: 18, lwts: 0, rpt: 0, as: null, vsact: true, vfgc: 0, strfrd: 0, actrt: 0, cmid: 0, dr: true, skrt: 0, actrd: 0, sbid: null, gtrfrd: 0, shousd: false, spp: 0, plcmt: {}, sbrt: 0, lgt: 0, tts: null, actrp: 0, lrnt: 0, crst: 0, kyktid: null, shcr: true, rtrtm: 0, vsexp: 1965298000, ceid: 0, fak: null, ysct: 0, skid: null, ys: 0, pamns: {amn: []}, trcd: 0, compid: 0, lvt: 1578578428, fexp: 0, exp: 85800, hrt: 174, vexp: 1965298000, trid: null}, clths: {clths: [{tpid: "boyShirt14", clid: null}, {tpid: "boyShoes8", clid: null}, {tpid: "boyPants10", clid: null}]}, locinfo: {pl: "", x: -1, s: "127.0.0.1", shlc: true, y: -1, at: "", d: 4, l: "house_258_livingroom", st: 0}, apprnc: {rg: 0, nct: 0, brc: 5, rc: 1, bt: 0, g: 1, et: 1, sh: 0, shc: 1, fft: 0, ht: 89, hc: 7, fat: 0, ssc: 1, pt: 0, ss: 0, n: ".ЕНОТ.", brt: 6, sc: 1, mc: 3, pc: 1, fac: 1, ec: 2, mt: 19, bc: 1}, pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, mbm: {ac: null, sk: "blackMobileSkin"}}], rm: {nm: "#livingRoom", l: 13, id: "livingroom", f: [{x: 0, lid: 3, y: 0, z: 0, tpid: "floor4", d: 5}, {x: 3, lid: 4, y: 0, z: 0, tpid: "door4", d: 3, rid: "outside"}, {x: 13, lid: 2, y: 0, z: 0, tpid: "wall15", d: 5}, {x: 0, lid: 1, y: 0, z: 0, tpid: "wall15", d: 3}], lev: 1, w: 13}}]
+Thu Jan 9 17:05:42 GMT+0300 2020 [INFO] Client said: 34: ["house_258_livingroom", "h.r.info", {uid: "258", rid: "livingroom"}]
+Thu Jan 9 17:05:41 GMT+0300 2020 [INFO] Server said: 34: ["h.gr", {rid: "house_258_livingroom"}]
+Thu Jan 9 17:05:41 GMT+0300 2020 [INFO] Server said: 16: ["house_258_livingroom", "258"]
+Thu Jan 9 17:05:40 GMT+0300 2020 [INFO] Server said: 34: ["h.r.jn", {plr: {uid: "258", usrinf: {rl: 0}, ci: {bcld: 0, eml: null, vip: true, gdc: 0, vret: 0, crt: 18, lwts: 0, rpt: 0, as: null, vsact: true, vfgc: 0, strfrd: 0, actrt: 0, cmid: 0, dr: true, skrt: 0, actrd: 0, sbid: null, gtrfrd: 0, shousd: false, spp: 0, plcmt: {}, sbrt: 0, lgt: 0, tts: null, actrp: 0, lrnt: 0, crst: 0, kyktid: null, shcr: true, rtrtm: 0, vsexp: 1965298000, ceid: 0, fak: null, ysct: 0, skid: null, ys: 0, pamns: {amn: []}, trcd: 0, compid: 0, lvt: 1578578428, fexp: 0, exp: 85800, hrt: 174, vexp: 1965298000, trid: null}, clths: {clths: [{tpid: "boyShirt14", clid: null}, {tpid: "boyShoes8", clid: null}, {tpid: "boyPants10", clid: null}]}, locinfo: {pl: "", x: -1, s: "127.0.0.1", shlc: true, y: -1, at: "", d: 4, l: "house_258_livingroom", st: 0}, apprnc: {rg: 0, nct: 0, brc: 5, rc: 1, bt: 0, g: 1, et: 1, sh: 0, shc: 1, fft: 0, ht: 89, hc: 7, fat: 0, ssc: 1, pt: 0, ss: 0, n: ".ЕНОТ.", brt: 6, sc: 1, mc: 3, pc: 1, fac: 1, ec: 2, mt: 19, bc: 1}, pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 17:05:11 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {lapt: {}, rsprlst: {}, rlst: {}, shwdt: 0}}]
+Thu Jan 9 17:05:02 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {lapt: {}, rsprlst: {}, rlst: {}, shwdt: 0}}]
+Thu Jan 9 17:04:44 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {lapt: {}, rsprlst: {}, rlst: {}, shwdt: 0}}]
+Thu Jan 9 17:04:39 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {lapt: {}, rsprlst: {}, rlst: {}, shwdt: 0}}]
+Thu Jan 9 17:04:34 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {lapt: {}, rsprlst: {}, rlst: {}, shwdt: 0}}]
+Thu Jan 9 17:04:29 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {lapt: {}, rsprlst: {}, rlst: {}, shwdt: 0}}]
+Thu Jan 9 17:04:27 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {lapt: {}, rsprlst: {}, rlst: {}, shwdt: 0}}]
+Thu Jan 9 17:04:25 GMT+0300 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {lapt: {}, rsprlst: {}, rlst: {}, shwdt: 0}}]

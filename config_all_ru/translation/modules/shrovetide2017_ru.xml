@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <!-- module item types -->
+        <message key="st17PanLabel">Сковорода</message>
+        <message key="st17PanDescription">Сковорода, на ней можно жарить блины.</message>
+        <message key="st17ParticipationDialogTitle">Прими участие в масленице.</message>
+        <message key="st17PanCraftDialogDescription">Для приготовления блинов тебе понадобится сковорода.</message>
+        <message key="st17ProducePancakeMenuTitle">приготовить блин</message>
+        <message key="st17DropPancakeMenuTitle">кинуть блин</message>
+        <message key="st17TreatPancakeMenuTitle">угостить блином</message>
+        <message key="st17EmptyPancakeMessage">У тебя нет блинов.</message>
+        <message key="st17AwardDialogTitle">Поздравляем!</message>
+        <message key="st17AwardDialogMessage">Мы дарим тебе титул "Масленица" в награду за приготовленные блины. Продолжай в том же духе и обязательно поделись этой новостью с друзьями!</message>
+        <message key="st17WallGetTrophyMessage">Ура, мне подарили титул "Масленица"! Жду тебя в игре! :link:</message>
+        <message key="st17ProgressDialogTitle">Масленица!</message>
+        <message key="st17ProgressDialogDescription">Отмечаем Масленицу! Смастери сковороду, чтобы печь вкусные и ароматные блинчики. А вот угощать ими своих друзей или есть самому - решать тебе. Напеки гору блинов и получили уникальный титул в подарок!</message>
+        <message key="st17DropPancakeNotificationMessage">:userName: :genderDrop: в тебя блин.</message>
+    </locale>
+</dictionary>
+

@@ -1,0 +1,9 @@
+ClientError: Thu Jan 9 16:59:33 GMT+0200 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-19Y::TopPanel/_-3oC()
+Thu Jan 9 16:59:29 GMT+0200 2020 [INFO] Server said: 34: ["h.r.ra", {plr: {ci: {bcld: 0, vip: true, cmid: 0, exp: 85800, trid: null, crt: 250, rpt: 0, dr: true, compid: 0, trcd: 0, actrt: 0, spp: 0, actrp: 0, sbid: null, tts: null, actrd: 0, sbrt: 0, crst: 0, gdc: 0, eml: null, shousd: false, plcmt: {}, lgt: 0, pamns: {amn: []}, ysct: 0, ys: 0, lwts: 0, vexp: 1965298000, fak: null, lvt: 1578581925, vsexp: 1965298000, shcr: true, lrnt: 0, skrt: 0, vsact: true, gtrfrd: 0, fexp: 0, as: null, vret: 0, strfrd: 0, skid: null, vfgc: 0, rtrtm: 0, hrt: 174, ceid: 0, kyktid: null}, usrinf: {rl: 0}, mbm: {sk: "blackMobileSkin", ac: null}, pf: {pf: {phtghr: {pgs: 0, tp: "phtghr", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}}}, apprnc: {rg: 0, ec: 1, hc: 5, fac: 1, pt: 0, bc: 1, rc: 1, brt: 28, g: 2, ssc: 1, nct: 0, shc: 1, sh: 0, sc: 2, fft: 0, ht: 123, fat: 0, mc: 3, n: "Линка", ss: 0, et: 2, bt: 0, brc: 1, mt: 3, pc: 1}, uid: "59", clths: {clths: [{tpid: "girlNY20VKGiftPllvDr", clid: null}, {tpid: "girlPants9", clid: null}, {tpid: "girlShoes14", clid: null}]}, locinfo: {x: 3.45, at: "", l: "house_59_livingroom", y: 6.33, s: "127.0.0.1", shlc: true, st: 23, d: 4, pl: ""}}}]

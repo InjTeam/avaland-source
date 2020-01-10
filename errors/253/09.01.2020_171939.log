@@ -1,0 +1,17 @@
+ClientError: Thu Jan 9 20:14:53 GMT+0600 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 20:14:53 GMT+0600 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "224", locinfo: {st: 0, x: 14.42, s: "127.0.0.1", shlc: true, y: 12.6, d: 4, l: "salon_sn1_1", at: "", pl: ""}, ci: {skrt: 0, pamns: {amn: []}, trcd: 0, eml: null, dr: true, vret: 0, crt: 10, as: null, ceid: 0, ysct: 0, fexp: 0, vip: true, gtrfrd: 0, actrp: 0, trid: null, shcr: true, actrd: 0, plcmt: {}, compid: 0, rpt: 0, fak: null, cmid: 0, spp: 0, lwts: 0, lrnt: 0, bcld: 0, lvt: 1578578776, vfgc: 0, actrt: 0, lgt: 0, sbrt: 0, strfrd: 0, sbid: null, kyktid: null, vsexp: 1965298000, ys: 0, vsact: true, hrt: 174, vexp: 1965298000, crst: 0, skid: null, exp: 85800, rtrtm: 0, tts: null, shousd: false, gdc: 0}, usrinf: {rl: 0}, apprnc: {ssc: 1, ss: 0, pt: 0, mc: 4, shc: 12, rg: 1, bt: 0, brc: 1, sh: 23, rc: 1, g: 2, fft: 10, nct: 0, hc: 24, et: 37, ht: 125, ec: 26, n: "/~Моня~\", fat: 0, mt: 31, brt: 33, sc: 1, pc: 1, bc: 1, fac: 1}, mbm: {sk: "blackMobileSkin", ac: null}, pf: {pf: {jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}}}, clths: {clths: [{clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlShoes14"}, {clid: null, tpid: "girlPants9"}]}}}]
+Thu Jan 9 20:14:48 GMT+0600 2020 [INFO] Server said: 16: ["salon_sn1_1", "192"]
+Thu Jan 9 20:14:48 GMT+0600 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {uid: "192", locinfo: {st: 0, x: -1, s: "127.0.0.1", shlc: true, y: -1, d: 4, l: "salon_sn1_1", at: "", pl: ""}, ci: {skrt: 0, pamns: {amn: []}, trcd: 0, eml: null, dr: true, vret: 0, crt: 10, as: null, ceid: 0, ysct: 0, fexp: 0, vip: true, gtrfrd: 0, actrp: 0, trid: null, shcr: true, actrd: 0, plcmt: {}, compid: 0, rpt: 0, fak: null, cmid: 0, spp: 0, lwts: 0, lrnt: 0, bcld: 0, lvt: 1578578899, vfgc: 0, actrt: 0, lgt: 0, sbrt: 0, strfrd: 0, sbid: null, kyktid: null, vsexp: 1965298000, ys: 0, vsact: true, hrt: 174, vexp: 1965298000, crst: 0, skid: null, exp: 85800, rtrtm: 0, tts: null, shousd: false, gdc: 0}, usrinf: {rl: 0}, apprnc: {ssc: 1, ss: 0, pt: 0, mc: 3, shc: 1, rg: 0, bt: 0, brc: 2, sh: 0, rc: 1, g: 2, fft: 0, nct: 0, hc: 1, et: 2, ht: 126, ec: 1, n: "Сода", fat: 0, mt: 7, brt: 28, sc: 1, pc: 1, bc: 1, fac: 1}, mbm: {sk: "blackMobileSkin", ac: null}, pf: {pf: {jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}}}, clths: {clths: [{clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlShoes14"}, {clid: null, tpid: "girlPants9"}]}}}]

@@ -1,0 +1,12 @@
+ClientError: Thu Jan 9 16:53:33 GMT+0300 2020 [CRITICAL] [local] Type: networkError Code: 0. Message: ioError
+Thu Jan 9 16:53:16 GMT+0300 2020 [INFO] Server said: 34: ["h.minfo", {has.avtr: false}]
+Thu Jan 9 16:53:16 GMT+0300 2020 [INFO] Server said: 34: ["ctmr.get", {tu: {snowboardRating: []}}]
+Thu Jan 9 16:53:16 GMT+0300 2020 [INFO] Server said: 34: ["ur.get", {bt: [{uid: 14, hr: 413116, cr: 13969}, {uid: 22, hr: 25373, cr: 18389}, {uid: 52, hr: 21844, cr: 648}, {uid: 17, hr: 11208, cr: 21736}, {uid: 70, hr: 9774, cr: 570}, {uid: 62, hr: 6005, cr: 10}, {uid: 56, hr: 5142, cr: 1903}, {uid: 32, hr: 3279, cr: 7533}, {uid: 42, hr: 3028, cr: 21797}, {uid: 3, hr: 2951, cr: 2484}]}]
+Thu Jan 9 16:53:15 GMT+0300 2020 [INFO] Server said: 34: ["mail.gc", {out: [], in: []}]
+Thu Jan 9 16:53:15 GMT+0300 2020 [INFO] Server said: 34: ["rl.get", {uid: "41", rlts: {}}]
+Thu Jan 9 16:53:15 GMT+0300 2020 [INFO] Client said: 34: [null, "h.minfo", {tm: 1578577996, onl: false}]
+Thu Jan 9 16:53:15 GMT+0300 2020 [INFO] Client said: 34: [null, "ctmr.get", {}]
+Thu Jan 9 16:53:15 GMT+0300 2020 [INFO] Client said: 34: [null, "ur.get", {}]
+Thu Jan 9 16:53:15 GMT+0300 2020 [INFO] Client said: 34: [null, "mail.gc", {}]
+Thu Jan 9 16:53:15 GMT+0300 2020 [INFO] Client said: 34: [null, "rl.get", {}]
+Thu Jan 9 16:53:15 GMT+0300 2020 [INFO] Server said: 1: ["41", true, false, false]

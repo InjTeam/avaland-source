@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 18:29:11 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:29:11 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {mbm: {ac: null, sk: "blackMobileSkin"}, pf: {pf: {jntr: {tp: "jntr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, ci: {vexp: 1965298000, lwts: 0, fexp: 0, pamns: {amn: []}, spp: 0, sbrt: 0, hrt: 10173, actrt: 0, ceid: 0, kyktid: null, as: null, eml: null, ys: 0, vip: true, bcld: 0, crst: 0, compid: 0, actrd: 0, actrp: 0, crt: 562, skid: null, cmid: 0, gdc: 0, sbid: null, dr: true, lvt: 1578583174, vret: 0, shcr: true, vsexp: 1965298000, lrnt: 0, gtrfrd: 0, fak: null, trcd: 0, ysct: 0, skrt: 0, shousd: false, vfgc: 0, rtrtm: 0, strfrd: 0, vsact: true, plcmt: {}, exp: 85800, lgt: 0, rpt: 0, tts: null, trid: "freelanceSupport"}, usrinf: {rl: 0}, apprnc: {mc: 15, rc: 11, pc: 1, bt: 0, ht: 129, g: 2, sh: 1, ss: 0, fat: 0, fft: 7, brt: 23, mt: 31, rg: 1, brc: 1, n: "Хейзерша", hc: 20, fac: 1, pt: 0, et: 37, sc: 1, ssc: 1, ec: 5, shc: 12, bc: 1, nct: 0}, clths: {clths: [{clid: null, tpid: "grlSD16Dcr"}, {clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "grlSD16Ovrl"}, {clid: null, tpid: "grlSD16Shs"}, {clid: null, tpid: "grlSD16Stk"}, {clid: null, tpid: "grlSD16Brcl"}]}, uid: "350", locinfo: {x: 12.25, s: "127.0.0.1", y: 14.63, shlc: true, at: "", d: 4, pl: "", st: 23, l: "salon_sn1_1"}}}]
+Thu Jan 9 18:29:10 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "salon_sn1_1", msg: {tp: "chatTypingMessage", cid: null, sid: "735"}}]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="springDay2017ParticipationDialogTitle">Праздник весны!</message>
+        <message key="springDay2017ParticipationDialogDescription">Ты веришь в то, что твои желания могут исполниться, если этого очень захотеть? Мы предлагаем тебе проверить эту теорию!</message>
+        <message key="springDay2017ParticipationOkButtonTitle">проверить</message>
+
+        <message key="springDay2017TrophyDialogMessage">Мы дарим тебе титул "Весна 2017" в награду за особые успехи в весенней акции. Спасибо за проявленное трудолюбие!</message>
+        <message key="springDay2017WallGetTrophyMessage">Ура, мне подарили титул "Весна 2017"! Жду тебя в игре! :link:</message>
+
+        <message key="springDay2017ProgressDialogTitle">Загадай желание!</message>
+        <message key="springDay2017ProgressDialogWishesTitle">Выбери предметы</message>
+        <message key="springDay2017ProgressDialogWishesDescription">Выбери предметы, о которых давно мечтаешь. Копи монеты, бросай их в фонтан и заберай подарки.</message>
+        <message key="springDay2017ProgressDialogTrophyDescription">Собирай монеты и получи уникальный титул в конце акции</message>
+        <message key="springDay2017ProgressDialogStartButtonTitle">Начать</message>
+
+        <message key="springDay2017SelectWishDialogTitle">Выбери предмет</message>
+
+        <message key="springDay2017ConvertCoinsMessage">Поздравляем! Теперь ты можешь потратить :coinsCount: монет на свои желания</message>
+        <message key="springDay2017WishCompleteMessage">Поздравляем! Твое желание сбылось!</message>
+
+        <message key="springDay2017FountainHintMessage">Брось монетки в фонтан чтобы твои желания сбылись</message>
+        <message key="springDay2017FriendHelpMessage">Здесь ты можешь получить счастливые монетки</message>
+    </locale>
+</dictionary>

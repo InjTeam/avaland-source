@@ -1,0 +1,18 @@
+ClientError: Thu Jan 9 18:41:41 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:41:41 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "350", mbm: {sk: "blackMobileSkin", ac: null}, locinfo: {s: "127.0.0.1", x: 12.25, l: "salon_sn1_1", y: 14.63, st: 23, pl: "", at: "", d: 4, shlc: true}, apprnc: {nct: 0, ssc: 1, mt: 31, g: 2, bc: 1, brt: 23, bt: 0, pt: 0, rg: 1, ss: 0, hc: 20, sh: 1, fat: 0, brc: 1, et: 37, fft: 7, pc: 1, ec: 5, mc: 15, n: "Хейзерша", ht: 129, rc: 11, sc: 1, shc: 12, fac: 1}, usrinf: {rl: 0}, ci: {rtrtm: 0, skid: null, vsact: true, eml: null, kyktid: null, skrt: 0, vret: 0, actrt: 0, bcld: 0, exp: 85800, trid: "freelanceSupport", compid: 0, trcd: 0, gdc: 0, vfgc: 0, actrp: 0, sbid: null, ceid: 0, ysct: 0, actrd: 0, sbrt: 0, lgt: 0, rpt: 0, ys: 0, shousd: false, vip: true, cmid: 0, fexp: 0, plcmt: {}, fak: null, dr: true, shcr: true, as: null, pamns: {amn: []}, gtrfrd: 0, lvt: 1578583174, crst: 0, vexp: 1965298000, spp: 0, hrt: 10173, lrnt: 0, vsexp: 1965298000, tts: null, strfrd: 0, lwts: 0, crt: 562}, clths: {clths: [{clid: null, tpid: "grlSD16Dcr"}, {clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "grlSD16Ovrl"}, {clid: null, tpid: "grlSD16Shs"}, {clid: null, tpid: "grlSD16Stk"}, {clid: null, tpid: "grlSD16Brcl"}]}, pf: {pf: {vsgst: {tp: "vsgst", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}}}}}]
+Thu Jan 9 18:41:39 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {msg: {tag: null, tp: "chatTextMessage", msg: "люди", mid: null, cid: null, sid: "328"}, rid: "salon_sn1_1"}]
+Thu Jan 9 18:41:36 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {msg: {tag: null, tp: "chatTextMessage", msg: "пожалуйста", mid: null, cid: null, sid: "328"}, rid: "salon_sn1_1"}]
+Thu Jan 9 18:41:33 GMT+0300 2020 [INFO] Server said: 34: ["cp.cht.sm", {msg: {cid: null, sid: "328", tp: "chatTypingMessage"}, rid: "salon_sn1_1"}]

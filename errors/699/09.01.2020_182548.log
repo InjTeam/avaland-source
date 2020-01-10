@@ -1,0 +1,51 @@
+ClientError: Thu Jan 9 19:25:48 GMT+0400 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 19:25:21 GMT+0400 2020 [INFO] Client said: 17: ["house_699_livingroom"]
+Thu Jan 9 19:25:07 GMT+0400 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 19:25:06 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, enrg: 500, emd: 0, gld: 7933}}]
+Thu Jan 9 19:25:06 GMT+0400 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 19:25:06 GMT+0400 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]
+Thu Jan 9 19:25:05 GMT+0400 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 19:25:02 GMT+0400 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 19:25:02 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, enrg: 500, emd: 0, gld: 6433}}]
+Thu Jan 9 19:25:02 GMT+0400 2020 [INFO] [YandexMetrics.onCounterInit] Yandex metrics counter 31321471 inited
+Thu Jan 9 19:25:02 GMT+0400 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 19:25:02 GMT+0400 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 19:25:02 GMT+0400 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]
+Thu Jan 9 19:25:00 GMT+0400 2020 [INFO] Client said: 34: ["house_699_livingroom", "h.r.u", {x: 6.97, at: "", y: 5.91, st: 23, d: 4, uid: "699"}]
+Thu Jan 9 19:25:00 GMT+0400 2020 [INFO] Server said: 34: ["spt.init", {a: false}]
+Thu Jan 9 19:25:00 GMT+0400 2020 [INFO] [YandexMetrics.initCounter] Try to init Yandex metrics counter 31321471
+Thu Jan 9 19:25:00 GMT+0400 2020 [INFO] Client said: 34: [null, "spt.init", {}]
+Thu Jan 9 19:24:57 GMT+0400 2020 [INFO] Client said: 34: ["house_699_livingroom", "h.r.m", {dx: 6.97, sx: 4.55, sy: 0.1, dy: 5.91, uid: "699"}]
+Thu Jan 9 19:23:57 GMT+0400 2020 [INFO] Server said: 34: ["lg.lst", {glst: []}]
+Thu Jan 9 19:23:57 GMT+0400 2020 [INFO] Client said: 34: ["house_699_livingroom", "h.r.u", {x: 4.55, st: 0, d: 4, y: 0.1, uid: "699"}]
+Thu Jan 9 19:23:57 GMT+0400 2020 [INFO] Client said: 34: ["house_699_livingroom", "lg.lst", {}]
+Thu Jan 9 19:23:57 GMT+0400 2020 [INFO] Server said: 34: ["h.r.info", {rmmb: [{pf: {pf: {phtghr: {tp: "phtghr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}}}, clths: {clths: [{clid: null, tpid: "girlKgrmCt"}, {clid: null, tpid: "girlNY20VKGiftPllvCnd"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "girlHdbndCt"}, {clid: null, tpid: "girlShoes14"}]}, mbm: {sk: "blackMobileSkin", ac: null}, usrinf: {rl: 0}, ci: {crst: 0, vfgc: 0, fak: null, actrp: 0, ys: 0, gdc: 0, ceid: 0, pamns: {amn: []}, plcmt: {}, skid: null, shcr: true, actrd: 0, lgt: 0, cmid: 0, gtrfrd: 0, shousd: false, dr: true, rpt: 0, bcld: 0, strfrd: 0, skrt: 0, vexp: 1965298000, spp: 0, as: null, fexp: 0, vsexp: 1965298000, tts: null, rtrtm: 0, trcd: 0, vip: true, lvt: 1578583016, trid: "yearAvatar", eml: null, kyktid: null, lrnt: 0, crt: 1113, vsact: true, sbid: null, exp: 85800, vret: 0, sbrt: 0, hrt: 1344, lwts: 0, actrt: 0, ysct: 0, compid: 0}, apprnc: {pt: 0, brc: 1, rc: 1, g: 2, brt: 4, ht: 130, ss: 0, ssc: 1, shc: 1, fat: 0, nct: 0, hc: 5, et: 8, bt: 0, pc: 1, ec: 2, sc: 2, mc: 3, rg: 0, fft: 0, n: "Harry Potter", mt: 2, bc: 1, sh: 0, fac: 1}, locinfo: {l: "house_699_livingroom", x: -1, shlc: true, at: "", pl: "", y: -1, s: "127.0.0.1", st: 0, d: 4}, uid: "699"}], rm: {f: [{x: 0, lid: 85293330, y: 0, z: 0, d: 5, tpid: "floorSV15"}, {x: 12, lid: 18154773, y: 0, z: 0, d: 5, tpid: "wrdrbHW2019"}, {x: 3, rid: "outside", lid: 4, y: 0, z: 0, d: 3, tpid: "prtrDr"}, {x: 13, lid: 10155389, y: 0, z: 0, d: 5, tpid: "wallSV15"}, {x: 0, lid: 10155388, y: 0, z: 0, d: 3, tpid: "wallSV15"}], l: 13, nm: "#livingRoom", id: "livingroom", w: 13, lev: 1}, evn: null}]
+Thu Jan 9 19:23:06 GMT+0400 2020 [INFO] Client said: 34: ["house_699_livingroom", "h.r.info", {rid: "livingroom", uid: "699"}]
+Thu Jan 9 19:23:06 GMT+0400 2020 [INFO] Server said: 34: ["h.gr", {rid: "house_699_livingroom"}]
+Thu Jan 9 19:23:06 GMT+0400 2020 [INFO] Server said: 16: ["house_699_livingroom", "699"]
+Thu Jan 9 19:23:05 GMT+0400 2020 [INFO] Server said: 34: ["h.r.jn", {plr: {pf: {pf: {phtghr: {tp: "phtghr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}}}, clths: {clths: [{clid: null, tpid: "girlKgrmCt"}, {clid: null, tpid: "girlNY20VKGiftPllvCnd"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "girlHdbndCt"}, {clid: null, tpid: "girlShoes14"}]}, mbm: {sk: "blackMobileSkin", ac: null}, usrinf: {rl: 0}, ci: {crst: 0, vfgc: 0, fak: null, actrp: 0, ys: 0, gdc: 0, ceid: 0, pamns: {amn: []}, plcmt: {}, skid: null, shcr: true, actrd: 0, lgt: 0, cmid: 0, gtrfrd: 0, shousd: false, dr: true, rpt: 0, bcld: 0, strfrd: 0, skrt: 0, vexp: 1965298000, spp: 0, as: null, fexp: 0, vsexp: 1965298000, tts: null, rtrtm: 0, trcd: 0, vip: true, lvt: 1578583016, trid: "yearAvatar", eml: null, kyktid: null, lrnt: 0, crt: 1113, vsact: true, sbid: null, exp: 85800, vret: 0, sbrt: 0, hrt: 1344, lwts: 0, actrt: 0, ysct: 0, compid: 0}, apprnc: {pt: 0, brc: 1, rc: 1, g: 2, brt: 4, ht: 130, ss: 0, ssc: 1, shc: 1, fat: 0, nct: 0, hc: 5, et: 8, bt: 0, pc: 1, ec: 2, sc: 2, mc: 3, rg: 0, fft: 0, n: "Harry Potter", mt: 2, bc: 1, sh: 0, fac: 1}, locinfo: {l: "house_699_livingroom", x: -1, shlc: true, at: "", pl: "", y: -1, s: "127.0.0.1", st: 0, d: 4}, uid: "699"}}]
+Thu Jan 9 19:23:03 GMT+0400 2020 [INFO] Server said: 34: ["srqst.gtrq", {rqlst: {rlst: {}, rsprlst: {}, lapt: {}, shwdt: 0}}]
+Thu Jan 9 19:23:03 GMT+0400 2020 [INFO] Client said: 34: [null, "nws.getglbl", {}]
+Thu Jan 9 19:23:03 GMT+0400 2020 [INFO] Server said: 34: ["nws.hasnews", {gnexst: true, gnunr: true}]
+Thu Jan 9 19:23:03 GMT+0400 2020 [INFO] Server said: 34: ["cp.cht.gbl", {blcklst: {uids: []}}]
+Thu Jan 9 19:23:03 GMT+0400 2020 [INFO] Client said: 34: [null, "crq.lrui", {uid: 699}]
+Thu Jan 9 19:23:03 GMT+0400 2020 [INFO] Server said: 34: ["cm.new", {campaigns: [{tp: 9, ed: 2442905160000, iu: "", cil: [{id: 8151, sc: 0, gl: 0, si: 0, cid: 643, tid: "clans"}, {id: 8152, sc: 0, gl: 0, si: 0, cid: 643, tid: "clanRating_off"}], v: 1, id: 643, st: 1}, {tp: 9, ed: 1659222000000, iu: "", cil: [{id: 2514, sc: 0, gl: 0, si: 0, cid: 316, tid: "mobile"}], v: 1, id: 316, st: 1}, {tp: 9, ed: 1919631600000, iu: "", cil: [{id: 2434, sc: 0, gl: 0, si: 0, cid: 299, tid: "fortune2"}], v: 1, id: 299, st: 2}, {tp: 9, ed: 1440630000000, iu: "", cil: [{id: 1110, sc: 0, gl: 0, si: 0, cid: 114, tid: "professions"}, {id: 1111, sc: 0, gl: 0, si: 0, cid: 114, tid: "grdnr"}, {id: 1112, sc: 0, gl: 0, si: 0, cid: 114, tid: "jntr"}, {id: 1577, sc: 0, gl: 0, si: 0, cid: 114, tid: "vsgst"}, {id: 1578, sc: 0, gl: 0, si: 0, cid: 114, tid: "phtghr"}], v: 1, id: 114, st: 1}]}]
+Thu Jan 9 19:23:02 GMT+0400 2020 [INFO] Client said: 34: [null, "h.gr", {gid: "699", rid: "livingroom", lid: "house"}]
+Thu Jan 9 19:23:02 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorCarpetGrass.swf, status: 2) 
+Thu Jan 9 19:23:02 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/DoorPirateRoom.swf, status: 2) 
+Thu Jan 9 19:23:02 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallPoppy.swf, status: 2) 
+Thu Jan 9 19:23:02 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/WallSV15.swf, status: 2) 
+Thu Jan 9 19:23:02 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorSV15.swf, status: 2) 
+Thu Jan 9 19:23:02 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/DoorWood.swf, status: 2) 

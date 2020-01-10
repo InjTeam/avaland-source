@@ -1,0 +1,21 @@
+ClientError: Thu Jan 9 21:50:55 GMT+0700 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 2007 ErrorName: TypeError ErrorMessage:Error #2007 ErrorStackTrace:TypeError: Error #2007
+	at _-0qh::TextHelper$/createTextField()
+	at _-4Ta::_-1X-/_-41t()
+	at _-4Ta::_-1X-/onAvatarChanged()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0Q0::_-3v3/_-14a()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 21:50:55 GMT+0700 2020 [INFO] Client said: 34: ["house_281_livingroom", "h.r.ra", {}]
+Thu Jan 9 21:50:55 GMT+0700 2020 [INFO] Server said: 34: ["a.clths.buy", {clths: {clths: [{tpid: "girlShirt12", clid: null}, {tpid: "girlShoes14", clid: null}, {tpid: "girlStkNY20Slv", clid: null}]}, res: {enrg: 500, emd: 0, gld: 40, slvr: 10000}, ccltn: {cct: ["girlShirt12", "girlShoes14", "girlStkNY20Slv"], ctp: "casual", cn: ""}, inv: {c: {act: {id: "act", it: []}, frn: {id: "frn", it: []}, cls: {id: "cls", it: [{iid: "", c: 1, tid: "girlUnderdress1"}, {iid: "", c: 1, tid: "girlUnderdress2"}, {iid: "", c: 1, tid: "girlPants9"}]}, lt: {id: "lt", it: []}, gm: {id: "gm", it: [{iid: "", c: 1, tid: "blackMobileSkin"}]}}}, crt: 190}]
+Thu Jan 9 21:50:51 GMT+0700 2020 [INFO] Server said: 34: ["ev.gse", {}]
+Thu Jan 9 21:50:51 GMT+0700 2020 [INFO] Server said: 34: ["ev.get", {c: -1, evlst: [{ac: false, ml: 1, ds: "тоже ищу, не важен пол :)", lg: 30, st: 1578578257, ft: 1578585457, id: 14, fo: false, ci: 0, uid: "14", tp: 1, r: 8, tt: "Пары :)", c: 0, unm: "мастурбация", l: "street_s1e"}, {ac: false, ml: 1, ds: "ЫААЫАЫАЫ", lg: 30, st: 1578578645, ft: 1578585845, id: 102, fo: false, ci: 0, uid: "102", tp: 1, r: 8, tt: "КТО С БЕСЕДЫ СЮАД", c: 0, unm: "Никита", l: "club_cl1e"}, {ac: false, ml: 1, ds: ")", lg: 30, st: 1578578775, ft: 1578585975, id: 70, fo: false, ci: 0, uid: "70", tp: 1, r: 8, tt: "ищу др)", c: 0, unm: "я тупая", l: "park_p1e"}, {ac: false, ml: 1, ds: "ну или же лд лп", lg: 30, st: 1578579451, ft: 1578586651, id: 150, fo: false, ci: 0, uid: "150", tp: 0, r: 8, tt: "Спермотозой ищет друга, все ко мне", c: 0, unm: "Смерма течёт", l: "livingroom"}, {ac: false, ml: 1, ds: "ПАРНЯ ИЩУ . ПРЕКОЛ АЗАЗАЗА", lg: 30, st: 1578579893, ft: 1578581693, id: 208, fo: false, ci: 0, uid: "208", tp: 0, r: 8, tt: "ИЩУ ПАРНЯ", c: 0, unm: "  ЭТОСАМОЕ", l: "livingroom"}, {ac: false, ml: 1, ds: "пасибаааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа", lg: 30, st: 1578579971, ft: 1578581771, id: 224, fo: false, ci: 0, uid: "224", tp: 1, r: 8, tt: "сашаааааааа спасибо :З", c: 0, unm: "/~Моня~\", l: "club_v1e"}], tg: ""}]
+Thu Jan 9 21:50:27 GMT+0700 2020 [INFO] Client said: 34: [null, "a.clths.buy", {ctp: "casual", tpid: "girlStkNY20Slv", pind: 1}]
+Thu Jan 9 21:50:03 GMT+0700 2020 [INFO] Client said: 34: [null, "ev.gse", {}]
+Thu Jan 9 21:50:03 GMT+0700 2020 [INFO] Client said: 34: [null, "ev.get", {fof: false, c: -1, tg: ""}]

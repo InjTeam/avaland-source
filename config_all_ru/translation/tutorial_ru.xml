@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+    
+        <gender key="tutorialNpcName">
+            <form>Саша</form>
+            <form>Маша</form>
+        </gender>
+    
+        <gender key="npcName1">
+            <form>Андрей</form>
+            <form>Юля</form>
+        </gender>
+    
+        <gender key="npcName2">
+            <form>Роман</form>
+            <form>Настя</form>
+        </gender>
+        
+        <gender key="npcName3">
+            <form>Илья</form>
+            <form>Марьяна</form>
+        </gender>
+        
+        <gender key="npcName4">
+            <form>Сергей</form>
+            <form>Ольга</form>
+        </gender>
+    
+        <gender key="npcName5">
+            <form>Сергей</form>
+            <form>Таня</form>
+        </gender>
+    
+        <gender key="npcName6">
+            <form>Алекс</form>
+            <form>Оля</form>
+        </gender>
+    
+        <gender key="chooseAppearanceMessage">
+            <form><![CDATA[<p>Привет, я :name:! Давай начнем - сперва выбери, как ты будешь выглядеть.</p>]]></form>
+            <form><![CDATA[<p>Привет, я :name:! Давай начнем - сперва выбери, как ты будешь выглядеть.</p>]]></form>
+        </gender>
+        
+        <message key="tutorialClothesCategoryLabel">Вечеринка</message>
+        
+        <message key="tutorialHelpTitle">Обучение</message>
+        <message key="tutorialContinueLabel">продолжить</message>
+        <message key="tutorialFinishLabel">закончить</message>
+
+        <message key="finishTutorialTitle">Закончить обучение</message>
+        <message key="finishTutorialConfirm">Ты действительно хочешь закончить обучение?</message>
+    
+        <!-- Step 2 -->
+        <gender key="ttSt2Npc1">
+            <form><![CDATA[<p>Готов оторваться сегодня в клубе?</p>]]></form>
+            <form><![CDATA[<p>Готова оторваться сегодня в клубе?</p>]]></form>
+        </gender>
+        <message key="ttSt1Hlp"><![CDATA[<p><font size="13">Щелкни, чтобы ответить другу</font></p>]]></message>
+        
+        <!-- Step 3 -->
+        <gender key="ttSt3Npc1">
+            <form><![CDATA[<p>Но прежде чем пойти, я должен закончить установку фонтана. Ты ведь мне поможешь?</p>]]></form>
+            <form><![CDATA[<p>Но прежде чем пойти, я должна закончить установку фонтана. Ты ведь мне поможешь?</p>]]></form>
+        </gender>
+        <gender key="ttSt3Chat1">
+            <form><![CDATA[Конечно, давай помогу.]]></form>
+            <form><![CDATA[Конечно, давай помогу.]]></form>
+        </gender>
+        <message key="ttSt3Hlp1"><![CDATA[<p><font size="13">Открой “Редактор комнаты”</font></p>]]></message>
+        <message key="ttSt3Hlp2"><![CDATA[<p><font size="13">Размести фонтан в комнате, перетаскивая его мышью. Затем нажми “сохранить”.</font></p>]]></message>
+        <message key="ttSt3Hlp3"><![CDATA[<p><font size="13">Щелкни по фонтану, чтобы выбрать его</font></p>]]></message>
+        
+        <!-- Step 4 -->
+        <gender key="ttSt4Npc1">
+            <form><![CDATA[<p>Неужели ты собираешься идти в клуб в таком виде? Уверен, ты найдешь что-нибудь более подходящее в моем шкафу.</p>]]></form>
+            <form><![CDATA[<p>Неужели ты собираешься идти в клуб в таком виде? Уверена, ты найдешь что-нибудь более подходящее в моем шкафу.</p>]]></form>
+        </gender>
+        <gender key="ttSt4Chat1">
+            <form><![CDATA[Хорошо, давай посмотрим.]]></form>
+            <form><![CDATA[Хорошо, давай посмотрим.]]></form>
+        </gender>
+        <message key="ttSt4Msg2"><![CDATA[<p><font size="13">Выбери себе одежду, затем нажми “сохранить”.</font></p>]]></message>
+        <message key="ttSt4Hlp1"><![CDATA[<p><font size="13">Щелкни, чтобы открыть гардероб</font></p>]]></message>
+        
+        <!-- Step 5 -->
+        <gender key="ttSt5Npc1">
+            <form><![CDATA[<p>Отлично выглядишь! Давай заглянем в кафе и выпьем по чашечке кофе.</p>]]></form>
+            <form><![CDATA[<p>Отлично выглядишь! Давай заглянем в кафе и выпьем по чашечке кофе.</p>]]></form>
+        </gender>
+        <gender key="ttSt5Chat1">
+            <form><![CDATA[Отличная идея, идем!]]></form>
+            <form><![CDATA[Отличная идея, идем!]]></form>
+        </gender>
+        <message key="ttSt5Hlp2"><![CDATA[<p><font size="13">Щелкни, чтобы отправиться в кафе</font></p>]]></message>
+        <gender key="ttSt5Chat2">
+            <form><![CDATA[Как это сделать?]]></form>
+            <form><![CDATA[Как это сделать?]]></form>
+        </gender>
+        <gender key="ttSt5Npc2">
+            <form><![CDATA[<p>Давай закажем по чашечке кофе.</p>]]></form>
+            <form><![CDATA[<p>Давай закажем по чашечке кофе.</p>]]></form>
+        </gender>
+        <message key="ttSt5Hlp1"><![CDATA[<p><font size="13">Щелкни, чтобы заказать кофе</font></p>]]></message>
+        
+        <message key="ttFriendMsg0">Привет, отлично выглядишь!</message>
+        <message key="ttFriendMsg1">Как твои дела? Давно не виделись!</message>
+        <message key="ttFriendMsg2">О-о-о, какие люди!</message>
+        <message key="ttFriendMsg3">Сегодня необычайно весело!</message>
+        <message key="ttFriendMsg4">У меня всё хорошо.</message>
+        
+        <!-- Step 6 -->
+        <gender key="ttSt6Npc1">
+            <form><![CDATA[<p>Хорошо посидели. Кстати, самое время выдвигаться в клуб.</p>]]></form>
+            <form><![CDATA[<p>Хорошо посидели. Кстати, самое время выдвигаться в клуб.</p>]]></form>
+        </gender>
+        <gender key="ttSt6Chat1">
+            <form><![CDATA[Да, самое время.]]></form>
+            <form><![CDATA[Да, самое время.]]></form>
+        </gender>
+        <message key="ttSt6Hlp1"><![CDATA[<p><font size="13">Чтобы аватар начал танцевать, щелкни по нему, затем выбери действие “танцевать”.</font></p>]]></message>
+        <gender key="ttSt6Npc2">
+            <form><![CDATA[<p>Вот мы и в клубе! Ну что, давай зажигать?</p>]]></form>
+            <form><![CDATA[<p>Вот мы и в клубе! Ну что, давай зажигать?</p>]]></form>
+        </gender>
+        
+        <!-- Step 7 -->
+        <gender key="ttSt7Chat1">
+            <form><![CDATA[Думаю, пора выдвигаться домой.]]></form>
+            <form><![CDATA[Думаю, пора выдвигаться домой.]]></form>
+        </gender>
+        <gender key="ttSt7Msg2">
+            <form><![CDATA[<p>Ну что, натанцевался? Мы можем еще немного потусоваться, или пойти ко мне домой.</p>]]></form>
+            <form><![CDATA[<p>Ну что, натанцевалась? Мы можем еще немного потусоваться, или пойти ко мне домой.</p>]]></form>
+        </gender>
+
+        <!-- Step 8 -->
+        <gender key="ttSt8Npc1">
+            <form><![CDATA[<p>Вот это была тусовка, да... Кстати, а ты не думал о своей собственной квартире?</p>]]></form>
+            <form><![CDATA[<p>Вот это была тусовка, да... Кстати, а ты не думала о своей собственной квартире?</p>]]></form>
+        </gender>
+        <gender key="ttSt8Chat1">
+            <form><![CDATA[Посмотрим, что есть на продажу.]]></form>
+            <form><![CDATA[Посмотрим, что есть на продажу.]]></form>
+        </gender>
+        
+        <!-- Step 10 -->
+        <gender key="ttSt10Chat1">
+            <form><![CDATA[Давай. Поможешь мне?]]></form>
+            <form><![CDATA[Давай. Поможешь мне?]]></form>
+        </gender>
+        <gender key="ttSt10Npc1">
+            <form><![CDATA[<p>Поздравляю с покупкой квартиры! Давай позовем всех твоих друзей на новоселье?</p>]]></form>
+            <form><![CDATA[<p>Поздравляю с покупкой квартиры! Давай позовем всех твоих друзей на новоселье?</p>]]></form>
+        </gender>
+        <gender key="ttSt10Chat2">
+            <form><![CDATA[Спасибо за помощь, Саша!]]></form>
+            <form><![CDATA[Спасибо за помощь, Маша!]]></form>
+        </gender>
+        <gender key="ttSt10Npc2">
+            <form><![CDATA[<p>Ты делаешь успехи! Впереди тебя ждут увлекательные задания, которые помогут узнать много нового о мире Аватарии.</p>]]></form>
+            <form><![CDATA[<p>Ты делаешь успехи! Впереди тебя ждут увлекательные задания, которые помогут узнать много нового о мире Аватарии.</p>]]></form>
+        </gender>
+        
+        <!-- Appartments -->
+        <message key="userHouse1Label">Сказка</message>
+        <message key="userHouse1Description">Выразительный дизайн для яркой личности. Любишь выделяться из толпы? Тогда эта квартира для тебя!</message>
+        
+        <message key="userHouse2Label">Хай-тек</message>
+        <message key="userHouse2Description">Лаконичный дизайн и стиль. Просто и со вкусом!</message>
+        
+        <message key="userHouse3Label">Нежность</message>
+        <message key="userHouse3Description">Если хочется нежности и тепла, эта квартира подходит лучше всего! Мягкие тона и стильный дизайн интерьера не оставят никого равнодушным.</message>
+        
+        <message key="userHouse4Label">Уют</message>
+        <message key="userHouse4Description">Уют и комфорт — вот что отличает эту квартиру от остальных.</message>
+        
+        <message key="userHouse5Label">Минимализм</message>
+        <message key="userHouse5Description">Отличный вид из окон и минимум мебели. Идеальный вариант для тех, кто предпочитает делать ремонт сам.</message>
+        
+        <message key="goldForFriendsLabelText">Ты получишь :golds: за каждого друга, которого пригласишь в игру.</message>
+        <!--<message key="goldForFriendsLabelText">Приглашай своих друзей в Аватарию, вместе всегда веселее!</message>-->
+        <message key="fastSearchLabel">Поиск</message>
+        <message key="typeNameLabel">Введи имя</message>
+        
+        <message key="questsFirstMessageText"><![CDATA[<p><font size="13">Посмотри, какие еще интересные задания тебе предстоит выполнить</font></p>]]></message>
+    </locale>
+</dictionary>

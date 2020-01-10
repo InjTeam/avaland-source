@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 18:24:59 GMT+0200 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:24:59 GMT+0200 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "girlNY20VKGiftPllvCnd"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "girlShoes14"}]}, mbm: {ac: null, sk: "blackMobileSkin"}, locinfo: {x: 11.7, s: "127.0.0.1", at: "", y: 2.14, l: "salon_sn1_1", shlc: true, st: 23, pl: "", d: 4}, apprnc: {sc: 1, rc: 1, fat: 0, et: 33, nct: 0, hc: 1, g: 2, ht: 131, rg: 0, bt: 0, sh: 0, fac: 1, ssc: 1, n: "belochka", fft: 0, ss: 0, pt: 0, brc: 10, pc: 1, ec: 5, mc: 15, brt: 31, mt: 31, shc: 1, bc: 1}, ci: {dr: true, plcmt: {}, sbid: null, crt: 170, vip: true, bcld: 0, ys: 0, gtrfrd: 0, cmid: 0, hrt: 174, vret: 0, crst: 0, compid: 0, eml: null, lgt: 0, vfgc: 0, ceid: 0, fexp: 0, sbrt: 0, vsact: true, vsexp: 1965298000, lvt: 1578583195, actrt: 0, lwts: 0, skrt: 0, tts: null, rpt: 0, kyktid: null, rtrtm: 0, as: null, vexp: 1965298000, shcr: true, spp: 0, trid: null, pamns: {amn: []}, strfrd: 0, lrnt: 0, ysct: 0, gdc: 0, actrd: 0, actrp: 0, exp: 85800, shousd: false, trcd: 0, skid: null, fak: null}, pf: {pf: {vsgst: {tp: "vsgst", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}}}, uid: "700"}}]

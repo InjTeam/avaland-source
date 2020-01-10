@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+
+        <message key="kotex15StartModuleButtonLabel">начать</message>
+        <message key="kotexModuleHint">Акция Kotex</message>
+
+        <message key="kotex15GroupLabel">В группу</message>
+        <message key="kotex15SiteLabel">В группу</message>
+
+        <message key="kotexBeachLabel">Пляж Kotex</message>
+
+        <message key="kotex1Title">Группа Kotex</message>
+        <message key="kotex1Description">Вступи в группу Kotex и узнавай последние новости первой!</message>
+        <message key="kotexQuest1Task1Title">Вступить в группу Kotex</message>
+
+        <message key="kotex2Title">Гонки на сёрфах в стиле Kotex</message>
+        <message key="kotex2Description">Забудь о преградах! Одевай купальник Kotex и участвуй в гонках на сёрфах!</message>
+        <message key="kotexQuest2Task1Title">Участвовать в гонках на сёрфах на пляже</message>
+
+        <message key="kotex3Title">Фотобудка Kotex</message>
+        <message key="kotex3Description">Покажи себя во всей красе на снимке, полученном в современной фотобудке Kotex.</message>
+        <message key="kotexQuest3Task1Title">Сделать фото в фотобудке Kotex</message>
+
+        <message key="kotexStage1Title"></message>
+        <message key="kotexStage2Title"></message>
+        <message key="kotexStage3Title"></message>
+
+        <message key="kotex15StandModuleButtonLabel">в группу</message>
+        <message key="kotex15SiteStandModuleButtonLabel">сайт Kotex</message>
+
+        <message key="kotexPhotoSalonDialogTitle">Фотобудка Kotex</message>
+        <message key="kotexClothesWarningText">Для этого тебе нужно одеть купальник Kotex. Хочешь переодеться?</message>
+
+        <message key="kotexBeachRaceBeforePhotoWarning">Сначала одень купальник Kotex и поучаствуй в гонках на серфах!</message>
+    </locale>
+</dictionary>

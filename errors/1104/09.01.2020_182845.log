@@ -1,0 +1,9 @@
+ClientError: Thu Jan 9 20:25:54 GMT+0500 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-3p2::_-0E8/_-0DT()
+	at _-fY::LayoutEditor/set selectedObject()
+	at _-fY::LayoutEditor/destroy()
+	at _-XG::SelfHouseRoomScreen/_-0io()
+	at _-XG::SelfHouseRoomScreen/_-17v()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-fY::LayoutEditor/cancel()
+	at _-2gE::_-1e5/_-3L()

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <plural key="ny17Snowflakes">
+            <form>снежинка</form>
+            <form>снежинки</form>
+            <form>снежинок</form>
+        </plural>
+        <plural key="ny17Mittens">
+            <form>варежка</form>
+            <form>варежки</form>
+            <form>варежек</form>
+        </plural>
+        <plural key="ny17Friends">
+            <form>друг</form>
+            <form>друга</form>
+            <form>друзей</form>
+        </plural>
+
+        <!-- fir button statuses -->
+        <message key="ny17FirButtonCraftGarlandHint">Смастери гирлянду</message>
+        <message key="ny17FirButtonAddGarlandHint">Повесь гирлянду на елочку</message>
+        <message key="ny17FirButtonLeftTimeHint">Осталось :time:</message>
+
+        <!-- stages -->
+        <message key="ny17Stage1Title">1 этап</message>
+        <message key="ny17Stage2Title">2 этап</message>
+        <message key="ny17Stage3Title">3 этап</message>
+        <message key="ny17Stage4Title">4 этап</message>
+
+        <message key="ny17ProgressDialogTitle">Новогодняя битва</message>
+        <message key="ny17Stage1Description">Смастери гирлянду и повесь ее на елочку</message>
+        <message key="ny17Stage2Description">Получи супер-способность для борьбы со злодеями</message>
+        <message key="ny17Stage3Description">Выбей из снеговиков-приспешников снежинки</message>
+        <message key="ny17Stage4Description">Выбей из злодея снежинки. Для защиты от заморозки смастери щит.</message>
+        <message key="ny17Stage5Description">Играй в новогодней локации</message>
+        <message key="ny17StageCompleteDescription">Поздравляем, этап пройден! Ты можешь обменивать снежинки на зимние подарки, пока есть время.</message>
+
+        <message key="ny17TrophyDescription">Собирай снежинки и получи уникальный титул в конце акции</message>
+
+        <!-- welcome dialog -->
+        <message key="newyear2017WelcomeDialogTitle">Украденное Рождество</message>
+        <message key="newyear2017WelcomeDialogMessageTop1">Победи силы зла, которые хотят украсть наш праздник</message>
+        <message key="newyear2017WelcomeDialogMessageTop2">Участвуй в мини-играх, чтобы собрать побольше "искр"</message>
+        <message key="newyear2017WelcomeDialogMessageTop3">Сразись со снеговиками-приспешниками вместе с другими игроками</message>
+        <message key="newyear2017WelcomeDialogMessageTop4">Одолей главного злодея</message>
+
+        <message key="newyear2017WelcomeDialogMessageMiddle1">Собери побольше лампочек и смастери из них гирлянду, чтобы украсить свою елочку</message>
+        <message key="newyear2017WelcomeDialogMessageMiddle2">Получи супер-способность для победы над злодеями</message>
+        <message key="newyear2017WelcomeDialogMessageMiddle3">Обменивай снежинки на подарки</message>
+        <message key="newyear2017WelcomeDialogMessageMiddle4">Смастери щит для защиты от злодея</message>
+
+        <message key="newyear2017WelcomeDialogMessageBottom1">Укрась елочку гирляндой, она будет давать тебе снежинки на протяжении всей акции</message>
+        <message key="newyear2017WelcomeDialogMessageBottom4">Получи финальный приз и заверши акцию</message>
+
+        <message key="ny17ThroughLabel">через :time:</message>
+        <message key="ny17PutInTitle">надеть</message>
+        <message key="ny17NeedLabel">нужно</message>
+        <message key="ny17CurrentLabel">у тебя</message>
+        <message key="ny17CollectSnowflakesButtonLabel">собрать снежинки</message>
+
+        <message key="ny17ParticipationDialogTitle">Спаси праздник от злодея</message>
+        <message key="ny17ParticipationDialogMessage">Мы дарим тебе эту ёлочку чтобы она украшала твой дом. Не забудь поучаствовать в акции - спаси праздник от злодеев!</message>
+
+        <message key="ny17MittensDialogTitle">Нужны варежки? Приглашай друзей!</message>
+        <message key="ny17MittensDialogMessage">Чем больше твоих друзей играет в Аватарию, тем больше варежек ты будешь получать ежедневно. Просто заходи в игру и не забывай забирать варежки! Надевай их и бегом на улицу — кидаться снежками и получать еще больше снежинок!</message>
+
+        <message key="ny17ThrowSnowballMenuTitle">Снежок</message>
+        <message key="ny17ThrowSnowballNotificationTitle">Осторожно, снежок!</message>
+        <message key="ny17ThrowSnowballNotificationMessage">:userName: :genderDrop: в тебя снежок.</message>
+
+        <message key="ny17UseMittensWearDialogMessage">Чтобы твои руки не замерзли, надень варежки. В них ты можешь кидаться снежками, пока варежки не промокнут.</message>
+        <message key="ny17NotEnoughMittensWearDialogMessage">У тебя нет варежек? Не беда! Приглашай друзей в игру и получай варежки бесплатно!</message>
+
+        <!-- Exchange snowflakes dialog-->
+        <message key="newYear2017ExchangeSnowflakesDialogTitle">Обмен на подарки!</message>
+        <message key="newYear2017ExchangeSnowflakesDialogMessage">Обменивай оставшиеся снежинки на новогодние подарки!</message>
+
+        <message key="ny17RightPanelButtonCreateEventHintMessage">Создай событие, позови друзей, победи всех снеговиков и получи подарки!</message>
+        <message key="ny17EventFilterLabel">новогоднее</message>
+        <message key="ny17LocationName">Зимняя битва</message>
+
+        <!-- SnowBattle -->
+        <message key="newyear2017SnowBattleWelcomeDialogTitle">Зимняя битва</message>
+        <message key="newyear2017SnowBattleWelcomeDialogText">Получи супер-способность и борись со злом, чтобы спасти общий праздник!</message>
+        <message key="newyear2017SnowBattleAlreadyStart">Игра уже началась, найди другое событие</message>
+        <message key="newyear2017SnowBattleWelcomeDialogTextDescription">Сражайся с приспешниками злодея, зарабатывай снежинки, за победу ты получишь награду</message>
+        <message key="newyear2017SnowBattleWelcomeDialogAllies">Собираем команду, чтобы спасти общий праздник</message>
+        <message key="newyear2017SnowBattleWelcomeDialogAlliesMessage">Ожидание игроков...</message>
+        <message key="newyear2017SnowBattleNoGun">У тебя нет супер-способности, ты не можешь принять участие в битве</message>
+
+        <!-- awards -->
+        <message key="ny17GiftExchange">Обмен снежинок на подарки</message>
+        <message key="ny17GiftGun">Супер-способность</message>
+        <message key="ny17GiftSkill">Опыт и навык битв</message>
+
+        <!-- module item types -->
+        <message key="ny17GunLabel">Супер-способность</message>
+        <message key="ny17ShieldLabel">Щит от заморозки</message>
+
+        <message key="ny17Lamp1Label">Красная лампочка</message>
+        <message key="ny17Lamp2Label">Зеленая лампочка</message>
+        <message key="ny17Lamp3Label">Синяя лампочка</message>
+        <message key="ny17LampDescription">Можно получить, играя в снежки на первом этапе</message>
+
+        <message key="ny17SparkLabel">Искра</message>
+        <message key="ny17SparkDescription">Можно получить, проигрывая в мини-играх</message>
+
+        <message key="ny17LeftTime">до :stage: этапа&#13;:time:</message>
+
+        <message key="ny17InterfaceCraftShieldHint">Смастерить защиту</message>
+        <message key="ny17InterfaceHasShieldHint">Есть защита</message>
+
+        <message key="ny17MiniGameVictoryDialogTitle">Ура, победа!</message>
+        <message key="ny17MiniGameVictoryDialogDescription">Борись со снеговиками и получай снежинки</message>
+
+        <message key="newYear2017WallStageGiftMessage">Мне подарили замечательный подарок в награду за пройденный этап. Хочешь получить такой же? Жду тебя в игре! :link:</message>
+        <message key="newYear2017WallMiniGameVictoryMessage">Ура, я победил всех снеговиков в новогодней мини-игре! :link:</message>
+        <message key="newYear2017WallGetTrophyMessage">Ура, мне подарили новогодний титул! Жду тебя в игре! :link:</message>
+    </locale>
+</dictionary>

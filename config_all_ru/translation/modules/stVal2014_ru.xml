@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="sv2014WelcomeDialogTitle">День всех влюбленных!</message>
+        <message key="sv2014WelcomeDialogMessage1">Ищи осколки разбитых сердец в игре в период проведения акции: у соседей и в боях подушками. Чем больше друзей и боев — тем больше осколков ты будешь получать!</message>
+        <message key="sv2014WelcomeDialogMessage2">Соединяйте осколки вместе с другими игроками, чтобы получить алое сердце. Сделать это можно в локации «Парк», которую мы специально украсили к празднику ;)</message>
+        <message key="sv2014WelcomeDialogMessage3">Получайте подарки, собирая алые сердца из осколков. Собрав всю коллекцию уникальных подарков — продолжайте собирать сердца и получать еще больше призов!</message>
+        
+        <message key="sv2014HeartsInfoDialogTitle">Соединяй сердца!</message>
+        <message key="sv2014HeartsInfoDialogMessage">Получайте подарки, собирая алые сердца из осколков с другими игроками в локации «Парк». Собрав всю коллекцию подарков — продолжайте собирать сердца и получать еще больше призов!</message>
+        
+        <message key="sv2014NotEnoughHeartpiecesDialogMessage">Тебе нужен осколок, чтобы собрать алое сердце. Получить осколки ты можешь от своих друзей. Все равно не хватает осколков?</message>
+        
+        <message key="sv14CantCollectHeartpiecesLabel">Можно будет собрать через :time:</message>
+        <message key="sv14CollectHeartpiecesDialogTitle">Собрать осколки</message>
+        <message key="sv14CollectHeartpiecesDialogDescription">Чем больше у тебя активных соседей, тем больше осколков ты сможешь получать ежедневно. А еще осколки можно получить, участвуя в боях подушками.</message>
+        
+        <message key="sv14CollectHeartpiecesRequestNotAllowedLabel">Друг давно не заходил в игру.</message>
+        
+        <message key="youHaveHeartsLabel">у тебя</message>
+        <message key="buyHeartpieces">Купить :pieces: за :golds:</message>
+        <message key="sv2014ConcatMessageLabel">соединить</message>
+        
+        <message key="sv2014ProgressDialogTitle">Алые сердца</message>
+        <message key="sv2014ProgressDialogMessage">Получайте подарки, собирая алые сердца из осколков с другими игроками в локации «Парк». Собрав всю коллекцию подарков — продолжайте собирать сердца и получать еще больше призов!</message>
+        <message key="sv2014OverloadProgressDialogMessage">Тебе удалось получить главные призы, но это не повод останавливаться!
+Продолжай собирать алые сердца, и твоя активность будет щедро вознаграждена ;)</message>
+        
+        <message key="sv2014WallMessage1">Смотрите, какой замечательный подарок я получил в игре! Хочешь такой же? Торопись, пока акция не закончилась ;) :link:</message>
+        <message key="sv2014WallMessage2">Друзья! Мне осталось совсем чуть-чуть до получения приза, прошу вас помочь. Просто зайдите в игру, и моей благодарности не будет границ! :link:</message>
+        
+        <message key="sv2014AwardDialogTitle">Поздравляем!</message>
+        <message key="sv2014AwardDialogMessage">У тебя здорово получается соединять осколки, и за это мы дарим тебе уникальный подарок! Собирай еще больше алых сердец и расскажи о своем успехе друзьям ;)</message>
+        
+        <message key="stVal14ParticipantRequestSendedTitle">Соединить осколки</message>
+        <message key="stVal14ParticipantRequestSendedMessage">Твое предложение отправлено, осталось лишь дождаться, когда игрок примет его.</message>
+        <message key="stVal14ParticipantReceivedMessage">:name: предлагает соединить осколки и получить алое сердце. Согласиться?</message>
+        <message key="stVal14ParticipantRequestApprovedTitle">Запрос принят</message>
+        <message key="stVal14ParticipantRequestApprovedMessage">Ура! :name: принимает твое предложение!</message>
+        <message key="stVal14ParticipantRequestDeclinedTitle">Отказ</message>
+        <message key="stVal14ParticipantRequestDeclinedMessage">:name: отказывается от твоего предложения.</message>
+        
+        <message key="sv2014AskHeartpiecesDialogTitle">Мне нужна помощь!</message>
+        <message key="sv2014AskHeartpiecesDialogMessage">Не хватает осколков? Попроси друзей зайти в игру, чтобы собрать еще больше осколков, а затем и алых сердец.</message>
+    </locale>
+</dictionary>

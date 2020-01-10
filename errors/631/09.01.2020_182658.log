@@ -1,0 +1,20 @@
+ClientError: Thu Jan 9 18:36:18 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-4WJ::EditAvatarAppearanceDialog/_-3EJ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-Qp::_-1DK/close()
+	at _-4WJ::_-3BQ/_-1dw()
+Thu Jan 9 18:36:17 GMT+0300 2020 [INFO] Client said: 34: [null, "h.minfo", {onl: false, tm: 1578584177}]
+Thu Jan 9 18:36:17 GMT+0300 2020 [INFO] Server said: 34: ["a.apprnc.save", {apprnc: {nct: 0, ssc: 1, mt: 3, g: 2, bc: 1, brt: 28, bt: 0, pt: 0, rg: 0, ss: 0, hc: 5, sh: 0, fat: 0, brc: 2, et: 2, fft: 0, pc: 1, ec: 2, mc: 2, n: "-ПРИВИТ-", ht: 131, rc: 1, sc: 2, shc: 1, fac: 1}}]
+Thu Jan 9 18:36:06 GMT+0300 2020 [INFO] Client said: 34: [null, "a.apprnc.save", {apprnc: {nct: 0, ssc: 1, mt: 3, g: 2, bc: 1, brt: 28, ss: 0, pt: 0, rg: 0, bt: 0, hc: 5, sh: 0, fat: 0, mc: 2, et: 2, fft: 0, pc: 1, ec: 2, brc: 2, n: "-ПРИВИТ-", ht: 131, shc: 1, sc: 2, rc: 1, fac: 1}}]
+Thu Jan 9 18:35:05 GMT+0300 2020 [INFO] Server said: 34: ["h.minfo", {has.avtr: false}]
+Thu Jan 9 18:35:05 GMT+0300 2020 [INFO] Server said: 34: ["ctmr.get", {tu: {snowboardRating: []}}]
+Thu Jan 9 18:35:05 GMT+0300 2020 [INFO] Server said: 34: ["ur.get", {bt: [{uid: 39, cr: 76611, hr: 600374}, {uid: 14, cr: 20930, hr: 413116}, {uid: 70, cr: 6295, hr: 251420}, {uid: 71, cr: 1609, hr: 240220}, {uid: 68, cr: 29541, hr: 192469}, {uid: 339, cr: 919, hr: 122065}, {uid: 64, cr: 23433, hr: 121044}, {uid: 97, cr: 2664, hr: 93928}, {uid: 80, cr: 9252, hr: 65707}, {uid: 18, cr: 1066, hr: 40174}]}]
+Thu Jan 9 18:28:46 GMT+0300 2020 [INFO] Server said: 34: ["mail.gc", {out: [], in: []}]
+Thu Jan 9 18:28:46 GMT+0300 2020 [INFO] Server said: 34: ["rl.get", {rlts: {}, uid: "631"}]
+Thu Jan 9 18:28:45 GMT+0300 2020 [INFO] Client said: 34: [null, "h.minfo", {onl: false, tm: 1578583726}]
+Thu Jan 9 18:28:45 GMT+0300 2020 [INFO] Client said: 34: [null, "ctmr.get", {}]
+Thu Jan 9 18:28:45 GMT+0300 2020 [INFO] Client said: 34: [null, "ur.get", {}]
+Thu Jan 9 18:28:45 GMT+0300 2020 [INFO] Client said: 34: [null, "mail.gc", {}]
+Thu Jan 9 18:28:45 GMT+0300 2020 [INFO] Client said: 34: [null, "rl.get", {}]
+Thu Jan 9 18:28:45 GMT+0300 2020 [INFO] Server said: 1: ["631", true, false, false]
+Thu Jan 9 18:28:38 GMT+0300 2020 [INFO] Client said: 1: ["house", "631", "SOAnfmKCTwOqfMeRgxIT", {fn: "", lng: "ru", ctr: 0, cty: 0, clvrn: "84.0.4", sid: "631", pht: "http://vkontakte.ru/images/question_b.gif", rd: 0, gdr: 0, nk: "", ln: "", bd: "", v: 2, rfid: null, lcl: "ru", rftp: null}]

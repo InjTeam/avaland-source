@@ -1,0 +1,7 @@
+ClientError: Thu Jan 9 21:12:49 GMT+0600 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-4Lx::_-b7/_-8v()
+	at _-2gE::_-3B$/_-0Z0()
+	at MethodInfo-7()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-Qp::_-1DK/close()
+	at _-3DL::RenameRoomDialog/onOkButtonClick()

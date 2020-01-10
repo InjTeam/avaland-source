@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 17:24:55 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:24:55 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "188", mbm: {ac: null, sk: "blackMobileSkin"}, apprnc: {fft: 2, brt: 28, ss: 0, hc: 15, sh: 0, g: 2, nct: 0, et: 33, mc: 4, fat: 0, bc: 1, ht: 100, n: "Y_L_I_Y_A", pt: 0, fac: 1, rc: 1, shc: 1, bt: 0, ssc: 1, sc: 2, pc: 1, mt: 27, ec: 1, rg: 3, brc: 3}, clths: {clths: [{tpid: "grlBtsCtr6", clid: "4"}, {tpid: "girlTShrtNYElgnc", clid: "4"}, {tpid: "girlErrWnt19Pnk", clid: null}, {tpid: "girlGlssNYElgnc", clid: "4"}, {tpid: "girlJcktNYElgnc", clid: "4"}, {tpid: "girlBgNYElgnc", clid: "14"}, {tpid: "girlPntsNYElgnc", clid: "4"}]}, usrinf: {rl: 0}, locinfo: {x: 14.42, s: "127.0.0.1", y: 5.6, l: "salon_sn1_1", pl: "", st: 0, at: "", shlc: true, d: 4}, ci: {ysct: 0, skrt: 0, fak: null, crt: 2566, shcr: true, gdc: 0, gtrfrd: 0, lgt: 0, ys: 0, strfrd: 0, skid: null, sbid: null, rtrtm: 0, vexp: 1965298000, lwts: 0, vsexp: 1965298000, vsact: true, rpt: 0, kyktid: null, vret: 0, pamns: {amn: []}, bcld: 0, actrp: 0, vfgc: 0, compid: 0, exp: 85800, shousd: false, cmid: 0, dr: true, actrd: 0, ceid: 0, spp: 0, lrnt: 0, plcmt: {}, fexp: 0, as: null, tts: null, trcd: 0, actrt: 0, eml: null, vip: true, crst: 0, hrt: 374, lvt: 1578579388, sbrt: 0, trid: "freelanceVideo"}, pf: {pf: {jntr: {tp: "jntr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}}}}}]

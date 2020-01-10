@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+
+	<locale name="ru">
+
+		<!-- DECOR -->
+
+		<message key="kitchenDecor1Title">Тарелка с яблоками</message>
+		<message key="kitchenDecor2Title">Подсвечник</message>
+		<message key="kitchenDecor3Title">Пиала</message>
+		<message key="kitchenDecor4Title">Пиала</message>
+		<message key="kitchenDecor5Title">Столовые приборы</message>
+		<message key="kitchenDecor6Title">Столовые приборы</message>
+		<message key="kitchenDecor7Title">Лимоны</message>
+		<message key="kitchenDecor8Title">Салфетница</message>
+
+		<message key="halloweenKitchenDecor1Title">Бокал с кровью Halloween</message>
+			
+		<!-- NY DECOR -->
+			
+		<message key="wineglassGoldNYTitle">Бокал под шампанское</message>
+		<message key="wineglassBlueNYTitle">Бокал под шампанское</message>
+		<message key="turkeyVegetableNYTitle">Зажаренная индейка</message>
+		<message key="shishkebabNYTitle">Шашлык</message>
+		<message key="potatoGreenNYTitle">Картофель с зеленью</message>
+		<message key="lollipopNYTitle">Леденец на палочке</message>
+		<message key="cakeStrawberryNYTitle">Праздничный торт</message>
+		<message key="cakePieceNYTitle">Кусочек торта</message>
+		<message key="plateBlueNYTitle">Столовые приборы</message>
+		<message key="beconEggNYTitle">Яичница с беконом</message>
+		
+		<!-- BACHELOR DECOR -->
+		
+		<message key="wineglassRedBachelorTitle">Бокал вина</message>
+		<message key="orangeJuiceBachelorTitle">Апельсиновый сок</message>
+		<message key="cocktaileJuiceRedBachelorTitle">Коктейль "Холостяк"</message>
+		<message key="candleMiniBachelorTitle">Свеча "Холостяк"</message>
+		<message key="plateGrayBachelorTitle">Столовые приборы "Холостяк"</message>
+
+		<!-- REFRIGERATOR -->
+
+		<message key="refrigerator1Title">Холодильник двухдверный серебристый</message>
+		<message key="refrigerator2Title">Холодильник двухдверный с морозилкой</message>
+		<message key="refrigerator3Title">Холодильник с морозильной камерой</message>
+		<message key="refrigeratorDescription">После работы в саду или сквере необходимо восстановить свои силы, в этом тебе поможет холодильник!</message>
+
+		<!-- CHAIR -->
+
+		<message key="kitchenChair1Title">Кухонный стул</message>
+		<message key="kitchenChair2Title">Гламурный стул</message>
+		<message key="kitchenChair3Title">Стул в полоску</message>
+		<message key="kitchenChair4Title">Кухонный стул</message>
+
+		<!-- TABLE -->
+
+		<message key="kitchenTable1Title">Кухонный стол</message>
+		<message key="kitchenTable2Title">Гламурный кухонный стол</message>
+		<message key="kitchenTable3Title">Кухонный стол</message>
+		<message key="kitchenTable4Title">Кухонный стол</message>
+
+		<!-- KITCHEN UNITS -->
+
+		<!-- BASE UNIT -->
+
+		<message key="kitchenUnitBase1Title">Тумба</message>
+		<message key="kitchenUnitBase2Title">Тумба</message>
+		<message key="kitchenUnitBase3Title">Тумба угловая</message>
+		<message key="kitchenUnitBase4Title">Мойка</message>
+		<message key="kitchenUnitBase5Title">Мойка</message>
+		<message key="kitchenUnitBase6Title">Газовая плита</message>
+		<message key="kitchenUnitBase7Title">Полки навесные</message>
+		<message key="kitchenUnitBase8Title">Полки навесные</message>
+		<message key="kitchenUnitBase9Title">Полки навесные</message>
+		<message key="kitchenUnitBase10Title">Полки навесные</message>
+		<message key="kitchenUnitBase11Title">Полки навесные</message>
+
+		<!-- BLACK UNIT -->
+
+		<message key="kitchenUnitBlack1Title">Тумба</message>
+		<message key="kitchenUnitBlack2Title">Тумба</message>
+		<message key="kitchenUnitBlack3Title">Тумба угловая</message>
+		<message key="kitchenUnitBlack4Title">Тумба</message>
+		<message key="kitchenUnitBlack5Title">Мойка</message>
+		<message key="kitchenUnitBlack6Title">Мойка</message>
+		<message key="kitchenUnitBlack7Title">Газовая плита</message>
+		<message key="kitchenUnitBlack8Title">Полки навесные</message>
+		<message key="kitchenUnitBlack9Title">Полки навесные</message>
+		<message key="kitchenUnitBlack10Title">Полки навесные</message>
+		<message key="kitchenUnitBlack11Title">Полки навесные</message>
+		<message key="kitchenUnitBlack12Title">Полки навесные</message>
+
+		<!-- MARBLE UNIT -->
+
+		<message key="kitchenUnitMarble1Title">Тумба</message>
+		<message key="kitchenUnitMarble2Title">Тумба</message>
+		<message key="kitchenUnitMarble3Title">Тумба угловая</message>
+		<message key="kitchenUnitMarble4Title">Тумба</message>
+		<message key="kitchenUnitMarble5Title">Мойка</message>
+		<message key="kitchenUnitMarble6Title">Мойка</message>
+		<message key="kitchenUnitMarble7Title">Газовая плита</message>
+		<message key="kitchenUnitMarble8Title">Полки навесные</message>
+		<message key="kitchenUnitMarble9Title">Полки навесные</message>
+		<message key="kitchenUnitMarble10Title">Полки навесные</message>
+		<message key="kitchenUnitMarble11Title">Полки навесные</message>
+		<message key="kitchenUnitMarble12Title">Полки навесные</message>
+
+		<!-- GIRL UNIT -->
+
+		<message key="kitchenUnitGirl1Title">Тумба</message>
+		<message key="kitchenUnitGirl2Title">Тумба</message>
+		<message key="kitchenUnitGirl3Title">Тумба угловая</message>
+		<message key="kitchenUnitGirl4Title">Тумба</message>
+		<message key="kitchenUnitGirl5Title">Газовая плита</message>
+		<message key="kitchenUnitGirl6Title">Полки навесные</message>
+		<message key="kitchenUnitGirl7Title">Полки навесные</message>
+		<message key="kitchenUnitGirl8Title">Полки навесные</message>
+		
+		<!-- WEDDING-PETTING -->
+		
+		<message key="weddingCakeTitle">Свадебный торт</message>
+		<message key="weddingCakeOrangeTitle">Свадебный торт</message>
+		<message key="weddingFlatTitle">Приборы для гостей</message>
+		<message key="weddingFlatOrangeTitle">Приборы для гостей</message>
+		<message key="weddingGlassBrideTitle">Бокал для невесты</message>
+		<message key="weddingGlassBridegroomTitle">Бокал для жениха</message>
+		<message key="weddingTeaserviceTitle">Подарочный чайный сервиз</message>
+		
+		<!-- SEA KITCHEN -->
+		
+		<message key="seaKitchenCollection">Морской бриз</message>
+		<message key="chairBlueSeaLabel">Стул "Морской бриз"</message>
+		<message key="chairWhiteSeaLabel">Стул "Морской бриз"</message>
+		<message key="armchairSeaLabel">Кресло "Морской бриз"</message>
+		<message key="tableSeaLabel">Кухонный столик</message>
+		<message key="unitBoardSeaLabel">Шкафчик кухонный</message>
+		<message key="unitBoxSeaLabel">Тумба "Морской бриз"</message>
+		<message key="unitCupboardSeaLabel">Тумба "Морской бриз"</message>
+		<message key="unitSinkSeaLabel">Мойка "Морской бриз"</message>
+		<message key="unitStoveSeaLabel">Плита "Морской бриз"</message>
+		<message key="unitCupboardTopSeaLabel">Полки "Морской бриз"</message>
+		<message key="unitExtractorFanSeaLabel">Вытяжка кухонная</message>
+		<message key="unitMicrovaweTopSeaLabel">Полка с микроволновкой</message>
+
+		<!-- JANITOR -->
+		<message key="jntFrdg">Холодильник "Уборщик"</message>
+		<message key="jntrSmvr">Самовар "Уборщик"</message>
+		<message key="jntrSdMchn">Автомат с газировкой "Уборщик"</message>
+
+	</locale>
+
+</dictionary>

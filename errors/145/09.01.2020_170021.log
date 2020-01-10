@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 17:00:19 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:00:19 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {apprnc: {pt: 0, ssc: 1, hc: 4, rc: 1, fft: 2, brc: 2, sh: 23, ss: 0, g: 2, rg: 0, mc: 4, et: 37, bt: 0, ec: 3, fat: 0, sc: 2, pc: 1, n: ".sunset.", bc: 1, brt: 29, fac: 1, mt: 23, ht: 112, nct: 0, shc: 13}, clths: {clths: [{clid: null, tpid: "girlBgGrn"}, {clid: null, tpid: "girlSktGrn"}, {clid: null, tpid: "girlNcklGrn"}, {clid: null, tpid: "girlTShrtGrn"}, {clid: null, tpid: "girlErrGrn"}, {clid: null, tpid: "girlBtsGrn"}]}, pf: {pf: {grdnr: {pgs: 0, l: 20, tp: "grdnr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}, jntr: {pgs: 0, l: 20, tp: "jntr"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}}}, mbm: {ac: null, sk: "blackMobileSkin"}, ci: {trid: "freelanceMicrophone", rpt: 0, dr: true, compid: 0, ys: 0, lwts: 0, spp: 0, actrp: 0, sbid: null, bcld: 0, tts: null, actrd: 0, sbrt: 0, gdc: 0, eml: null, shousd: false, plcmt: {}, lgt: 0, pamns: {amn: []}, ysct: 0, as: null, crst: 0, vexp: 1965298000, fak: null, lvt: 1578578251, vsexp: 1965298000, shcr: true, lrnt: 0, skrt: 0, vsact: true, gtrfrd: 0, fexp: 0, vret: 0, strfrd: 0, skid: null, crt: 940, vfgc: 0, exp: 85800, hrt: 374, trcd: 0, ceid: 0, kyktid: null, vip: true, rtrtm: 0, cmid: 0, actrt: 0}, locinfo: {s: "127.0.0.1", x: 15.5, shlc: true, pl: "", y: 1.5, st: 0, l: "salon_sn1_1", d: 4, at: ""}, usrinf: {rl: 0}, uid: "49"}}]

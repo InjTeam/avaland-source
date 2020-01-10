@@ -1,0 +1,12 @@
+ClientError: Thu Jan 9 18:15:09 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+Thu Jan 9 18:15:09 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/NY20WallStar.swf, status: 2) 

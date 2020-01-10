@@ -1,0 +1,51 @@
+ClientError: Thu Jan 9 21:58:03 GMT+0700 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 21:58:02 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 21:57:59 GMT+0700 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 5000}]
+Thu Jan 9 21:57:59 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 15000, emd: 0, gld: 20421, enrg: 500}}]
+Thu Jan 9 21:57:58 GMT+0700 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 50}]
+Thu Jan 9 21:57:54 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 21:57:54 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, emd: 0, gld: 20471, enrg: 500}}]
+Thu Jan 9 21:57:54 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 21:57:54 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", qnt: 1, pmnt: null}]
+Thu Jan 9 21:57:52 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 21:57:49 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 21:57:48 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, emd: 0, gld: 18971, enrg: 500}}]
+Thu Jan 9 21:57:48 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 21:57:48 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", qnt: 1, pmnt: null}]
+Thu Jan 9 21:57:48 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 21:57:46 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 21:57:46 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, emd: 0, gld: 17471, enrg: 500}}]
+Thu Jan 9 21:57:45 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 21:57:45 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", qnt: 1, pmnt: null}]
+Thu Jan 9 21:57:44 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 21:57:42 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1000}]
+Thu Jan 9 21:57:42 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, emd: 0, gld: 15971, enrg: 500}}]
+Thu Jan 9 21:57:42 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 21:57:42 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1000", qnt: 1, pmnt: null}]
+Thu Jan 9 21:57:41 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 21:57:38 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 21:57:38 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, emd: 0, gld: 14971, enrg: 500}}]
+Thu Jan 9 21:57:38 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 21:57:38 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", qnt: 1, pmnt: null}]
+Thu Jan 9 21:57:37 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 21:57:34 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 21:57:34 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {slvr: 10000, emd: 0, gld: 13471, enrg: 500}}]
+Thu Jan 9 21:57:34 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 21:57:34 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {prid: "pack1500", qnt: 1, pmnt: null}]
+Thu Jan 9 21:57:32 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 21:56:39 GMT+0700 2020 [INFO] Server said: 34: ["h.r.ra", {plr: {ci: {sbid: null, vexp: 1965298000, fak: null, vsexp: 1965298000, shcr: true, plcmt: {}, as: null, vsact: true, gtrfrd: 0, pamns: {amn: []}, lvt: 1578581770, vret: 0, strfrd: 0, crst: 0, lrnt: 0, vfgc: 0, rtrtm: 0, fexp: 0, ceid: 0, kyktid: null, ys: 0, skid: null, cmid: 0, actrt: 0, lwts: 0, hrt: 174, dr: true, compid: 0, bcld: 0, spp: 0, actrp: 0, skrt: 0, rpt: 0, trid: null, tts: null, actrd: 0, crt: 483, gdc: 0, exp: 85800, shousd: false, lgt: 0, vip: true, trcd: 0, eml: null, sbrt: 0, ysct: 0}, apprnc: {ht: 131, ss: 0, nct: 0, pt: 0, rc: 1, g: 2, sc: 4, et: 39, rg: 0, sh: 0, fft: 2, ec: 5, bt: 0, mt: 28, brc: 11, hc: 6, fac: 1, n: "~CuTe~", brt: 24, bc: 1, shc: 1, mc: 29, fat: 0, pc: 1, ssc: 1}, locinfo: {l: "house_590_livingroom", x: 6.22, st: 23, pl: "", y: 5.22, s: "127.0.0.1", shlc: true, d: 4, at: ""}, uid: "590", pf: {pf: {grdnr: {tp: "grdnr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, vsgst: {tp: "vsgst", l: 20, pgs: 0}}}, clths: {clths: [{clid: null, tpid: "girlNY20VKGiftPllvCnd"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "girlShoes14"}]}, usrinf: {rl: 0}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 21:56:38 GMT+0700 2020 [INFO] Client said: 34: ["house_590_livingroom", "h.r.ra", {}]
+Thu Jan 9 21:56:38 GMT+0700 2020 [INFO] Server said: 34: ["a.clths.buy", {ccltn: {cct: ["girlNY20VKGiftPllvCnd", "girlPants9", "girlShoes14"], cn: "", ctp: "casual"}, inv: {c: {gm: {id: "gm", it: [{c: 1, iid: "", tid: "blackMobileSkin"}]}, cls: {id: "cls", it: [{c: 1, iid: "", tid: "girlUnderdress1"}, {c: 1, iid: "", tid: "girlShirt12"}, {c: 1, iid: "", tid: "girlUnderdress2"}, {c: 1, iid: "", tid: "girlNY20VKGiftPllvDr"}, {c: 1, iid: "", tid: "girlTShrtZdcArchr"}]}, lt: {id: "lt", it: []}, frn: {id: "frn", it: []}, act: {id: "act", it: []}}}, res: {slvr: 10000, emd: 0, gld: 11971, enrg: 500}, clths: {clths: [{clid: null, tpid: "girlNY20VKGiftPllvCnd"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "girlShoes14"}]}, crt: 483}]
+Thu Jan 9 21:56:38 GMT+0700 2020 [INFO] Client said: 34: [null, "a.clths.buy", {pind: 1, tpid: "girlNY20VKGiftPllvCnd", ctp: "casual"}]

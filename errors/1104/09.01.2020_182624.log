@@ -1,0 +1,17 @@
+ClientError: Thu Jan 9 20:22:23 GMT+0500 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+Thu Jan 9 20:22:23 GMT+0500 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/DoorPodium2020.swf, status: 2) 
+Thu Jan 9 20:22:18 GMT+0500 2020 [INFO] Server said: 34: ["frn.save", {inv: {c: {lt: {id: "lt", it: []}, gm: {id: "gm", it: [{c: 1, iid: "", tid: "blackMobileSkin"}]}, frn: {id: "frn", it: [{c: 1, iid: "", tid: "gamerTable"}]}, act: {id: "act", it: []}, cls: {id: "cls", it: [{c: 1, iid: "", tid: "boyUnderdress1"}, {c: 1, iid: "", tid: "boyShirt14"}, {c: 1, iid: "", tid: "boyPants10"}, {c: 1, iid: "", tid: "boyShoes8"}, {c: 1, iid: "", tid: "boyJmpNY20Gld"}]}}}, ci: {exp: 85800, lgt: 0, compid: 0, trcd: 0, actrd: 0, sbrt: 0, actrp: 0, eml: null, shousd: false, vexp: 1965298000, vsexp: 1965298000, ys: 0, sbid: null, ysct: 0, as: null, vsact: true, fak: null, lvt: 1578582592, vret: 0, plcmt: {}, vip: true, lrnt: 0, vfgc: 0, pamns: {amn: []}, gtrfrd: 0, fexp: 0, ceid: 0, shcr: true, crst: 0, strfrd: 0, skid: null, cmid: 0, lwts: 0, rtrtm: 0, hrt: 174, dr: true, kyktid: null, bcld: 0, spp: 0, skrt: 0, actrt: 0, trid: null, tts: null, rpt: 0, crt: 691, gdc: 0}, hs: {lev: 1, l: 13, f: [{x: 0, tpid: "wall15", y: 0, lid: 1, z: 0, d: 3}, {x: 3, tpid: "door4", y: 0, lid: 4, rid: "outside", z: 0, d: 3}, {x: 13, tpid: "wall15", y: 0, lid: 2, z: 0, d: 5}, {x: 0, tpid: "floor4", y: 0, lid: 3, z: 0, d: 5}], nm: "house", id: "livingroom", w: 13}}]
+Thu Jan 9 20:21:32 GMT+0500 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "pdmNY20Flr", cnt: 1}]
+Thu Jan 9 20:21:19 GMT+0500 2020 [INFO] Client said: 34: [null, "frn.buy", {pind: 1, tpid: "pdmNY20Flr", cnt: 1}]
+Thu Jan 9 20:21:14 GMT+0500 2020 [INFO] Client said: 34: [null, "h.oinfo", {uid: "1104"}]
+Thu Jan 9 20:21:12 GMT+0500 2020 [INFO] Client said: 34: [null, "h.oinfo", {uid: "1104"}]

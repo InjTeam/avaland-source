@@ -1,0 +1,20 @@
+ClientError: Thu Jan 9 16:56:08 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1010 ErrorName: TypeError ErrorMessage:Error #1010 ErrorStackTrace:TypeError: Error #1010
+	at _-1u9::URL/parse()
+	at _-1u9::URL()
+	at _-18R::LoadingItem()
+	at _-18R::SWFLoadingItem()
+	at _-0bS::MassLoader/add()
+	at _-0bS::MassLoader/_-2R5()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/_-1Iu()
+	at _-18R::LoadingItem/onError()
+	at _-18R::SWFLoadingItem/onError()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at flash.net::URLLoader/onComplete()
+Thu Jan 9 16:56:03 GMT+0300 2020 [INFO] Server said: 34: ["h.r.ra", {plr: {usrinf: {rl: 0}, locinfo: {l: "house_52_1", x: 3.2, pl: "", y: 2.58, s: "127.0.0.1", shlc: true, st: 23, at: "", d: 4}, apprnc: {pc: 1, pt: 6, brt: 18, rg: 0, rc: 1, g: 2, fat: 0, fac: 1, brc: 1, ss: 0, bt: 0, hc: 14, ec: 21, mt: 31, sc: 3, et: 31, ht: 125, shc: 28, fft: 7, bc: 1, nct: 0, sh: 15, mc: 19, n: "Одна жизнь.", ssc: 1}, ci: {pamns: {amn: []}, vret: 0, strfrd: 0, ys: 0, crst: 0, vfgc: 0, rtrtm: 0, fexp: 0, ceid: 0, kyktid: null, sbid: null, skid: null, cmid: 0, actrt: 0, lwts: 0, hrt: 24539, dr: true, compid: 0, bcld: 0, spp: 0, actrp: 0, skrt: 0, rpt: 0, trid: null, tts: null, actrd: 0, gdc: 0, eml: null, shousd: false, lgt: 0, vip: true, trcd: 0, sbrt: 0, ysct: 0, as: null, crt: 968, vexp: 1965298000, exp: 85800, lvt: 1578577967, vsexp: 1965298000, shcr: true, lrnt: 0, plcmt: {}, fak: null, vsact: true, gtrfrd: 0}, uid: "52", clths: {clths: [{clid: null, tpid: "girlTghtWnt19Wrm"}, {clid: null, tpid: "girlNY20VKGiftPllvChrst"}, {clid: null, tpid: "girlShoes14"}, {clid: null, tpid: "girlShrtsJrnl"}]}, pf: {pf: {jntr: {pgs: 0, l: 20, tp: "jntr"}, grdnr: {pgs: 0, l: 20, tp: "grdnr"}, vsgst: {pgs: 0, l: 20, tp: "vsgst"}, phtghr: {pgs: 0, l: 20, tp: "phtghr"}}}, mbm: {sk: "blackMobileSkin", ac: null}}}]
+Thu Jan 9 16:56:02 GMT+0300 2020 [INFO] Client said: 34: ["house_52_1", "h.r.ra", {}]
+Thu Jan 9 16:56:02 GMT+0300 2020 [INFO] Server said: 34: ["a.clths.buy", {crt: 968, res: {enrg: 500, emd: 0, slvr: 10000, gld: 44414}, clths: {clths: [{clid: null, tpid: "girlTghtWnt19Wrm"}, {clid: null, tpid: "girlNY20VKGiftPllvChrst"}, {clid: null, tpid: "girlShoes14"}, {clid: null, tpid: "girlShrtsJrnl"}]}, inv: {c: {frn: {id: "frn", it: [{c: 1, tid: "door4", iid: ""}, {c: 2, tid: "floor4", iid: ""}, {c: 1, tid: "wall15", iid: ""}]}, lt: {id: "lt", it: []}, act: {id: "act", it: []}, cls: {id: "cls", it: [{c: 1, tid: "girlUnderdress1", iid: ""}, {c: 1, tid: "girlUnderdress2", iid: ""}, {c: 1, tid: "girlShirt12", iid: ""}, {c: 1, tid: "girlPants9", iid: ""}, {c: 1, tid: "girlTShrtInnknt", iid: ""}, {c: 1, tid: "girlNY20VKGiftPllvDr", iid: ""}]}, gm: {id: "gm", it: [{c: 1, tid: "blackMobileSkin", iid: ""}, {c: 32, tid: "vsgstBrush", iid: ""}]}}}, ccltn: {cn: "", cct: ["girlTghtWnt19Wrm", "girlNY20VKGiftPllvChrst", "girlShoes14", "girlShrtsJrnl"], ctp: "casual"}}]
+Thu Jan 9 16:56:02 GMT+0300 2020 [INFO] Client said: 34: [null, "a.clths.buy", {pind: 1, tpid: "girlNY20VKGiftPllvChrst", ctp: "casual"}]
+Thu Jan 9 16:55:57 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/house/FloorFlower.swf?3, status: 2) 
+Thu Jan 9 16:55:56 GMT+0300 2020 [INFO] Client said: 34: ["house_52_1", "h.r.u", {x: 3.2, y: 2.58, uid: "52", st: 23, at: "", d: 6}]
+Thu Jan 9 16:55:54 GMT+0300 2020 [INFO] Client said: 34: ["house_52_1", "h.r.m", {uid: "52", sy: 0.1, sx: 4.05, dx: 3.2, dy: 2.58}]

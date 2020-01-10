@@ -1,0 +1,31 @@
+ClientError: Thu Jan 9 17:33:54 GMT+0200 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:33:54 GMT+0200 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "293", mbm: {sk: "blackMobileSkin", ac: null}, ci: {ys: 0, crst: 0, vfgc: 0, rtrtm: 0, fexp: 0, ceid: 0, kyktid: null, plcmt: {}, skid: null, cmid: 0, actrt: 0, hrt: 374, dr: true, compid: 0, crt: 2357, spp: 0, actrp: 0, vip: true, rpt: 0, trid: "freelanceMicrophone", tts: null, actrd: 0, bcld: 0, gdc: 0, eml: null, shousd: false, lgt: 0, trcd: 0, sbrt: 0, ysct: 0, exp: 85800, sbid: null, vexp: 1965298000, fak: null, lvt: 1578583692, vsexp: 1965298000, shcr: true, lrnt: 0, skrt: 0, vsact: true, gtrfrd: 0, lwts: 0, pamns: {amn: []}, as: null, vret: 0, strfrd: 0}, locinfo: {l: "couturier_ctr1_1", x: 13.84, shlc: true, at: "", y: 3.16, s: "127.0.0.1", pl: "", d: 4, st: 23}, pf: {pf: {phtghr: {tp: "phtghr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}}}, clths: {clths: [{clid: null, tpid: "boyBtsHp"}, {clid: null, tpid: "boyGlssHp"}, {clid: null, tpid: "boyTtHp"}, {clid: "4", tpid: "boyJcktOutsrc2"}, {clid: null, tpid: "boyErrHp"}, {clid: "4", tpid: "boyPntsOutsrc2"}, {clid: "17", tpid: "boyTShrtOutsrc2"}]}, usrinf: {rl: 0}, apprnc: {brc: 2, ss: 0, sc: 1, g: 1, rg: 0, mc: 24, pc: 1, ht: 87, hc: 25, mt: 9, rc: 1, fat: 0, brt: 14, nct: 0, et: 23, shc: 1, bc: 1, bt: 0, pt: 0, n: "●●ßǻŧ®ůwkǻ●", ec: 12, fac: 1, fft: 2, sh: 0, ssc: 1}}}]
+Thu Jan 9 17:33:50 GMT+0200 2020 [INFO] Server said: 34: ["o.r.u", {uid: "126", x: 8.5, d: 4, st: 0, y: 1.5}]
+Thu Jan 9 17:33:48 GMT+0200 2020 [INFO] Client said: 34: ["couturier_ctr1_1", "o.r.info", {rid: "ctr1"}]
+Thu Jan 9 17:33:48 GMT+0200 2020 [INFO] Server said: 34: ["o.gr", {rid: "couturier_ctr1_1"}]
+Thu Jan 9 17:33:48 GMT+0200 2020 [INFO] Server said: 16: ["couturier_ctr1_1", "945"]
+Thu Jan 9 17:33:48 GMT+0200 2020 [INFO] Server said: 34: ["o.r.jn", {plr: {uid: "945", mbm: {sk: "blackMobileSkin", ac: null}, ci: {ys: 0, crst: 0, vfgc: 0, rtrtm: 0, fexp: 0, ceid: 0, kyktid: null, plcmt: {}, skid: null, cmid: 0, actrt: 0, hrt: 174, dr: true, compid: 0, crt: 1066, spp: 0, actrp: 0, vip: true, rpt: 0, trid: null, tts: null, actrd: 0, bcld: 0, gdc: 0, eml: null, shousd: false, lgt: 0, trcd: 0, sbrt: 0, ysct: 0, exp: 85800, sbid: null, vexp: 1965298000, fak: null, lvt: 1578584014, vsexp: 1965298000, shcr: true, lrnt: 0, skrt: 0, vsact: true, gtrfrd: 0, lwts: 0, pamns: {amn: []}, as: null, vret: 0, strfrd: 0}, locinfo: {l: "couturier_ctr1_1", x: -1, shlc: true, at: "", y: -1, s: "127.0.0.1", pl: "", d: 4, st: 0}, pf: {pf: {phtghr: {tp: "phtghr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}}}, clths: {clths: [{clid: null, tpid: "boyShirt14"}, {clid: null, tpid: "boyShoes8"}, {clid: null, tpid: "boyPants10"}]}, usrinf: {rl: 0}, apprnc: {brc: 1, ss: 0, sc: 4, g: 1, rg: 0, mc: 2, pc: 1, ht: 89, hc: 7, mt: 7, rc: 1, fat: 0, brt: 7, nct: 0, et: 14, shc: 1, bc: 1, bt: 0, pt: 0, n: "Senya", ec: 5, fac: 1, fft: 0, sh: 0, ssc: 1}}}]
+Thu Jan 9 17:33:46 GMT+0200 2020 [INFO] Server said: 34: ["o.r.u", {uid: "126", x: 8.5, d: 4, st: 0, y: 1.5}]
+Thu Jan 9 17:33:41 GMT+0200 2020 [INFO] Server said: 34: ["o.r.u", {uid: "126", x: 8.5, d: 4, st: 0, y: 1.5}]
+Thu Jan 9 17:33:38 GMT+0200 2020 [INFO] Client said: 34: [null, "o.gr", {lid: "couturier", gid: "ctr1"}]
+Thu Jan 9 17:33:38 GMT+0200 2020 [INFO] Server said: 1: ["945", true, false, false]
+Thu Jan 9 17:33:31 GMT+0200 2020 [INFO] Client said: 1: ["street", "945", "hsSeaTDZDcPPUTrjEZCS", {clvrn: "84.0.4", v: 2}]
+Thu Jan 9 17:33:29 GMT+0200 2020 [INFO] Client said: 2: []
+Thu Jan 9 17:33:29 GMT+0200 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/Couturier_4e20b623ef65e53df4c6aebd774be260.swf, status: 2) 
+Thu Jan 9 17:33:03 GMT+0200 2020 [INFO] Client said: 17: ["house_945_livingroom"]
+Thu Jan 9 17:32:28 GMT+0200 2020 [INFO] Client said: 34: [null, "a.clths.buy", {tpid: "boyJmpNY20Gld", ctp: "casual", pind: 2}]
+Thu Jan 9 17:32:12 GMT+0200 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 17:32:12 GMT+0200 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 11042, enrg: 500, emd: 0, slvr: 15000}}]

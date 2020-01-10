@@ -1,0 +1,16 @@
+ClientError: Thu Jan 9 22:20:54 GMT+0700 2020 [CRITICAL] [couturier] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 22:20:54 GMT+0700 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "382", ci: {shousd: false, skrt: 0, exp: 85800, spp: 0, bcld: 0, crt: 6575, tts: null, gdc: 0, sbrt: 0, eml: null, actrd: 0, as: null, ysct: 0, trid: "freelanceMicrophone", lvt: 1578583180, fak: null, lgt: 0, crst: 0, sbid: null, lrnt: 0, shcr: true, gtrfrd: 0, vexp: 1965298000, strfrd: 0, lwts: 0, vsexp: 1965298000, vip: true, vsact: true, fexp: 0, vret: 0, ys: 0, vfgc: 0, kyktid: null, hrt: 803, ceid: 0, skid: null, plcmt: {}, rpt: 0, actrt: 0, compid: 0, cmid: 0, trcd: 0, actrp: 0, rtrtm: 0, pamns: {amn: []}, dr: true}, apprnc: {sc: 1, shc: 1, pt: 0, ss: 0, brc: 1, rc: 1, bt: 0, g: 2, nct: 0, rg: 0, fft: 0, sh: 0, ec: 1, n: "BRFF", hc: 7, brt: 1, fat: 0, mc: 3, ht: 120, mt: 7, bc: 1, fac: 1, pc: 1, et: 2, ssc: 1}, locinfo: {x: 7.53, s: "127.0.0.1", shlc: true, y: 8.78, st: 23, at: "", d: 4, l: "couturier_ctr1_1", pl: ""}, usrinf: {rl: 0}, pf: {pf: {vsgst: {tp: "vsgst", l: 20, pgs: 0}, phtghr: {tp: "phtghr", l: 20, pgs: 0}, jntr: {tp: "jntr", l: 20, pgs: 0}, grdnr: {tp: "grdnr", l: 20, pgs: 0}}}, clths: {clths: [{clid: null, tpid: "girlBtsSh"}, {clid: null, tpid: "girlSktSh"}, {clid: null, tpid: "girlTShrtSh"}]}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 22:20:53 GMT+0700 2020 [INFO] Server said: 34: ["cp.cht.sm", {rid: "couturier_ctr1_1", msg: {tp: "chatTypingMessage", cid: null, sid: "82"}}]

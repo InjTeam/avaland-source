@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 17:20:38 GMT+0200 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 17:20:38 GMT+0200 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "1068", clths: {clths: [{tpid: "girlShirt12", clid: null}, {tpid: "girlShoes14", clid: null}, {tpid: "girlPants9", clid: null}]}, apprnc: {rc: 11, nct: 0, ec: 5, fft: 11, bt: 0, et: 21, g: 2, mt: 23, mc: 29, shc: 35, brc: 29, fat: 0, brt: 33, pt: 0, n: "Vaibornsizl", fac: 1, ssc: 1, sc: 3, ht: 132, pc: 1, hc: 7, rg: 1, ss: 0, bc: 1, sh: 19}, usrinf: {rl: 0}, pf: {pf: {grdnr: {tp: "grdnr", pgs: 0, l: 20}, jntr: {tp: "jntr", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}}}, ci: {crt: 10, actrp: 0, lrnt: 0, actrd: 0, vsact: true, bcld: 0, ys: 0, shousd: false, rpt: 0, ysct: 0, vexp: 1965298000, trcd: 0, sbid: null, spp: 0, vfgc: 0, trid: null, lwts: 0, exp: 85800, rtrtm: 0, plcmt: {}, fexp: 0, sbrt: 0, actrt: 0, hrt: 174, compid: 0, vret: 0, lgt: 0, as: null, strfrd: 0, shcr: true, eml: null, tts: null, crst: 0, ceid: 0, dr: true, skid: null, vsexp: 1965298000, fak: null, skrt: 0, gtrfrd: 0, gdc: 0, kyktid: null, cmid: 0, vip: true, pamns: {amn: []}, lvt: 1578583037}, locinfo: {x: 12.73, s: "127.0.0.1", at: "sitItem12", y: 2.31, l: "salon_sn1_1", shlc: true, st: 1, d: 4, pl: ""}, mbm: {ac: null, sk: "blackMobileSkin"}}}]

@@ -1,0 +1,19 @@
+ClientError: Thu Jan 9 20:29:21 GMT+0600 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 20:29:21 GMT+0600 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "198", ci: {skid: null, lwts: 0, vret: 0, kyktid: null, fak: null, crt: 18, trcd: 0, shousd: false, ys: 0, lrnt: 0, strfrd: 0, dr: true, lgt: 0, rtrtm: 0, vexp: 1965298000, fexp: 0, gtrfrd: 0, pamns: {amn: []}, spp: 0, lvt: 1578579766, vsexp: 1965298000, actrt: 0, cmid: 0, actrp: 0, crst: 0, shcr: true, sbid: null, vsact: true, compid: 0, ceid: 0, actrd: 0, sbrt: 0, ysct: 0, eml: null, bcld: 0, hrt: 174, skrt: 0, gdc: 0, rpt: 0, vfgc: 0, vip: true, tts: null, exp: 85800, trid: "freelanceJournal", plcmt: {}, as: null}, locinfo: {x: 17, s: "127.0.0.1", y: 16.88, l: "salon_sn1_1", at: "", pl: "", st: 23, d: 4, shlc: true}, usrinf: {rl: 0}, clths: {clths: [{tpid: "boyShirt14", clid: null}, {tpid: "boyShoes8", clid: null}, {tpid: "boyPants10", clid: null}]}, apprnc: {sc: 2, fac: 1, g: 1, nct: 0, et: 13, sh: 0, hc: 7, ssc: 1, fat: 0, bc: 1, fft: 2, rg: 0, ss: 0, n: "◊ПаFFoS◊", mt: 16, pt: 0, shc: 1, brc: 1, ec: 25, bt: 0, ht: 55, rc: 1, pc: 1, mc: 1, brt: 13}, mbm: {ac: null, sk: "blackMobileSkin"}, pf: {pf: {phtghr: {pgs: 0, tp: "phtghr", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}}}}}]
+Thu Jan 9 20:29:21 GMT+0600 2020 [INFO] Server said: 34: ["o.r.u", {x: 10.72, y: 11.53, at: "", uid: "294", st: 23, d: 4}]
+Thu Jan 9 20:29:18 GMT+0600 2020 [INFO] Server said: 34: ["o.r.m", {sx: 10.84, uid: "294", sy: 10.84, dx: 10.72, dy: 11.53}]
+Thu Jan 9 20:29:17 GMT+0600 2020 [INFO] Server said: 34: ["o.r.u", {x: 10.84, y: 10.84, at: "", uid: "294", st: 23, d: 2}]
+Thu Jan 9 20:29:16 GMT+0600 2020 [INFO] Server said: 34: ["o.r.m", {sx: 10.23, uid: "294", sy: 9.42, dx: 10.84, dy: 10.84}]

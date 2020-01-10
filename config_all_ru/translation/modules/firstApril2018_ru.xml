@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<locale name="ru">
+    <message key="fa18MaskLabel">Смешная маска</message>
+    <message key="fa18PlateLabel">Веселая табличка в руку</message>
+    <message key="fa18InfoDialogTitle">Праздник Смеха!</message>
+    <message key="fa18InfoDialogDescription">Пора развлекаться, друг! Мастери прикольные таблички и маски, подшучивай над другими аватарами и собирай в коллекцию уникальные подарки. На всё про всё у тебя ровно две недели, спеши!</message>
+    <message key="fa18TrophyHint">Титул "Шутник"</message>
+    <message key="fa18SelectTrickDialogTitle">Подшути над другом!</message>
+    <message key="fa18SelectTrickDialogDescription">Наденешь на друга смешную маску или вручишь ему в руку забавную табличку? Выбор за тобой!</message>
+    <gender key="fa18NotificationDescription">
+        <form>:userName: подшутил над тобой, ты можешь ответить ему тем же!</form>
+        <form>:userName: подшутила над тобой, ты можешь ответить ей тем же!</form>
+    </gender>
+    <message key="fa18ProgressDialogDescription">Мастери таблички и маски, разыгрывай своих друзей, собирай улыбки и обменивай их на уникальные подарки.</message>
+    <message key="fa18SetHint">Костюм "Smile"</message>
+    <message key="f18AwardDialogDescription">Забирай этот замечательный подарок в награду за прохождение акции. Не забудь поделиться этой новостью с друзьями!</message>
+    <message key="fa18WallGetAwardMessage">Мне подарили замечательный подарок в награду за прохождение акции! Хочешь такой же? Жду тебя в игре! :link:</message>
+
+    <message key="fa18NpcName">Иннокентий</message>
+    <message key="fa18NpcMessage1">Эй, не хочешь сделать крутую фотку с великолепным Иннокентием?</message>
+    <message key="fa18NpcMessage2">Вы все удобрение!</message>
+    <message key="fa18NpcMessage3">Ты что, до сих пор не нашел себе девушку? Спроси Иннокентия как это сделать!</message>
+    <message key="fa18NpcMessage4">Давай быстрее фотографироваться, а то мне надо в барбершоп!</message>
+    <message key="fa18NpcMessage5">И почему меня раньше никто не замечал?</message>
+    <message key="fa18NpcMessage6">Эй, хочешь сделать крутую фотку с великолепным Иннокентием?</message>
+    <message key="fa18NpcMessage7">Подходи, не бойся, я не кусаюсь... Хотя, мы этого еще не знаем ;)</message>
+    <message key="fa18NpcMessage8">У тебя еще нет фото со мной? Это ты зря...</message>
+
+    <message key="fa18BuyPhotoDescription">Хочешь сделать крутую фотку с Иннокентием?</message>
+    <message key="fa18BuyPhotoButtonTitle">сделать фото за :count:</message>
+    <message key="fa18MakePhotoDialogDescription">Это твое фото с великолепным Иннокентием! Здорово, правда? Опубликуй ее на свою страничку или сохрани на компьютер.</message>
+    <message key="fa18PublishPhotoDescription">#аватария #селфи #Иннокентий #:nick: Поспеши, сделать уникальное фото с Иннокентием можно только до 4 апреля! :link:</message>
+
+    <message key="fa18ExchangeDialogTitle">Обмен на ресурсы</message>
+    <message key="fa18ExchangeDialogDescription">Продолжай собирать улыбки и обменивать их на различные полезные ресурсы!</message>
+</locale>
+</dictionary>

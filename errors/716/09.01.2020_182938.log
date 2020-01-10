@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 18:29:09 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:29:09 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {ci: {vip: true, lgt: 0, pamns: {amn: []}, trcd: 0, actrd: 0, sbrt: 0, actrp: 0, eml: null, shousd: false, vexp: 1965298000, vsexp: 1965298000, sbid: null, ysct: 0, as: null, vsact: true, fak: null, ys: 0, vret: 0, plcmt: {}, shcr: true, lrnt: 0, vfgc: 0, lvt: 1578583174, gtrfrd: 0, fexp: 0, ceid: 0, crst: 0, strfrd: 0, skid: null, cmid: 0, lwts: 0, rtrtm: 0, hrt: 10173, dr: true, crt: 562, kyktid: null, exp: 85800, spp: 0, skrt: 0, actrt: 0, trid: "freelanceSupport", tts: null, rpt: 0, bcld: 0, compid: 0, gdc: 0}, pf: {pf: {jntr: {pgs: 0, tp: "jntr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}}}, uid: "350", usrinf: {rl: 0}, clths: {clths: [{clid: null, tpid: "grlSD16Dcr"}, {clid: null, tpid: "girlShirt12"}, {clid: null, tpid: "girlPants9"}, {clid: null, tpid: "grlSD16Ovrl"}, {clid: null, tpid: "grlSD16Shs"}, {clid: null, tpid: "grlSD16Stk"}, {clid: null, tpid: "grlSD16Brcl"}]}, apprnc: {fat: 0, ht: 129, sh: 1, ss: 0, g: 2, rc: 11, hc: 20, pt: 0, mc: 15, mt: 31, ec: 5, sc: 1, fft: 7, nct: 0, rg: 1, pc: 1, brc: 1, n: "Хейзерша", ssc: 1, bt: 0, shc: 12, et: 37, bc: 1, brt: 23, fac: 1}, locinfo: {l: "salon_sn1_1", x: 12.25, pl: "", y: 14.63, shlc: true, s: "127.0.0.1", at: "", st: 23, d: 4}, mbm: {ac: null, sk: "blackMobileSkin"}}}]

@@ -1,0 +1,19 @@
+ClientError: Thu Jan 9 16:05:56 GMT+0200 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 16:05:56 GMT+0200 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "123", clths: {clths: [{tpid: "girlShirt12", clid: null}, {tpid: "girlShoes14", clid: null}, {tpid: "girlPants9", clid: null}]}, locinfo: {x: 9.05, s: "127.0.0.1", st: 23, y: 12.78, l: "salon_sn1_1", at: "", d: 4, shlc: true, pl: ""}, pf: {pf: {jntr: {pgs: 0, tp: "jntr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}, grdnr: {pgs: 0, tp: "grdnr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}}}, usrinf: {rl: 0}, apprnc: {nct: 0, sc: 1, ht: 125, et: 38, g: 2, fac: 1, fft: 2, sh: 24, fat: 0, pc: 1, bc: 1, mt: 19, n: "Pariska", hc: 8, shc: 12, pt: 0, brt: 5, rc: 1, mc: 14, bt: 0, ss: 0, ec: 16, ssc: 1, rg: 0, brc: 3}, ci: {rpt: 0, crst: 0, eml: null, sbid: null, crt: 10, bcld: 0, ysct: 0, actrp: 0, vfgc: 0, hrt: 174, ys: 0, trid: null, pamns: {amn: []}, kyktid: null, shousd: false, dr: true, fak: null, gtrfrd: 0, vsact: true, actrd: 0, compid: 0, ceid: 0, gdc: 0, shcr: true, strfrd: 0, lgt: 0, fexp: 0, as: null, cmid: 0, vret: 0, rtrtm: 0, actrt: 0, lwts: 0, lrnt: 0, lvt: 1578578381, plcmt: {}, spp: 0, vip: true, vsexp: 1965298000, tts: null, vexp: 1965298000, trcd: 0, exp: 85800, sbrt: 0, skid: null, skrt: 0}, mbm: {ac: null, sk: "blackMobileSkin"}}}]
+Thu Jan 9 16:05:55 GMT+0200 2020 [INFO] Server said: 34: ["o.r.u", {uid: "36", x: 14.3, y: 18.36, at: "danceGirl1", st: 3, d: 3}]
+Thu Jan 9 16:05:54 GMT+0200 2020 [INFO] Server said: 34: ["o.r.u", {uid: "36", x: 14.3, y: 18.36, at: "danceGirl4", st: 3, d: 3}]
+Thu Jan 9 16:05:52 GMT+0200 2020 [INFO] Server said: 34: ["o.r.u", {uid: "36", x: 14.3, y: 18.36, at: "danceGirl3", st: 3, d: 3}]
+Thu Jan 9 16:05:51 GMT+0200 2020 [INFO] Server said: 34: ["o.r.u", {uid: "25", x: 10.41, at: "", st: 23, y: 12.03, d: 3}]

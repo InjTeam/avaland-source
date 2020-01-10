@@ -1,0 +1,4 @@
+ClientError: Thu Jan 9 20:26:34 GMT+0500 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-3p2::_-0E8/_-0DT()
+	at _-fY::LayoutEditor/set selectedObject()
+	at _-fY::LayoutEditor/onViewMouseDown()

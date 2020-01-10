@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+
+        <message key="m1st15GoWorkDescription">Ленточки можно получить поливая цветы в саду или убираясь на улице.</message>
+        <message key="m1st15GoStreetDescription">Ленточки можно повесить на дерево на улице и получить за это редкие ценные ресурсы.</message>
+        <message key="m1st15HangRibbonTitle">Повесить ленточку</message>
+        <message key="m1st15SocialDescription">Хорошо потрудился? Зови друзей, пусть не отлынивают от работы!</message>
+        <message key="m1st15SocialWallTitle">Праздник труда</message>
+        <message key="m1st15SocialWallMessage">Моя праздничная ленточка теперь украшает дерево на улице Аватарии. Хочешь такую же? :link:</message>
+
+    </locale>
+</dictionary>

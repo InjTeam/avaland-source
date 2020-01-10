@@ -1,0 +1,17 @@
+ClientError: Thu Jan 9 18:24:34 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:24:34 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {uid: "700", ci: {exp: 85800, cmid: 0, crt: 170, strfrd: 0, vsact: true, lgt: 0, shcr: true, lwts: 0, sbid: null, skrt: 0, as: null, fexp: 0, vip: true, ceid: 0, pamns: {amn: []}, ysct: 0, vfgc: 0, fak: null, shousd: false, tts: null, bcld: 0, sbrt: 0, vsexp: 1965298000, lvt: 1578583195, actrp: 0, eml: null, actrt: 0, rpt: 0, ys: 0, vret: 0, actrd: 0, plcmt: {}, trid: null, kyktid: null, gdc: 0, lrnt: 0, compid: 0, crst: 0, gtrfrd: 0, dr: true, hrt: 174, trcd: 0, rtrtm: 0, skid: null, vexp: 1965298000, spp: 0}, usrinf: {rl: 0}, mbm: {ac: null, sk: "blackMobileSkin"}, apprnc: {sc: 1, fac: 1, pt: 0, rg: 0, rc: 1, fat: 0, bt: 0, shc: 1, fft: 0, ec: 5, et: 33, g: 2, nct: 0, sh: 0, pc: 1, brt: 31, n: "belochka", mc: 15, hc: 1, mt: 31, ht: 131, ssc: 1, brc: 10, bc: 1, ss: 0}, clths: {clths: [{tpid: "girlNY20VKGiftPllvCnd", clid: null}, {tpid: "girlPants9", clid: null}, {tpid: "girlShoes14", clid: null}]}, locinfo: {x: 11.7, s: "127.0.0.1", st: 23, y: 2.14, d: 4, at: "", shlc: true, l: "salon_sn1_1", pl: ""}, pf: {pf: {grdnr: {pgs: 0, tp: "grdnr", l: 20}, phtghr: {pgs: 0, tp: "phtghr", l: 20}, jntr: {pgs: 0, tp: "jntr", l: 20}, vsgst: {pgs: 0, tp: "vsgst", l: 20}}}}}]
+Thu Jan 9 18:24:33 GMT+0300 2020 [INFO] Server said: 17: ["salon_sn1_1", "760"]
+Thu Jan 9 18:24:33 GMT+0300 2020 [INFO] Server said: 34: ["o.r.lv", {uid: "760"}]

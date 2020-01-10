@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <plural key="snowflakes">
+            <form>снежинка</form>
+            <form>снежинки</form>
+            <form>снежинок</form>
+        </plural>
+        <plural key="mittens">
+            <form>варежка</form>
+            <form>варежки</form>
+            <form>варежек</form>
+        </plural>
+        <plural key="nyFriends">
+            <form>друг</form>
+            <form>друга</form>
+            <form>друзей</form>
+        </plural>
+        
+        <message key="newYear2014WelcomeDialogTitle">Зимние забавы</message>
+        <message key="newYear2014WelcomeDialogMessage1">Собирай снежинки и обменивай их на уникальные предметы. Такие предметы можно получить только в период проведения акции. Успей собрать все предметы!</message>
+        <message key="newYear2014WelcomeDialogMessage2">Чтобы принять участие в зимних забавах, тебе нужны варежки. Чем больше у тебя друзей в игре — тем больше варежек ты можешь получать каждый день бесплатно!</message>
+        <message key="newYear2014WelcomeDialogMessage3">Надевай варежки и вперед на улицу — кидаться снежками и получать еще больше снежинок. Больше варежек — больше снежинок, а значит, заветные призы станут еще ближе!</message>
+        
+        <message key="newYear2014ProgressDialogTitle">Галерея зимних подарков</message>
+        <message key="newYear2014ProgressDialogMessage">Собирай снежинки и получай уникальные зимние подарки! Снежинки ты можешь найти при работе во дворе и саду, уборке квартир соседей, но больше всего снежинок можно получить, кидаясь снежками на улице!</message>
+        
+        <message key="newYear2014UseMittensWarningDialogMessage">Чтобы твои руки не замерзли, надень варежки. В них ты можешь кидаться снежками, пока варежки не промокнут.</message>
+        <message key="newYear2014NotEnoughMittensWarningDialogMessage">У тебя нет варежек? Не беда! Приглашай друзей в игру и получай варежки бесплатно! Чем больше друзей — тем больше варежек!</message>
+        
+        <message key="newYear2014AwardDialogTitle">Поздравляем!</message>
+        <message key="newYear2014AwardDialogMessage">Мы дарим тебе этот замечательный подарок в награду за собранные снежинки. Продолжай в том же духе и обязательно поделись этой новостью с друзьями!</message>
+        
+        <message key="newYear2014AskSnowflakesDialogTitle">Хочу больше снежинок!</message>
+        <message key="newYear2014AskSnowflakesDialogMessage">Не хватает снежинок? Попроси помощи у своих друзей! Уж они-то точно помогут! Больше друзей — больше снежинок, больше радости и подарков!</message>
+        
+        <message key="newYear2014MittensInfoDialogTitle">Нужны варежки? Приглашай друзей!</message>
+        <message key="newYear2014MittensInfoDialogMessage">Чем больше твоих друзей играет в Аватарию, тем больше варежек ты будешь получать ежедневно. Просто заходи в игру и не забывай забирать варежки! Надевай их и бегом на улицу — кидаться снежками и получать еще больше снежинок!</message>
+        
+        <message key="throwSnowballTitle">Снежок!</message>
+        <message key="putInTitle">надеть</message>
+        
+        <message key="currentMittensLabel">у тебя</message>
+        <message key="neededMittensLabel">нужно</message>
+        <message key="youHaveSnowflakesLabel">у тебя</message>
+        <message key="ny14inviteFriend">Твой приятель еще не участвует в акции. Пригласи его чтобы собрать больше снежинок вместе!</message>
+        <message key="throughLabel">через</message>
+        
+        <message key="warningSnowballTitle">Осторожно, снежок!</message>
+        <message key="warningSnowballMessage">:userName: :genderDrop: в тебя снежок.</message>
+        <message key="sendBackSnowballButtonTitle">ответить</message>
+        
+        <message key="newYear2014WallMessage1">Мне подарили замечательный подарок в награду за собранные снежинки. Хочешь получить такой же? Жду тебя в игре! :link:</message>
+        <message key="newYear2014WallMessage2">Друзья, я хочу получить уникальный предмет в игре Аватария, и мне нужна ваша помощь. Без вас мне не справиться! :link:</message>
+    </locale>
+</dictionary>

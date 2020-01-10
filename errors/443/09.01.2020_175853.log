@@ -1,0 +1,11 @@
+ClientError: Thu Jan 9 17:58:49 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-4I::NotEnoughGoldProductDialog/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-1Dw::PaymentService/checkGold()
+	at _-1Dw::PaymentService/checkPrice()
+	at _-2dH::BuyClothesDialog/onGoldBuyClick()

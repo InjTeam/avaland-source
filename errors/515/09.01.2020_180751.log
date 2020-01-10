@@ -1,0 +1,18 @@
+ClientError: Thu Jan 9 18:04:30 GMT+0300 2020 [CRITICAL] [salon] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-0eV::RoomMemberContainer/addAvatar()
+	at _-PQ::BaseRoomScreen/addAvatar()
+	at _-PQ::BaseRoomScreen/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-2CM::BaseRoomNetManager/onRefreshAvatar()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at ags::_-2t/_-2dI()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0en::_-0O8/_-1LF()
+	at _-0en::_-0O8/execute()
+	at ags::AGSClient/_-0i9()
+	at ags::AGSClient/_-2ZF()
+	at ags::AGSClient/_-2Ea()
+Thu Jan 9 18:04:30 GMT+0300 2020 [INFO] Server said: 34: ["o.r.ra", {plr: {ci: {lrnt: 0, sbrt: 0, spp: 0, fexp: 0, crt: 319, compid: 0, gdc: 0, vexp: 1965298000, ys: 0, vip: true, rtrtm: 0, vsexp: 1965298000, gtrfrd: 0, hrt: 174, strfrd: 0, vfgc: 0, bcld: 0, actrt: 0, ysct: 0, dr: true, crst: 0, fak: null, vsact: true, vret: 0, rpt: 0, shcr: true, cmid: 0, trcd: 0, lgt: 0, eml: null, lvt: 1578581969, sbid: null, kyktid: null, actrd: 0, pamns: {amn: []}, skid: null, tts: null, actrp: 0, lwts: 0, skrt: 0, as: null, trid: "freelanceMicrophone", exp: 85800, shousd: false, ceid: 0, plcmt: {}}, usrinf: {rl: 0}, mbm: {ac: null, sk: "blackMobileSkin"}, apprnc: {ssc: 1, mt: 29, rc: 1, ht: 131, bt: 0, mc: 29, g: 2, brt: 14, sc: 2, ec: 5, fft: 16, n: "min yoongi", hc: 4, pc: 1, pt: 0, shc: 15, fac: 1, nct: 0, et: 34, bc: 1, ss: 0, rg: 0, sh: 19, brc: 10, fat: 0}, locinfo: {x: 14.42, s: "127.0.0.1", y: 5.6, l: "salon_sn1_1", at: "", st: 0, d: 4, pl: "", shlc: true}, uid: "506", clths: {clths: [{tpid: "girlGlssHp", clid: null}, {tpid: "girlCtHp", clid: null}, {tpid: "girlBtsHp", clid: null}, {tpid: "girlTShrtHp", clid: null}, {tpid: "girlErrHp", clid: null}, {tpid: "girlHtHp", clid: null}, {tpid: "girlPntsHp", clid: null}]}, pf: {pf: {jntr: {tp: "jntr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}}}}}]
+Thu Jan 9 18:04:29 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {x: 14.42, d: 0, y: 12.6, at: "salonActiveChairItem21", st: 1, uid: "328"}]
+Thu Jan 9 18:04:29 GMT+0300 2020 [INFO] Server said: 34: ["o.r.m", {dx: 9.22, dy: 3.97, sy: 3.25, uid: "558", sx: 10.5}]
+Thu Jan 9 18:04:27 GMT+0300 2020 [INFO] Server said: 34: ["o.r.u", {x: 10.5, d: 0, y: 3.25, at: "", st: 23, uid: "558"}]

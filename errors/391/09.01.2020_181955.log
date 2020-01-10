@@ -1,0 +1,12 @@
+ClientError: Thu Jan 9 22:19:57 GMT+0700 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-19Y::TopPanel/_-3oC()
+Thu Jan 9 22:19:51 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 22:19:51 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {gld: 3360, slvr: 0, enrg: 500, emd: 0}}]
+Thu Jan 9 22:19:50 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 22:19:50 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]

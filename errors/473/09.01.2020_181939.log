@@ -1,0 +1,15 @@
+ClientError: Thu Jan 9 22:18:55 GMT+0700 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at _-371::SupportNetManager/init()
+	at _-4I::_-Ss/init()
+	at _-Qp::_-1DK/onAddedToStage()
+	at _-0qh::UIManager/_-1oS()
+	at _-0qh::UIManager/showModal()
+	at _-Qp::_-1DK/showModal()
+	at _-19Y::TopPanel/_-3oC()
+Thu Jan 9 22:18:55 GMT+0700 2020 [INFO] Client said: 34: ["house_473_livingroom", "h.r.u", {x: 8.95, at: "", y: 6.77, st: 23, d: 5, uid: "473"}]
+Thu Jan 9 22:18:54 GMT+0700 2020 [INFO] Client said: 34: ["house_473_livingroom", "h.r.m", {dy: 6.77, dx: 8.95, sx: 9.66, uid: "473", sy: 5.78}]
+Thu Jan 9 22:18:52 GMT+0700 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 22:18:52 GMT+0700 2020 [INFO] Client said: 34: ["house_473_livingroom", "h.r.m", {dy: 5.78, dx: 9.66, sx: 4.83, uid: "473", sy: 7.02}]
+Thu Jan 9 22:18:52 GMT+0700 2020 [INFO] Server said: 34: ["ntf.res", {res: {emd: 0, gld: 3100, enrg: 500, slvr: 10000}}]
+Thu Jan 9 22:18:51 GMT+0700 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 22:18:51 GMT+0700 2020 [INFO] Client said: 34: [null, "b.chkprchs", {pmnt: null, prid: "pack1500", qnt: 1}]

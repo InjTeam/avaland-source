@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="ru">
+        <message key="springDay2016EventFilterLabel">весеннее</message>
+        <message key="springDay2016FriendRequestMessage">Создай событие или пригласи друзей для уборки весеннего пруда</message>
+        <message key="springDay2016Flower">Цветы для пруда</message>
+        <message key="springDay2016Fish">Рыбки для пруда</message>
+        <message key="springDay2016Droplet">Жизненная сила</message>
+        <message key="springDay2016DropletLootDescription">можно получить в рамках весенней акции</message>
+        <message key="springDay2016PlantFlowerButtonTitle">посадить</message>
+        <message key="springDay2016FriendHint">Здесь можно заработать "жизненную силу"!</message>
+        <message key="springDay2016LeftTime">до :stage: этапа :time:</message>
+
+        <message key="sd16flower">Пруд с цветами</message>
+        <message key="sd16filter">Пруд с чистой водой</message>
+
+        <!-- stages -->
+        <message key="springDay2016Stage1Title">1 этап</message>
+        <message key="springDay2016Stage2Title">2 этап</message>
+        <message key="springDay2016Stage3Title">3 этап</message>
+        <message key="springDay2016Stage4Title">4 этап</message>
+
+        <!-- NPC -->
+        <message key="springDay2016NPCActorName">Дух пруда</message>
+        <message key="springDay2016stage1NPCMessage1">Попроси друзей очистить пруд от тины</message>
+        <message key="springDay2016stage1NPCMessage2">Пруд все грязнее и грязнее</message>
+        <message key="springDay2016stage1NPCMessage3">Весь пруд зарос тиной</message>
+
+        <message key="springDay2016stage2NPCMessage1">Посади цветы вокруг пруда</message>
+        <message key="springDay2016stage2NPCMessage2">Пруду не хватает цветов</message>
+        <message key="springDay2016stage2NPCMessage3">С цветами было бы красивее</message>
+
+        <message key="springDay2016stage3NPCMessage1">Очисть воду в пруду</message>
+        <message key="springDay2016stage3NPCMessage2">Вода в пруду очень грязная</message>
+        <message key="springDay2016stage3NPCMessage3">В пруду нет "Жизненной силы"</message>
+
+        <message key="springDay2016stage4NPCMessage1">Запусти рыбок в пруд</message>
+        <message key="springDay2016stage4NPCMessage2">Пруду нужны рыбки</message>
+        <message key="springDay2016stage4NPCMessage3">Без рыбок пруд слишком пуст</message>
+
+        <!-- create room dialog -->
+        <message key="springDay2016CreateRoomTitle">Создать комнату?</message>
+        <message key="springDay2016CreateRoomMessage">Ухаживай за прудом и получай приятные бонусы!</message>
+
+        <!-- welcome dialog -->
+        <message key="springDay2016WelcomeDialogTitle">Праздник весны и солнца</message>
+        <message key="springDay2016WelcomeDialogMessageTop1">Позови друзей к себе в гости,  чтобы вместе убрать тину с пруда</message>
+        <message key="springDay2016WelcomeDialogMessageTop2">Работай в саду и на улице, накопи достаточное количество "жизненной силы" и создай из нее цветы</message>
+        <message key="springDay2016WelcomeDialogMessageTop3">Работай в саду и на улице, накопи достаточное количество "жизненной силы" для очистки воды в пруду</message>
+        <message key="springDay2016WelcomeDialogMessageTop4">Работай в саду и на улице, накопи достаточное количество "жизненной силы" и создай из нее рыбок</message>
+
+        <message key="springDay2016WelcomeDialogMessageMiddle1">Получи подарок за очистку пруда и двигайся дальше!</message>
+        <message key="springDay2016WelcomeDialogMessageMiddle2">Посади цветы на пруду</message>
+        <message key="springDay2016WelcomeDialogMessageMiddle3">Очисть воду в пруду</message>
+        <message key="springDay2016WelcomeDialogMessageMiddle4">Запусти рыбок в пруд</message>
+
+        <message key="springDay2016WelcomeDialogMessageBottom1">Очисть пруд, укрась его и вдохни в него жизнь. В награду ты получишь еще одну красивую и очень ценную локацию, а так же много интересных призов.</message>
+        <message key="springDay2016WelcomeDialogMessageBottom4">Получи финальный приз и заверши акцию</message>
+
+        <!-- progress dialog -->
+        <message key="springDay2016ProgressDialogTitle">Весенний пруд</message>
+        <message key="springDay2016StageTitle">:stage: этап</message>
+
+        <message key="springDay2016St1Sb1Description">Попроси друзей помочь убраться тебе на пруду</message>
+        <message key="springDay2016St1Sb2Description">Теперь ты можешь завершить уборку пруда</message>
+        <message key="springDay2016St2Sb1Description">Собирай "жизненную силу", чтобы создать цветы и посадить их</message>
+        <message key="springDay2016St2Sb2Description">Теперь ты можешь посадить цветы вокруг пруда</message>
+        <message key="springDay2016St3Sb1Description">Собирай "жизненную силу", чтобы очистить воду в пруду</message>
+        <message key="springDay2016St3Sb2Description">Теперь ты можешь очистить воду в пруду</message>
+        <message key="springDay2016St4Sb1Description">Собирай "жизненную силу", чтобы создать рыбок и запустить их в пруд</message>
+        <message key="springDay2016St4Sb2Description">Теперь ты можешь запустить рыбок в пруд</message>
+
+        <!-- award dialog -->
+        <message key="springDay2016AskDialogTitle">Помощь друзей!</message>
+        <message key="springDay2016AskDialogMessage">Попроси друзей убраться на твоем пруду</message>
+        <message key="springDay2016AwardDialogMessage">Мы дарим тебе этот замечательный подарок в награду за пройденный этап. Продолжай в том же духе и обязательно поделись этой новостью с друзьями!</message>
+        <message key="springDay2016WallMessage1">Мне подарили замечательный подарок в награду за пройденный этап. Хочешь получить такой же? Жду тебя в игре! :link:</message>
+        <message key="springDay2016WallMessage2">Друзья, я хочу получить уникальный предмет в игре Аватария, и мне нужна ваша помощь. Без вас мне не справиться! :link:</message>
+        <message key="springDay2016WallMessage3">Друзья, мне не справиться без вас с уборкой пруда в игре Аватария. Жду в игре! :link:</message>
+    </locale>
+</dictionary>

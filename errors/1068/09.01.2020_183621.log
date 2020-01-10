@@ -1,0 +1,23 @@
+ClientError: Thu Jan 9 19:36:23 GMT+0400 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+Thu Jan 9 19:36:23 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/NY20Lemonade.swf, status: 2) 
+Thu Jan 9 19:33:34 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 50, gld: 1227}}]
+Thu Jan 9 19:33:33 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "pctrJpn1"}}]
+Thu Jan 9 19:33:32 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "pctrJpn1", cnt: 1, pind: 1}]
+Thu Jan 9 19:33:29 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/PictureJapan.swf, status: 2) 
+Thu Jan 9 19:32:11 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 50, gld: 1257}}]
+Thu Jan 9 19:32:11 GMT+0400 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 4, iid: "", tid: "manTable1"}}]
+Thu Jan 9 19:32:09 GMT+0400 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "manTable1", cnt: 4, pind: 2}]
+Thu Jan 9 19:32:08 GMT+0400 2020 [INFO] Server said: 34: ["b.inslv", {inslv: 4400}]
+Thu Jan 9 19:32:08 GMT+0400 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, emd: 0, slvr: 7930, gld: 1257}}]
+Thu Jan 9 19:32:07 GMT+0400 2020 [INFO] Client said: 34: [null, "b.bs", {gld: 44}]
+Thu Jan 9 19:31:52 GMT+0400 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/furniture/TableMen.swf, status: 2) 

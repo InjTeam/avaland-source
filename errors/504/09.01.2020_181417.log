@@ -1,0 +1,50 @@
+ClientError: Thu Jan 9 18:13:33 GMT+0300 2020 [CRITICAL] [house] *Uncaught Error* ErrorId: 1009 ErrorName: TypeError ErrorMessage:Error #1009 ErrorStackTrace:TypeError: Error #1009
+	at MethodInfo-2()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-jr::FurnitureLoader/_-2qc()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-0bS::MassLoader/_-4Ql()
+	at _-0bS::MassLoader/_-WZ()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at _-18R::LoadingItem/onComplete()
+	at _-18R::SWFLoadingItem/onComplete()
+	at MethodInfo-7()
+Thu Jan 9 18:13:33 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/GardenerFramedButterfly3.swf, status: 2) 
+Thu Jan 9 18:13:33 GMT+0300 2020 [INFO] [YandexMetrics.onCounterInit] Yandex metrics counter 31321471 inited
+Thu Jan 9 18:13:33 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'click_buy_product' for counter 31321471
+Thu Jan 9 18:13:33 GMT+0300 2020 [INFO] [YandexMetrics.reachGoal] Call reach goal 'show_payment_dialog' for counter 31321471
+Thu Jan 9 18:13:32 GMT+0300 2020 [INFO] Server said: 34: ["b.ingld", {ingld: 1500}]
+Thu Jan 9 18:13:32 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 8738, emd: 0}}]
+Thu Jan 9 18:13:31 GMT+0300 2020 [INFO] Client said: 34: [null, "b.chkprchs", {qnt: 1, prid: "pack1500", pmnt: null}]
+Thu Jan 9 18:13:31 GMT+0300 2020 [INFO] [YandexMetrics.initCounter] Try to init Yandex metrics counter 31321471
+Thu Jan 9 18:13:23 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 7238, emd: 0}}]
+Thu Jan 9 18:13:23 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "grdFrmBtrfl2"}}]
+Thu Jan 9 18:13:21 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "grdFrmBtrfl2", pind: 1, cnt: 1}]
+Thu Jan 9 18:13:20 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/GardenerFramedButterfly2.swf, status: 2) 
+Thu Jan 9 18:13:18 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 17237, emd: 0}}]
+Thu Jan 9 18:13:18 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "grdFrmBtrfl1"}}]
+Thu Jan 9 18:13:16 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "grdFrmBtrfl1", pind: 1, cnt: 1}]
+Thu Jan 9 18:13:15 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/GardenerFramedButterfly1.swf, status: 2) 
+Thu Jan 9 18:13:04 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 27236, emd: 0}}]
+Thu Jan 9 18:13:03 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 4, iid: "", tid: "carpet5"}}]
+Thu Jan 9 18:13:01 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "carpet5", pind: 1, cnt: 4}]
+Thu Jan 9 18:12:58 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/CarpetFurWhite.swf, status: 2) 
+Thu Jan 9 18:12:40 GMT+0300 2020 [INFO] Server said: 34: ["ntf.res", {res: {enrg: 500, slvr: 82200, gld: 27320, emd: 0}}]
+Thu Jan 9 18:12:40 GMT+0300 2020 [INFO] Server said: 34: ["ntf.inv", {it: {c: 1, iid: "", tid: "jntrFrplc"}}]
+Thu Jan 9 18:12:38 GMT+0300 2020 [INFO] Client said: 34: [null, "frn.buy", {tpid: "jntrFrplc", pind: 1, cnt: 1}]
+Thu Jan 9 18:12:37 GMT+0300 2020 [INFO] Loaded  LoadingItem(url: http://62.113.113.58:8080/files/swf/furniture/decor/JanitorFireplace.swf, status: 2) 
+Thu Jan 9 18:11:46 GMT+0300 2020 [INFO] Client said: 34: [null, "nws.getglbl", {}]
+Thu Jan 9 18:11:46 GMT+0300 2020 [INFO] Client said: 34: ["house_504_livingroom", "h.r.u", {x: 11.5, st: 23, uid: "504", at: "", y: 0.5, d: 0}]
+Thu Jan 9 18:11:45 GMT+0300 2020 [INFO] Server said: 34: ["spt.init", {a: false}]
+Thu Jan 9 18:11:44 GMT+0300 2020 [INFO] Client said: 34: [null, "spt.init", {}]
+Thu Jan 9 18:11:44 GMT+0300 2020 [INFO] Server said: 34: ["spt.gscnl", {scls: [{act: true, lnk: "https://vk.com/avalandofficial", icnurl: "https://raw.githubusercontent.com/AvaCity/avacity-2.0/master/readme/star.png", ttl: "AVALAND", dsctn: "Подпишись на нас:
+https://vk.com/avalandofficial", prt: 1, id: 1, stid: "AVALAND"}]}]
+Thu Jan 9 18:11:44 GMT+0300 2020 [INFO] Client said: 34: [null, "spt.gscnl", {}]
+Thu Jan 9 18:11:42 GMT+0300 2020 [INFO] Client said: 34: ["house_504_livingroom", "h.r.m", {dy: 0.5, uid: "504", dx: 11.5, sy: 0.1, sx: 4.05}]
+Thu Jan 9 18:11:34 GMT+0300 2020 [INFO] Client said: 34: ["house_504_livingroom", "h.r.u", {x: 4.05, st: 0, uid: "504", d: 4, y: 0.1}]
+Thu Jan 9 18:11:34 GMT+0300 2020 [INFO] Server said: 34: ["lg.lst", {glst: []}]
+Thu Jan 9 18:11:34 GMT+0300 2020 [INFO] Client said: 34: ["house_504_livingroom", "lg.lst", {}]
+Thu Jan 9 18:11:34 GMT+0300 2020 [INFO] Server said: 34: ["h.r.info", {evn: null, rm: {lev: 1, nm: "#livingRoom", f: [{x: 0, lid: 96106291, y: 0, z: 0, d: 5, tpid: "flrSV14"}, {x: 13, lid: 98887653, y: 0, z: 0, d: 5, tpid: "wllSV14"}, {x: 0, lid: 98887652, y: 0, z: 0, d: 3, tpid: "wllSV14"}, {x: 3, lid: 4, y: 0, z: 0, rid: "outside", d: 3, tpid: "door4"}], w: 13, l: 13, id: "livingroom"}, rmmb: [{apprnc: {shc: 12, fac: 1, pt: 0, g: 2, sh: 20, ec: 5, fat: 0, mc: 28, fft: 0, mt: 31, brc: 1, et: 34, ssc: 1, brt: 28, bt: 0, rc: 1, ss: 0, sc: 1, pc: 1, hc: 23, n: "БАБАЙКА.", nct: 0, bc: 1, ht: 124, rg: 0}, ci: {fexp: 0, skrt: 0, crt: 2065, kyktid: null, bcld: 0, rtrtm: 0, hrt: 2001, trid: "familyDay2016", pamns: {amn: []}, spp: 0, compid: 0, trcd: 0, ys: 0, actrt: 0, tts: null, actrp: 0, sbid: null, eml: null, gdc: 0, sbrt: 0, crst: 0, plcmt: {}, lgt: 0, vret: 0, actrd: 0, ysct: 0, vfgc: 0, shousd: false, rpt: 0, vexp: 1965298000, ceid: 0, vip: true, fak: null, vsexp: 1965298000, cmid: 0, as: null, shcr: true, vsact: true, dr: true, lvt: 1578582532, gtrfrd: 0, lwts: 0, exp: 85800, lrnt: 0, strfrd: 0, skid: null}, uid: "504", usrinf: {rl: 0}, clths: {clths: [{clid: "8", tpid: "girlTShrtRbbt"}, {clid: "8", tpid: "girlBgNYElgnc"}, {clid: "8", tpid: "girlBtsSchool"}, {clid: "8", tpid: "girlErrNYFr"}, {clid: "8", tpid: "girlMskClnPstpc"}, {clid: "8", tpid: "girlPntsNYElgnc"}, {clid: "8", tpid: "girlGlssNYElgnc"}]}, locinfo: {l: "house_504_livingroom", x: -1, st: 0, at: "", y: -1, shlc: true, s: "127.0.0.1", d: 4, pl: ""}, pf: {pf: {jntr: {tp: "jntr", pgs: 0, l: 20}, grdnr: {tp: "grdnr", pgs: 0, l: 20}, vsgst: {tp: "vsgst", pgs: 0, l: 20}, phtghr: {tp: "phtghr", pgs: 0, l: 20}}}, mbm: {ac: null, sk: "blackMobileSkin"}}]}]
+Thu Jan 9 18:11:29 GMT+0300 2020 [INFO] Client said: 34: ["house_504_livingroom", "h.r.info", {uid: "504", rid: "livingroom"}]
+Thu Jan 9 18:11:29 GMT+0300 2020 [INFO] Server said: 34: ["h.gr", {rid: "house_504_livingroom"}]
+Thu Jan 9 18:11:28 GMT+0300 2020 [INFO] Server said: 16: ["house_504_livingroom", "504"]
