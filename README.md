@@ -26,13 +26,13 @@ $ python3 update.py
 
 # немножко о создателе сервера
 
-![скриншот][/think_about_it/1.jpg]
-![скриншот][think_about_it/2.jpg]
-![скриншот][think_about_it/3.jpg]
-![скриншот][think_about_it/4.jpg]
-![скриншот][think_about_it/5.jpg]
-![скриншот][think_about_it/6.jpg]
-![скриншот][think_about_it/7.jpg]
+![скриншот][https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/1.jpg]
+![скриншот][https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/2.jpg]
+![скриншот][https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/3.jpg]
+![скриншот][https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/4.jpg]
+![скриншот][https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/5.jpg]
+![скриншот][https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/6.jpg]
+![скриншот][https://raw.githubusercontent.com/InjTeam/avaland-source/master/think_about_it/7.jpg]
 
 
 https://vk.com/club100629296 ([архив](https://web.archive.org/web/20200110034850/https://vk.com/club100629296))
